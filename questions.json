@@ -1,0 +1,84 @@
+{
+  "courses": {
+    "MEDF1012B Health Sciences II": {
+      "byYear": {
+        "2012-13": [
+          "12-13 HSII Q8",
+          "12-13 HSII Q10"
+        ],
+        "2019-20": [
+          "19-20 HSII Q37"
+        ]
+      },
+      "byTopic": {
+        "Lecture 1 & 2 - Electrochemical Signals & Nervous System": [
+          "12-13 HSII Q8",
+          "12-13 HSII Q10",
+          "19-20 HSII Q37"
+        ]
+      }
+    },
+    "MEDU1130 Cells and Tissues": {
+
+    }
+  },
+  "questions": {
+    "12-13 HSII Q8": {
+      "year": "2012-13",
+      "course": "MEDF1012B HSII",
+      "question_number": 8,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 1 & 2 - Electrochemical Signals & Nervous System",
+      "question": "Which of the following is true?",
+      "options": {
+        "A": "Resistance increases with the number of nodes of Ranvier in a nerve fibre.",
+        "B": "Resistance increases with degree of myelination of a nerve fibre.",
+        "C": "Resistance increases with the radius of a nerve fibre.",
+        "D": "Plasma membrane is a good insulator because it offers low resistance to ion movement.",
+        "E": "Plasma membrane is a fairly good insulator because it offers high resistance to ion movement."
+      },
+      "image_question": false,
+      "answer": "E",
+      "explanation": "*Plasma membrane is a fairly good insulator because it offers high resistance to ion movement.*\n\nA. Resistance increases with the number of nodes of Ranvier in a nerve fibre. *Incorrect*\nShould be decreases instead of increases.\nNodes of Ranvier refers to the places at axons where it is not myelinated. \nAt that place, it has the highest concentration of voltage-gated Na<sup>+</sup> and K<sup>+</sup> channels.\n\nB. Resistance increases with degree of myelination of a nerve fibre. *Incorrect*\nShould be decreases instead of increases.\nThis is because myelination will increase the resistance of ion fluxes, thus the depolarizing current can flow with much less effect from K<sup>+</sup> efflux (which dissipates the depolarizing current).\nIn fact, a new action potential can be generated at a further position from the original place for initiation of action potential, hence the velocity of action potential travels faster (lower resistance).\n\nC. Resistance increases with the radius of a nerve fibre. *Incorrect*\nShould be decreases instead of increases. (By Cable property)\nNote that the larger the radius, than the axoplasm will allow lower resistance of the Na<sup>+</sup> depolarizing current to flow along the axon (longitudinally)\n\nD. Plasma membrane is a good insulator because it offers low resistance to ion movement. *Incorrect*\nIt offers high resistance to ion movement. This also hinted that E is the correct option.",
+      "image_explanation": false
+    },
+    "12-13 HSII Q10": {
+      "year": "2012-13",
+      "course": "MEDF1012B HSII",
+      "question_number": 10,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 1 & 2 - Electrochemical Signals & Nervous System",
+      "question": "Which of the following about Na<sup>+</sup>/K<sup>+</sup> ATPase pump is correct?",
+      "options" : {
+        "A": "3 K<sup>+</sup> ions out and 1 Na<sup>+</sup> ion in.",
+        "B": "3 K<sup>+</sup> ions out and 2 Na<sup>+</sup> ions in.",
+        "C": "1 K<sup>+</sup> ion out and 3 Na<sup>+</sup> ions in.",
+        "D": "2 K<sup>+</sup> ions in and 2 Na<sup>+</sup> ions out.",
+        "E": "2 K<sup>+</sup> ions in and 3 Na<sup>+</sup> ions out."
+      },
+      "image_question": false,
+      "answer": "E",
+      "explanation": "*2 K<sup>+</sup> ions in and 3 Na<sup>+</sup> ions out.*\n\nNote that potassium ions will tend to diffuse out of the cell, while sodium ions tend to diffuse in the cell, both using their respective leak channels.\nThe pump uses ATP and helps to maintain the concentration gradient of K<sup>+</sup> and Na<sup>+</sup> across the cell membrane (imbalance charges), i.e. compensating for the loss of intracellular K<sup>+</sup> and extracellular Na<sup>+</sup>.\nAs a result, the resting membrane potential can be maintained.\n\nMechanisms for the Na<sup>+</sup>-K<sup>+</sup> ATPase pump:\n1. 3 Na<sup>+</sup> binds to the intracellular binding site.\n2. This triggers ATP to be hydrolyzed (enzymatic reaction) and the phosphate group binds to the receptor also, inducing a conformational change that eventually shifts the 3 Na<sup>+</sup> to ECF, then released to ECF.\n3. 2 K<sup>+</sup> binds to the extracellular binding site.\n4. This triggers the dephosphorylation of the pump. A conformational change is induced that eventually shifts the 2 K<sup>+</sup> to ICF, then released to ICF.\n",
+      "image_explanation": false
+    },
+    "19-20 HSII Q37": {
+      "year": "2012-13",
+      "course": "MEDF1012B HSII",
+      "question_number": 37,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 1 & 2 - Electrochemical Signals & Nervous System",
+      "question": "The following diagram shows the action potential recorded from a nerve fibre. At which of the following labelled points would there be the smallest driving force on Na<sup>+</sup>?\n\n![](img/19-20%20HSII%20Q37%20question.png)",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "4",
+        "D": "1",
+        "E": "5"
+      },
+      "image_question": true,
+      "answer": "A",
+      "explanation": "*3*\n\nNote that at instant 3, the V<sub>M</sub> is highest (around +30 mV), then the V<sub>M</sub> is closest to E<sub>Na</sub>. Hence the electrochemical driving force on Na<sup>+</sup> is the smallest.\n",
+      "image_explanation": false
+    }
+  }
+}
