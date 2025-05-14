@@ -1,4 +1,5 @@
 const formContainer = document.getElementById("formView");
+const resultContainer = document.getElementById("resultView");
 const questionContainer = document.getElementById("questionView");
 function createSelectCourseForm(courses) {
     const selectCourseForm = document.createElement("form");
@@ -68,7 +69,7 @@ function renderQuestion(question, code, num) {
     div.innerHTML = `
                 <p>${num}. ${code}</p>
                 ${marked.parse(question.question)}
-                <form>
+                <form id="${div.id + "Form"}">
                     ${Object.keys(question.options).map(option => `
                         <input type="radio" id="${"Q"+num+option}" name="${div.id}" value="${option}">
                         <label for="${"Q"+num+option}">${option}. ${marked.parseInline(question.options[option])}</label><br>
@@ -78,10 +79,14 @@ function renderQuestion(question, code, num) {
     return div;
 }
 function renderQuestions(questions, codes) {
-    for (let i = 0; i < codes.length; i++) {
-        questionContainer.appendChild(renderQuestion(questions[codes[i]], codes[i], i+1));
+    for (let i = 1; i <= codes.length; i++) {
+        questionContainer.appendChild(renderQuestion(questions[codes[i-1]], codes[i-1], i));
+        const explanationDiv = document.createElement("div");
+        explanationDiv.id = "Q" + i + "Explanation";
+        questionContainer.appendChild(explanationDiv);
     }
 }
+
 fetch('questions.json')
     .then(response => response.json())
     .then(data => {
@@ -89,6 +94,7 @@ fetch('questions.json')
         const questions = data.questions;
         const selectCourseForm = createSelectCourseForm(courses);
         const selectModeForm = createSelectModeForm();
+        let selectOptionForm;
         const submitFormButton = document.createElement("input");
         submitFormButton.type = "submit";
         submitFormButton.id = "submitFormButton";
@@ -96,8 +102,19 @@ fetch('questions.json')
         const submitQuestionButton = document.createElement("input");
         submitQuestionButton.type = "submit";
         submitQuestionButton.id = "submitQuestionButton";
+        submitQuestionButton.onclick = function() {
+            location.href = "#resultView";
+        };
         submitQuestionButton.value = "Submit";
-        let selectedCourse, selectedMode, codes;
+        // submitQuestionButton.innerHTML = `
+        //     <input type="submit" id="submitQuestionButton" value="Submit">
+        // `;
+        const printButton = document.createElement("button");
+        printButton.type = "button";
+        printButton.id = "printButton";
+        printButton.onclick = function() {window.print()};
+        printButton.innerText = "Print & Save";
+        let selectedCourse, selectedMode, num, codes, marks=0;
         formContainer.appendChild(selectCourseForm);
         selectCourseForm.addEventListener("change", (e) => {
             for (const radio of document.querySelectorAll("input[name='selectCourse']")) {
@@ -118,47 +135,77 @@ fetch('questions.json')
             }
             if (document.getElementById("selectOptionForm"))
                 formContainer.removeChild(document.getElementById("selectOptionForm"));
-            const selectOptionForm = createSelectOptionForm(courses[selectedCourse][selectedMode], selectedMode);
+            selectOptionForm = createSelectOptionForm(courses[selectedCourse][selectedMode], selectedMode);
             formContainer.appendChild(selectOptionForm);
             formContainer.appendChild(submitFormButton);
         });
         submitFormButton.addEventListener("click", (e) => {
+            if (document.getElementById("numErrorMessage")) document.getElementById("numErrorMessage").remove();
             let options = [];
             for (const input of document.querySelectorAll("input[name='selectOption']")) {
                 if (input.checked) options.push(input.value);
             }
             const inputs = document.querySelectorAll("input[name='selectCourse'], input[name='selectMode'], input[name='selectOption']");
             const selectNumInput = document.querySelector("input[id='selectNum']");
-            for (const input of inputs) input.disabled = true;
-            selectNumInput.disabled = true;
-            submitFormButton.disabled = true;
-            codes = generateQuestions(courses[selectedCourse][selectedMode], options, selectNumInput.value);
-            renderQuestions(questions, codes);
-            questionContainer.appendChild(document.createElement("hr"));
-            questionContainer.appendChild(submitQuestionButton);
+            num = selectNumInput.value;
+            codes = generateQuestions(courses[selectedCourse][selectedMode], options, num);
+            if (codes.length < num) {
+                const span = document.createElement("span");
+                span.id = "numErrorMessage";
+                span.style = "color: red";
+                span.innerText = "Required number of questions exceed the amount (n = " + codes.length + ")";
+                selectOptionForm.insertBefore(span, selectNumInput.nextElementSibling);
+            }
+            else {
+                for (const input of inputs) input.disabled = true;
+                selectNumInput.disabled = true;
+                submitFormButton.disabled = true;
+                renderQuestions(questions, codes);
+                questionContainer.appendChild(document.createElement("hr"));
+                const span = document.createElement("span");
+                span.id = "buttons";
+                span.appendChild(submitQuestionButton);
+                span.appendChild(printButton);
+                questionContainer.appendChild(span);
+            }
         });
         submitQuestionButton.addEventListener("click", (e) => {
             for (let i = 0; i < codes.length; i++) {
                 const id = "Q" + (i+1);
                 const div = document.getElementById(id);
+                const explanationDiv = document.getElementById(id+"Explanation");
                 const explanationButton = document.createElement("button");
                 explanationButton.type = "button";
                 explanationButton.className = "collapsible";
                 explanationButton.innerText = "Explanation";
-                const explanationDiv = document.createElement("div");
-                explanationDiv.className = "content";
-                explanationDiv.innerHTML = marked.parse(questions[codes[i]].explanation);
-                div.appendChild(explanationButton);
-                div.appendChild(explanationDiv);
-                if (document.querySelector(`input[name='${id}']:checked`).value ===
-                    questions[codes[i]].answer) {
+                const explanationText = document.createElement("div");
+                explanationText.className = "content";
+                explanationText.innerHTML = marked.parse(questions[codes[i]].explanation);
+                explanationDiv.appendChild(explanationButton);
+                explanationDiv.appendChild(explanationText);
+                makeCollapsible(explanationButton);
+                const query = document.querySelector(`input[name='${id}']:checked`);
+                if (query && query.value === questions[codes[i]].answer) {
                     div.style = "background-color: lightgreen";
-
+                    marks++;
                 }
                 else {
                     div.style = "background-color: lightpink";
+                    const span = document.createElement("span");
+                    const form = document.getElementById(id + "Form");
+                    const correctAns = document.getElementById(id + questions[codes[i]].answer);
+                    span.innerHTML = `&emsp;<i>Correct answer</i>`
+                    span.id = id + "CorrectAns";
+                    form.insertBefore(span, correctAns.nextElementSibling.nextElementSibling);
+                }
+                for (const input of document.querySelectorAll(`input[name='${id}']`)) {
+                    input.disabled = true;
                 }
             }
+            submitQuestionButton.disabled = true;
+            resultContainer.innerHTML = `
+                <h3>Score: ${marks}/${num}</h3>
+            `;
         });
     })
     .catch(error => {
