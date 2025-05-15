@@ -264,7 +264,7 @@ function createMainForm(data) {
             marks = 0;
             renderQuestions(questions, codes);
             questionContainer.appendChild(document.createElement("hr"));
-            setButtons([submitQuestionButton, printButton]);
+            setButtons([submitQuestionButton, printButton, cancelButton]);
             location.href = "#questionView";
         });
         setButtons([redoButton, printButton, restartButton, returnButton]);

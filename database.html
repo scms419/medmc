@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Database</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+</head>
+<body>
+    <div>
+        MedMC:
+        <a href="index.html">Home</a>
+        <a href="form-input.html">Self-check Test</a>
+        <a href="database.html">Database</a>
+    </div>
+    <hr>
+    <div id="bar" style="width: 100%; justify-content: space-evenly; display: flex;">
+        <input type="button" id="prevButton" value="Previous Question" style="width: 150px;">
+        <span style="width: 40%; justify-content: space-evenly; display: flex">
+            <label for="selectQuestion">Question code:</label>
+            <select id="selectQuestion" style="width: 60%"></select>
+        </span>
+        <input type="button" id="nextButton" value="Next Question" style="width: 150px;">
+    </div><br>
+    <div id="information" style="width: 100%; justify-content: space-evenly; display: flex;">
+        <span style="width: 30%; justify-content: space-evenly; display: flex">
+            <label for="selectCourse">Course:</label>
+            <select id="selectCourse" style="width: 60%"></select>
+        </span>
+        <span style="width: 30%; justify-content: space-evenly; display: flex">
+            <label for="selectTopic">Topic:</label>
+            <select id="selectTopic" style="width: 60%"></select>
+        </span>
+        <span style="width: 10%; justify-content: space-evenly; display: flex">
+            <label for="questionId">ID:</label>
+            <input type="text" id="questionId" style="width: 60%">
+        </span>
+        <span style="width: 10%; justify-content: space-evenly; display: flex">
+            <label for="questionYear">Year:</label>
+            <input type="text" id="questionYear" style="width: 30%">
+        </span>
+        <span style="width: 10%; justify-content: space-evenly; display: flex">
+            <label for="questionNumber">No.:</label>
+            <input type="number" id="questionNumber" style="width: 30%">
+        </span>
+    </div><br>
+    <div id="questionEditor">
+        <label for="question">Question:</label>
+        <textarea id="question"></textarea>
+    </div>
+    <div id="optionEditor"></div>
+    <div id="explanationEditor"></div>
+    <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
+    <script>
+        function createMDE(id) {
+            const editor = new EasyMDE({
+                element: document.getElementById(id),
+                sideBySideFullscreen: false,
+                toolbar: [
+                    "bold",
+                    "italic",
+                    {
+                        name: "underline",
+                        className: "fa fa-underline"
+                    },
+                    "strikethrough",
+                    {
+                        name: "subscript",
+                        className: "fa fa-subscript"
+                    },
+                    {
+                        name: "superscript",
+                        className: "fa fa-superscript"
+                    },
+                    "|",
+                    "heading-1",
+                    "heading-2",
+                    "heading-3",
+                    "|",
+                    "unordered-list",
+                    "ordered-list",
+                    "|",
+                    "upload-image",
+                    "table"
+                ]
+            });
+            editor.toggleSideBySide();
+            return editor;
+        }
+        const questionEditor = createMDE("question");
+
+    </script>
+</body>
+</html>
