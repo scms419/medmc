@@ -46,7 +46,7 @@ function createSelectCourseForm(courses) {
         ${Object.keys(courses).map(level => `
             <u>${level}</u><br>
             ${Object.keys(courses[level]).map(course => `
-                <input type="radio" id="${course}" name="selectCourse" value="${course}">
+                <input type="radio" id="${course}" name="selectCourse" value="${course}" class="${level}">
                 <label for="${course}">${course}</label><br>
             `).join('')}   
         `).join('')}
@@ -142,135 +142,133 @@ function setButtons(buttons) {
     buttonsSpan.innerHTML = "";
     for (const button of buttons) buttonsSpan.appendChild(button);
 }
-
-fetch('questions.json')
-    .then(response => response.json())
-    .then(data => {
-        if (!validateJSON(data)) {
-            alert("JSON file not valid");
-            location.href = "index.html";
+function createMainForm(data) {
+    if (!validateJSON(data)) {
+        alert("JSON file not valid");
+        location.href = "index.html";
+    }
+    const courses = data.courses;
+    const questions = data.questions;
+    const selectCourseForm = createSelectCourseForm(courses);
+    const selectModeForm = createSelectModeForm();
+    let selectOptionForm;
+    const submitFormButton = createInputButton("submitFormButton", "Submit");
+    const submitQuestionButton = createInputButton("submitQuestionButton", "Submit",
+        function() {location.href = "#resultView";});
+    const printButton = createInputButton("printButton", "Print & Save",
+        function() {window.print();});
+    let redoButton;
+    const restartButton = createInputButton("restartButton", "Restart", function() {
+        location.href = "index.html";
+        location.href = "form.html";
+    });
+    const cancelButton = createInputButton("cancelButton", "Cancel",
+        function() {location.href = "index.html";});
+    const returnButton = createInputButton("returnButton", "Return to Homepage",
+        function() {location.href = "index.html";});
+    setButtons([cancelButton]);
+    let selectedLevel, selectedCourse, selectedMode, num, codes, marks=0;
+    formContainer.appendChild(selectCourseForm);
+    selectCourseForm.addEventListener("change", (e) => {
+        for (const radio of document.querySelectorAll("input[name='selectCourse']")) {
+            if (radio.checked) {
+                selectedLevel = radio.className;
+                selectedCourse = radio.value;
+            }
         }
-        const courses = data.courses;
-        const questions = data.questions;
-        const selectCourseForm = createSelectCourseForm(courses);
-        const selectModeForm = createSelectModeForm();
-        let selectOptionForm;
-        const submitFormButton = createInputButton("submitFormButton", "Submit");
-        const submitQuestionButton = createInputButton("submitQuestionButton", "Submit",
-            function() {location.href = "#resultView";});
-        const printButton = createInputButton("printButton", "Print & Save",
-            function() {window.print();});
-        let redoButton;
-        const restartButton = createInputButton("restartButton", "Restart", function() {
-            location.href = "index.html";
-            location.href = "form.html";
-        });
-        const cancelButton = createInputButton("cancelButton", "Cancel",
-            function() {location.href = "index.html";});
-        const returnButton = createInputButton("returnButton", "Return to Homepage",
-            function() {location.href = "index.html";});
-        setButtons([cancelButton]);
-        let selectedCourse, selectedMode, num, codes, marks=0;
-        formContainer.appendChild(selectCourseForm);
-        selectCourseForm.addEventListener("change", (e) => {
-            for (const radio of document.querySelectorAll("input[name='selectCourse']")) {
-                if (radio.checked) selectedCourse = radio.value;
-            }
-            for (const radio of document.querySelectorAll("input[name='selectMode']")) {
-                if (radio.checked) radio.checked = false;
-            }
-            if (document.getElementById("selectOptionForm"))
-                formContainer.removeChild(document.getElementById("selectOptionForm"));
-            if (document.getElementById("submitFormButton"))
-                formContainer.removeChild(submitFormButton);
-            formContainer.appendChild(selectModeForm);
-        });
-        selectModeForm.addEventListener("change", (e) => {
-            for (const radio of document.querySelectorAll("input[name='selectMode']")) {
-                if (radio.checked) selectedMode = radio.value;
-            }
-            if (document.getElementById("selectOptionForm"))
-                formContainer.removeChild(document.getElementById("selectOptionForm"));
-            selectOptionForm = createSelectOptionForm(courses[selectedCourse][selectedMode], selectedMode);
-            formContainer.appendChild(selectOptionForm);
-            formContainer.appendChild(submitFormButton);
-        });
-        submitFormButton.addEventListener("click", (e) => {
-            if (document.getElementById("numErrorMessage")) document.getElementById("numErrorMessage").remove();
-            let options = [];
-            for (const input of document.querySelectorAll("input[name='selectOption']")) {
-                if (input.checked) options.push(input.value);
-            }
-            const inputs = document.querySelectorAll("input[name='selectCourse'], input[name='selectMode'], input[name='selectOption']");
-            const selectNumInput = document.querySelector("input[id='selectNum']");
-            num = selectNumInput.value;
-            codes = generateQuestions(courses[selectedCourse][selectedMode], options, num);
-            if (codes.length < num) {
-                const span = document.createElement("span");
-                span.id = "numErrorMessage";
-                span.style = "color: red";
-                span.innerText = "Required number of questions exceed the amount (n = " + codes.length + ")";
-                selectOptionForm.insertBefore(span, selectNumInput.nextElementSibling);
+        for (const radio of document.querySelectorAll("input[name='selectMode']")) {
+            if (radio.checked) radio.checked = false;
+        }
+        if (document.getElementById("selectOptionForm"))
+            formContainer.removeChild(document.getElementById("selectOptionForm"));
+        if (document.getElementById("submitFormButton"))
+            formContainer.removeChild(submitFormButton);
+        formContainer.appendChild(selectModeForm);
+    });
+    selectModeForm.addEventListener("change", (e) => {
+        for (const radio of document.querySelectorAll("input[name='selectMode']")) {
+            if (radio.checked) selectedMode = radio.value;
+        }
+        if (document.getElementById("selectOptionForm"))
+            formContainer.removeChild(document.getElementById("selectOptionForm"));
+        selectOptionForm = createSelectOptionForm(courses[selectedLevel][selectedCourse][selectedMode], selectedMode);
+        formContainer.appendChild(selectOptionForm);
+        setButtons([submitFormButton, cancelButton]);
+    });
+    submitFormButton.addEventListener("click", (e) => {
+        if (document.getElementById("numErrorMessage")) document.getElementById("numErrorMessage").remove();
+        let options = [];
+        for (const input of document.querySelectorAll("input[name='selectOption']")) {
+            if (input.checked) options.push(input.value);
+        }
+        const inputs = document.querySelectorAll("input[name='selectCourse'], input[name='selectMode'], input[name='selectOption']");
+        const selectNumInput = document.querySelector("input[id='selectNum']");
+        num = selectNumInput.value;
+        codes = generateQuestions(courses[selectedLevel][selectedCourse][selectedMode], options, num);
+        if (codes.length < num) {
+            const span = document.createElement("span");
+            span.id = "numErrorMessage";
+            span.style = "color: red";
+            span.innerText = "Required number of questions exceed the amount (n = " + codes.length + ")";
+            selectOptionForm.insertBefore(span, selectNumInput.nextElementSibling);
+        }
+        else {
+            for (const input of inputs) input.disabled = true;
+            selectNumInput.disabled = true;
+            questionContainer.appendChild(document.createElement("hr"));
+            renderQuestions(questions, codes);
+            questionContainer.appendChild(document.createElement("hr"));
+            setButtons([submitQuestionButton, printButton, cancelButton]);
+        }
+    });
+    submitQuestionButton.addEventListener("click", (e) => {
+        for (let i = 0; i < codes.length; i++) {
+            const id = "Q" + (i+1);
+            const div = document.getElementById(id);
+            const explanationDiv = document.getElementById(id+"Explanation");
+            const explanationButton = document.createElement("button");
+            explanationButton.type = "button";
+            explanationButton.className = "collapsible";
+            explanationButton.innerText = "Explanation";
+            const explanationText = document.createElement("div");
+            explanationText.className = "content";
+            explanationText.innerHTML = marked.parse(questions[codes[i]].explanation);
+            explanationDiv.appendChild(explanationButton);
+            explanationDiv.appendChild(explanationText);
+            makeCollapsible(explanationButton);
+            const query = document.querySelector(`input[name='${id}']:checked`);
+            if (query && query.value === questions[codes[i]].answer) {
+                div.style = "background-color: lightgreen";
+                marks++;
             }
             else {
-                for (const input of inputs) input.disabled = true;
-                selectNumInput.disabled = true;
-                submitFormButton.disabled = true;
-                renderQuestions(questions, codes);
-                questionContainer.appendChild(document.createElement("hr"));
-                setButtons([submitQuestionButton, printButton, cancelButton]);
+                div.style = "background-color: lightpink";
+                const span = document.createElement("span");
+                const form = document.getElementById(id + "Form");
+                const correctAns = document.getElementById(id + questions[codes[i]].answer);
+                span.innerHTML = `&emsp;<i>Correct answer</i>`
+                span.id = id + "CorrectAns";
+                form.insertBefore(span, correctAns.nextElementSibling.nextElementSibling);
             }
-        });
-        submitQuestionButton.addEventListener("click", (e) => {
-            for (let i = 0; i < codes.length; i++) {
-                const id = "Q" + (i+1);
-                const div = document.getElementById(id);
-                const explanationDiv = document.getElementById(id+"Explanation");
-                const explanationButton = document.createElement("button");
-                explanationButton.type = "button";
-                explanationButton.className = "collapsible";
-                explanationButton.innerText = "Explanation";
-                const explanationText = document.createElement("div");
-                explanationText.className = "content";
-                explanationText.innerHTML = marked.parse(questions[codes[i]].explanation);
-                explanationDiv.appendChild(explanationButton);
-                explanationDiv.appendChild(explanationText);
-                makeCollapsible(explanationButton);
-                const query = document.querySelector(`input[name='${id}']:checked`);
-                if (query && query.value === questions[codes[i]].answer) {
-                    div.style = "background-color: lightgreen";
-                    marks++;
-                }
-                else {
-                    div.style = "background-color: lightpink";
-                    const span = document.createElement("span");
-                    const form = document.getElementById(id + "Form");
-                    const correctAns = document.getElementById(id + questions[codes[i]].answer);
-                    span.innerHTML = `&emsp;<i>Correct answer</i>`
-                    span.id = id + "CorrectAns";
-                    form.insertBefore(span, correctAns.nextElementSibling.nextElementSibling);
-                }
-                for (const input of document.querySelectorAll(`input[name='${id}']`)) {
-                    input.disabled = true;
-                }
+            for (const input of document.querySelectorAll(`input[name='${id}']`)) {
+                input.disabled = true;
             }
-            resultContainer.innerHTML = `
+        }
+        resultContainer.innerHTML = `
                 <h3>Score: ${marks}/${num}</h3>
             `;
-            redoButton = createInputButton("redoButton", "Redo", function() {
-                resultContainer.innerHTML = "";
-                questionContainer.innerHTML = "";
-                codes = shuffle(codes);
-                marks = 0;
-                renderQuestions(questions, codes);
-                questionContainer.appendChild(document.createElement("hr"));
-                setButtons([submitQuestionButton, printButton]);
-                location.href = "#questionView";
-            });
-            setButtons([redoButton, printButton, restartButton, returnButton]);
+        redoButton = createInputButton("redoButton", "Redo", function() {
+            resultContainer.innerHTML = "";
+            questionContainer.innerHTML = "";
+            codes = shuffle(codes);
+            marks = 0;
+            renderQuestions(questions, codes);
+            questionContainer.appendChild(document.createElement("hr"));
+            setButtons([submitQuestionButton, printButton]);
+            location.href = "#questionView";
         });
-    })
-    .catch(error => {
-        console.error("Error loading JSON data: ", error);
-        formContainer.innerHTML = "<h1>Error Loading JSON data</h1>";
+        setButtons([redoButton, printButton, restartButton, returnButton]);
     });
+}
+
+createMainForm(JSON.parse(localStorage.getItem("data")));
