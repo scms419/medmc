@@ -3,6 +3,41 @@ const resultContainer = document.getElementById("resultView");
 const questionContainer = document.getElementById("questionView");
 const buttonsSpan = document.getElementById("buttons");
 
+function keysValid(obj, arr) {
+    const keys = Object.keys(obj);
+    if (keys.length !== arr.length) return false;
+    for (let i in keys) {
+        if (keys[i] !== arr[i]) return false;
+    }
+    return true;
+}
+function validateJSON(data) {
+    if (!keysValid(data, ["courses", "questions"])) return false;
+    for (const level of Object.keys(data.courses)) {
+        for (const course of Object.keys(data.courses[level])) {
+            const obj = data.courses[level][course];
+            if (!keysValid(obj, ["byYear", "byTopic"])) return false;
+            for (const year of Object.keys(obj.byYear)) {
+                if (obj.byYear[year].length === 0) return false;
+                for (const code of obj.byYear[year]) {
+                    if (!Object.keys(data.questions).includes(code)) return false;
+                }
+            }
+            for (const topic of Object.keys(obj.byTopic)) {
+                if (obj.byTopic[topic].length === 0) return false;
+                for (const code of obj.byTopic[topic]) {
+                    if (!Object.keys(data.questions).includes(code)) return false;
+                }
+            }
+        }
+    }
+    for (const question of Object.keys(data.questions)) {
+        if (!keysValid(data.questions[question],
+            ["year", "course", "question_number", "level", "topic", "question", "options", "answer", "explanation"]))
+            return false;
+    }
+    return true;
+}
 function createSelectCourseForm(courses) {
     const selectCourseForm = document.createElement("form");
     selectCourseForm.id = "selectCourseForm";
@@ -111,6 +146,10 @@ function setButtons(buttons) {
 fetch('questions.json')
     .then(response => response.json())
     .then(data => {
+        if (!validateJSON(data)) {
+            alert("JSON file not valid");
+            location.href = "index.html";
+        }
         const courses = data.courses;
         const questions = data.questions;
         const selectCourseForm = createSelectCourseForm(courses);
