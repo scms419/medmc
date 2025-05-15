@@ -1,5 +1,6 @@
 const container = document.getElementById("questionView");
 let style = document.createElement("style");
+style.id = "collapsibleStyle";
 style.innerHTML = `
     .collapsible {
         background-color: #777;
@@ -24,9 +25,10 @@ style.innerHTML = `
         background-color: #f1f1f11;
     }
 `;
-container.appendChild(style);
 
 function makeCollapsible(button) {
+    if (!document.getElementById("collapsibleStyle"))
+        container.appendChild(style);
     button.addEventListener("click", function() {
         this.classList.toggle("active");
         let content = this.nextElementSibling;

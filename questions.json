@@ -1,25 +1,32 @@
 {
   "courses": {
-    "MEDF1012B Health Sciences II": {
-      "byYear": {
-        "2012-13": [
-          "12-13 HSII Q8",
-          "12-13 HSII Q10"
-        ],
-        "2019-20": [
-          "19-20 HSII Q37"
-        ]
+    "Year 1 Sem 2": {
+      "MEDF1012B Health Sciences II": {
+        "byYear": {
+          "2012-13": [
+            "12-13 HSII Q8",
+            "12-13 HSII Q10"
+          ],
+          "2019-20": [
+            "19-20 HSII Q37"
+          ]
+        },
+        "byTopic": {
+          "Lecture 1 & 2 - Electrochemical Signals & Nervous System": [
+            "12-13 HSII Q8",
+            "12-13 HSII Q10",
+            "19-20 HSII Q37"
+          ]
+        }
       },
-      "byTopic": {
-        "Lecture 1 & 2 - Electrochemical Signals & Nervous System": [
-          "12-13 HSII Q8",
-          "12-13 HSII Q10",
-          "19-20 HSII Q37"
-        ]
-      }
-    },
-    "MEDU1130 Cells and Tissues": {
+      "MEDU1130 Cells and Tissues": {
+        "byYear": {
 
+        },
+        "byTopic": {
+
+        }
+      }
     }
   },
   "questions": {

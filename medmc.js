@@ -1,17 +1,26 @@
 const formContainer = document.getElementById("formView");
 const resultContainer = document.getElementById("resultView");
 const questionContainer = document.getElementById("questionView");
+const buttonsSpan = document.getElementById("buttons");
+
 function createSelectCourseForm(courses) {
     const selectCourseForm = document.createElement("form");
     selectCourseForm.id = "selectCourseForm";
     selectCourseForm.innerHTML = `
-                <h3>Select course:</h3>
-                ${Object.keys(courses).map(course => `
-                    <input type="radio" id="${course}" name="selectCourse" value="${course}">
-                    <label for="${course}">${course}</label><br>
-                `).join('')}
-                <hr>
-            `;
+        <h3>Select course:</h3>
+        ${Object.keys(courses).map(level => `
+            <u>${level}</u><br>
+            ${Object.keys(courses[level]).map(course => `
+                <input type="radio" id="${course}" name="selectCourse" value="${course}">
+                <label for="${course}">${course}</label><br>
+            `).join('')}   
+        `).join('')}
+        <hr>
+    `;
+    // ${Object.keys(courses).map(course => `
+    //     <input type="radio" id="${course}" name="selectCourse" value="${course}">
+    //     <label for="${course}">${course}</label><br>
+    // `).join('')}
     return selectCourseForm;
 }
 function createSelectModeForm() {
@@ -86,6 +95,18 @@ function renderQuestions(questions, codes) {
         questionContainer.appendChild(explanationDiv);
     }
 }
+function createInputButton(id, value, func=null) {
+    const button = document.createElement("input");
+    button.type = "button";
+    button.id = id;
+    button.value = value;
+    button.onclick = func;
+    return button;
+}
+function setButtons(buttons) {
+    buttonsSpan.innerHTML = "";
+    for (const button of buttons) buttonsSpan.appendChild(button);
+}
 
 fetch('questions.json')
     .then(response => response.json())
@@ -95,25 +116,21 @@ fetch('questions.json')
         const selectCourseForm = createSelectCourseForm(courses);
         const selectModeForm = createSelectModeForm();
         let selectOptionForm;
-        const submitFormButton = document.createElement("input");
-        submitFormButton.type = "submit";
-        submitFormButton.id = "submitFormButton";
-        submitFormButton.value = "Submit";
-        const submitQuestionButton = document.createElement("input");
-        submitQuestionButton.type = "submit";
-        submitQuestionButton.id = "submitQuestionButton";
-        submitQuestionButton.onclick = function() {
-            location.href = "#resultView";
-        };
-        submitQuestionButton.value = "Submit";
-        // submitQuestionButton.innerHTML = `
-        //     <input type="submit" id="submitQuestionButton" value="Submit">
-        // `;
-        const printButton = document.createElement("button");
-        printButton.type = "button";
-        printButton.id = "printButton";
-        printButton.onclick = function() {window.print()};
-        printButton.innerText = "Print & Save";
+        const submitFormButton = createInputButton("submitFormButton", "Submit");
+        const submitQuestionButton = createInputButton("submitQuestionButton", "Submit",
+            function() {location.href = "#resultView";});
+        const printButton = createInputButton("printButton", "Print & Save",
+            function() {window.print();});
+        let redoButton;
+        const restartButton = createInputButton("restartButton", "Restart", function() {
+            location.href = "index.html";
+            location.href = "form.html";
+        });
+        const cancelButton = createInputButton("cancelButton", "Cancel",
+            function() {location.href = "index.html";});
+        const returnButton = createInputButton("returnButton", "Return to Homepage",
+            function() {location.href = "index.html";});
+        setButtons([cancelButton]);
         let selectedCourse, selectedMode, num, codes, marks=0;
         formContainer.appendChild(selectCourseForm);
         selectCourseForm.addEventListener("change", (e) => {
@@ -162,11 +179,7 @@ fetch('questions.json')
                 submitFormButton.disabled = true;
                 renderQuestions(questions, codes);
                 questionContainer.appendChild(document.createElement("hr"));
-                const span = document.createElement("span");
-                span.id = "buttons";
-                span.appendChild(submitQuestionButton);
-                span.appendChild(printButton);
-                questionContainer.appendChild(span);
+                setButtons([submitQuestionButton, printButton, cancelButton]);
             }
         });
         submitQuestionButton.addEventListener("click", (e) => {
@@ -202,10 +215,20 @@ fetch('questions.json')
                     input.disabled = true;
                 }
             }
-            submitQuestionButton.disabled = true;
             resultContainer.innerHTML = `
                 <h3>Score: ${marks}/${num}</h3>
             `;
+            redoButton = createInputButton("redoButton", "Redo", function() {
+                resultContainer.innerHTML = "";
+                questionContainer.innerHTML = "";
+                codes = shuffle(codes);
+                marks = 0;
+                renderQuestions(questions, codes);
+                questionContainer.appendChild(document.createElement("hr"));
+                setButtons([submitQuestionButton, printButton]);
+                location.href = "#questionView";
+            });
+            setButtons([redoButton, printButton, restartButton, returnButton]);
         });
     })
     .catch(error => {
