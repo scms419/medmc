@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Database</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+    <link rel="stylesheet" href="mde-config.css">
 </head>
 <body>
     <div>
@@ -50,26 +51,34 @@
     <div id="optionEditor"></div>
     <div id="explanationEditor"></div>
     <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
+    <script src="mde-config.js"></script>
     <script>
-        function createMDE(id) {
+        function createMDE(id, sideBySide, horizontal=true) {
             const editor = new EasyMDE({
                 element: document.getElementById(id),
                 sideBySideFullscreen: false,
+                minHeight: (sideBySide && !horizontal) ? "31.4px" : "300px",
                 toolbar: [
                     "bold",
                     "italic",
                     {
                         name: "underline",
-                        className: "fa fa-underline"
+                        className: "fa fa-underline",
+                        action: toggleUnderline,
+                        title: "Underline (Ctrl-U)",
                     },
                     "strikethrough",
                     {
                         name: "subscript",
-                        className: "fa fa-subscript"
+                        className: "fa fa-subscript",
+                        action: toggleSubscript,
+                        title: "Subscript (Ctrl-Shift-_)"
                     },
                     {
                         name: "superscript",
-                        className: "fa fa-superscript"
+                        className: "fa fa-superscript",
+                        action: toggleSuperscript,
+                        title: "Superscript (Ctrl-Shift-+)"
                     },
                     "|",
                     "heading-1",
@@ -80,13 +89,35 @@
                     "ordered-list",
                     "|",
                     "upload-image",
-                    "table"
+                    "table",
+                    "|",
+                    {
+                        name: "undo",
+                        className: "fa fa-undo",
+                        action: EasyMDE.undo,
+                        title: "Undo (Ctrl-Z)"
+                    },
+                    {
+                        name: "redo",
+                        className: "fa fa-repeat fa-redo",
+                        action: EasyMDE.redo,
+                        title: "Redo (Ctrl-Y)"
+                    }
                 ]
             });
-            editor.toggleSideBySide();
+            if (sideBySide) {
+                horizontal ? editor.toggleSideBySide() : editor.toggleSideBySideV();
+            }
+            const originalKeys = editor.codemirror.getOption("extraKeys") || {};
+            editor.codemirror.setOption("extraKeys", {
+                ...originalKeys,
+                "Ctrl-U": (cm) => toggleUnderline(editor),
+                "Shift-Ctrl--": (cm) => toggleSubscript(editor),
+                "Shift-Ctrl-=": (cm) => toggleSuperscript(editor)
+            });
             return editor;
         }
-        const questionEditor = createMDE("question");
+        const questionEditor = createMDE("question", true);
 
     </script>
 </body>
