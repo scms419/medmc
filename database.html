@@ -85,8 +85,49 @@
                     "heading-2",
                     "heading-3",
                     "|",
-                    "unordered-list",
-                    "ordered-list",
+                    {
+                        name: "unordered-list",
+                        className: "fa fa-list-ul",
+                        action: toggleUnorderedList,
+                        title: "Unordered list"
+                    },
+                    {
+                        name: "ordered-list",
+                        className: "fa fa-list-ol",
+                        title: "Ordered list",
+                        children: [
+                            {
+                                name: "numbered-list",
+                                icon: "1",
+                                action: toggleOrderedList_number,
+                                title: "Numbered list"
+                            },
+                            {
+                                name: "capital-lettered-list",
+                                icon: "A",
+                                action: toggleOrderedList_capitalLetter,
+                                title: "Capital-lettered list"
+                            },
+                            {
+                                name: "small-lettered-list",
+                                icon: "a",
+                                action: toggleOrderedList_smallLetter,
+                                title: "Small-lettered list"
+                            },
+                            {
+                                name: "capital-roman-numeral-list",
+                                icon: "I",
+                                action: toggleOrderedList_capitalRoman,
+                                title: "Capital-roman-numeral list"
+                            },
+                            {
+                                name: "small-roman-numeral-list",
+                                icon: "i",
+                                action: toggleOrderedList_smallRoman,
+                                title: "Small-roman-numeral list"
+                            }
+                        ]
+                    },
                     "|",
                     "upload-image",
                     "table",
@@ -103,7 +144,11 @@
                         action: EasyMDE.redo,
                         title: "Redo (Ctrl-Y)"
                     }
-                ]
+                ],
+                shortcuts: {
+                    "toggleUnorderedList": null,
+                    "toggleOrderedList": null
+                }
             });
             if (sideBySide) {
                 horizontal ? editor.toggleSideBySide() : editor.toggleSideBySideV();
@@ -115,10 +160,27 @@
                 "Shift-Ctrl--": (cm) => toggleSubscript(editor),
                 "Shift-Ctrl-=": (cm) => toggleSuperscript(editor)
             });
+            let cm = editor.codemirror;
+            cm.on("cursorActivity", function () {
+                var startPoint = cm.getCursor('start');
+                var endPoint = cm.getCursor('end');
+                var text = cm.getLine(startPoint.line);
+                if (isPatterned(text, startPoint.ch, endPoint.ch, "u"))
+                    document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.underline`).classList.add("active");
+                else
+                    document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.underline`).classList.remove("active");
+                if (isPatterned(text, startPoint.ch, endPoint.ch, "sub"))
+                    document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.subscript`).classList.add("active");
+                else
+                    document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.subscript`).classList.remove("active");
+                if (isPatterned(text, startPoint.ch, endPoint.ch, "sup"))
+                    document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.superscript`).classList.add("active");
+                else
+                    document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.superscript`).classList.remove("active");
+            })
             return editor;
         }
         const questionEditor = createMDE("question", true);
-
     </script>
 </body>
 </html>
