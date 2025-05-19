@@ -1,3 +1,257 @@
+const katexOptions = {
+    throwOnError: false
+};
+const customOrderedList = {
+    name: "customOrderedList",
+    level: "block",
+    start(src) {
+        return src.match(/(?:^|\n)(\s*)(\d+\.|[A-Za-z]+\.|[iIvVxX]+\.)(\s+)/)?.index;
+    },
+    tokenizer(src, tokens) {
+        const rule = /^([^\S\r\n]*)(\d+|[A-Za-z]+|[iIvVxX]+)(\.)(\s+)(.*)/;
+        const match = rule.exec(src);
+        let style;
+        if (match) {
+            if (/\d+/.test(match[2])) style = "1";
+            else if (/[IVX]+/.test(match[2])) style = "I";
+            else if (/[ivx]+/.test(match[2])) style = "i";
+            else if (/[A-Z]+/.test(match[2])) style = "A";
+            else if (/[a-z]+/.test(match[2])) style = "a";
+            const items = [];
+            let remainingSrc = src;
+            let prevIndent = match[1].length;
+            while (remainingSrc) {
+                const itemMatch = rule.exec(remainingSrc);
+                if (!itemMatch || itemMatch[1].length !== prevIndent) break;
+                let itemStyle;
+                if (/\d+/.test(itemMatch[2])) itemStyle = "1";
+                else if (/[IVX]+/.test(itemMatch[2])) itemStyle = "I";
+                else if (/[ivx]+/.test(itemMatch[2])) itemStyle = "i";
+                else if (/[A-Z]+/.test(itemMatch[2])) itemStyle = "A";
+                else if (/[a-z]+/.test(itemMatch[2])) itemStyle = "a";
+                else break;
+                if (itemStyle !== style) break;
+                const itemText = itemMatch[5].trim();
+                const itemTokens = [];
+                this.lexer.inlineTokens(itemText, itemTokens);
+                items.push({
+                    type: "customOrderedListItem",
+                    raw: itemMatch[0],
+                    tokens: itemTokens
+                });
+                remainingSrc = remainingSrc.slice(itemMatch.index + itemMatch[0].length + 1);
+            }
+            const token = {
+                type: "customOrderedList",
+                raw: src.slice(0, src.length - remainingSrc.length),
+                style: style,
+                items: items
+            };
+            return token;
+        }
+    },
+    renderer(token) {
+        const listItems = token.items.map(item =>
+            `<li>${this.parser.parseInline(item.tokens)}</li>`
+        ).join('\n');
+        return `<ol type="${token.style}">\n${listItems}\n</ol>\n`;
+    },
+    childTokens: ["items"]
+};
+const previewImageRenderer = {
+    image({href, title, text, tokens}) {
+        if (tokens) text = this.parser.parseInline(tokens, this.parser.textRenderer);
+        let src = href.slice(href.lastIndexOf("/")+1);
+        let dataURL = "data:image/png;base64," + localStorage.getItem(src);
+        return `
+            <img src="${dataURL}" alt="${text}" title="${title || ""}">
+        `;
+    }
+};
+
+marked.use({ breaks: true });
+marked.use(markedKatex(katexOptions));
+marked.use({ extensions: [customOrderedList] });
+marked.use({ renderer: previewImageRenderer });
+
+function createMDE(id, sideBySide, horizontal=true) {
+    const editor = new EasyMDE({
+        element: document.getElementById(id),
+        sideBySideFullscreen: false,
+        minHeight: (sideBySide && !horizontal) ? "31.4px" : "300px",
+        previewRender: (plainText) => marked.parse(plainText),
+        uploadImage: true,
+        toolbar: [
+            "bold",
+            "italic",
+            {
+                name: "underline",
+                className: "fa fa-underline",
+                action: toggleUnderline,
+                title: "Underline (Ctrl-U)",
+            },
+            "strikethrough",
+            {
+                name: "subscript",
+                className: "fa fa-subscript",
+                action: toggleSubscript,
+                title: "Subscript (Ctrl-Shift-_)"
+            },
+            {
+                name: "superscript",
+                className: "fa fa-superscript",
+                action: toggleSuperscript,
+                title: "Superscript (Ctrl-Shift-+)"
+            },
+            "|",
+            "heading-1",
+            "heading-2",
+            "heading-3",
+            "|",
+            {
+                name: "unordered-list",
+                className: "fa fa-list-ul",
+                action: toggleUnorderedList,
+                title: "Unordered list"
+            },
+            {
+                name: "ordered-list",
+                className: "fa fa-list-ol",
+                title: "Ordered list",
+                children: [
+                    {
+                        name: "numbered-list",
+                        action: toggleOrderedList_number,
+                        title: "Numbered list"
+                    },
+                    {
+                        name: "capital-lettered-list",
+                        action: toggleOrderedList_capitalLetter,
+                        title: "Capital-lettered list"
+                    },
+                    {
+                        name: "small-lettered-list",
+                        action: toggleOrderedList_smallLetter,
+                        title: "Small-lettered list"
+                    },
+                    {
+                        name: "capital-roman-numeral-list",
+                        action: toggleOrderedList_capitalRoman,
+                        title: "Capital-roman-numeral list"
+                    },
+                    {
+                        name: "small-roman-numeral-list",
+                        action: toggleOrderedList_smallRoman,
+                        title: "Small-roman-numeral list"
+                    }
+                ]
+            },
+            "|",
+            {
+                name: "upload-image",
+                className: "fa fa-image",
+                action: uploadImage,
+                title: "Upload image"
+            },
+            "table",
+            {
+                name: "katex",
+                className: "fa fa-square-root-variable",
+                action: toggleKatex,
+                title: "KaTeX"
+            },
+            "|",
+            {
+                name: "undo",
+                className: "fa fa-undo",
+                action: EasyMDE.undo,
+                title: "Undo (Ctrl-Z)"
+            },
+            {
+                name: "redo",
+                className: "fa fa-repeat fa-redo",
+                action: EasyMDE.redo,
+                title: "Redo (Ctrl-Y)"
+            }
+        ],
+        shortcuts: {
+            "toggleUnorderedList": null,
+            "toggleOrderedList": null
+        },
+        insertTexts: {
+            table: ["", "\n| Column 1 | Column 2 | Column 3 |\n| -------- | -------- | -------- |\n| Text     | Text      | Text     |\n"]
+        },
+    });
+    if (sideBySide) {
+        horizontal ? editor.toggleSideBySide() : editor.toggleSideBySideV();
+    }
+    const originalKeys = editor.codemirror.getOption("extraKeys") || {};
+    editor.codemirror.setOption("extraKeys", {
+        ...originalKeys,
+        "Ctrl-U": (cm) => toggleUnderline(editor),
+        "Shift-Ctrl--": (cm) => toggleSubscript(editor),
+        "Shift-Ctrl-=": (cm) => toggleSuperscript(editor),
+        "Enter": (cm) => newLineAndContinueList(editor)
+    });
+    let cm = editor.codemirror;
+    cm.on("cursorActivity", function () {
+        var startPoint = cm.getCursor('start');
+        var endPoint = cm.getCursor('end');
+        var text = cm.getLine(startPoint.line);
+        if (isPatterned(text, startPoint.ch, endPoint.ch, "<u>", "</u>"))
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.underline`).classList.add("active");
+        else
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.underline`).classList.remove("active");
+        if (isPatterned(text, startPoint.ch, endPoint.ch, "<sub>", "</sub>"))
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.subscript`).classList.add("active");
+        else
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.subscript`).classList.remove("active");
+        if (isPatterned(text, startPoint.ch, endPoint.ch, "<sup>", "</sup>"))
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.superscript`).classList.add("active");
+        else
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.superscript`).classList.remove("active");
+        if (isPatterned(text, startPoint.ch, endPoint.ch, "$"))
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.katex`).classList.add("active");
+        else
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.katex`).classList.remove("active");
+        if (/^(\s*)(\d+\.|[A-Za-z]+\.|[iIvVxX]+\.)(\s+)/.test(text))
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.ordered-list`).classList.add("active");
+        else
+            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.ordered-list`).classList.remove("active");
+    })
+    const map = ["numbered-list", "capital-lettered-list", "small-lettered-list", "capital-roman-numeral-list", "small-roman-numeral-list"];
+    for (let name of map) {
+        document.querySelector(`.${name}`).innerHTML = `<img src="icon/${name}.png" width="20" height="20">`
+    }
+    return editor;
+}
+
+function intToRoman(n) {
+    const romanValues = {
+        X: 10, IX: 9, V: 5, IV: 4, I: 1
+    }
+    let str = "";
+    for (let key in romanValues) {
+        while (n >= romanValues[key]) {
+            str += key;
+            n -= romanValues[key];
+        }
+    }
+    return str;
+}
+
+function romanToInt(str) {
+    const romanValues = {
+        X: 10, IX: 9, V: 5, IV: 4, I: 1
+    }
+    let n=0;
+    for (let i = 0; i < str.length; i++) {
+        if (i+1 < str.length && romanValues[str[i+1]] > romanValues[str[i]]) n -= romanValues[str[i]];
+        else n += romanValues[str[i]];
+    }
+    return n;
+}
+
 function toggleSideBySideV(editor) {
     var cm = editor.codemirror;
     var wrapper = cm.getWrapperElement();
@@ -70,17 +324,16 @@ function toggleSideBySideV(editor) {
     cm.refresh();
 }
 
-EasyMDE.prototype.toggleSideBySideV = function() {toggleSideBySideV(this);};
-
-function isPatterned(str, start, end, pattern) {
-    let startPoint = str.indexOf("<"+pattern+">");
-    let endPoint = str.indexOf("</"+pattern+">", startPoint);
+function isPatterned(str, start, end, patternStart, patternEnd) {
+    patternEnd = (patternEnd) ? patternEnd : patternStart;
+    let startPoint = str.indexOf(patternStart);
+    let endPoint = str.indexOf(patternEnd, startPoint+1);
     while (true) {
         if (startPoint === -1) return false;
         else if (startPoint < start) {
             if (endPoint < start) {
-                startPoint = str.indexOf("<"+pattern+">", endPoint);
-                endPoint = str.indexOf("</"+pattern+">", startPoint);
+                startPoint = str.indexOf(patternStart, endPoint+1);
+                endPoint = str.indexOf(patternEnd, startPoint+1);
             }
             else return true;
         }
@@ -88,21 +341,22 @@ function isPatterned(str, start, end, pattern) {
     }
 }
 
-function togglePattern(editor, pattern) {
+function togglePattern(editor, patternStart, patternEnd) {
     if (!editor.codemirror || editor.isPreviewActive()) {
         return;
     }
+    patternEnd = (patternEnd) ? patternEnd : patternStart;
     var cm = editor.codemirror;
-    var start = "<"+pattern+">";
-    var end = "</"+pattern+">";
+    var start = patternStart;
+    var end = patternEnd;
     var startPoint = cm.getCursor('start');
     var endPoint = cm.getCursor('end');
     var text = cm.getLine(startPoint.line);
-    if (isPatterned(text, startPoint.ch, endPoint.ch, pattern)) {
+    if (isPatterned(text, startPoint.ch, endPoint.ch, patternStart, patternEnd)) {
         start = text.slice(0, startPoint.ch);
         end = text.slice(startPoint.ch);
-        start = start.replace("<"+pattern+">", '');
-        end = end.replace("</"+pattern+">", '');
+        start = start.replace(patternStart, '');
+        end = end.replace(patternEnd, '');
         cm.replaceRange(start + end, {
             line: startPoint.line,
             ch: 0,
@@ -110,42 +364,16 @@ function togglePattern(editor, pattern) {
             line: startPoint.line,
             ch: 99999999999999,
         });
-        startPoint.ch -= 2+pattern.length;
-        if (startPoint !== endPoint) endPoint.ch -= 2+pattern.length;
+        startPoint.ch -= patternStart.length;
+        if (startPoint !== endPoint) endPoint.ch -= patternStart.length;
     } else {
         text = cm.getSelection();
         cm.replaceSelection(start + text + end);
-        startPoint.ch += 2+pattern.length;
+        startPoint.ch += patternStart.length;
         endPoint.ch = startPoint.ch + text.length;
     }
     cm.setSelection(startPoint, endPoint);
     cm.focus();
-}
-
-function intToRoman(n) {
-    const romanValues = {
-        X: 10, IX: 9, V: 5, IV: 4, I: 1
-    }
-    let str = "";
-    for (let key in romanValues) {
-        while (n >= romanValues[key]) {
-            str += key;
-            n -= romanValues[key];
-        }
-    }
-    return str;
-}
-
-function romanToInt(str) {
-    const romanValues = {
-        X: 10, IX: 9, V: 5, IV: 4, I: 1
-    }
-    let n=0;
-    for (let i = 0; i < str.length; i++) {
-        if (i+1 < str.length && romanValues[str[i+1]] > romanValues[str[i]]) n -= romanValues[str[i]];
-        else n += romanValues[str[i]];
-    }
-    return n;
 }
 
 function _toggleLine(editor, liststyle) {
@@ -241,42 +469,6 @@ function _toggleLine(editor, liststyle) {
     cm.focus();
 }
 
-function toggleUnderline(editor) {
-    togglePattern(editor, "u");
-}
-
-function toggleSubscript(editor) {
-    togglePattern(editor, "sub");
-}
-
-function toggleSuperscript(editor) {
-    togglePattern(editor, "sup");
-}
-
-function toggleUnorderedList(editor) {
-    _toggleLine(editor, "*");
-}
-
-function toggleOrderedList_number(editor) {
-    _toggleLine(editor, "1");
-}
-
-function toggleOrderedList_capitalLetter(editor) {
-    _toggleLine(editor, "A");
-}
-
-function toggleOrderedList_smallLetter(editor) {
-    _toggleLine(editor, "a");
-}
-
-function toggleOrderedList_capitalRoman(editor) {
-    _toggleLine(editor, "I");
-}
-
-function toggleOrderedList_smallRoman(editor) {
-    _toggleLine(editor, "i");
-}
-
 function nextListItem(style, current) {
     if (style === "1") return (parseInt(current.slice(0, current.length-1))+1) + ".";
     else if (style === "A" || style === "a") {
@@ -323,3 +515,63 @@ function newLineAndContinueList(editor) {
     else cm.replaceSelection('\n');
 }
 
+function uploadImage(editor) {
+    let input = document.createElement("input");
+    input.type = "file";
+    input.click();
+    input.addEventListener("change", (e) => {
+        const file = e.target.files[0];
+        const reader = new FileReader();
+        reader.onload = () => {
+            let fileName = file.name;
+            let result = reader.result.replace(/^data:image\/(png|jpg);base64,/, "");
+            imgFolder.file(fileName, result, {base64: true});
+            localStorage.setItem(fileName, result);
+            let cm = editor.codemirror;
+            cm.replaceSelection("![](img/"+fileName+")");
+        };
+        reader.readAsDataURL(file);
+    });
+}
+
+EasyMDE.prototype.toggleSideBySideV = function() {toggleSideBySideV(this);};
+
+function toggleUnderline(editor) {
+    togglePattern(editor, "<u>", "</u>");
+}
+
+function toggleSubscript(editor) {
+    togglePattern(editor, "<sub>", "</sub>");
+}
+
+function toggleSuperscript(editor) {
+    togglePattern(editor, "<sup>", "</sup>");
+}
+
+function toggleUnorderedList(editor) {
+    _toggleLine(editor, "*");
+}
+
+function toggleOrderedList_number(editor) {
+    _toggleLine(editor, "1");
+}
+
+function toggleOrderedList_capitalLetter(editor) {
+    _toggleLine(editor, "A");
+}
+
+function toggleOrderedList_smallLetter(editor) {
+    _toggleLine(editor, "a");
+}
+
+function toggleOrderedList_capitalRoman(editor) {
+    _toggleLine(editor, "I");
+}
+
+function toggleOrderedList_smallRoman(editor) {
+    _toggleLine(editor, "i");
+}
+
+function toggleKatex(editor) {
+    togglePattern(editor, "$");
+}
