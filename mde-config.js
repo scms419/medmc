@@ -122,12 +122,38 @@ function togglePattern(editor, pattern) {
     cm.focus();
 }
 
+function intToRoman(n) {
+    const romanValues = {
+        X: 10, IX: 9, V: 5, IV: 4, I: 1
+    }
+    let str = "";
+    for (let key in romanValues) {
+        while (n >= romanValues[key]) {
+            str += key;
+            n -= romanValues[key];
+        }
+    }
+    return str;
+}
+
+function romanToInt(str) {
+    const romanValues = {
+        X: 10, IX: 9, V: 5, IV: 4, I: 1
+    }
+    let n=0;
+    for (let i = 0; i < str.length; i++) {
+        if (i+1 < str.length && romanValues[str[i+1]] > romanValues[str[i]]) n -= romanValues[str[i]];
+        else n += romanValues[str[i]];
+    }
+    return n;
+}
+
 function _toggleLine(editor, liststyle) {
     let cm = editor.codemirror;
     if (cm.getWrapperElement().lastChild.classList.contains('editor-preview-active'))
         return;
 
-    var listRegexp = /^(\s*)(\*|-|\+|\d+\.|[A-z]\.|[iIvVxXlL]+\.)(\s+)/;
+    var listRegexp = /^(\s*)(\*|-|\+|\d+\.|[A-Za-z]+\.|[iIvVxX]+\.)(\s+)/;
     var whitespacesRegexp = /^\s*/;
 
     var startPoint = cm.getCursor('start');
@@ -137,34 +163,26 @@ function _toggleLine(editor, liststyle) {
         "-": /^(\s*)(-)(\s+)/,
         "+": /^(\s*)(\+)(\s+)/,
         "1": /^(\s*)(\d+\.)(\s+)/,
-        "A": /^(\s*)([A-Z]\.)(\s+)/,
-        "a": /^(\s*)([a-z]\.)(\s+)/,
-        "I": /^(\s*)([IVXCDM]+\.)(\s+)/,
-        "i": /^(\s*)([ivxcdm]+\.)(\s+)/
+        "A": /^(\s*)([A-Z]+\.)(\s+)/,
+        "a": /^(\s*)([a-z]+\.)(\s+)/,
+        "I": /^(\s*)([IVX]+\.)(\s+)/,
+        "i": /^(\s*)([ivx]+\.)(\s+)/
     }
 
     var orderedListChar = function (i) {
-        const romanValues = {
-            L: 50,
-            XL: 40,
-            X: 10,
-            IX: 9,
-            V: 5,
-            IV: 4,
-            I: 1
-        }
+        const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         if (liststyle === "1") return i;
-        else if (liststyle === "A") return "ABCDEFGHIJKLMNOPQRSTUVWXYZ".charAt(i-1);
-        else if (liststyle === "a") return "abcdefghijklmnopqrstuvwxyz".charAt(i-1);
-        else if (liststyle === "I" || liststyle === "i") {
+        else if (liststyle === "A" || liststyle === "a") {
             let str = "";
-            for (let key in romanValues) {
-                while (i >= romanValues[key]) {
-                    str += key;
-                    i -= romanValues[key];
-                }
+            while (i > 0) {
+                i--;
+                str = letters.charAt(i % 26) + str;
+                i = Math.floor(i / 26);
             }
-            return (liststyle === "I") ? str : str.toLowerCase();
+            return (liststyle === "A") ? str : str.toLowerCase();
+        }
+        else if (liststyle === "I" || liststyle === "i") {
+            return (liststyle === "I") ? intToRoman(i) : intToRoman(i).toLowerCase();
         }
     }
 
@@ -177,10 +195,10 @@ function _toggleLine(editor, liststyle) {
         if (liststyle === "*" || liststyle === "+") map = "\\" + liststyle;
         else if (liststyle === "-") map = liststyle;
         else if (liststyle === "1") map = "\\d+.";
-        else if (liststyle === "A") map = "\\[A-Z].";
-        else if (liststyle === "a") map = "\\[a-z].";
-        else if (liststyle === "I") map = "\\[LXVI]+.";
-        else if (liststyle === "i") map = "\\[lxvi]+.";
+        else if (liststyle === "A") map = "\\[A-Z]+.";
+        else if (liststyle === "a") map = "\\[a-z]+.";
+        else if (liststyle === "I") map = "\\[XVI]+.";
+        else if (liststyle === "i") map = "\\[xvi]+.";
         var rt = new RegExp(map);
 
         return char && rt.test(char);
@@ -204,7 +222,7 @@ function _toggleLine(editor, liststyle) {
     for (var i = startPoint.line; i <= endPoint.line; i++) {
         (function (i) {
             var text = cm.getLine(i);
-            if (repl[liststyle].test(cm.getLine(startPoint.line))) {
+            if (repl[liststyle].test(cm.getLine(i))) {
                 text = text.replace(repl[liststyle], '$1');
             }
             else {
@@ -258,3 +276,50 @@ function toggleOrderedList_capitalRoman(editor) {
 function toggleOrderedList_smallRoman(editor) {
     _toggleLine(editor, "i");
 }
+
+function nextListItem(style, current) {
+    if (style === "1") return (parseInt(current.slice(0, current.length-1))+1) + ".";
+    else if (style === "A" || style === "a") {
+        let str = ".";
+        let b = true;
+        for (let i = current.length-2; i >= 0; i--) {
+            if (current[i] === "Z" || current[i] === "z") str = "A" + str;
+            else {
+                str = current.slice(0, i) + String.fromCharCode(current.charCodeAt(i)+1) + str;
+                b = false;
+                break;
+            }
+        }
+        if (b) str = "A" + str;
+        return (style === "A") ? str : str.toLowerCase();
+    }
+    else if (style === "I" || style === "i") {
+        let str = current.slice(0, current.length-1).toUpperCase();
+        str = intToRoman(romanToInt(str)+1) + ".";
+        return (style === "I") ? str : str.toLowerCase();
+    }
+}
+
+function newLineAndContinueList(editor) {
+    let cm = editor.codemirror;
+    let startPoint = cm.getCursor("start");
+    let endPoint = cm.getCursor("end");
+    let text = cm.getLine(startPoint.line);
+    let prevText = (startPoint.line > 0) ? cm.getLine(startPoint.line-1) : "";
+    let listRegexp = /^(\s*)(\*|-|\+|\d+\.|[A-Za-z]+\.|[iIvVxX]+\.)(\s+)/;
+    let match = listRegexp.exec(text);
+    let prevMatch = listRegexp.exec(prevText);
+    if (match) {
+        let style = match[2];
+        let prevStyle = (prevMatch) ? prevMatch[2] : "";
+        if (prevMatch && /\*|-|\+/.test(style) && /\*|-|\+/.test(prevStyle) || !prevMatch && /\*|-|\+/.test(style)) cm.replaceSelection('\n' + match[0]);
+        else if (prevMatch && /\d+\./.test(style) && /\d+\./.test(prevStyle) || !prevMatch && /\d+\./.test(style)) cm.replaceSelection('\n' + match[1] + nextListItem("1", match[2]) + match[3]);
+        else if (prevMatch && /[XVI]+\./.test(style) && /[XVI]+\./.test(prevStyle) || !prevMatch && /[XVI]+\./.test(style)) cm.replaceSelection('\n' + match[1] + nextListItem("I", match[2]) + match[3]);
+        else if (prevMatch && /[xvi]+\./.test(style) && /[xvi]+\./.test(prevStyle) || !prevMatch && /[xvi]+\./.test(style)) cm.replaceSelection('\n' + match[1] + nextListItem("i", match[2]) + match[3]);
+        else if (prevMatch && /[A-Z]+\./.test(style) && /[A-Z]+\./.test(prevStyle) || !prevMatch && /[A-Z]+\./.test(style)) cm.replaceSelection('\n' + match[1] + nextListItem("A", match[2]) + match[3]);
+        else if (prevMatch && /[a-z]+\./.test(style) && /[a-z]+\./.test(prevStyle) || !prevMatch && /[a-z]+\./.test(style)) cm.replaceSelection('\n' + match[1] + nextListItem("a", match[2]) + match[3]);
+        else cm.replaceSelection('\n');
+    }
+    else cm.replaceSelection('\n');
+}
+
