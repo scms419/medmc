@@ -1,6 +1,19 @@
 const katexOptions = {
     throwOnError: false
 };
+const previewImageRenderer = {
+    image({href, title, text, tokens}) {
+        if (tokens) text = this.parser.parseInline(tokens, this.parser.textRenderer);
+        let tp = new Image();
+        tp.src = href;
+        if (tp.width !== 0) return `<img src="${href}" alt="${text}" title="${title | ""}">`;
+        let src = href.slice(href.lastIndexOf("/")+1);
+        let dataURL = "data:image/png;base64," + localStorage.getItem(src);
+        return `
+            <img src="${dataURL}" alt="${text}" title="${title || ""}">
+        `;
+    }
+};
 const customOrderedList = {
     name: "customOrderedList",
     level: "block",
@@ -9,6 +22,7 @@ const customOrderedList = {
     },
     tokenizer(src, tokens) {
         const rule = /^([^\S\r\n]*)(\d+|[A-Za-z]+|[iIvVxX]+)(\.)(\s+)(.*)/;
+        const textRule = /^([^\S\r\n]*)(.*)/;
         const match = rule.exec(src);
         let style;
         if (match) {
@@ -20,26 +34,47 @@ const customOrderedList = {
             const items = [];
             let remainingSrc = src;
             let prevIndent = match[1].length;
+            let itemText = "", raw = "";
             while (remainingSrc) {
                 const itemMatch = rule.exec(remainingSrc);
-                if (!itemMatch || itemMatch[1].length !== prevIndent) break;
-                let itemStyle;
-                if (/\d+/.test(itemMatch[2])) itemStyle = "1";
-                else if (/[IVX]+/.test(itemMatch[2])) itemStyle = "I";
-                else if (/[ivx]+/.test(itemMatch[2])) itemStyle = "i";
-                else if (/[A-Z]+/.test(itemMatch[2])) itemStyle = "A";
-                else if (/[a-z]+/.test(itemMatch[2])) itemStyle = "a";
+                const textMatch = textRule.exec(remainingSrc);
+                if (itemMatch && itemMatch[1].length === prevIndent) {
+                    let itemStyle;
+                    if (/\d+/.test(itemMatch[2])) itemStyle = "1";
+                    else if (/[IVX]+/.test(itemMatch[2])) itemStyle = "I";
+                    else if (/[ivx]+/.test(itemMatch[2])) itemStyle = "i";
+                    else if (/[A-Z]+/.test(itemMatch[2])) itemStyle = "A";
+                    else if (/[a-z]+/.test(itemMatch[2])) itemStyle = "a";
+                    else break;
+                    if (itemStyle !== style) break;
+                    if (itemText) {
+                        const itemTokens = [];
+                        this.lexer.inlineTokens(itemText, itemTokens);
+                        items.push({
+                            type: "customOrderedListItem",
+                            raw: raw,
+                            tokens: itemTokens
+                        });
+                    }
+                    itemText = itemMatch[5].trim();
+                    raw = itemMatch[0];
+                    remainingSrc = remainingSrc.slice(itemMatch[0].length + 1);
+                }
+                else if (textMatch && textMatch[1].length === prevIndent) {
+                    itemText += "\n" + textMatch[2];
+                    raw += "\n" + textMatch[0];
+                    remainingSrc = remainingSrc.slice(textMatch[0].length + 1);
+                }
                 else break;
-                if (itemStyle !== style) break;
-                const itemText = itemMatch[5].trim();
+            }
+            if (itemText) {
                 const itemTokens = [];
                 this.lexer.inlineTokens(itemText, itemTokens);
                 items.push({
                     type: "customOrderedListItem",
-                    raw: itemMatch[0],
+                    raw: raw,
                     tokens: itemTokens
                 });
-                remainingSrc = remainingSrc.slice(itemMatch.index + itemMatch[0].length + 1);
             }
             const token = {
                 type: "customOrderedList",
@@ -58,24 +93,14 @@ const customOrderedList = {
     },
     childTokens: ["items"]
 };
-const previewImageRenderer = {
-    image({href, title, text, tokens}) {
-        if (tokens) text = this.parser.parseInline(tokens, this.parser.textRenderer);
-        let src = href.slice(href.lastIndexOf("/")+1);
-        let dataURL = "data:image/png;base64," + localStorage.getItem(src);
-        return `
-            <img src="${dataURL}" alt="${text}" title="${title || ""}">
-        `;
-    }
-};
 
 marked.use({ breaks: true });
 marked.use(markedKatex(katexOptions));
 marked.use({ extensions: [customOrderedList] });
 marked.use({ renderer: previewImageRenderer });
 
-function createMDE(id, sideBySide, horizontal=true) {
-    const editor = new EasyMDE({
+function createMDE(id, sideBySide, horizontal=true, status=true) {
+    const option = {
         element: document.getElementById(id),
         sideBySideFullscreen: false,
         minHeight: (sideBySide && !horizontal) ? "31.4px" : "300px",
@@ -180,8 +205,10 @@ function createMDE(id, sideBySide, horizontal=true) {
         },
         insertTexts: {
             table: ["", "\n| Column 1 | Column 2 | Column 3 |\n| -------- | -------- | -------- |\n| Text     | Text      | Text     |\n"]
-        },
-    });
+        }
+    };
+    if (!status) option["status"] = false;
+    const editor = new EasyMDE(option);
     if (sideBySide) {
         horizontal ? editor.toggleSideBySide() : editor.toggleSideBySideV();
     }
@@ -199,25 +226,25 @@ function createMDE(id, sideBySide, horizontal=true) {
         var endPoint = cm.getCursor('end');
         var text = cm.getLine(startPoint.line);
         if (isPatterned(text, startPoint.ch, endPoint.ch, "<u>", "</u>"))
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.underline`).classList.add("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.underline`).classList.add("active");
         else
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.underline`).classList.remove("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.underline`).classList.remove("active");
         if (isPatterned(text, startPoint.ch, endPoint.ch, "<sub>", "</sub>"))
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.subscript`).classList.add("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.subscript`).classList.add("active");
         else
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.subscript`).classList.remove("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.subscript`).classList.remove("active");
         if (isPatterned(text, startPoint.ch, endPoint.ch, "<sup>", "</sup>"))
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.superscript`).classList.add("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.superscript`).classList.add("active");
         else
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.superscript`).classList.remove("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.superscript`).classList.remove("active");
         if (isPatterned(text, startPoint.ch, endPoint.ch, "$"))
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.katex`).classList.add("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.katex`).classList.add("active");
         else
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.katex`).classList.remove("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.katex`).classList.remove("active");
         if (/^(\s*)(\d+\.|[A-Za-z]+\.|[iIvVxX]+\.)(\s+)/.test(text))
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.ordered-list`).classList.add("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.ordered-list`).classList.add("active");
         else
-            document.querySelector(`#${id}Editor > div > div.editor-toolbar > button.ordered-list`).classList.remove("active");
+            document.querySelector(`#${id} + div > div.editor-toolbar > button.ordered-list`).classList.remove("active");
     })
     const map = ["numbered-list", "capital-lettered-list", "small-lettered-list", "capital-roman-numeral-list", "small-roman-numeral-list"];
     for (let name of map) {
@@ -441,7 +468,7 @@ function _toggleLine(editor, liststyle) {
             }
             text = arr[1] + char + arr[3] + text.replace(whitespacesRegexp, '').replace(listRegexp, '$1');
         } else {
-            text = char + ' ' + text;
+            text = ' ' + char + ' ' + text;
         }
         return text;
     };
@@ -451,7 +478,7 @@ function _toggleLine(editor, liststyle) {
         (function (i) {
             var text = cm.getLine(i);
             if (repl[liststyle].test(cm.getLine(i))) {
-                text = text.replace(repl[liststyle], '$1');
+                text = text.replace(repl[liststyle], '');
             }
             else {
                 text = _toggle(text);

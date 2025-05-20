@@ -56,6 +56,7 @@
         <p for="explanation">Explanation:</p>
         <textarea id="explanation"></textarea>
     </div>
+    <span id="buttons"></span>
     <script src="https://kit.fontawesome.com/4aa662232e.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -68,23 +69,77 @@
     <script>
         let zip = new JSZip();
         let imgFolder = zip.folder("img");
-        let optionNum = 5;
         const questionEditor = createMDE("question", true);
         const optionEditor = document.getElementById("optionEditor");
-        const options = {};
-        for (let i = 0; i < optionNum; i++) {
-            const span = document.createElement("span");
-            const option = String.fromCharCode("A".charCodeAt(0)+i);
-            const id = "option" + option;
-            span.innerHTML = `
-                <input type="radio" id="${id+'-radio'}" name="options" value="${option}">
-                <label for="${id}">${option}:</label>
-                <textarea id="${id}"></textarea>
-            `;
-            optionEditor.appendChild(span);
-            options[option] = createMDE(id, true, false);
-        }
         const explanationEditor = createMDE("explanation", true);
+        const prevButton = document.getElementById("prevButton");
+        const selectQuestion = document.getElementById("selectQuestion");
+        const nextButton = document.getElementById("nextButton");
+        const selectCourse = document.getElementById("selectCourse");
+        const selectTopic = document.getElementById("selectTopic");
+        const questionId = document.getElementById("questionId");
+        const questionYear = document.getElementById("questionYear");
+        const questionNumber = document.getElementById("questionNumber");
+        let courses, questions;
+        let courseMap = {};
+        const options = {};
+
+        function updateQuestionCode (selectedIndex) {
+            selectQuestion.innerHTML = `
+                ${Object.keys(questions).map(key => `
+                    <option value="${key}">${key}</option>
+                `).join('')}
+            `;
+            if (selectedIndex) selectQuestion.selectedIndex = selectedIndex;
+        }
+        function updateCourse (selectedIndex) {
+            selectCourse.innerHTML = `
+                ${Object.keys(courses).map(level => `
+                    <optgroup label=${level}>
+                    ${Object.keys(courses[level]).map(course => `
+                        <option value="${course}">${course}</option>
+                    `).join('')}
+                    </optgroup>
+                `).join('')}
+            `;
+            if (selectedIndex) selectedCourse.selectedIndex = selectedIndex;
+        }
+        function updateTopic (selectedIndex) {
+            const course = selectCourse.value;
+            selectTopic.innerHTML = `
+                ${Object.keys(courses[courseMap[course]][course].byTopic).map(topic => `
+                    <option value="${topic}">${topic}</option>
+                `).join('')}
+            `;
+            if (selectedIndex) selectTopic.selectedIndex = selectedIndex;
+        }
+        function updateRenderingInfo () {
+            const id = selectQuestion.value;
+            const question = questions[id];
+            selectCourse.value = question.course;
+            updateTopic();
+            selectTopic.value = question.topic;
+            questionId.value = id;
+            questionYear.value = question.year;
+            questionNumber.value = question.question_number;
+            questionEditor.value(question.question);
+            optionEditor.innerHTML = `<p>Options:</p>`;
+            for (let i = 0; i < Object.keys(question.options).length; i++) {
+                const span = document.createElement("span");
+                const option = String.fromCharCode("A".charCodeAt(0)+i);
+                const id = "option" + option;
+                span.innerHTML = `
+                    <input type="radio" id="${id+'-radio'}" name="options" value="${option}">
+                    <label for="${id}">${option}:</label>
+                    <textarea id="${id}"></textarea>
+                `;
+                optionEditor.appendChild(span);
+                options[option] = createMDE(id, true, false, false);
+                options[option].value(question.options[option]);
+            }
+            document.getElementById("option"+question.answer+"-radio").checked = true;
+            explanationEditor.value(question.explanation);
+        }
 
         fetch('questions.json')
             .then(response => response.json())
@@ -93,57 +148,25 @@
                     alert("JSON file not valid");
                     location.href = "index.html";
                 }
-                const courses = data.courses;
-                const questions = data.questions;
-                let selectedIndex = 0;
-                const selectQuestion = document.getElementById("selectQuestion");
-                selectQuestion.innerHTML = `
-                    ${Object.keys(questions).map(key => `
-                        <option value="${key}">${key}</option>
-                    `).join('')}
-                `;
-                const selectCourse = document.getElementById("selectCourse");
-                selectCourse.innerHTML = `
-                    ${Object.keys(courses).map(level => `
-                        <optgroup label=${level}>
-                        ${Object.keys(courses[level]).map(course => `
-                            <option value="${course}">${course}</option>
-                        `).join('')}
-                        </optgroup>
-                    `).join('')}
-                `;
-                const selectTopic = document.getElementById("selectTopic");
-                const questionId = document.getElementById("questionId");
-                const questionYear = document.getElementById("questionYear");
-                const questionNumber = document.getElementById("questionNumber");
-                function updateTopic () {
-                    const course = selectCourse.value;
+                courses = data.courses;
+                questions = data.questions;
+                for (let level of Object.keys(courses)) {
+                    for (let course of Object.keys(courses[level])) {
+                        courseMap[course] = level;
+                    }
                 }
-                function updateRenderingInfo () {
-                    const id = selectQuestion.value;
-                    const question = questions[id];
-                    selectTopic.innerHTML = `
-                        ${Object.keys(courses[question.level][question.course].byTopic).map(topic => `
-                            <option value="${topic}">${topic}</option>
-                        `).join('')}
-                    `;
-                    selectCourse.value = question.course;
-                    selectTopic.value = question.topic;
-                    questionId.value = id;
-                    questionYear.value = question.year;
-                    questionNumber.value = question.question_number;
-                }
+                updateQuestionCode();
+                updateCourse();
                 updateRenderingInfo();
                 selectQuestion.addEventListener("change", () => {
                     updateRenderingInfo();
                 });
                 selectCourse.addEventListener("change", () => {
-
+                    updateTopic();
                 });
             })
             .catch(error => {
                 console.error("Error loading JSON data: ", error);
-                formContainer.innerHTML = "<h1>Error Loading JSON data</h1>";
             });
     </script>
 </body>
