@@ -24,37 +24,36 @@
         <input type="button" id="nextButton" value="Next Question" style="width: 150px;">
     </div><br>
     <div id="information" style="width: 100%; justify-content: space-evenly; display: flex;">
-        <span style="width: 30%; justify-content: space-evenly; display: flex">
+        <span style="width: 24%; justify-content: space-evenly; display: flex">
             <label for="selectCourse">Course:</label>
-            <select id="selectCourse" style="width: 60%"></select>
+            <select id="selectCourse" style="width: 80%"></select>
         </span>
-        <span style="width: 30%; justify-content: space-evenly; display: flex">
+        <span style="width: 40%; justify-content: space-evenly; display: flex">
             <label for="selectTopic">Topic:</label>
-            <select id="selectTopic" style="width: 60%"></select>
+            <select id="selectTopic" style="width: 80%"></select>
         </span>
-        <span style="width: 10%; justify-content: space-evenly; display: flex">
+        <span style="width: 12%; justify-content: space-evenly; display: flex">
             <label for="questionId">ID:</label>
             <input type="text" id="questionId" style="width: 60%">
         </span>
-        <span style="width: 10%; justify-content: space-evenly; display: flex">
+        <span style="width: 12%; justify-content: space-evenly; display: flex">
             <label for="questionYear">Year:</label>
-            <input type="text" id="questionYear" style="width: 30%">
+            <input type="text" id="questionYear" style="width: 60%">
         </span>
-        <span style="width: 10%; justify-content: space-evenly; display: flex">
+        <span style="width: 12%; justify-content: space-evenly; display: flex">
             <label for="questionNumber">No.:</label>
-            <input type="number" id="questionNumber" style="width: 30%">
+            <input type="number" id="questionNumber" style="width: 40%">
         </span>
     </div><br>
     <div id="questionEditor">
-        <label for="question">Question:</label>
+        <p for="question">Question:</p>
         <textarea id="question"></textarea>
     </div>
     <div id="optionEditor">
-        <label>Options:</label>
-        <ol type="A" id="options"></ol>
+        <p>Options:</p>
     </div>
     <div id="explanationEditor">
-        <label for="explanation">Explanation:</label>
+        <p for="explanation">Explanation:</p>
         <textarea id="explanation"></textarea>
     </div>
     <script src="https://kit.fontawesome.com/4aa662232e.js" crossorigin="anonymous"></script>
@@ -63,22 +62,89 @@
     <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked-katex-extension@5.1.4/lib/index.umd.js"></script>
-    <script src="mde-config.js"></script>
     <script src="dist/jszip.js"></script>
+    <script src="mde-config.js"></script>
+    <script src="base.js"></script>
     <script>
         let zip = new JSZip();
         let imgFolder = zip.folder("img");
         let optionNum = 5;
         const questionEditor = createMDE("question", true);
+        const optionEditor = document.getElementById("optionEditor");
+        const options = {};
         for (let i = 0; i < optionNum; i++) {
-            const li = document.createElement("li");
+            const span = document.createElement("span");
             const option = String.fromCharCode("A".charCodeAt(0)+i);
             const id = "option" + option;
-            li.innerHTML = `<textarea id="${id}"></textarea>`;
-            document.getElementById("options").appendChild(li);
+            span.innerHTML = `
+                <input type="radio" id="${id+'-radio'}" name="options" value="${option}">
+                <label for="${id}">${option}:</label>
+                <textarea id="${id}"></textarea>
+            `;
+            optionEditor.appendChild(span);
             options[option] = createMDE(id, true, false);
         }
         const explanationEditor = createMDE("explanation", true);
+
+        fetch('questions.json')
+            .then(response => response.json())
+            .then(data => {
+                if (!validateJSON(data)) {
+                    alert("JSON file not valid");
+                    location.href = "index.html";
+                }
+                const courses = data.courses;
+                const questions = data.questions;
+                let selectedIndex = 0;
+                const selectQuestion = document.getElementById("selectQuestion");
+                selectQuestion.innerHTML = `
+                    ${Object.keys(questions).map(key => `
+                        <option value="${key}">${key}</option>
+                    `).join('')}
+                `;
+                const selectCourse = document.getElementById("selectCourse");
+                selectCourse.innerHTML = `
+                    ${Object.keys(courses).map(level => `
+                        <optgroup label=${level}>
+                        ${Object.keys(courses[level]).map(course => `
+                            <option value="${course}">${course}</option>
+                        `).join('')}
+                        </optgroup>
+                    `).join('')}
+                `;
+                const selectTopic = document.getElementById("selectTopic");
+                const questionId = document.getElementById("questionId");
+                const questionYear = document.getElementById("questionYear");
+                const questionNumber = document.getElementById("questionNumber");
+                function updateTopic () {
+                    const course = selectCourse.value;
+                }
+                function updateRenderingInfo () {
+                    const id = selectQuestion.value;
+                    const question = questions[id];
+                    selectTopic.innerHTML = `
+                        ${Object.keys(courses[question.level][question.course].byTopic).map(topic => `
+                            <option value="${topic}">${topic}</option>
+                        `).join('')}
+                    `;
+                    selectCourse.value = question.course;
+                    selectTopic.value = question.topic;
+                    questionId.value = id;
+                    questionYear.value = question.year;
+                    questionNumber.value = question.question_number;
+                }
+                updateRenderingInfo();
+                selectQuestion.addEventListener("change", () => {
+                    updateRenderingInfo();
+                });
+                selectCourse.addEventListener("change", () => {
+
+                });
+            })
+            .catch(error => {
+                console.error("Error loading JSON data: ", error);
+                formContainer.innerHTML = "<h1>Error Loading JSON data</h1>";
+            });
     </script>
 </body>
 </html>

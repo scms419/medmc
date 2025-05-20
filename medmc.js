@@ -1,43 +1,17 @@
 const formContainer = document.getElementById("formView");
 const resultContainer = document.getElementById("resultView");
 const questionContainer = document.getElementById("questionView");
-const buttonsSpan = document.getElementById("buttons");
 const defaultQuestionNumber = 10;
 
-function keysValid(obj, arr) {
-    const keys = Object.keys(obj);
-    if (keys.length !== arr.length) return false;
-    for (let i in keys) {
-        if (keys[i] !== arr[i]) return false;
+function shuffle(arr) {
+    let n = arr.length, tp, i;
+    while (n) {
+        i = Math.floor(Math.random() * n--);
+        tp = arr[i];
+        arr[i] = arr[n];
+        arr[n] = tp;
     }
-    return true;
-}
-function validateJSON(data) {
-    if (!keysValid(data, ["courses", "questions"])) return false;
-    for (const level of Object.keys(data.courses)) {
-        for (const course of Object.keys(data.courses[level])) {
-            const obj = data.courses[level][course];
-            if (!keysValid(obj, ["byYear", "byTopic"])) return false;
-            for (const year of Object.keys(obj.byYear)) {
-                if (obj.byYear[year].length === 0) return false;
-                for (const code of obj.byYear[year]) {
-                    if (!Object.keys(data.questions).includes(code)) return false;
-                }
-            }
-            for (const topic of Object.keys(obj.byTopic)) {
-                if (obj.byTopic[topic].length === 0) return false;
-                for (const code of obj.byTopic[topic]) {
-                    if (!Object.keys(data.questions).includes(code)) return false;
-                }
-            }
-        }
-    }
-    for (const question of Object.keys(data.questions)) {
-        if (!keysValid(data.questions[question],
-            ["year", "course", "question_number", "level", "topic", "question", "options", "answer", "explanation"]))
-            return false;
-    }
-    return true;
+    return arr;
 }
 function createSelectCourseForm(courses) {
     const selectCourseForm = document.createElement("form");
@@ -53,10 +27,6 @@ function createSelectCourseForm(courses) {
         `).join('')}
         <hr>
     `;
-    // ${Object.keys(courses).map(course => `
-    //     <input type="radio" id="${course}" name="selectCourse" value="${course}">
-    //     <label for="${course}">${course}</label><br>
-    // `).join('')}
     return selectCourseForm;
 }
 function createSelectModeForm() {
@@ -76,29 +46,19 @@ function createSelectOptionForm(options, mode) {
     const selectOptionForm = document.createElement("form");
     selectOptionForm.id = "selectOptionForm";
     selectOptionForm.innerHTML = `
-                <h3>Select ${(mode === "byYear") ? "year" : "topic(s)"}</h3>
-                ${Object.keys(options).map(option => `
-                    <input
-                        type="${mode === "byYear" ? "radio" : "checkbox"}"
-                        id = "${option}" name="selectOption" value="${option}">
-                    <label for="${option}">${option}</label>
-                `).join('')}
-                <br><br>
-                <label for="selectNum">No. of questions:</label>
-                <input type="number" id="selectNum" value="${defaultQuestionNumber}">
-                <br><br>
-            `;
+        <h3>Select ${(mode === "byYear") ? "year" : "topic(s)"}</h3>
+        ${Object.keys(options).map(option => `
+            <input
+                type="${mode === "byYear" ? "radio" : "checkbox"}"
+                id = "${option}" name="selectOption" value="${option}">
+            <label for="${option}">${option}</label>
+        `).join('')}
+        <br><br>
+        <label for="selectNum">No. of questions:</label>
+        <input type="number" id="selectNum" value="${defaultQuestionNumber}">
+        <br><br>
+    `;
     return selectOptionForm;
-}
-function shuffle(arr) {
-    let n = arr.length, tp, i;
-    while (n) {
-        i = Math.floor(Math.random() * n--);
-        tp = arr[i];
-        arr[i] = arr[n];
-        arr[n] = tp;
-    }
-    return arr;
 }
 function generateQuestions(data, options, num) {
     let arr = [];
@@ -131,18 +91,6 @@ function renderQuestions(questions, codes) {
         questionContainer.appendChild(explanationDiv);
     }
 }
-function createInputButton(id, value, func=null) {
-    const button = document.createElement("input");
-    button.type = "button";
-    button.id = id;
-    button.value = value;
-    button.onclick = func;
-    return button;
-}
-function setButtons(buttons) {
-    buttonsSpan.innerHTML = "";
-    for (const button of buttons) buttonsSpan.appendChild(button);
-}
 function createMainForm(data) {
     if (!validateJSON(data)) {
         alert("JSON file not valid");
@@ -160,8 +108,6 @@ function createMainForm(data) {
         function() {window.print();});
     let redoButton;
     const restartButton = createInputButton("restartButton", "Restart", function() {
-        // location.href = "index.html";
-        // location.href = "form.html";
         resultContainer.innerHTML = "";
         questionContainer.innerHTML = "";
         const inputs = document.querySelectorAll("input[name='selectCourse'], input[name='selectMode'], input[name='selectOption']");
@@ -190,9 +136,8 @@ function createMainForm(data) {
         }
         if (document.getElementById("selectOptionForm"))
             formContainer.removeChild(document.getElementById("selectOptionForm"));
-        if (document.getElementById("submitFormButton"))
-            formContainer.removeChild(submitFormButton);
         formContainer.appendChild(selectModeForm);
+        setButtons([cancelButton]);
     });
     selectModeForm.addEventListener("change", (e) => {
         for (const radio of document.querySelectorAll("input[name='selectMode']")) {
@@ -236,9 +181,13 @@ function createMainForm(data) {
             const div = document.getElementById(id);
             const explanationDiv = document.getElementById(id+"Explanation");
             const explanationButton = document.createElement("button");
+            const icon = document.createElement("i");
             explanationButton.type = "button";
             explanationButton.className = "collapsible";
             explanationButton.innerText = "Explanation";
+            icon.className = "fa-solid fa-chevron-down";
+            icon.style = "position: absolute; right: 25px";
+            explanationButton.appendChild(icon);
             const explanationText = document.createElement("div");
             explanationText.className = "content";
             explanationText.innerHTML = marked.parse(questions[codes[i]].explanation);

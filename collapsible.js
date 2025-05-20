@@ -31,6 +31,8 @@ function makeCollapsible(button) {
         container.appendChild(style);
     button.addEventListener("click", function() {
         this.classList.toggle("active");
+        let i = this.firstElementChild;
+        i.className = (this.classList.contains("active")) ? "fa-solid fa-chevron-up" : "fa-solid fa-chevron-down";
         let content = this.nextElementSibling;
         if (content.style.display === "block") content.style.display = "none";
         else content.style.display = "block";

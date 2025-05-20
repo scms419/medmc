@@ -18,7 +18,6 @@ document.getElementById("localInput").addEventListener("click", (e) => {
         .then(response => response.json())
         .then(data => {
             localStorage.setItem("data", JSON.stringify(data));
-            console.log(localStorage.getItem("data"));
             location.href = "form.html";
         })
         .catch(error => {
