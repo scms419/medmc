@@ -2,6 +2,7 @@ const formContainer = document.getElementById("formView");
 const resultContainer = document.getElementById("resultView");
 const questionContainer = document.getElementById("questionView");
 const buttonsSpan = document.getElementById("buttons");
+const defaultQuestionNumber = 10;
 
 function keysValid(obj, arr) {
     const keys = Object.keys(obj);
@@ -84,7 +85,7 @@ function createSelectOptionForm(options, mode) {
                 `).join('')}
                 <br><br>
                 <label for="selectNum">No. of questions:</label>
-                <input type="number" id="selectNum" value="15">
+                <input type="number" id="selectNum" value="${defaultQuestionNumber}">
                 <br><br>
             `;
     return selectOptionForm;
@@ -159,8 +160,16 @@ function createMainForm(data) {
         function() {window.print();});
     let redoButton;
     const restartButton = createInputButton("restartButton", "Restart", function() {
-        location.href = "index.html";
-        location.href = "form.html";
+        // location.href = "index.html";
+        // location.href = "form.html";
+        resultContainer.innerHTML = "";
+        questionContainer.innerHTML = "";
+        const inputs = document.querySelectorAll("input[name='selectCourse'], input[name='selectMode'], input[name='selectOption']");
+        const selectNumInput = document.querySelector("input[id='selectNum']");
+        for (const input of inputs) input.disabled = false;
+        selectNumInput.disabled = false;
+        setButtons([submitFormButton, cancelButton]);
+        location.href = "#formView";
     });
     const cancelButton = createInputButton("cancelButton", "Cancel",
         function() {location.href = "index.html";});

@@ -1,5 +1,97 @@
 {
   "courses": {
+    "Kindergarten": {
+      "MATH0000 Simple Mathematics": {
+        "byYear": {
+          "2030-31": [
+            "30-31 MATH0000 Q1",
+            "30-31 MATH0000 Q2",
+            "30-31 MATH0000 Q3",
+            "30-31 MATH0000 Q4",
+            "30-31 MATH0000 Q5",
+            "30-31 MATH0000 Q6",
+            "30-31 MATH0000 Q7",
+            "30-31 MATH0000 Q8",
+            "30-31 MATH0000 Q9",
+            "30-31 MATH0000 Q10"
+          ],
+          "2031-32": [
+            "31-32 MATH0000 Q1",
+            "31-32 MATH0000 Q4",
+            "31-32 MATH0000 Q5",
+            "31-32 MATH0000 Q6",
+            "31-32 MATH0000 Q7",
+            "31-32 MATH0000 Q8",
+            "31-32 MATH0000 Q9",
+            "31-32 MATH0000 Q10",
+            "31-32 MATH0000 Q11",
+            "31-32 MATH0000 Q12",
+            "31-32 MATH0000 Q13",
+            "31-32 MATH0000 Q14",
+            "31-32 MATH0000 Q15"
+          ],
+          "2032-33": [
+            "32-33 MATH0000 Q1",
+            "32-33 MATH0000 Q3",
+            "32-33 MATH0000 Q4",
+            "32-33 MATH0000 Q5",
+            "32-33 MATH0000 Q6",
+            "32-33 MATH0000 Q7",
+            "32-33 MATH0000 Q8",
+            "32-33 MATH0000 Q9",
+            "32-33 MATH0000 Q10",
+            "32-33 MATH0000 Q11",
+            "32-33 MATH0000 Q12",
+            "32-33 MATH0000 Q13"
+          ]
+        },
+        "byTopic": {
+          "Lecture 1 - Addition": [
+            "30-31 MATH0000 Q1",
+            "30-31 MATH0000 Q3",
+            "30-31 MATH0000 Q4",
+            "30-31 MATH0000 Q5",
+            "30-31 MATH0000 Q9",
+            "31-32 MATH0000 Q6",
+            "32-33 MATH0000 Q3",
+            "31-32 MATH0000 Q7",
+            "31-32 MATH0000 Q11",
+            "32-33 MATH0000 Q7"
+          ],
+          "Lecture 2 - Subtraction": [
+            "30-31 MATH0000 Q2",
+            "30-31 MATH0000 Q6",
+            "30-31 MATH0000 Q10",
+            "32-33 MATH0000 Q4",
+            "31-32 MATH0000 Q8",
+            "31-32 MATH0000 Q12",
+            "32-33 MATH0000 Q8",
+            "31-32 MATH0000 Q13",
+            "32-33 MATH0000 Q11"
+          ],
+          "Lecture 3 - Multiplication": [
+            "31-32 MATH0000 Q1",
+            "30-31 MATH0000 Q7",
+            "31-32 MATH0000 Q4",
+            "31-32 MATH0000 Q9",
+            "32-33 MATH0000 Q5",
+            "32-33 MATH0000 Q9",
+            "31-32 MATH0000 Q14",
+            "32-33 MATH0000 Q12"
+          ],
+          "Lecture 4 - Division": [
+            "32-33 MATH0000 Q1",
+            "30-31 MATH0000 Q8",
+            "31-32 MATH0000 Q5",
+            "31-32 MATH0000 Q10",
+            "32-33 MATH0000 Q6",
+            "32-33 MATH0000 Q10",
+            "31-32 MATH0000 Q15",
+            "32-33 MATH0000 Q13"
+          ]
+        }
+      }
+    },
     "Year 1 Sem 2": {
       "MEDF1012B Health Sciences II": {
         "byYear": {
@@ -80,6 +172,416 @@
       },
       "answer": "A",
       "explanation": "*3*\n\nNote that at instant 3, the V<sub>M</sub> is highest (around +30 mV), then the V<sub>M</sub> is closest to E<sub>Na</sub>. Hence the electrochemical driving force on Na<sup>+</sup> is the smallest.\n"
+    },
+
+    "30-31 MATH0000 Q1": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 1,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "1 + 2 = ?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "answer": "B",
+        "explanation": "Adding 1 and 2 gives 3"
+    },
+
+    "30-31 MATH0000 Q2": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 2,
+        "level": "Kindergarten",
+        "topic": "Lecture 2 - Subtraction",
+        "question": "5 - 3 = ?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "answer": "B",
+        "explanation": "Subtracting 3 from 5 leaves 2"
+    },
+
+    "30-31 MATH0000 Q3": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 3,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "3 + 2 = ?",
+        "options": {"A": "4", "B": "5", "C": "6", "D": "3"},
+        "answer": "B",
+        "explanation": "3 apples + 2 apples = 5 apples"
+    },
+    "30-31 MATH0000 Q4": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 4,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "0 + 7 = ?",
+        "options": {"A": "0", "B": "7", "C": "70", "D": "10"},
+        "answer": "B",
+        "explanation": "Adding zero doesn't change the number"
+    },
+
+
+    "31-32 MATH0000 Q1": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 1,
+        "level": "Kindergarten",
+        "topic": "Lecture 3 - Multiplication",
+        "question": "2 × 4 = ?",
+        "options": {"A": "6", "B": "8", "C": "2", "D": "10"},
+        "answer": "B",
+        "explanation": "2 groups of 4 items each make 8 total"
+    },
+
+    "32-33 MATH0000 Q1": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 1,
+        "level": "Kindergarten",
+        "topic": "Lecture 4 - Division",
+        "question": "9 ÷ 3 = ?",
+        "options": {"A": "2", "B": "3", "C": "4", "D": "1"},
+        "answer": "B",
+        "explanation": "3 groups of 3 make 9"
+    },
+
+    "30-31 MATH0000 Q5": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 5,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "4 + 3 = ?",
+        "options": {"A": "6", "B": "7", "C": "5", "D": "8"},
+        "answer": "B",
+        "explanation": "4 fingers + 3 fingers = 7 fingers"
+    },
+    "30-31 MATH0000 Q6": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 6,
+        "level": "Kindergarten",
+        "topic": "Lecture 2 - Subtraction",
+        "question": "10 - 4 = ?",
+        "options": {"A": "5", "B": "7", "C": "6", "D": "8"},
+        "answer": "C",
+        "explanation": "10 cookies minus 4 cookies leaves 6"
+    },
+    "30-31 MATH0000 Q7": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 7,
+        "level": "Kindergarten",
+        "topic": "Lecture 3 - Multiplication",
+        "question": "5 × 2 = ?",
+        "options": {"A": "7", "B": "10", "C": "8", "D": "12"},
+        "answer": "B",
+        "explanation": "5 pairs of shoes = 10 shoes total"
+    },
+    "30-31 MATH0000 Q8": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 8,
+        "level": "Kindergarten",
+        "topic": "Lecture 4 - Division",
+        "question": "8 ÷ 2 = ?",
+        "options": {"A": "3", "B": "6", "C": "4", "D": "2"},
+        "answer": "C",
+        "explanation": "8 apples split into 2 equal groups = 4 per group"
+    },
+    "30-31 MATH0000 Q9": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 9,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "6 + 0 = ?",
+        "options": {"A": "0", "B": "5", "C": "6", "D": "7"},
+        "answer": "C",
+        "explanation": "Adding zero doesn't change the number"
+    },
+    "30-31 MATH0000 Q10": {
+        "year": "2030-31",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 10,
+        "level": "Kindergarten",
+        "topic": "Lecture 2 - Subtraction",
+        "question": "9 - 5 = ?",
+        "options": {"A": "3", "B": "4", "C": "5", "D": "2"},
+        "answer": "B",
+        "explanation": "9 balloons minus 5 balloons = 4 left"
+    },
+
+    "31-32 MATH0000 Q4": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 4,
+        "level": "Kindergarten",
+        "topic": "Lecture 3 - Multiplication",
+        "question": "3 × 4 = ?",
+        "options": {"A": "7", "B": "10", "C": "12", "D": "9"},
+        "answer": "C",
+        "explanation": "3 groups of 4 blocks = 12 blocks total"
+    },
+    "31-32 MATH0000 Q5": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 5,
+        "level": "Kindergarten",
+        "topic": "Lecture 4 - Division",
+        "question": "10 ÷ 5 = ?",
+        "options": {"A": "1", "B": "2", "C": "3", "D": "5"},
+        "answer": "B",
+        "explanation": "10 stickers shared by 5 friends = 2 each"
+    },
+    "31-32 MATH0000 Q6": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 6,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "7 + 2 = ?",
+        "options": {"A": "8", "B": "9", "C": "10", "D": "7"},
+        "answer": "B",
+        "explanation": "7 days + 2 days = 9 days total"
+    },
+
+    "32-33 MATH0000 Q3": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 3,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "5 + 5 = ?",
+        "options": {"A": "9", "B": "10", "C": "11", "D": "8"},
+        "answer": "B",
+        "explanation": "5 fingers on each hand = 10 total"
+    },
+    "32-33 MATH0000 Q4": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 4,
+        "level": "Kindergarten",
+        "topic": "Lecture 2 - Subtraction",
+        "question": "12 - 6 = ?",
+        "options": {"A": "5", "B": "6", "C": "7", "D": "8"},
+        "answer": "B",
+        "explanation": "12 eggs minus 6 eggs = 6 eggs remaining"
+    },
+
+    "31-32 MATH0000 Q7": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 7,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "8 + 1 = ?",
+        "options": {"A": "7", "B": "8", "C": "9", "D": "10"},
+        "answer": "C",
+        "explanation": "8 cookies + 1 cookie = 9 cookies"
+    },
+    "31-32 MATH0000 Q8": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 8,
+        "level": "Kindergarten",
+        "topic": "Lecture 2 - Subtraction",
+        "question": "11 - 4 = ?",
+        "options": {"A": "6", "B": "7", "C": "5", "D": "8"},
+        "answer": "B",
+        "explanation": "11 balloons - 4 balloons = 7 left"
+    },
+    "31-32 MATH0000 Q9": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 9,
+        "level": "Kindergarten",
+        "topic": "Lecture 3 - Multiplication",
+        "question": "4 × 3 = ?",
+        "options": {"A": "7", "B": "12", "C": "10", "D": "9"},
+        "answer": "B",
+        "explanation": "4 boxes with 3 toys each = 12 toys"
+    },
+    "31-32 MATH0000 Q10": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 10,
+        "level": "Kindergarten",
+        "topic": "Lecture 4 - Division",
+        "question": "12 ÷ 4 = ?",
+        "options": {"A": "2", "B": "3", "C": "4", "D": "6"},
+        "answer": "B",
+        "explanation": "12 candies split into 4 groups = 3 per group"
+    },
+    "31-32 MATH0000 Q11": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 11,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "9 + 3 = ?",
+        "options": {"A": "11", "B": "12", "C": "13", "D": "10"},
+        "answer": "B",
+        "explanation": "9 pencils + 3 pencils = 12 pencils"
+    },
+    "31-32 MATH0000 Q12": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 12,
+        "level": "Kindergarten",
+        "topic": "Lecture 2 - Subtraction",
+        "question": "15 - 7 = ?",
+        "options": {"A": "7", "B": "8", "C": "9", "D": "6"},
+        "answer": "B",
+        "explanation": "15 blocks - 7 blocks = 8 remaining"
+    },
+
+    "32-33 MATH0000 Q5": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 5,
+        "level": "Kindergarten",
+        "topic": "Lecture 3 - Multiplication",
+        "question": "5 × 5 = ?",
+        "options": {"A": "20", "B": "25", "C": "15", "D": "10"},
+        "answer": "B",
+        "explanation": "5 rows of 5 chairs = 25 chairs"
+    },
+    "32-33 MATH0000 Q6": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 6,
+        "level": "Kindergarten",
+        "topic": "Lecture 4 - Division",
+        "question": "18 ÷ 3 = ?",
+        "options": {"A": "5", "B": "6", "C": "7", "D": "9"},
+        "answer": "B",
+        "explanation": "18 stickers divided by 3 friends = 6 each"
+    },
+    "32-33 MATH0000 Q7": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 7,
+        "level": "Kindergarten",
+        "topic": "Lecture 1 - Addition",
+        "question": "10 + 6 = ?",
+        "options": {"A": "14", "B": "15", "C": "16", "D": "17"},
+        "answer": "C",
+        "explanation": "10 apples + 6 apples = 16 apples"
+    },
+    "32-33 MATH0000 Q8": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 8,
+        "level": "Kindergarten",
+        "topic": "Lecture 2 - Subtraction",
+        "question": "13 - 9 = ?",
+        "options": {"A": "3", "B": "4", "C": "5", "D": "6"},
+        "answer": "B",
+        "explanation": "13 crayons - 9 crayons = 4 left"
+    },
+    "32-33 MATH0000 Q9": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 9,
+        "level": "Kindergarten",
+        "topic": "Lecture 3 - Multiplication",
+        "question": "6 × 2 = ?",
+        "options": {"A": "8", "B": "10", "C": "12", "D": "14"},
+        "answer": "C",
+        "explanation": "6 pairs of socks = 12 socks total"
+    },
+    "32-33 MATH0000 Q10": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 10,
+        "level": "Kindergarten",
+        "topic": "Lecture 4 - Division",
+        "question": "20 ÷ 5 = ?",
+        "options": {"A": "3", "B": "4", "C": "5", "D": "6"},
+        "answer": "B",
+        "explanation": "20 marbles divided into 5 bags = 4 per bag"
+    },
+
+    "31-32 MATH0000 Q13": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 13,
+        "level": "Kindergarten",
+        "topic": "Lecture 2 - Subtraction",
+        "question": "14 - 8 = ?",
+        "options": {"A": "5", "B": "6", "C": "7", "D": "8"},
+        "answer": "B",
+        "explanation": "14 crayons - 8 crayons = 6 left"
+    },
+    "31-32 MATH0000 Q14": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 14,
+        "level": "Kindergarten",
+        "topic": "Lecture 3 - Multiplication",
+        "question": "2 × 7 = ?",
+        "options": {"A": "9", "B": "12", "C": "14", "D": "16"},
+        "answer": "C",
+        "explanation": "2 weeks = 14 days"
+    },
+    "31-32 MATH0000 Q15": {
+        "year": "2031-32",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 15,
+        "level": "Kindergarten",
+        "topic": "Lecture 4 - Division",
+        "question": "16 ÷ 4 = ?",
+        "options": {"A": "3", "B": "4", "C": "5", "D": "6"},
+        "answer": "B",
+        "explanation": "16 cookies divided into 4 plates = 4 each"
+    },
+
+    "32-33 MATH0000 Q11": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 11,
+        "level": "Kindergarten",
+        "topic": "Lecture 2 - Subtraction",
+        "question": "17 - 9 = ?",
+        "options": {"A": "6", "B": "7", "C": "8", "D": "9"},
+        "answer": "C",
+        "explanation": "17 stickers - 9 stickers = 8 remaining"
+    },
+    "32-33 MATH0000 Q12": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 12,
+        "level": "Kindergarten",
+        "topic": "Lecture 3 - Multiplication",
+        "question": "4 × 5 = ?",
+        "options": {"A": "18", "B": "20", "C": "22", "D": "24"},
+        "answer": "B",
+        "explanation": "4 hands × 5 fingers each = 20 fingers"
+    },
+    "32-33 MATH0000 Q13": {
+        "year": "2032-33",
+        "course": "MATH0000 Simple Mathematics",
+        "question_number": 13,
+        "level": "Kindergarten",
+        "topic": "Lecture 4 - Division",
+        "question": "21 ÷ 7 = ?",
+        "options": {"A": "2", "B": "3", "C": "4", "D": "5"},
+        "answer": "B",
+        "explanation": "21 days ÷ 7 days/week = 3 weeks"
     }
+
+
   }
 }
