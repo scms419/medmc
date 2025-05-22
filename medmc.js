@@ -150,10 +150,19 @@ function createMainForm(data) {
         setButtons([submitFormButton, cancelButton]);
     });
     submitFormButton.addEventListener("click", (e) => {
+        if (document.getElementById("optionErrorMessage")) document.getElementById("optionErrorMessage").remove();
         if (document.getElementById("numErrorMessage")) document.getElementById("numErrorMessage").remove();
         let options = [];
         for (const input of document.querySelectorAll("input[name='selectOption']")) {
             if (input.checked) options.push(input.value);
+        }
+        if (options.length === 0) {
+            const span = document.createElement("span");
+            span.id = "optionErrorMessage";
+            span.style = "color: red";
+            span.innerText = "At least one option is required";
+            selectOptionForm.insertBefore(span, document.querySelector("label[for='selectNum']").previousElementSibling);
+            return;
         }
         const inputs = document.querySelectorAll("input[name='selectCourse'], input[name='selectMode'], input[name='selectOption']");
         const selectNumInput = document.querySelector("input[id='selectNum']");

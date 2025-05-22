@@ -1,5 +1,17 @@
 const buttonsSpan = document.getElementById("buttons");
-buttonsSpan.style = "width: 70%; margin-left: auto; margin-right: auto; justify-content: space-evenly; display: flex";
+buttonsSpan.style = `
+    width: 100%;
+    height: 5%;
+    padding: 5px;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0;
+    justify-content: space-evenly;
+    display: flex;
+    background: #E8E8E8;
+    box-shadow: 0 0 15px #CECECE;
+    z-index: 15;
+`;
 
 function keysValid(obj, arr) {
     const keys = Object.keys(obj);
