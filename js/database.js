@@ -153,7 +153,7 @@ function updateCourse (value) {
         `;
     }
     else selectCourse.innerHTML = `
-        <option value="empty"></option>
+        <option value=""></option>
     `;
     const addCourseOption = document.createElement("option");
     addCourseOption.innerText = "Add course ...";
@@ -170,7 +170,7 @@ function updateTopic (course, value) {
         `;
     }
     else selectTopic.innerHTML = `
-        <option value="empty"></option>
+        <option value=""></option>
     `;
     const addTopicOption = document.createElement("option");
     addTopicOption.innerText = "Add topic ...";
@@ -420,7 +420,9 @@ const removeButton = createInputButton("removeButton", "Remove this question", f
             courses[courseMap[question.course]][question.course].byYear[question.year].remove(id);
             courses[courseMap[question.course]][question.course].byTopic[question.topic].remove(id);
         }
-        updateRenderingInfo(selectQuestion.selectedIndex);
+        if (selectQuestion.selectedIndex === -1) updateRenderingInfo(selectQuestion.length-1);
+        else if (selectQuestion.selectedIndex === 0) updateRenderingInfo(0);
+        else updateRenderingInfo(selectQuestion.selectedIndex-1);
     }
 });
 const cancelButton = createInputButton("cancelButton", "Return to homepage", function () {
