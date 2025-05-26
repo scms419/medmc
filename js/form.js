@@ -27,19 +27,27 @@ function createSelectCourseForm(courses) {
         `).join('')}
         <hr>
     `;
+    selectCourseForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+        return false;
+    });
     return selectCourseForm;
 }
 function createSelectModeForm() {
     const selectModeForm = document.createElement("form");
     selectModeForm.id = "selectModeForm";
     selectModeForm.innerHTML = `
-                <h3>Select mode:</h3>
-                <input type="radio" id="byYear" name="selectMode" value="byYear">
-                <label for="byYear">By year</label>
-                <input type="radio" id="byTopic" name="selectMode" value="byTopic">
-                <label for="byTopic">By topic</label>
-                <hr>
-            `;
+        <h3>Select mode:</h3>
+        <input type="radio" id="byYear" name="selectMode" value="byYear">
+        <label for="byYear">By year</label>
+        <input type="radio" id="byTopic" name="selectMode" value="byTopic">
+        <label for="byTopic">By topic</label>
+        <hr>
+    `;
+    selectModeForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+        return false;
+    });
     return selectModeForm;
 }
 function createSelectOptionForm(options, mode) {
@@ -58,6 +66,10 @@ function createSelectOptionForm(options, mode) {
         <input type="number" id="selectNum" value="${defaultQuestionNumber}">
         <br><br>
     `;
+    selectOptionForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+        return false;
+    });
     return selectOptionForm;
 }
 function generateQuestions(data, options, num) {
