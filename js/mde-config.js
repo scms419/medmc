@@ -145,6 +145,16 @@ function createMDE(id, sideBySide, horizontal=true, status=true) {
         else
             document.querySelector(`#${id} + div > div.editor-toolbar > button.ordered-list`).classList.remove("active");
     })
+    cm._handlers.drop.pop();
+    cm.on("drop", function (cm, event) {
+        event.stopPropagation();
+        event.preventDefault();
+        customUploadImageFunction(editor, event.dataTransfer.files[0]);
+    });
+    cm._handlers.paste.pop();
+    cm.on("paste", function (cm, event) {
+        customUploadImageFunction(editor, event.clipboardData.files[0], "paste");
+    })
     const map = ["numbered-list", "capital-lettered-list", "small-lettered-list", "capital-roman-numeral-list", "small-roman-numeral-list"];
     for (let name of map) {
         document.querySelector(`.${name}`).innerHTML = `<img src="icon/${name}.png" width="20" height="20">`
@@ -441,22 +451,54 @@ function newLineAndContinueList(editor) {
     else cm.replaceSelection('\n');
 }
 
+function customUploadImageFunction(editor, file, event) {
+    if (!file) {
+        if (event !== "paste") alert("No file selected. Please choose a file.");
+        return;
+    }
+    if (file.type !== "image/png" && file.type !== "image/jpeg") {
+        alert("Unsupported file type. Please select a png or jpeg file.");
+        return;
+    }
+    const reader = new FileReader();
+    reader.onload = () => {
+        let img = new Image();
+        let fileName = id.replaceAll(/\s/g, "_") + "_"+ Date.now() + file.type.replace(/^image\//, ".");
+        let result = reader.result;
+        img.onload = function () {
+            if (img.height > 500 || img.width > 500) {
+                if (confirm("The image will be too large. Please select OK to allow the program to resize the image.")) {
+                    let canvas = document.createElement("canvas");
+                    let w = Math.floor(img.width / Math.max(img.height, img.width) * 500);
+                    let h = Math.floor(img.height / Math.max(img.height, img.width) * 500);
+                    canvas.width = w;
+                    canvas.height = h;
+                    let ctx = canvas.getContext("2d");
+                    ctx.drawImage(img, 0, 0, w, h);
+                    result = canvas.toDataURL(file.type);
+                }
+                else return;
+            }
+            result = result.replace(/^data:image\/(png|jpe?g);base64,/, "");
+            localStorage.setItem(fileName, result);
+            editor.updateStatusBar('upload-image', "Uploaded " + file.name);
+            setTimeout(function () {
+                editor.updateStatusBar('upload-image', editor.options.imageTexts.sbInit);
+            }, 1000);
+            let cm = editor.codemirror;
+            cm.replaceSelection("![](img/"+fileName+")");
+        }
+        img.src = reader.result;
+    };
+    reader.readAsDataURL(file);
+}
+
 function uploadImage(editor) {
     let input = document.createElement("input");
     input.type = "file";
     input.click();
     input.addEventListener("change", (e) => {
-        const file = e.target.files[0];
-        const reader = new FileReader();
-        reader.onload = () => {
-            let fileName = file.name;
-            let result = reader.result.replace(/^data:image\/(png|jpg);base64,/, "");
-            imgFolder.file(fileName, result, {base64: true});
-            localStorage.setItem(fileName, result);
-            let cm = editor.codemirror;
-            cm.replaceSelection("![](img/"+fileName+")");
-        };
-        reader.readAsDataURL(file);
+        customUploadImageFunction(editor, e.target.files[0]);
     });
 }
 

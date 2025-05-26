@@ -35,21 +35,34 @@ document.getElementById("localData").addEventListener("click", (e) => {
             location.href = "database.html";
         })
         .catch(error => {
+            alert("Error loading JSON data.\nError message: " + error);
             console.error("Error loading JSON data: ", error);
         })
 });
 
 document.getElementById("fileInput").addEventListener("change", (e) => {
-    const file = e.target.files[0];
-    const reader = new FileReader();
-    reader.onload = () => {
-        try {
-            localStorage.setItem("database", reader.result);
-            location.href = "database.html";
-        }
-        catch (error) {
-            console.log("Error reading data: ", error);
-        }
+    const file = e.target.files[0]
+    if (!file) {
+        alert("No file selected. Please choose a file.");
+        return;
     }
-    reader.readAsText(file);
+    if (file.type !== "application/zip" && file.type !== "application/x-zip-compressed") {
+        alert("Unsupported file type. Please select a zip file.");
+        return;
+    }
+    JSZip.loadAsync(file)
+        .then(function (zip) {
+            zip.file("questions.json").async("string").then(function (data) {
+                localStorage.setItem("database", data);
+            });
+            zip.folder("img").forEach(function (relativePath, zipEntry) {
+                zipEntry.async("base64").then(function (data) {
+                    localStorage.setItem(zipEntry.name.replace(/img\//, ""), data);
+                });
+            });
+            location.href = "database.html";
+        }, function (e) {
+            alert("Error reading uploaded file.\nError message: " + e.message);
+            console.log("Error reading uploaded file: ", e.message);
+        });
 });

@@ -363,6 +363,26 @@ function clean () {
     }
     return obj;
 }
+function findImages () {
+    const questionsData = JSON.stringify(questions);
+    const reg = /!\[.*?]\(img\/(.*?)\)/g;
+    const matchArr = [...questionsData.matchAll(reg)];
+    for (const arr of matchArr) {
+        if (localStorage.getItem(arr[1]) !== null) imgFolder.file(arr[1], localStorage.getItem(arr[1]), {base64: true});
+        else {
+            let img = new Image();
+            let canvas = document.createElement("canvas");
+            img.src = "img/" + arr[1];
+            if (img.height === 0) continue;
+            canvas.width = img.width;
+            canvas.height = img.height;
+            let ctx = canvas.getContext("2d");
+            ctx.drawImage(img, 0, 0);
+            let dataURL = canvas.toDataURL("image/" + arr[1].slice(arr[1].lastIndexOf(".")+1));
+            imgFolder.file(arr[1], dataURL.replace(/^data:image\/(png|jpe?g);base64,/, ""), {base64: true});
+        }
+    }
+}
 
 prevButton.addEventListener("click", () => {
     if (saveChanges(true)) {
@@ -400,9 +420,11 @@ selectTopic.addEventListener("change", () => {
 
 const saveButton = createInputButton("saveButton", "Save changes", function () {
     if (saveChanges(true)) {
+        updateRenderingInfo((selectQuestion.selectedIndex === -1) ? selectQuestion.length-1 : selectQuestion.selectedIndex);
         const obj = clean();
         initialData = JSON.stringify({"courses": obj, "questions": questions});
         zip.file("questions.json", initialData);
+        findImages();
         zip.generateAsync({type:"blob"})
             .then(function (content) {
                 saveAs(content, "database.zip");

@@ -1,16 +1,28 @@
 document.getElementById("fileInput").addEventListener("change", (e) => {
     const file = e.target.files[0];
-    const reader = new FileReader();
-    reader.onload = () => {
-        try {
-            localStorage.setItem("data", reader.result);
+    if (!file) {
+        alert("No file selected. Please choose a file.");
+        return;
+    }
+    if (file.type !== "application/zip" && file.type !== "application/x-zip-compressed") {
+        alert("Unsupported file type. Please select a zip file.");
+        return;
+    }
+    JSZip.loadAsync(file)
+        .then(function (zip) {
+            zip.file("questions.json").async("string").then(function (data) {
+                localStorage.setItem("data", data);
+            });
+            zip.folder("img").forEach(function (relativePath, zipEntry) {
+                zipEntry.async("base64").then(function (data) {
+                    localStorage.setItem(zipEntry.name.replace(/img\//, ""), data);
+                });
+            });
             location.href = "form.html";
-        }
-        catch (error) {
-            console.log("Error reading data: ", error);
-        }
-    };
-    reader.readAsText(file);
+        }, function (e) {
+            alert("Error reading uploaded file.\nError message: " + e.message);
+            console.log("Error reading uploaded file: ", e.message);
+        });
 });
 
 document.getElementById("localInput").addEventListener("click", (e) => {
@@ -21,7 +33,7 @@ document.getElementById("localInput").addEventListener("click", (e) => {
             location.href = "form.html";
         })
         .catch(error => {
+            alert("Error loading JSON data.\n Error message: " + error);
             console.error("Error loading JSON data: ", error);
-            formContainer.innerHTML = "<h1>Error Loading JSON data</h1>";
         });
 });
