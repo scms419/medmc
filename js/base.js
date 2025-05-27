@@ -1,5 +1,6 @@
 const buttonsSpan = document.getElementById("buttons");
-buttonsSpan.style = `
+if (buttonsSpan) {
+    buttonsSpan.style = `
     width: 100%;
     height: 5%;
     padding: 5px;
@@ -12,6 +13,7 @@ buttonsSpan.style = `
     box-shadow: 0 0 15px #CECECE;
     z-index: 15;
 `;
+}
 
 function keysValid(obj, arr) {
     const keys = Object.keys(obj);
@@ -21,6 +23,7 @@ function keysValid(obj, arr) {
     }
     return true;
 }
+
 function validateJSON(data) {
     if (!keysValid(data, ["courses", "questions"])) return false;
     for (const level of Object.keys(data.courses)) {
@@ -48,7 +51,8 @@ function validateJSON(data) {
     }
     return true;
 }
-function createInputButton(id, value, func=null) {
+
+function createInputButton(id, value, func = null) {
     const button = document.createElement("input");
     button.type = "button";
     button.id = id;
@@ -57,7 +61,38 @@ function createInputButton(id, value, func=null) {
     button.style = "min-width: 120px";
     return button;
 }
+
 function setButtons(buttons) {
     buttonsSpan.innerHTML = "";
     for (const button of buttons) buttonsSpan.appendChild(button);
 }
+
+const link = document.createElement("link");
+link.href = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css";
+link.rel = "stylesheet";
+link.integrity = "sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT";
+link.crossOrigin = "anonymous";
+document.getElementsByTagName("head")[0].appendChild(link);
+
+const script = document.createElement("script");
+script.href = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js";
+script.integrity = "sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO";
+script.crossOrigin = "anonymous";
+document.getElementsByTagName("head")[0].appendChild(script);
+
+const iconLink = document.createElement("link");
+iconLink.rel = "stylesheet";
+iconLink.href = "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css";
+document.getElementsByTagName("head")[0].appendChild(iconLink);
+
+const dayMap = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
+function timeNow() {
+    const date = new Date();
+    document.getElementById("timeSpan").innerText = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()} ${dayMap[date.getDay()]} ${((date.getHours() >= 10) ? "" : "0") + date.getHours()}:${((date.getMinutes() >= 10) ? "" : "0") + date.getMinutes()}`;
+
+}
+
+timeNow();
+
+setInterval(timeNow, 60000);

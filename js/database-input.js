@@ -40,29 +40,34 @@ document.getElementById("localData").addEventListener("click", (e) => {
         })
 });
 
-document.getElementById("fileInput").addEventListener("change", (e) => {
-    const file = e.target.files[0]
-    if (!file) {
-        alert("No file selected. Please choose a file.");
-        return;
-    }
-    if (file.type !== "application/zip" && file.type !== "application/x-zip-compressed") {
-        alert("Unsupported file type. Please select a zip file.");
-        return;
-    }
-    JSZip.loadAsync(file)
-        .then(function (zip) {
-            zip.file("questions.json").async("string").then(function (data) {
-                localStorage.setItem("database", data);
-            });
-            zip.folder("img").forEach(function (relativePath, zipEntry) {
-                zipEntry.async("base64").then(function (data) {
-                    localStorage.setItem(zipEntry.name.replace(/img\//, ""), data);
+document.getElementById("fileInput").addEventListener("click", (e) => {
+    const fileInput = document.createElement("input");
+    fileInput.type = "file";
+    fileInput.click();
+    fileInput.onchange = () => {
+        const file = fileInput.files[0]
+        if (!file) {
+            alert("No file selected. Please choose a file.");
+            return;
+        }
+        if (file.type !== "application/zip" && file.type !== "application/x-zip-compressed") {
+            alert("Unsupported file type. Please select a zip file.");
+            return;
+        }
+        JSZip.loadAsync(file)
+            .then(function (zip) {
+                zip.file("questions.json").async("string").then(function (data) {
+                    localStorage.setItem("database", data);
                 });
+                zip.folder("img").forEach(function (relativePath, zipEntry) {
+                    zipEntry.async("base64").then(function (data) {
+                        localStorage.setItem(zipEntry.name.replace(/img\//, ""), data);
+                    });
+                });
+                location.href = "database.html";
+            }, function (e) {
+                alert("Error reading uploaded file.\nError message: " + e.message);
+                console.log("Error reading uploaded file: ", e.message);
             });
-            location.href = "database.html";
-        }, function (e) {
-            alert("Error reading uploaded file.\nError message: " + e.message);
-            console.log("Error reading uploaded file: ", e.message);
-        });
+    }
 });

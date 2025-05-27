@@ -5,20 +5,72 @@
     <title>Select database</title>
 </head>
 <body>
-    <div>
-        MedMC:
-        <a href="index.html">Home</a>
-        <a href="form-input.html">Self-check Test</a>
-        <a href="database-input.html">Database</a>
+    <style>
+        .divider {
+            width: 100%;
+            height: 3rem;
+            background-color: #0000001a;
+            border: solid rgba(0,0,0,.15);
+            border-width: 1px 0;
+            box-shadow: inset 0 .5em 1.5em #0000001a,inset 0 .125em .5em #00000026
+        }
+    </style>
+    <nav class="navbar navbar-expand-md bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">MedMC</a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="form-input.html">Self-check Test</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="database-input.html">Database</a>
+                    </li>
+                    <li>
+                        <a class="nav-link disabled" aria-disabled="true">About</a>
+                    </li>
+                </ul>
+            </div>
+            <span class="navbar-text" id="timeSpan"></span>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </nav>
+    <div class="divider"></div>
+    <div class="px-4 py-5 my-5 text-center">
+        <img class="d-block mx-auto mb-4" src="icon/database-fill-add.svg" alt width="72" height="57">
+        <h1 class="display-5 fw-bold text-body-emphasis">Start from current database</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">Start from the predefined database and add new questions to it.</p>
+            <button type="button" id="localData" class="btn btn-primary btn-lg px-4 gap-3">Click me!</button>
+        </div>
     </div>
-    <hr>
-    <div id="selectData">
-        <input type="button" id="newData" value="Start a new database"><br>
-        <input type="button" id="localData" value="Start from current database"><br>
-        Import database: <input type="file" id="fileInput">
+    <div class="divider"></div>
+    <div class="px-4 py-5 my-5 text-center">
+        <img class="d-block mx-auto mb-4" src="icon/folder-plus.svg" alt width="72" height="57">
+        <h1 class="display-5 fw-bold text-body-emphasis">Create a new database</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">Start from an empty database and create your own question database.</p>
+            <button type="button" id="newData" class="btn btn-primary btn-lg px-4 gap-3">Click me!</button>
+        </div>
     </div>
-    <script src="js/database-input.js"></script>
+    <div class="divider"></div>
+    <div class="px-4 py-5 my-5 text-center">
+        <img class="d-block mx-auto mb-4" src="icon/upload.svg" alt width="72" height="57">
+        <h1 class="display-5 fw-bold text-body-emphasis">Import from local drive</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">Import your database from local drive and continue editing.</p>
+            <button type="button" id="fileInput" class="btn btn-primary btn-lg px-4 gap-3">Click me!</button>
+        </div>
+    </div>
+    <div class="divider"></div>
     <script src="dist/jszip.js"></script>
+    <script src="js/base.js"></script>
+    <script src="js/database-input.js"></script>
     <script>
         localStorage.clear();
     </script>
