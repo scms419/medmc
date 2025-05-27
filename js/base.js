@@ -1,19 +1,4 @@
 const buttonsSpan = document.getElementById("buttons");
-if (buttonsSpan) {
-    buttonsSpan.style = `
-    width: 100%;
-    height: 5%;
-    padding: 5px;
-    box-sizing: border-box;
-    position: fixed;
-    bottom: 0;
-    justify-content: space-evenly;
-    display: flex;
-    background: #E8E8E8;
-    box-shadow: 0 0 15px #CECECE;
-    z-index: 15;
-`;
-}
 
 function keysValid(obj, arr) {
     const keys = Object.keys(obj);
@@ -75,7 +60,7 @@ link.crossOrigin = "anonymous";
 document.getElementsByTagName("head")[0].appendChild(link);
 
 const script = document.createElement("script");
-script.href = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js";
+script.src = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js";
 script.integrity = "sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO";
 script.crossOrigin = "anonymous";
 document.getElementsByTagName("head")[0].appendChild(script);

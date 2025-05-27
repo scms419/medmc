@@ -6,23 +6,41 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" crossorigin="anonymous">
 </head>
 <body>
-    <div>
-        MedMC:
-        <a href="index.html">Home</a>
-        <a href="form-input.html">Self-check Test</a>
-        <a href="database-input.html">Database</a>
-    </div>
-    <hr>
-    <div id="formView"></div>
+    <nav class="navbar navbar-expand-md bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">MedMC</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="form-input.html">Self-check Test</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="database-input.html">Database</a>
+                    </li>
+                    <li>
+                        <a class="nav-link disabled" aria-disabled="true">About</a>
+                    </li>
+                </ul>
+                <span class="navbar-text" id="timeSpan"></span>
+            </div>
+        </div>
+    </nav>
+    <div id="formView" class="container-fluid p-5"></div>
     <div id="resultView"></div>
-    <div id="questionView"></div>
-    <span id="buttons"></span>
+    <div id="questionView" class="container-fluid p-5"></div>
+    <div id="buttons" class="container-fluid px-5 py-3 bg-body-tertiary d-flex justify-content-evenly fixed-bottom border-top"></div>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://kit.fontawesome.com/4aa662232e.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked-katex-extension@5.1.4/lib/index.umd.js"></script>
-    <script src="js/collapsible.js"></script>
     <script src="js/base.js"></script>
+    <script src="js/collapsible.js"></script>
     <script src="js/marked-config.js"></script>
     <script src="js/form.js"></script>
 </body>

@@ -17,15 +17,18 @@ function createSelectCourseForm(courses) {
     const selectCourseForm = document.createElement("form");
     selectCourseForm.id = "selectCourseForm";
     selectCourseForm.innerHTML = `
-        <h3>Select course:</h3>
-        ${Object.keys(courses).map(level => `
-            <u>${level}</u><br>
-            ${Object.keys(courses[level]).map(course => `
-                <input type="radio" id="${course}" name="selectCourse" value="${course}" class="${level}">
-                <label for="${course}">${course}</label><br>
-            `).join('')}   
-        `).join('')}
-        <hr>
+        <div class="my-3 border-bottom">
+            <h2 class="fs-2 text-body-emphasis mb-3">Select course</h2>
+            ${Object.keys(courses).map(level => `
+                    <h5 class="border-bottom">${level}</h5>
+                    ${Object.keys(courses[level]).map(course => `
+                        <div class="form-check my-3">
+                            <input type="radio" id="${course}" name="selectCourse" value="${course}" data-level="${level}" class="form-check-input">
+                            <label for="${course}" class="form-check-label">${course}</label>
+                        </div>
+                    `).join('')}
+            `).join('')}
+        </div>
     `;
     selectCourseForm.addEventListener("submit", (e) => {
         e.preventDefault();
@@ -37,12 +40,19 @@ function createSelectModeForm() {
     const selectModeForm = document.createElement("form");
     selectModeForm.id = "selectModeForm";
     selectModeForm.innerHTML = `
-        <h3>Select mode:</h3>
-        <input type="radio" id="byYear" name="selectMode" value="byYear">
-        <label for="byYear">By year</label>
-        <input type="radio" id="byTopic" name="selectMode" value="byTopic">
-        <label for="byTopic">By topic</label>
-        <hr>
+        <div class="my-3 border-bottom">
+            <h2 class="fs-2 text-body-emphasis">Select mode</h2>
+            <div class="my-3">
+                <div class="form-check form-check-inline">
+                    <input type="radio" id="byYear" name="selectMode" value="byYear" class="form-check-input">
+                    <label for="byYear" class="form-check-label">By year</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input type="radio" id="byTopic" name="selectMode" value="byTopic" class="form-check-input">
+                    <label for="byTopic" class="form-check-label">By topic</label>
+                </div>
+            </div>
+        </div>
     `;
     selectModeForm.addEventListener("submit", (e) => {
         e.preventDefault();
@@ -54,17 +64,21 @@ function createSelectOptionForm(options, mode) {
     const selectOptionForm = document.createElement("form");
     selectOptionForm.id = "selectOptionForm";
     selectOptionForm.innerHTML = `
-        <h3>Select ${(mode === "byYear") ? "year" : "topic(s)"}</h3>
-        ${Object.keys(options).map(option => `
-            <input
-                type="${mode === "byYear" ? "radio" : "checkbox"}"
-                id = "${option}" name="selectOption" value="${option}">
-            <label for="${option}">${option}</label>
-        `).join('')}
-        <br><br>
-        <label for="selectNum">No. of questions:</label>
-        <input type="number" id="selectNum" value="${defaultQuestionNumber}">
-        <br><br>
+        <div class="my-3 border-bottom">
+            <h2 class="fs-2 text-body-emphasis">Select ${(mode === "byYear") ? "year" : "topic(s)"}</h2>
+            ${Object.keys(options).map(option => `
+                <div class="form-check my-3">
+                    <input
+                        type="${mode === "byYear" ? "radio" : "checkbox"}"
+                        id = "${option}" name="selectOption" value="${option}" class="form-check-input">
+                    <label for="${option}" class="form-check-label">${option}</label>
+                </div>
+            `).join('')}
+            <div class="my-3">
+                <label for="selectNum" class="form-label">No. of questions:</label>
+                <input type="number" id="selectNum" value="${defaultQuestionNumber}" class="form-control">
+            </div>
+        </div>
     `;
     selectOptionForm.addEventListener("submit", (e) => {
         e.preventDefault();
@@ -83,16 +97,19 @@ function generateQuestions(data, options, num) {
 function renderQuestion(question, code, num) {
     const div = document.createElement("div");
     div.id = "Q" + num;
+    div.className = "my-4";
     div.innerHTML = `
-                <p>${num}. ${code}</p>
-                ${marked.parse(question.question)}
-                <form id="${div.id + "Form"}">
-                    ${Object.keys(question.options).map(option => `
-                        <input type="radio" id="${"Q"+num+option}" name="${div.id}" value="${option}">
-                        <label for="${"Q"+num+option}">${option}. ${marked.parseInline(question.options[option])}</label><br>
-                    `).join('')}
-                </form>
-            `;
+        <h5 class="fs-6">${num}. ${code}</h5>
+        <p class="lead">${marked.parse(question.question)}</p>
+        <form id="${div.id + "Form"}">
+            ${Object.keys(question.options).map(option => `
+                <div class="form-check">
+                    <input type="radio" id="${"Q"+num+option}" name="${div.id}" value="${option}" class="form-check-input">
+                    <label for="${"Q"+num+option}" class="form-check-label">${option}. ${marked.parseInline(question.options[option])}</label>
+                </div>
+            `).join('')}
+        </form>
+    `;
     return div;
 }
 function renderQuestions(questions, codes) {
@@ -139,7 +156,7 @@ function createMainForm(data) {
     selectCourseForm.addEventListener("change", (e) => {
         for (const radio of document.querySelectorAll("input[name='selectCourse']")) {
             if (radio.checked) {
-                selectedLevel = radio.className;
+                selectedLevel = radio.getAttribute("data-level");
                 selectedCourse = radio.value;
             }
         }
@@ -190,9 +207,7 @@ function createMainForm(data) {
         else {
             for (const input of inputs) input.disabled = true;
             selectNumInput.disabled = true;
-            questionContainer.appendChild(document.createElement("hr"));
             renderQuestions(questions, codes);
-            questionContainer.appendChild(document.createElement("hr"));
             setButtons([submitQuestionButton, printButton, cancelButton]);
         }
     });
