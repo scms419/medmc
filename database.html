@@ -9,20 +9,35 @@
     <link rel="stylesheet" href="database.css">
 </head>
 <body>
-    <div>
-        MedMC:
-        <a href="index.html">Home</a>
-        <a href="form-input.html">Self-check Test</a>
-        <a href="database-input.html">Database</a>
-    </div>
-    <hr>
-    <div id="bar" style="width: 100%; justify-content: space-evenly; display: flex;">
-        <input type="button" id="prevButton" value="Previous Question" style="width: 150px;">
-        <span style="width: 40%; justify-content: space-evenly; display: flex">
-            <label for="selectQuestion">Question code:</label>
-            <select id="selectQuestion" style="width: 60%"></select>
-        </span>
-        <input type="button" id="nextButton" value="Next Question" style="width: 150px;">
+    <nav class="navbar navbar-expand-md bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">MedMC</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="form-input.html">Self-check Test</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="database-input.html">Database</a>
+                    </li>
+                    <li>
+                        <a class="nav-link disabled" aria-disabled="true">About</a>
+                    </li>
+                </ul>
+                <span class="navbar-text" id="timeSpan"></span>
+            </div>
+        </div>
+    </nav>
+    <div id="bar" class="d-flex p-3 justify-content-around">
+        <button type="button" id="prevButton" class="btn btn-outline-secondary">Previous Question</button>
+        <select id="selectQuestion" class="form-select w-50" aria-label="Select question"></select>
+        <button type="button" id="nextButton" class="btn btn-outline-secondary">Next Question</button>
     </div><br>
     <div id="information" style="width: 100%; justify-content: space-evenly; display: flex;">
         <span style="width: 24%; justify-content: space-evenly; display: flex">
@@ -55,7 +70,7 @@
         <p for="explanation">Explanation:</p>
         <textarea id="explanation"></textarea>
     </div>
-    <span id="buttons"></span>
+    <div id="buttons" class="container-fluid px-5 py-3 bg-body-tertiary d-flex justify-content-evenly fixed-bottom border-top"></div>
     <div class="modal" id="modalDiv">
         <div class="modal-content" id="modalContent"></div>
     </div>

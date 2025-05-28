@@ -36,37 +36,37 @@ function createMDE(id, sideBySide, horizontal=true, status=true) {
                 name: "unordered-list",
                 className: "fa fa-list-ul",
                 action: toggleUnorderedList,
-                title: "Unordered list"
+                title: "Unordered List"
             },
             {
                 name: "ordered-list",
                 className: "fa fa-list-ol",
-                title: "Ordered list",
+                title: "Ordered List",
                 children: [
                     {
                         name: "numbered-list",
                         action: toggleOrderedList_number,
-                        title: "Numbered list"
+                        title: "Numbered List"
                     },
                     {
                         name: "capital-lettered-list",
                         action: toggleOrderedList_capitalLetter,
-                        title: "Capital-lettered list"
+                        title: "Capital-lettered List"
                     },
                     {
                         name: "small-lettered-list",
                         action: toggleOrderedList_smallLetter,
-                        title: "Small-lettered list"
+                        title: "Small-lettered List"
                     },
                     {
                         name: "capital-roman-numeral-list",
                         action: toggleOrderedList_capitalRoman,
-                        title: "Capital-roman-numeral list"
+                        title: "Capital-roman-numeral List"
                     },
                     {
                         name: "small-roman-numeral-list",
                         action: toggleOrderedList_smallRoman,
-                        title: "Small-roman-numeral list"
+                        title: "Small-roman-numeral List"
                     }
                 ]
             },
@@ -75,9 +75,14 @@ function createMDE(id, sideBySide, horizontal=true, status=true) {
                 name: "upload-image",
                 className: "fa fa-image",
                 action: uploadImage,
-                title: "Upload image"
+                title: "Upload Image"
             },
-            "table",
+            {
+                name: "draw-table",
+                className: "fa fa-table",
+                action: EasyMDE.drawTable,
+                title: "Insert Table"
+            },
             {
                 name: "katex",
                 className: "fa fa-square-root-variable",
