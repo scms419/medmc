@@ -41,9 +41,9 @@ function createInputButton(id, value, func = null) {
     const button = document.createElement("input");
     button.type = "button";
     button.id = id;
+    button.className = "btn btn-outline-primary";
     button.value = value;
     button.onclick = func;
-    button.style = "min-width: 120px";
     return button;
 }
 

@@ -22,7 +22,7 @@ function createSelectCourseForm(courses) {
             ${Object.keys(courses).map(level => `
                     <h5 class="border-bottom">${level}</h5>
                     ${Object.keys(courses[level]).map(course => `
-                        <div class="form-check my-3">
+                        <div class="form-check form-check-inline my-3">
                             <input type="radio" id="${course}" name="selectCourse" value="${course}" data-level="${level}" class="form-check-input">
                             <label for="${course}" class="form-check-label">${course}</label>
                         </div>
@@ -97,7 +97,7 @@ function generateQuestions(data, options, num) {
 function renderQuestion(question, code, num) {
     const div = document.createElement("div");
     div.id = "Q" + num;
-    div.className = "my-4";
+    div.className = "my-4 p-2";
     div.innerHTML = `
         <h5 class="fs-6">${num}. ${code}</h5>
         <p class="lead">${marked.parse(question.question)}</p>
@@ -106,6 +106,7 @@ function renderQuestion(question, code, num) {
                 <div class="form-check">
                     <input type="radio" id="${"Q"+num+option}" name="${div.id}" value="${option}" class="form-check-input">
                     <label for="${"Q"+num+option}" class="form-check-label">${option}. ${marked.parseInline(question.options[option])}</label>
+                    <label id="response" class="fw-bold fst-italic"></label>
                 </div>
             `).join('')}
         </form>
@@ -115,9 +116,6 @@ function renderQuestion(question, code, num) {
 function renderQuestions(questions, codes) {
     for (let i = 1; i <= codes.length; i++) {
         questionContainer.appendChild(renderQuestion(questions[codes[i-1]], codes[i-1], i));
-        const explanationDiv = document.createElement("div");
-        explanationDiv.id = "Q" + i + "Explanation";
-        questionContainer.appendChild(explanationDiv);
     }
 }
 function createMainForm(data) {
@@ -137,6 +135,7 @@ function createMainForm(data) {
         function() {window.print();});
     let redoButton;
     const restartButton = createInputButton("restartButton", "Restart", function() {
+        resultContainer.hidden = true;
         resultContainer.innerHTML = "";
         questionContainer.innerHTML = "";
         const inputs = document.querySelectorAll("input[name='selectCourse'], input[name='selectMode'], input[name='selectOption']");
@@ -208,56 +207,53 @@ function createMainForm(data) {
             for (const input of inputs) input.disabled = true;
             selectNumInput.disabled = true;
             renderQuestions(questions, codes);
+            location.href = "#questionView";
             setButtons([submitQuestionButton, printButton, cancelButton]);
         }
     });
     submitQuestionButton.addEventListener("click", (e) => {
         for (let i = 0; i < codes.length; i++) {
-            const id = "Q" + (i+1);
+            const id = "Q" + (i + 1);
             const div = document.getElementById(id);
-            const explanationDiv = document.getElementById(id+"Explanation");
-            const explanationButton = document.createElement("button");
-            const icon = document.createElement("i");
-            explanationButton.type = "button";
-            explanationButton.className = "collapsible";
-            explanationButton.innerText = "Explanation";
-            icon.className = "fa-solid fa-chevron-down";
-            icon.style = "position: absolute; right: 25px";
-            explanationButton.appendChild(icon);
-            const explanationText = document.createElement("div");
-            explanationText.className = "content";
-            explanationText.innerHTML = marked.parse(questions[codes[i]].explanation);
-            explanationDiv.appendChild(explanationButton);
-            explanationDiv.appendChild(explanationText);
-            makeCollapsible(explanationButton);
+            const explanationDiv = document.createElement("div");
+            explanationDiv.className = "my-2";
+            explanationDiv.innerHTML = `
+                <button class="btn btn-primary" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#explanation${id}" aria-expanded="false" aria-controls="explanation${id}">
+                    Explanation
+                </button>
+                <div class="collapse" id="explanation${id}">
+                    <div class="card card-body bg-dark-subtle">${marked.parse(questions[codes[i]].explanation)}</div>
+                </div>
+            `;
+            div.appendChild(explanationDiv);
             const query = document.querySelector(`input[name='${id}']:checked`);
             if (query && query.value === questions[codes[i]].answer) {
-                div.style = "background-color: lightgreen";
+                div.classList.add("bg-success-subtle");
                 marks++;
             }
             else {
-                div.style = "background-color: lightpink";
-                const span = document.createElement("span");
-                const form = document.getElementById(id + "Form");
-                const correctAns = document.getElementById(id + questions[codes[i]].answer);
-                span.innerHTML = `&emsp;<i>Correct answer</i>`
-                span.id = id + "CorrectAns";
-                form.insertBefore(span, correctAns.nextElementSibling.nextElementSibling);
+                div.classList.add("bg-danger-subtle");
+                const option = document.querySelector(`label[for='${id}${questions[codes[i]].answer}']`);
+                option.classList.add("fw-bold");
+                option.classList.add("opacity-100");
+                option.nextElementSibling.innerHTML = "Correct answer";
             }
             for (const input of document.querySelectorAll(`input[name='${id}']`)) {
                 input.disabled = true;
             }
         }
+        resultContainer.hidden = false;
         resultContainer.innerHTML = `
-                <h3>Score: ${marks}/${num}</h3>
-            `;
-        redoButton = createInputButton("redoButton", "Redo", function() {
+            <h3>Score: ${marks}/${num}</h3>
+        `;
+        redoButton = createInputButton("redoButton", "Redo", function () {
+            resultContainer.hidden = true;
             resultContainer.innerHTML = "";
             questionContainer.innerHTML = "";
             codes = shuffle(codes);
             marks = 0;
             renderQuestions(questions, codes);
-            questionContainer.appendChild(document.createElement("hr"));
             setButtons([submitQuestionButton, printButton, cancelButton]);
             location.href = "#questionView";
         });
