@@ -52,6 +52,11 @@ function setButtons(buttons) {
     for (const button of buttons) buttonsSpan.appendChild(button);
 }
 
+const meta = document.createElement("meta");
+meta.name = "viewport";
+meta.content = "width=device-width, initial-scale=1";
+document.getElementsByTagName("head")[0].appendChild(meta);
+
 const link = document.createElement("link");
 link.href = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css";
 link.rel = "stylesheet";
