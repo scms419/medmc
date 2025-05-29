@@ -45,6 +45,11 @@ fetch("updates.json")
             div.innerHTML = `
                 <div class="row justify-content-start">
                     <div class="col">
+                        <h3>${update.title}</h3>
+                    </div>
+                </div>
+                <div class="row justify-content-start">
+                    <div class="col">
                         <p>${update.content}</p>
                     </div>
                 </div>

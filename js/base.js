@@ -1,4 +1,11 @@
-const buttonsSpan = document.getElementById("buttons");
+const buttonsDiv = document.getElementById("buttons");
+
+if (buttonsDiv) {
+    buttonsDiv.className = "container-fluid px-5 py-3 bg-body-tertiary d-flex justify-content-evenly fixed-bottom border-top";
+    const div = document.createElement("div");
+    div.style = `height: 63px`;
+    document.getElementsByTagName("body")[0].appendChild(div);
+}
 
 function keysValid(obj, arr) {
     const keys = Object.keys(obj);
@@ -48,39 +55,15 @@ function createInputButton(id, value, func = null) {
 }
 
 function setButtons(buttons) {
-    buttonsSpan.innerHTML = "";
-    for (const button of buttons) buttonsSpan.appendChild(button);
+    buttonsDiv.innerHTML = "";
+    for (const button of buttons) buttonsDiv.appendChild(button);
 }
-
-const meta = document.createElement("meta");
-meta.name = "viewport";
-meta.content = "width=device-width, initial-scale=1";
-document.getElementsByTagName("head")[0].appendChild(meta);
-
-const link = document.createElement("link");
-link.href = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css";
-link.rel = "stylesheet";
-link.integrity = "sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT";
-link.crossOrigin = "anonymous";
-document.getElementsByTagName("head")[0].appendChild(link);
-
-const script = document.createElement("script");
-script.src = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js";
-script.integrity = "sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO";
-script.crossOrigin = "anonymous";
-document.getElementsByTagName("head")[0].appendChild(script);
-
-const iconLink = document.createElement("link");
-iconLink.rel = "stylesheet";
-iconLink.href = "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css";
-document.getElementsByTagName("head")[0].appendChild(iconLink);
 
 const dayMap = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
 function timeNow() {
     const date = new Date();
     document.getElementById("timeSpan").innerText = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()} ${dayMap[date.getDay()]} ${((date.getHours() >= 10) ? "" : "0") + date.getHours()}:${((date.getMinutes() >= 10) ? "" : "0") + date.getMinutes()}`;
-
 }
 
 timeNow();

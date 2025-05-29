@@ -2,13 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Database</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="mde-config.css">
-    <link rel="stylesheet" href="database.css">
 </head>
 <body>
+    <style>
+        .hidden {
+        visibility: hidden;
+    }
+    </style>
     <nav class="navbar navbar-expand-md bg-body-tertiary">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.html">MedMC</a>
@@ -38,41 +45,120 @@
         <button type="button" id="prevButton" class="btn btn-outline-secondary">Previous Question</button>
         <select id="selectQuestion" class="form-select w-50" aria-label="Select question"></select>
         <button type="button" id="nextButton" class="btn btn-outline-secondary">Next Question</button>
-    </div><br>
-    <div id="information" style="width: 100%; justify-content: space-evenly; display: flex;">
-        <span style="width: 24%; justify-content: space-evenly; display: flex">
-            <label for="selectCourse">Course:</label>
-            <select id="selectCourse" style="width: 80%"></select>
-        </span>
-        <span style="width: 40%; justify-content: space-evenly; display: flex">
-            <label for="selectTopic">Topic:</label>
-            <select id="selectTopic" style="width: 80%"></select>
-        </span>
-        <span style="width: 12%; justify-content: space-evenly; display: flex">
-            <label for="questionId">ID:</label>
-            <input type="text" id="questionId" style="width: 60%">
-        </span>
-        <span style="width: 12%; justify-content: space-evenly; display: flex">
-            <label for="questionYear">Year:</label>
-            <input type="text" id="questionYear" style="width: 60%">
-        </span>
-        <span style="width: 12%; justify-content: space-evenly; display: flex">
-            <label for="questionNumber">No.:</label>
-            <input type="number" id="questionNumber" style="width: 40%">
-        </span>
-    </div><br>
-    <div id="questionEditor">
-        <p for="question">Question:</p>
+    </div>
+    <div id="information" class="row row-cols-lg-12 row-cols-3 p-3">
+        <div class="col-5 col-lg-3 mb-3">
+            <div class="row">
+                <label for="selectCourse" class="col-md-2 col-form-label col-form-label-sm">Course:</label>
+                <div class="col-md-10">
+                    <select id="selectCourse" class="form-select form-select-sm"></select>
+                </div>
+            </div>
+        </div>
+        <div class="col-7 col-lg-4 mb-3">
+            <div class="row">
+                <label for="selectTopic" class="col-md-2 col-form-label col-form-label-sm">Topic:</label>
+                <div class="col-md-10">
+                    <select id="selectTopic" class="form-select form-select-sm"></select>
+                </div>
+            </div>
+        </div>
+        <div class="col col-lg-2 mb-3">
+            <div class="row">
+                <label for="questionId" class="col-md-2 col-form-label col-form-label-sm">ID:</label>
+                <div class="col-md-10">
+                    <input type="text" id="questionId" class="form-control form-control-sm">
+                </div>
+            </div>
+        </div>
+        <div class="col col-lg-2 mb-3">
+            <div class="row">
+                <label for="questionYear" class="col-md-2 col-form-label col-form-label-sm">Year:</label>
+                <div class="col-md-10">
+                    <input type="text" id="questionYear" class="form-control form-control-sm">
+                </div>
+            </div>
+        </div>
+        <div class="col col-lg-1 mb-3">
+            <div class="row">
+                <label for="questionNumber" class="col-md-4 col-form-label col-form-label-sm">No.:</label>
+                <div class="col-md-8">
+                    <input type="number" id="questionNumber" class="form-control form-control-sm">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="questionEditor" class="container-fluid p-3">
+        <label for="question" class="form-label">Question:</label>
         <textarea id="question"></textarea>
     </div>
-    <div id="optionEditor"></div>
-    <div id="explanationEditor">
-        <p for="explanation">Explanation:</p>
+    <div class="container-fluid p-3">
+        <div class="row-cols-auto mb-3">
+            <label class="col-2">Options:</label>
+            <i class="col fa-solid fa-circle-minus"></i>
+            <i class="col fa-solid fa-circle-plus"></i>
+        </div>
+        <div id="optionEditor"></div>
+    </div>
+    <div id="explanationEditor" class="container-fluid p-3">
+        <label for="explanation" class="form-label">Explanation:</label>
         <textarea id="explanation"></textarea>
     </div>
-    <div id="buttons" class="container-fluid px-5 py-3 bg-body-tertiary d-flex justify-content-evenly fixed-bottom border-top"></div>
-    <div class="modal" id="modalDiv">
-        <div class="modal-content" id="modalContent"></div>
+    <div id="buttons"></div>
+    <div class="modal fade" id="addCourseModal" tabindex="-1" aria-labelledby="addCourseModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title">Add course</h3>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="p-3">
+                        <form id="addCourseForm" novalidate>
+                            <div class="mb-3">
+                                <label for="addCourseLevel" class="form-label">Level</label>
+                                <input type="text" id="addCourseLevel" class="form-control" aria-describedby="validationLevel" required>
+                                <div class="invalid-feedback" id="validationLevel"></div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="addCourse" class="form-label">Name of the new course</label>
+                                <input type="text" id="addCourse" class="form-control" aria-describedby="validationCourse" required>
+                                <div class="invalid-feedback" id="validationCourse"></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary" form="addCourseForm">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="addTopicModal" tabindex="-1" aria-labelledby="addTopicModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title">Add topic</h3>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="p-3">
+                        <form id="addTopicForm" novalidate>
+                            <div class="mb-3">
+                                <label for="addTopic" class="form-label">Topic</label>
+                                <input type="text" id="addTopic" class="form-control" aria-describedby="validationTopic" required>
+                                <div class="invalid-feedback" id="validationTopic"></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary" form="addTopicForm">Submit</button>
+                </div>
+            </div>
+        </div>
     </div>
     <script src="https://kit.fontawesome.com/4aa662232e.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
@@ -80,6 +166,7 @@
     <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked-katex-extension@5.1.4/lib/index.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
     <script src="dist/jszip.js"></script>
     <script src="js/base.js"></script>
     <script src="js/marked-config.js"></script>

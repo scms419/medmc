@@ -11,6 +11,10 @@ const questionNumber = document.getElementById("questionNumber");
 const questionEditor = createMDE("question", true);
 const optionEditor = document.getElementById("optionEditor");
 const explanationEditor = createMDE("explanation", true);
+const addCourseModal = new bootstrap.Modal("#addCourseModal");
+const addCourseForm = document.getElementById("addCourseForm");
+const addTopicModal = new bootstrap.Modal("#addTopicModal");
+const addTopicForm = document.getElementById("addTopicForm");
 const emptyQuestion = {
     "year": "",
     "course": "",
@@ -36,101 +40,6 @@ let initialData;
 
 Array.prototype.remove = function (value) {
     this.splice(this.indexOf(value), 1);
-}
-function createAddCourseModalBox (prev) {
-    function close() {
-        div.style.display = "none";
-        content.innerHTML = "";
-        selectCourse.value = prev;
-    }
-    function submit() {
-        if (document.getElementById("errorMessage")) document.getElementById("errorMessage").remove();
-        const level = document.getElementById("addCourseLevel").value;
-        const newCourse = document.getElementById("addCourse").value;
-        if (courseMap[newCourse]) {
-            const span = document.createElement("span");
-            span.id = "errorMessage";
-            span.style = "color: red";
-            span.innerText = "Course already exists";
-            document.getElementById("addCourseForm").insertBefore(span, document.querySelector("input[type='submit']").previousElementSibling);
-            return;
-        }
-        if (!courses[level]) courses[level] = {};
-        courses[level][newCourse] = {
-            "byYear": {},
-            "byTopic": {}
-        };
-        courseMap[newCourse] = level;
-        close();
-        updateCourse(newCourse);
-        updateTopic(newCourse);
-    }
-    const div = document.getElementById("modalDiv");
-    const content = document.getElementById("modalContent");
-    content.innerHTML = `
-        <span class="close">&times;</span>
-        <form id="addCourseForm">
-            <p>
-                <label for="addCourseLevel">Enter the level of the new course:</label><br>
-                <input type="text" id="addCourseLevel" style="width: 80%" required>
-            </p>
-            <p>
-                <label for="addCourse">Enter the name of the new course:</label><br>
-                <input type="text" id="addCourse" style="width: 80%" required>
-            </p>
-            <br>
-            <input type="submit" value="Submit" id="addCourseSubmit">
-        </form>
-    `;
-    div.style.display = "block";
-    document.getElementsByClassName("close")[0].addEventListener("click", close);
-    document.getElementById("addCourseForm").addEventListener("submit", (e) => {
-        e.preventDefault();
-        submit();
-    });
-}
-function createAddTopicModalBox(prev) {
-    function close() {
-        div.style.display = "none";
-        content.innerHTML = "";
-        selectTopic.value = prev;
-    }
-    function submit() {
-        if (document.getElementById("errorMessage")) document.getElementById("errorMessage").remove();
-        const course = selectCourse.value;
-        const level = courseMap[course];
-        const newTopic = document.getElementById("addTopic").value;
-        if (courses[level][course].byTopic[newTopic]) {
-            const span = document.createElement("span");
-            span.id = "errorMessage";
-            span.style = "color: red";
-            span.innerText = "Topic already exists";
-            document.getElementById("addTopicForm").insertBefore(span, document.querySelector("input[type='submit']").previousElementSibling);
-            return;
-        }
-        courses[level][course].byTopic[newTopic] = [];
-        close();
-        updateTopic(course, newTopic);
-    }
-    const div = document.getElementById("modalDiv");
-    const content = document.getElementById("modalContent");
-    content.innerHTML = `
-        <span class="close">&times;</span>
-        <form id="addTopicForm">
-            <p>
-                <label for="addTopic">Enter the name of the new topic:</label><br>
-                <input type="text" id="addTopic" style="width: 80%" required>
-            </p>
-            <br>
-            <input type="submit" value="Submit" id="addTopicSubmit">
-        </form>
-    `;
-    div.style.display = "block";
-    document.getElementsByClassName("close")[0].addEventListener("click", close);
-    document.getElementById("addTopicForm").addEventListener("submit", (e) => {
-        e.preventDefault();
-        submit();
-    });
 }
 function updateQuestionCode (selectedIndex) {
     selectQuestion.innerHTML = `
@@ -179,22 +88,19 @@ function updateTopic (course, value) {
     if (value) selectTopic.value = value;
 }
 function updateOptions () {
-    optionEditor.innerHTML = `
-        <p>
-            Options:&emsp;
-            <i class="fa-solid fa-circle-minus"></i>
-            <i class="fa-solid fa-circle-plus"></i>
-        </p>
-    `;
+    optionEditor.innerHTML = "";
     options = {};
     for (let [option, answer] of Object.entries(question.options)) {
-        const span = document.createElement("span");
-        span.innerHTML = `
-            <input type="radio" id="${'option'+option+'-radio'}" name="options" value="${option}">
-            <label for="${'option'+option}">${option}:</label>
+        const div = document.createElement("div");
+        div.className = "px-1 mb-3";
+        div.innerHTML = `
+            <div class="form-check">
+                <input type="radio" id="${'option'+option+'-radio'}" name="options" value="${option}" class="form-check-input">
+                <label for="${'option'+option}" class="form-check-label">${option}:</label>
+            </div>
             <textarea id="${'option'+option}"></textarea>
         `;
-        optionEditor.appendChild(span);
+        optionEditor.appendChild(div);
         options[option] = createMDE("option"+option, true, false, false);
         options[option].value(answer);
     }
@@ -230,8 +136,8 @@ function updateRenderingInfo (selectedIndex=0) {
     }
     if (selectedIndex === 0) prevButton.classList.add("hidden");
     else if (prevButton.classList.contains("hidden")) prevButton.classList.remove("hidden");
-    if (selectedIndex === selectQuestion.length-1 || selectedIndex === -1) nextButton.value = "Add question";
-    else nextButton.value = "Next question";
+    if (selectedIndex === selectQuestion.length-1 || selectedIndex === -1) nextButton.innerText = "Add question";
+    else nextButton.innerText = "Next question";
     updateCourse((question.course) ? question.course : -1);
     updateTopic(question.course, question.topic);
     questionId.value = id;
@@ -408,14 +314,97 @@ selectCourse.addEventListener("focus", () => {
     prevCourse = selectCourse.value;
 });
 selectCourse.addEventListener("change", () => {
-    if (selectCourse.value === "addCourse") createAddCourseModalBox(prevCourse);
+    if (selectCourse.value === "addCourse") {
+        addCourseModal.show();
+        selectCourse.value = prevCourse;
+    }
     else updateTopic(selectCourse.value);
 });
 selectTopic.addEventListener("focus", () => {
     prevTopic = selectTopic.value;
 });
 selectTopic.addEventListener("change", () => {
-    if (selectTopic.value === "addTopic") createAddTopicModalBox(prevTopic);
+    if (selectTopic.value === "addTopic") {
+        addTopicModal.show();
+        selectTopic.value = prevTopic;
+    }
+});
+
+addCourseForm.addEventListener("submit", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    const levelInput = document.getElementById("addCourseLevel");
+    const newCourseInput = document.getElementById("addCourse");
+    const level = levelInput.value;
+    const newCourse = newCourseInput.value;
+    const validationLevel = document.getElementById("validationLevel");
+    const validationCourse = document.getElementById("validationCourse");
+    if (level === "") {
+        levelInput.classList.remove("is-valid");
+        levelInput.classList.add("is-invalid");
+        validationLevel.innerText = "Level cannot be empty";
+    }
+    else {
+        levelInput.classList.remove("is-invalid");
+        levelInput.classList.add("is-valid");
+    }
+    if (newCourse === "") {
+        newCourseInput.classList.remove("is-valid");
+        newCourseInput.classList.add("is-invalid");
+        validationCourse.innerText = "Course cannot be empty";
+    }
+    else if (courseMap[newCourse]) {
+        newCourseInput.classList.remove("is-valid");
+        newCourseInput.classList.add("is-invalid");
+        validationCourse.innerText = "Course already exists";
+    }
+    else {
+        newCourseInput.classList.remove("is-invalid");
+        newCourseInput.classList.add("is-valid");
+    }
+    if (!addCourseForm.checkValidity()) return;
+    if (!courses[level]) courses[level] = {};
+    courses[level][newCourse] = {
+        "byYear": {},
+        "byTopic": {}
+    };
+    courseMap[newCourse] = level;
+    addCourseModal.hide();
+    levelInput.value = "";
+    newCourseInput.value = "";
+    levelInput.classList.remove("is-valid");
+    newCourseInput.classList.remove("is-valid");
+    updateCourse(newCourse);
+    updateTopic(newCourse);
+});
+addTopicForm.addEventListener("submit", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    const course = selectCourse.value;
+    const level = courseMap[course];
+    const newTopicInput = document.getElementById("addTopic");
+    const newTopic = newTopicInput.value;
+    const validationTopic = document.getElementById("validationTopic");
+    if (newTopic === "") {
+        newTopicInput.classList.remove("is-valid");
+        newTopicInput.classList.add("is-invalid");
+        validationTopic.innerText = "Topic cannot be empty";
+    }
+    else if (courses[level][course].byTopic[newTopic]) {
+        newTopicInput.classList.remove("is-valid");
+        newTopicInput.classList.add("is-invalid");
+        validationTopic.innerText = "Topic already exists";
+    }
+    else {
+        newTopicInput.classList.remove("is-invalid");
+        newTopicInput.classList.add("is-valid");
+    }
+    if (!addTopicForm.checkValidity()) return;
+    courses[level][course].byTopic[newTopic] = [];
+    addTopicModal.hide();
+    newTopicInput.value = "";
+    newTopicInput.classList.remove("is-valid");
+    updateTopic(course, newTopic);
 });
 
 const saveButton = createInputButton("saveButton", "Save changes", function () {
