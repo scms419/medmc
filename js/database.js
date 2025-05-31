@@ -264,7 +264,11 @@ function clean () {
                 for (let [topic, codes] of Object.entries(info.byTopic)) {
                     if (Object.keys(codes).length === 0) delete info.byTopic[topic];
                 }
+                if (Object.keys(info.byYear).length === 0 || Object.keys(info.byTopic).length === 0) delete obj[level][course];
             }
+        }
+        if (Object.keys(obj[level]).length === 0) {
+            delete obj[level];
         }
     }
     return obj;

@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Get started</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="mde-config.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-md bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">MedMC</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="form-input.html">Self-check Test</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="database-input.html">Database</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="get-started.html">About</a>
+                    </li>
+                </ul>
+                <span class="navbar-text" id="timeSpan"></span>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid border-bottom">
+        <header class="d-flex justify-content-center py-3">
+            <ul class="nav nav-pills">
+                <li class="nav-item">
+                    <a href="#" class="nav-link active" aria-current="page">Get started</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">About self-check test</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">About database</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">About this page</a>
+                </li>
+            </ul>
+        </header>
+    </div>
+    <div class="px-4 py-5">
+        <div class="container-fluid py-2">
+            <h1>Get started with MedMC</h1>
+            <p>
+                Practice makes perfect. MedMC is a platform that collects multiple-choice questions from past exams,
+                allowing you to practice more and consolidate the knowledge you've learnt. MedMC contains two main
+                components, namely the “Self-check test” and the “Database”. We will now look into each function to give
+                you an overview of how to use them efficiently.
+            </p>
+        </div>
+        <div class="d-md-inline-flex flex-column justify-content-start border rounded py-2">
+            <button class="btn btn-link text-decoration-none text-reset align-self-start" data-bs-toggle="collapse" data-bs-target="#toc" aria-expanded="false" aria-controls="toc">
+                On this page
+                <i class="bi bi-chevron-expand"></i>
+            </button>
+            <div class="collapse" id="toc">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link text-reset" href="#self-check-test">Self-check test</a>
+                        <ul class="nav flex-column ms-4">
+                            <li class="nav-item">
+                                <a class="nav-link text-reset" href="#test-select-db">Select the question database</a>
+                            </li>
+                            <li>
+                                <a class="nav-link text-reset" href="#test-select-options">Select options to generate the test</a>
+                            </li>
+                            <li>
+                                <a class="nav-link text-reset" href="#test-conduct">Conduct and review the test</a>
+                            </li>
+                        </ul>
+                        <a class="nav-link text-reset" href="#database">Database</a>
+                        <ul class="nav flex-column ms-4">
+                            <li class="nav-item">
+                                <a class="nav-link text-reset" href="#db-select-db">Select the question database</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-reset" href="#db-edit">Edit the question database</a>
+                            </li>
+                            <ul class="nav flex-column ms-4">
+                                <li class="nav-item">
+                                    <a class="nav-link text-reset" href="#db-edit-info">Set the information of the question</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-reset" href="#db-edit-content">Set the content of the question</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-reset" href="#db-edit-save">Save changes for the question database</a>
+                                </li>
+                            </ul>
+                        </ul>
+                        <a class="nav-link text-reset" href="#contribute">Contribute</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="container-fluid py-2">
+            <h2 class="mt-5" id="self-check-test">Self-check test</h2>
+            <p>
+                Regarding the self-check test, this will probably be the place you will stay for the longest time. As the
+                name implies, this will be the place where you can learn and practice.
+            </p>
+            <h3 class="fs-4 mt-3" id="test-select-db">Select the question database</h3>
+            <p>
+                To start a self-check test, you are provided with two options: <strong>using our predefined database</strong>
+                or <strong>using your own database</strong>.
+            </p>
+            <div class="my-3 p-2 border rounded">
+                <div class="px-4 py-5 mt-3 mb-3 text-center">
+                    <img class="d-block mx-auto mb-4" src="icon/database-fill.svg" alt width="72" height="57">
+                    <h1 class="display-5 fw-bold text-body-emphasis">Use predefined database</h1>
+                    <div class="col-lg-6 mx-auto">
+                        <p class="lead mb-4">Use the database we have prepared and start a self-check test with ease!</p>
+                        <button type="button" class="btn btn-primary btn-lg px-4 gap-3 disabled">Click me!</button>
+                    </div>
+                </div>
+                <p>
+                    For simple use, you can go straight ahead for the first option without setting any database. You can check
+                    the content of the database
+                    <a href="https://github.com/scms419/medmc/blob/main/questions.json" target="_blank">here</a>
+                    (I am so sorry for making the database so complicated) or simply check the updates from the
+                    <a href="index.html#updates" target="_blank">homepage</a>.
+                </p>
+            </div>
+            <div class="my-3 p-2 border rounded">
+                <div class="px-4 py-5 mt-3 mb-3 text-center">
+                    <img class="d-block mx-auto mb-4" src="icon/file-earmark-zip-fill.svg" alt width="72" height="57">
+                    <h1 class="display-5 fw-bold text-body-emphasis">Use your database</h1>
+                    <div class="col-lg-6 mx-auto">
+                        <p class="lead mb-4">Upload your own database in .zip format and start the test!</p>
+                        <button type="button" class="btn btn-primary btn-lg px-4 gap-3 disabled">Click me!</button>
+                    </div>
+                </div>
+                <p>
+                    For advanced use, you may also provide your database in zip format created from the “Database” function
+                    (to be discussed in the next section) to practice self-defined questions.
+                </p>
+            </div>
+            <h3 class="fs-4 mt-3" id="test-select-options">Select options to generate the test</h3>
+            <p>
+                After selecting the suitable option, follow the instructions to choose the questions you have to practice
+                on. (I know this is really annoying, but you have to go through it.) By clicking the submit button below,
+                you can eventually start the test.
+            </p>
+            <img src="screenshots/self-check-test-select-options.png" class="img-fluid" alt="Select options to start a self-check test">
+            <p>Image for reference only</p>
+            <h3 class="fs-4 mt-3" id="test-conduct">Conduct and review the test</h3>
+            <p>
+                Try your best to answer the questions and press the "Submit" button below when you have finished the test.
+            </p>
+            <p>
+                After submission, you can check your score and find the explanation for the question.
+            </p>
+            <img src="screenshots/self-check-test-result.png" class="img-fluid" alt="Result of the self-check test">
+            <p>This is also for reference only</p>
+            <p>
+                Due to the unfortunate fact that this website is a static one, we are not able to save the test for you to
+                continue the test or review it later.
+            </p>
+            <p>
+                A “Print & Save” button is provided for you to save the test on your device whenever you have to stop the
+                test, or you would like to save the test for revision.
+            </p>
+            <p><strong>
+                Note that you cannot open the test again on
+                the website!
+            </strong></p>
+            <p>
+                If you would like to redo the test on the same set of questions, you may click on the “Redo” button. Otherwise,
+                you may click on the “Restart” button to restart a test.
+            </p>
+            <h2 class="mt-5" id="database">Database</h2>
+            <p>
+                As for the “Database” component, this will be the place for you to create, update, and edit the database.
+            </p>
+            <p class="text-body-secondary">
+                (This function is for advanced use only. You may skip this part if you are only using the self-check test
+                function.)
+            </p>
+            <h3 class="fs-4 mt-3" id="db-select-db">Select the question database</h3>
+            <p>
+                Similarly, you will have to choose from 3 options: starting from the current database (i.e. the predefined
+                database <a href="https://github.com/scms419/medmc/blob/main/questions.json" target="_blank">here</a>),
+                creating a new database, and importing from local drive. Start editing the database by choosing the
+                appropriate option.
+            </p>
+            <h3 class="fs-4 mt-3" id="db-edit">Edit the question database</h3>
+            <p>
+                Entering the interface for editing the database, you will see the following.
+            </p>
+            <img src="screenshots/database.png" class="img-fluid mb-3" alt="Interface for editing the database">
+            <h4 class="fs-5 mt-2" id="db-edit-info">Set the information of the question</h4>
+            <p>
+                For the first row, you can choose the question to edit or add questions by clicking on the button or
+                selecting from the drop-down list.
+            </p>
+            <p>
+                Check and update the information about the question in the second row. This is important for the program to
+                select questions according to the user’s needs when generating the self-check test!
+            </p>
+            <p>
+                To add a new course or a new topic for the course, you can choose the “Add course …” or “Add topic …”
+                options from the corresponding drop-down list.
+            </p>
+            <img src="screenshots/database-add-course.png" class="img-fluid mb-3" alt="Add a new course to the database">
+            <p>
+                Also, make sure that each question has a unique ID for the program to read the database correctly.
+            </p>
+            <h4 class="fs-5 mt-2" id="db-edit-content">Set the content of the question</h4>
+            <p>
+                There are a couple of large boxes below for editing the content of the question, including the question
+                itself, the options, and the explanation.
+            </p>
+            <div class="my-2">
+                <label for="sampleMDE">Sample Markdown editor</label>
+                <textarea id="sampleMDE"></textarea>
+            </div>
+            <p>
+                The editors require input in Markdown language from the left-hand
+                side (or the box above for the options editor) and translate it into the styled text in the preview window
+                on the right-hand side (or the box below for the options editor).
+            </p>
+            <p>
+                Check the full guide for the Markdown editor <a href="#" target="_blank">here</a> to discover the different
+                functions of the editor and the Markdown syntax.
+            </p>
+            <p>
+                For the options, you should click on the “&minus;“ or “&plus;” button to remove the last option or add a
+                new option. Remember to choose the correct answer for the question by checking the radio button beside it.
+            </p>
+            <img src="screenshots/database-options.png" class="img-fluid mb-3" alt="Set options for the question">
+            <h4 class="fs-5 mt-2" id="db-edit-save">Save changes for the question database</h4>
+            <p>
+                Don’t forget to save changes after editing. Again, as this is a static web application, you will have to
+                save the generated zip file on your device. After that, you can try your database in the “Self-check test”
+                function by uploading it.
+            </p>
+            <h2 class="mt-5" id="contribute">Contribute</h2>
+            <p>
+                If you have found any bugs or would like to support this website by providing suggestions, please don’t
+                hesitate to contact me through WhatsApp (if you know my contact number) or email
+                <a href="mailto:scms419@gmail.com">scms419@gmail.com</a>. Thank you for using the website, and I wish you
+                a 爆4.
+            </p>
+        </div>
+    </div>
+    <script src="https://kit.fontawesome.com/4aa662232e.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked-katex-extension@5.1.4/lib/index.umd.js"></script>
+    <script src="js/base.js"></script>
+    <script src="js/mde-config.js"></script>
+    <script src="js/marked-config.js"></script>
+    <script>
+        createMDE("sampleMDE", true);
+    </script>
+</body>
+</html>

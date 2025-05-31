@@ -149,7 +149,7 @@
       "explanation": "*2 K<sup>+</sup> ions in and 3 Na<sup>+</sup> ions out.*\n\nNote that potassium ions will tend to diffuse out of the cell, while sodium ions tend to diffuse in the cell, both using their respective leak channels.\nThe pump uses ATP and helps to maintain the concentration gradient of K<sup>+</sup> and Na<sup>+</sup> across the cell membrane (imbalance charges), i.e. compensating for the loss of intracellular K<sup>+</sup> and extracellular Na<sup>+</sup>.\nAs a result, the resting membrane potential can be maintained.\n\nMechanisms for the Na<sup>+</sup>-K<sup>+</sup> ATPase pump:\n1. 3 Na<sup>+</sup> binds to the intracellular binding site.\n2. This triggers ATP to be hydrolyzed (enzymatic reaction) and the phosphate group binds to the receptor also, inducing a conformational change that eventually shifts the 3 Na<sup>+</sup> to ECF, then released to ECF.\n3. 2 K<sup>+</sup> binds to the extracellular binding site.\n4. This triggers the dephosphorylation of the pump. A conformational change is induced that eventually shifts the 2 K<sup>+</sup> to ICF, then released to ICF.\n"
     },
     "19-20 HSII Q37": {
-      "year": "2012-13",
+      "year": "2019-20",
       "course": "MEDF1012B Health Sciences II",
       "question_number": 37,
       "level": "Year 1 Sem 2",
