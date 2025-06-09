@@ -72,10 +72,10 @@ function createMDE(id, sideBySide, horizontal=true, status=true) {
             },
             "|",
             {
-                name: "upload-image",
+                name: "insert-image",
                 className: "fa fa-image",
                 action: uploadImage,
-                title: "Upload Image"
+                title: "Insert Image"
             },
             {
                 name: "draw-table",
@@ -270,7 +270,7 @@ function isPatterned(str, start, end, patternStart, patternEnd) {
     let startPoint = str.indexOf(patternStart);
     let endPoint = str.indexOf(patternEnd, startPoint+1);
     while (true) {
-        if (startPoint === -1) return false;
+        if (startPoint === -1 || endPoint === -1) return false;
         else if (startPoint < start) {
             if (endPoint < start) {
                 startPoint = str.indexOf(patternStart, endPoint+1);
