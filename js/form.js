@@ -125,6 +125,7 @@ function createMainForm(data) {
     }
     const courses = data.courses;
     const questions = data.questions;
+    let selectedLevel, selectedCourse, selectedMode, num, codes, marks=0;
     const selectCourseForm = createSelectCourseForm(courses);
     const selectModeForm = createSelectModeForm();
     let selectOptionForm;
@@ -137,6 +138,7 @@ function createMainForm(data) {
     const restartButton = createInputButton("restartButton", "Restart", function() {
         resultContainer.hidden = true;
         resultContainer.innerHTML = "";
+        marks = 0;
         questionContainer.innerHTML = "";
         const inputs = document.querySelectorAll("input[name='selectCourse'], input[name='selectMode'], input[name='selectOption']");
         const selectNumInput = document.querySelector("input[id='selectNum']");
@@ -150,7 +152,6 @@ function createMainForm(data) {
     const returnButton = createInputButton("returnButton", "Return to Homepage",
         function() {location.href = "index.html";});
     setButtons([cancelButton]);
-    let selectedLevel, selectedCourse, selectedMode, num, codes, marks=0;
     formContainer.appendChild(selectCourseForm);
     selectCourseForm.addEventListener("change", (e) => {
         for (const radio of document.querySelectorAll("input[name='selectCourse']")) {
@@ -250,9 +251,9 @@ function createMainForm(data) {
         redoButton = createInputButton("redoButton", "Redo", function () {
             resultContainer.hidden = true;
             resultContainer.innerHTML = "";
+            marks = 0;
             questionContainer.innerHTML = "";
             codes = shuffle(codes);
-            marks = 0;
             renderQuestions(questions, codes);
             setButtons([submitQuestionButton, printButton, cancelButton]);
             location.href = "#questionView";
