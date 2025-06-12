@@ -92,8 +92,7 @@
                     <small class="font-monospace text-body-secondary text-uppercase">md</small>
                 </div>
                 <div class="bg-body-tertiary ps-3 pe-2 py-1 border-0">
-                    <pre>
-                        <code>
+                    <pre><code>
 **Hello**, welcome to *Markdown*!
 
 # Heading 1
@@ -101,23 +100,20 @@
 ## Heading 2
 
 ### Heading 3
-                        </code>
-                    </pre>
+                    </code></pre>
                 </div>
                 <div class="d-flex align-items-center bg-body-secondary ps-3 pe-2 py-1 border-0 border-top border-bottom">
                     <small class="font-monospace text-body-secondary text-uppercase">html</small>
                 </div>
                 <div class="bg-body-tertiary ps-3 pe-2 py-1 border-0">
-                    <pre>
-                        <code>
+                    <pre><code>
 &lt;p&gt;
     &lt;strong&gt;Hello&lt;/strong&gt;, welcome to &lt;em&gt;Markdown&lt;/em&gt;!
 &lt;/p&gt;
 &lt;h1&gt;Heading 1&lt;/h1&gt;
 &lt;h2&gt;Heading 2&lt;/h2&gt;
 &lt;h3&gt;Heading 3&lt;/h3&gt;
-                        </code>
-                    </pre>
+                    </code></pre>
                 </div>
                 <div class="d-flex align-items-center bg-body-secondary ps-3 pe-2 py-1 border-0 border-top border-bottom">
                     <small class="font-monospace text-body-secondary text-uppercase">result</small>
@@ -429,7 +425,7 @@
                         A plus (<code class="text-reset">+</code>) or minus (<code class="text-reset">-</code>) sign is also allowed to indicate the start of an unordered list.
                     </li>
                     <li>
-                        You are advised to add one or more whitespaces before every list item.
+                        Use <code>tab</code> to increase indent and add level to the list.
                     </li>
                 </ol>
             </p>
@@ -439,32 +435,33 @@
                     <small class="font-monospace text-body-secondary text-uppercase">md</small>
                 </div>
                 <div class="bg-body-tertiary ps-3 pe-2 py-1 border-0">
-                    <pre>
-                        <code>
+                    <pre><code>
  * First item of unordered list 1
  * Second item of unordered list 1
-  * First item of unordered list 2
-  * Second item
-  of unordered list 2
-  with multiple lines
+	 * First item of unordered list 2
+	 * Second item
+of unordered list 2
+with multiple lines
  1. First item of numbered list
  A. First item of lettered list
-                        </code>
-                    </pre>
+                    </code></pre>
                 </div>
                 <div class="d-flex align-items-center bg-body-secondary ps-3 pe-2 py-1 border-0 border-top border-bottom">
                     <small class="font-monospace text-body-secondary text-uppercase">html</small>
                 </div>
                 <div class="bg-body-tertiary ps-3 pe-2 py-1 border-0">
-                    <pre>
-                        <code>
+                    <pre><code>
 &lt;ul&gt;
-    &lt;li&gt;First item of unordered list 1&lt;/li&gt;
-    &lt;li&gt;Second item of unordered list 1&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-    &lt;li&gt;First item of unordered list 2&lt;/li&gt;
-    &lt;li&gt;Second item&lt;br&gt;of unordered list 2&lt;br&gt;with multiple lines&lt;/li&gt;
+    &lt;li&gt;
+        First item of unordered list 1
+    &lt;/li&gt;
+    &lt;li&gt;
+        Second item of unordered list 1
+        &lt;ul&gt;
+            &lt;li&gt;First item of unordered list 2&lt;/li&gt;
+            &lt;li&gt;Second item&lt;br&gt;of unordered list 2&lt;br&gt;with multiple lines&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol type="1"&gt;
     &lt;li&gt;First item of numbered list&lt;/li&gt;
@@ -472,22 +469,25 @@
 &lt;ol type="A"&gt;
     &lt;li&gt;First item of lettered list&lt;/li&gt;
 &lt;/ol&gt;
-                        </code>
-                    </pre>
+                    </code></pre>
                 </div>
                 <div class="d-flex align-items-center bg-body-secondary ps-3 pe-2 py-1 border-0 border-top border-bottom">
                     <small class="font-monospace text-body-secondary text-uppercase">result</small>
                 </div>
                 <div class="bg-body-tertiary ps-3 pe-2 py-1 border-0">
                     <ul>
-                        <li>First item of unordered list 1</li>
-                        <li>Second item of unordered list 1</li>
+                        <li>
+                            First item of unordered list 1
+                        </li>
+                        <li>
+                            Second item of unordered list 1
+                            <ul>
+                                <li>First item of unordered list 2</li>
+                                <li>Second item<br>of unordered list 2<br>with multiple lines</li>
+                            </ul>
+                        </li>
                     </ul>
-                    <ul>
-                        <li>First item of unordered list 2</li>
-                        <li>Second item<br>of unordered list 2<br>with multiple lines</li>
-                    </ul>
-                    <ol type="1">
+                    <ol>
                         <li>First item of numbered list</li>
                     </ol>
                     <ol type="A">
