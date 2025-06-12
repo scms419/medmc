@@ -9,13 +9,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="mde-config.css">
-</head>
-<body>
     <style>
         .hidden {
-        visibility: hidden;
-    }
+            visibility: hidden;
+        }
     </style>
+</head>
+<body>
     <nav class="navbar navbar-expand-md bg-body-tertiary">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.html">MedMC</a>
@@ -43,7 +43,12 @@
     </nav>
     <div id="bar" class="d-flex p-3 justify-content-around">
         <button type="button" id="prevButton" class="btn btn-outline-secondary">Previous Question</button>
-        <select id="selectQuestion" class="form-select w-50" aria-label="Select question"></select>
+        <div class="input-group w-50">
+            <select id="selectQuestion" class="form-select" aria-label="Select question"></select>
+            <button class="btn btn-outline-secondary" type="button" id="sortQuestionButton">
+                <i class="bi bi-sort-alpha-down"></i>
+            </button>
+        </div>
         <button type="button" id="nextButton" class="btn btn-outline-secondary">Next Question</button>
     </div>
     <div id="information" class="row row-cols-lg-12 row-cols-3 p-3">

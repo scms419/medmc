@@ -44,11 +44,11 @@ function validateJSON(data) {
     return true;
 }
 
-function createInputButton(id, value, func = null) {
+function createInputButton(id, value, style, func = null) {
     const button = document.createElement("input");
     button.type = "button";
     button.id = id;
-    button.className = "btn btn-outline-primary btn-sm";
+    button.className = `btn btn-outline-${style} btn-sm`;
     button.value = value;
     button.onclick = func;
     return button;

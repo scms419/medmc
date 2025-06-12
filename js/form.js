@@ -129,13 +129,13 @@ function createMainForm(data) {
     const selectCourseForm = createSelectCourseForm(courses);
     const selectModeForm = createSelectModeForm();
     let selectOptionForm;
-    const submitFormButton = createInputButton("submitFormButton", "Submit");
-    const submitQuestionButton = createInputButton("submitQuestionButton", "Submit",
+    const submitFormButton = createInputButton("submitFormButton", "Submit", "primary");
+    const submitQuestionButton = createInputButton("submitQuestionButton", "Submit", "primary",
         function() {location.href = "#resultView";});
-    const printButton = createInputButton("printButton", "Print & Save",
+    const printButton = createInputButton("printButton", "Print & Save", "info",
         function() {window.print();});
     let redoButton;
-    const restartButton = createInputButton("restartButton", "Restart", function() {
+    const restartButton = createInputButton("restartButton", "Restart", "primary", function() {
         resultContainer.hidden = true;
         resultContainer.innerHTML = "";
         marks = 0;
@@ -147,9 +147,9 @@ function createMainForm(data) {
         setButtons([submitFormButton, cancelButton]);
         location.href = "#formView";
     });
-    const cancelButton = createInputButton("cancelButton", "Cancel",
+    const cancelButton = createInputButton("cancelButton", "Cancel", "danger",
         function() {location.href = "index.html";});
-    const returnButton = createInputButton("returnButton", "Return to Homepage",
+    const returnButton = createInputButton("returnButton", "Return to Homepage", "secondary",
         function() {location.href = "index.html";});
     setButtons([cancelButton]);
     formContainer.appendChild(selectCourseForm);
@@ -209,7 +209,7 @@ function createMainForm(data) {
             selectNumInput.disabled = true;
             renderQuestions(questions, codes);
             location.href = "#questionView";
-            setButtons([submitQuestionButton, printButton, cancelButton]);
+            setButtons([printButton, submitQuestionButton, cancelButton]);
         }
     });
     submitQuestionButton.addEventListener("click", (e) => {
@@ -248,17 +248,17 @@ function createMainForm(data) {
         resultContainer.innerHTML = `
             <h3>Score: ${marks}/${num}</h3>
         `;
-        redoButton = createInputButton("redoButton", "Redo", function () {
+        redoButton = createInputButton("redoButton", "Redo", "primary", function () {
             resultContainer.hidden = true;
             resultContainer.innerHTML = "";
             marks = 0;
             questionContainer.innerHTML = "";
             codes = shuffle(codes);
             renderQuestions(questions, codes);
-            setButtons([submitQuestionButton, printButton, cancelButton]);
+            setButtons([printButton, submitQuestionButton, cancelButton]);
             location.href = "#questionView";
         });
-        setButtons([redoButton, printButton, restartButton, returnButton]);
+        setButtons([printButton, redoButton, restartButton, returnButton]);
     });
 }
 

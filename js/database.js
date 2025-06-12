@@ -2,6 +2,7 @@ let zip = new JSZip();
 let imgFolder = zip.folder("img");
 const prevButton = document.getElementById("prevButton");
 const selectQuestion = document.getElementById("selectQuestion");
+const sortQuestionButton = document.getElementById("sortQuestionButton");
 const nextButton = document.getElementById("nextButton");
 const selectCourse = document.getElementById("selectCourse");
 const selectTopic = document.getElementById("selectTopic");
@@ -33,6 +34,7 @@ const emptyQuestion = {
     "explanation": ""
 };
 let courses, questions;
+let questionCodeOptions;
 let courseMap = {};
 let options = {};
 let id, question;
@@ -41,13 +43,14 @@ let initialData;
 Array.prototype.remove = function (value) {
     this.splice(this.indexOf(value), 1);
 }
-function updateQuestionCode (selectedIndex) {
+function updateQuestionCode (selectedIndex, value) {
     selectQuestion.innerHTML = `
-        ${Object.keys(questions).map(key => `
+        ${questionCodeOptions.map(key => `
             <option value="${key}">${key}</option>
         `).join('')}
     `;
     if (selectedIndex) selectQuestion.selectedIndex = selectedIndex;
+    if (value) selectQuestion.value = value;
 }
 function updateCourse (value) {
     if (Object.keys(courses).length !== 0) {
@@ -106,23 +109,6 @@ function updateOptions () {
     }
     if (question.answer)
         document.getElementById("option"+question.answer+"-radio").checked = true;
-    document.getElementsByClassName("fa-solid fa-circle-plus")[0].addEventListener("click", () => {
-        const newOption = String.fromCharCode("A".charCodeAt(0)+Object.keys(options).length);
-        const span = document.createElement("span");
-        span.innerHTML = `
-            <input type="radio" id="${'option'+newOption+'-radio'}" name="options" value="${newOption}">
-            <label for="${'option'+newOption}">${newOption}:</label>
-            <textarea id="${'option'+newOption}"></textarea>
-        `;
-        optionEditor.appendChild(span);
-        options[newOption] = createMDE("option"+newOption, true, false, false);
-    });
-    document.getElementsByClassName("fa-solid fa-circle-minus")[0].addEventListener("click", () => {
-        const removeOption = Object.keys(options).at(-1);
-        if (options[removeOption].value() !== "" && !confirm("The last option contains text. Confirm removing the option?")) return;
-        optionEditor.lastElementChild.remove();
-        delete options[removeOption];
-    });
 }
 function updateRenderingInfo (selectedIndex=0) {
     updateQuestionCode(selectedIndex);
@@ -146,6 +132,24 @@ function updateRenderingInfo (selectedIndex=0) {
     questionEditor.value(question.question);
     updateOptions();
     explanationEditor.value(question.explanation);
+}
+function sortQuestion() {
+    questionCodeOptions = Object.keys(questions)
+        .sort((key1, key2) => {
+            if (questions[key1].level < questions[key2].level) return -1;
+            else if (questions[key1].level === questions[key2].level) {
+                if (questions[key1].course < questions[key2].course) return -1;
+                else if (questions[key1].course === questions[key2].course) {
+                    if (questions[key1].year < questions[key2].year) return -1;
+                    else if (questions[key1].year === questions[key2].year) {
+                        return questions[key1].question_number - questions[key2].question_number;
+                    }
+                    else if (questions[key1].year > questions[key2].year) return 1;
+                }
+                else if (questions[key1].course > questions[key2].course) return 1;
+            }
+            else if (questions[key1].level > questions[key2].level) return 1;
+        });
 }
 function findOptions () {
     const returnOptions = {};
@@ -227,6 +231,11 @@ function saveChanges (canEmpty, doAlert=true) {
             "answer": findAnswer(),
             "explanation": explanationEditor.value()
         };
+        if (id !== questionId.value) {
+            if (id !== "") questionCodeOptions[questionCodeOptions.indexOf(id)] = questionId.value;
+            else questionCodeOptions.push(questionId.value);
+
+        }
         if (id !== "") {
             courses[courseMap[question.course]][question.course].byYear[question.year].remove(id);
             courses[courseMap[question.course]][question.course].byTopic[question.topic].remove(id);
@@ -294,6 +303,7 @@ function findImages () {
     }
 }
 
+let prevCode;
 prevButton.addEventListener("click", () => {
     if (saveChanges(true)) {
         if (selectQuestion.selectedIndex !== -1) selectQuestion.selectedIndex--;
@@ -301,11 +311,22 @@ prevButton.addEventListener("click", () => {
         updateRenderingInfo(selectQuestion.selectedIndex);
     }
 });
+selectQuestion.addEventListener("focus", () => {
+    prevCode = selectQuestion.value;
+})
 selectQuestion.addEventListener("change", () => {
-    if (saveChanges(false)) {
+    if (saveChanges(true)) {
         updateRenderingInfo(selectQuestion.selectedIndex);
     }
+    else {
+        selectQuestion.value = prevCode;
+    }
 });
+sortQuestionButton.addEventListener("click", () => {
+    sortQuestion();
+    updateQuestionCode(undefined, selectQuestion.value);
+    updateRenderingInfo(selectQuestion.selectedIndex);
+})
 nextButton.addEventListener("click", () => {
     if (saveChanges(false)) {
         if (selectQuestion.selectedIndex !== -1) selectQuestion.selectedIndex++;
@@ -411,7 +432,47 @@ addTopicForm.addEventListener("submit", (e) => {
     updateTopic(course, newTopic);
 });
 
-const saveButton = createInputButton("saveButton", "Save changes", function () {
+document.getElementsByClassName("fa-solid fa-circle-plus")[0].addEventListener("click", () => {
+    const newOption = String.fromCharCode("A".charCodeAt(0)+Object.keys(options).length);
+    const span = document.createElement("span");
+    span.innerHTML = `
+            <input type="radio" id="${'option'+newOption+'-radio'}" name="options" value="${newOption}">
+            <label for="${'option'+newOption}">${newOption}:</label>
+            <textarea id="${'option'+newOption}"></textarea>
+        `;
+    optionEditor.appendChild(span);
+    options[newOption] = createMDE("option"+newOption, true, false, false);
+});
+document.getElementsByClassName("fa-solid fa-circle-minus")[0].addEventListener("click", () => {
+    const removeOption = Object.keys(options).at(-1);
+    if (options[removeOption].value() !== "" && !confirm("The last option contains text. Confirm removing the option?")) return;
+    optionEditor.lastElementChild.remove();
+    delete options[removeOption];
+});
+
+const removeButton = createInputButton("removeButton", "Remove this question", "danger", function () {
+    if (Object.keys(questions).length === 1) {
+        alert("You cannot remove the only question");
+        return;
+    }
+    if (checkEmpty() || confirm("Confirm removing this question?")) {
+        if (id !== "") {
+            delete questions[id];
+            courses[courseMap[question.course]][question.course].byYear[question.year].remove(id);
+            courses[courseMap[question.course]][question.course].byTopic[question.topic].remove(id);
+            questionCodeOptions.remove(id);
+        }
+        if (selectQuestion.selectedIndex === -1) updateRenderingInfo(selectQuestion.length-1);
+        else if (selectQuestion.selectedIndex === 0) updateRenderingInfo(0);
+        else updateRenderingInfo(selectQuestion.selectedIndex-1);
+    }
+});
+const addButton = createInputButton("addButton", "Add question", "primary", function () {
+    if (saveChanges(false)) {
+        updateRenderingInfo(-1);
+    }
+});
+const saveButton = createInputButton("saveButton", "Save changes", "primary", function () {
     if (saveChanges(true)) {
         updateRenderingInfo((selectQuestion.selectedIndex === -1) ? selectQuestion.length-1 : selectQuestion.selectedIndex);
         const obj = clean();
@@ -424,28 +485,12 @@ const saveButton = createInputButton("saveButton", "Save changes", function () {
             });
     }
 });
-const removeButton = createInputButton("removeButton", "Remove this question", function () {
-    if (Object.keys(questions).length === 1) {
-        alert("You cannot remove the only question");
-        return;
-    }
-    if (checkEmpty() || confirm("Confirm removing this question?")) {
-        if (id !== "") {
-            delete questions[id];
-            courses[courseMap[question.course]][question.course].byYear[question.year].remove(id);
-            courses[courseMap[question.course]][question.course].byTopic[question.topic].remove(id);
-        }
-        if (selectQuestion.selectedIndex === -1) updateRenderingInfo(selectQuestion.length-1);
-        else if (selectQuestion.selectedIndex === 0) updateRenderingInfo(0);
-        else updateRenderingInfo(selectQuestion.selectedIndex-1);
-    }
-});
-const cancelButton = createInputButton("cancelButton", "Return to homepage", function () {
+const cancelButton = createInputButton("cancelButton", "Return to homepage", "secondary", function () {
     saveChanges(true, false);
     if (JSON.stringify({courses, questions}) !== initialData && !confirm("Changes have not been saved. Confirm returning to homepage?")) return;
     location.href = "index.html";
 });
-setButtons([removeButton, saveButton, cancelButton]);
+setButtons([removeButton, addButton, saveButton, cancelButton]);
 
 window.onbeforeunload = function () {
     return "";
@@ -459,6 +504,7 @@ if (!validateJSON(data)) {
 initialData = JSON.stringify(data);
 courses = data.courses;
 questions = data.questions;
+questionCodeOptions = Object.keys(questions);
 for (let level of Object.keys(courses)) {
     for (let course of Object.keys(courses[level])) {
         courseMap[course] = level;
