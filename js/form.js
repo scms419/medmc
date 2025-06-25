@@ -100,7 +100,7 @@ function renderQuestion(question, code, num) {
     div.className = "my-4 p-2";
     div.innerHTML = `
         <h5 class="fs-6">${num}. ${code}</h5>
-        <p class="lead">${marked.parse(question.question)}</p>
+        ${marked.parse(question.question)}
         <form id="${div.id + "Form"}">
             ${Object.keys(question.options).map(option => `
                 <div class="form-check">
@@ -117,6 +117,7 @@ function renderQuestions(questions, codes) {
     for (let i = 1; i <= codes.length; i++) {
         questionContainer.appendChild(renderQuestion(questions[codes[i-1]], codes[i-1], i));
     }
+    loadImages();
 }
 function createMainForm(data) {
     if (!validateJSON(data)) {

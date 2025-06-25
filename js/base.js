@@ -59,6 +59,22 @@ function setButtons(buttons) {
     for (const button of buttons) buttonsDiv.appendChild(button);
 }
 
+function loadImages() {
+    document.querySelectorAll("img.async-image").forEach(img => {
+        const href = img.dataset.src;
+        const tp = document.createElement("img");
+        tp.src = href;
+        tp.onload = () => {
+            img.src = href;
+        };
+        tp.onerror = () => {
+            let src = href.slice(href.lastIndexOf("/")+1);
+            let type = href.slice(href.lastIndexOf(".")+1);
+            img.src = "data:image/" + type + ";base64," + localStorage.getItem(src);
+        };
+    })
+}
+
 const dayMap = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
 function timeNow() {

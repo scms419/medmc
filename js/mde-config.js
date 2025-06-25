@@ -125,6 +125,9 @@ function createMDE(id, sideBySide, horizontal=true, status=true) {
         "Enter": (cm) => newLineAndContinueList(editor)
     });
     let cm = editor.codemirror;
+    cm.on("update", function() {
+        loadImages();
+    })
     cm.on("cursorActivity", function () {
         var startPoint = cm.getCursor('start');
         var endPoint = cm.getCursor('end');
