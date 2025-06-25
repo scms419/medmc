@@ -197,7 +197,10 @@
                                     </div>
                                     <div>
                                         <h5 class="text-body-emphasis">Import from Word document</h5>
-                                        <input class="form-control form-control-sm" id="addQuestionsDocx" type="file">
+                                        <input class="form-control form-control-sm" id="addQuestionsDocx" type="file" aria-describedby="addQuestionsDocxText">
+                                        <span id="addQuestionsDocxText" class="form-text">
+                                            Upload .doc / .docx file
+                                        </span>
                                     </div>
                                 </div>
                                 <div class="col d-flex align-items-start">
@@ -206,7 +209,10 @@
                                     </div>
                                     <div>
                                         <h5 class="text-body-emphasis">Import from Excel workbook</h5>
-                                        <input class="form-control form-control-sm" id="addQuestionsXlsx" type="file">
+                                        <input class="form-control form-control-sm" id="addQuestionsXlsx" type="file" aria-describedby="addQuestionsXlsxText">
+                                        <span id="addQuestionsXlsxText" class="form-text">
+                                            Upload .xls / .xlsx file
+                                        </span>
                                     </div>
                                 </div>
                                 <div class="col d-flex align-items-start">
@@ -215,7 +221,10 @@
                                     </div>
                                     <div>
                                         <h5 class="text-body-emphasis">Merge with other database</h5>
-                                        <input class="form-control form-control-sm" id="addQuestionsDb" type="file">
+                                        <input class="form-control form-control-sm" id="addQuestionsDb" type="file" aria-describedby="addQuestionsDbText">
+                                        <span id="addQuestionsDbText" class="form-text">
+                                            Upload .zip file
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -249,6 +258,7 @@
     <script src="https://cdn.jsdelivr.net/npm/marked-more-lists/lib/index.umd.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.js"></script>
+    <script type="text/javascript" src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
     <script src="dist/jszip.js"></script>
     <script src="js/base.js"></script>
     <script src="js/marked-config.js"></script>
@@ -257,6 +267,27 @@
     <script>
         addQuestionsDocx.disabled = true;
         addQuestionsXlsx.disabled = true;
+        addQuestionsXlsx.addEventListener("change", (e) => {
+            const file = e.target.files[0];
+            if (!file) {
+                alert("No file selected. Please choose a file.");
+                return;
+            }
+            if (file.type !== "application/vnd.ms-excel" && file.type !== "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet") {
+                alert("Unsupported file type. Please select an excel file.");
+                return;
+            }
+            const reader = new FileReader();
+            reader.onload = (data) => {
+                const wb = XLSX.read(data.target.result, {type: "binary"});
+                Object.values(wb.Sheets).forEach((sheet) => {
+                    console.log(sheet);
+                    const obj = XLSX.utils.sheet_to_json(sheet);
+                    console.log(obj);
+                });
+            };
+            reader.readAsBinaryString(file);
+        });
     </script>
 </body>
 </html>
