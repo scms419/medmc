@@ -524,17 +524,25 @@ function validateTable() {
     for (let i = 0; i < table.countRows(); i++) {
         if (!table.getDataAtRowProp(i, "selected")) continue;
         const sourceData = table.getSourceDataAtRow(i);
-        Object.entries(sourceData).forEach(([key, value]) => {
-            if ((value === "" || value === null) && key !== "explanation") arr.push(new Warning(i, table.propToCol(key)));
-        })
-        if (sourceData.id === "" || sourceData.id === null) continue;
-        if (!Object.keys(idRow).includes(sourceData.id)) idRow[sourceData.id] = i;
-        else {
-            if (idRow[sourceData.id] !== -1) {
-                arr.push(new Warning(idRow[sourceData.id], 1));
-                idRow[sourceData.id] = -1;
+        const cols = ["id", "level", "course", "topic", "year", "question_number", "question", "options", "answer"];
+        cols.forEach((col) => {
+            const value = table.getDataAtRowProp(i, col);
+            if (value === "" || value === null) arr.push(new Warning(i, table.propToCol(col)));
+        });
+        if (sourceData.id !== "" && sourceData.id !== null) {
+            if (!Object.keys(idRow).includes(sourceData.id)) idRow[sourceData.id] = i;
+            else {
+                if (idRow[sourceData.id] !== -1) {
+                    arr.push(new Warning(idRow[sourceData.id], 1));
+                    idRow[sourceData.id] = -1;
+                }
+                arr.push(new Warning(i, 1));
             }
-            arr.push(new Warning(i, 1));
+        }
+        if (sourceData.course !== "" && sourceData.course !== null) {
+            if (Object.keys(courseMap).includes(sourceData.course)) {
+                if (courseMap[sourceData.course] !== sourceData.level) arr.push(new Warning(i, 3));
+            }
         }
     }
     table.updateSettings({cell: arr});
@@ -620,8 +628,9 @@ function resetModal() {
     addQuestionsXlsx.value = "";
     addQuestionsDb.value = "";
     // addQuestionsDocx.disabled = false;
-    // addQuestionsXlsx.disabled = false;
+    addQuestionsXlsx.disabled = false;
     addQuestionsDb.disabled = false;
+    table.clear();
     modalSetButton([addQuestionsCancel]);
     addQuestionsTable.classList.add("visually-hidden");
     addQuestionsDuplicates.classList.add("visually-hidden");
@@ -799,6 +808,55 @@ addQuestionsDb.addEventListener('change', (e) => {
             console.log("Error reading uploaded file: ", e.message);
         });
 });
+addQuestionsXlsx.addEventListener("change", (e) => {
+    const file = e.target.files[0];
+    if (!file) {
+        alert("No file selected. Please choose a file.");
+        return;
+    }
+    if (file.type !== "application/vnd.ms-excel" && file.type !== "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet") {
+        alert("Unsupported file type. Please select an excel file.");
+        return;
+    }
+    const reader = new FileReader();
+    reader.onload = (data) => {
+        const wb = XLSX.read(data.target.result, {type: "binary", sheets: 0});
+        const ws = Object.values(wb.Sheets)[0];
+        const obj = XLSX.utils.sheet_to_json(ws);
+        tableData = obj.map((item) => ({...item, selected: true}));
+        Object.entries(courses).forEach(([key, value]) => {
+            courseObj[key] = Object.keys(value);
+            Object.entries(value).forEach(([course, info]) => {
+                topicObj[course] = Object.keys(info.byTopic);
+            });
+        });
+        obj.forEach((row) => {
+            if (row.level) {
+                if (!Object.keys(courseObj).includes(row.level)) courseObj[row.level] = [];
+                if (row.course) {
+                    if (!courseObj[row.level].includes(row.course)) courseObj[row.level].push(row.course);
+                    if (!Object.keys(topicObj).includes(row.course)) topicObj[row.course] = [];
+                    if (row.topic) {
+                        if (!topicObj[row.course].includes(row.topic)) topicObj[row.course].push(row.topic);
+                    }
+                }
+            }
+        });
+        table.loadData(tableData);
+        updateColSetting(2, {source: Object.keys(courseObj)});
+        for (let i = 0; i < table.countRows(); i++) {
+            table.setCellMeta(i, 3, "source", courseObj[table.getDataAtRowProp(i, "level")]);
+            table.setCellMeta(i, 4, "source", topicObj[table.getDataAtRowProp(i, "course")]);
+        }
+        addQuestionsTable.classList.remove("visually-hidden");
+        addQuestionsDocx.disabled = true;
+        addQuestionsXlsx.disabled = true;
+        addQuestionsDb.disabled = true;
+        modalSetButton([addQuestionsCancel, addQuestionsTableNextButton]);
+        location.href = "#addQuestionsTable";
+    };
+    reader.readAsBinaryString(file);
+});
 
 const addQuestionsCancel = createInputButton("addQuestionsCancel", "Cancel", "danger", function () {
     resetModal();
@@ -827,6 +885,10 @@ const addQuestionsTableNextButton = createInputButton("addQuestionsTableNextButt
             explanation: sourceData.explanation
         };
         if (Object.keys(questions).includes(sourceData.id)) duplicates.push(sourceData.id);
+    }
+    if (Object.keys(questionsObj).length === 0) {
+        alert("You must select at least one row. ");
+        return;
     }
     table.updateSettings({readOnly: true});
     if (duplicates.length > 0) {
@@ -861,7 +923,6 @@ const addQuestionsDuplicatesNextButton = createInputButton("addQuestionsDuplicat
     const arr = [];
     for (const checkbox of document.querySelectorAll(".accordion-checkbox")) {
         if (!checkbox.checked) arr.push(checkbox.value);
-        checkbox.disabled = true;
     }
     questionsObj = {};
     for (let i = 0; i < table.countRows(); i++) {
@@ -879,6 +940,11 @@ const addQuestionsDuplicatesNextButton = createInputButton("addQuestionsDuplicat
             explanation: sourceData.explanation
         };
     }
+    if (Object.keys(questionsObj).length === 0) {
+        alert("You must select at least one row. ");
+        return;
+    }
+    document.querySelectorAll(".accordion-checkbox").forEach((checkbox) => {checkbox.disabled = true;});
     document.getElementById("addQuestionsConfirmBox").value = Object.keys(questionsObj).join("\n");
     addQuestionsConfirm.classList.remove("visually-hidden");
     location.href = "#addQuestionsConfirm";
