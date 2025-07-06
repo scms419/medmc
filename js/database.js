@@ -513,6 +513,7 @@ for (let level of Object.keys(courses)) {
 
 updateRenderingInfo();
 
+
 function validateTable() {
     function Warning(row, col) {
         this.row = row;
@@ -529,6 +530,12 @@ function validateTable() {
             const value = table.getDataAtRowProp(i, col);
             if (value === "" || value === null) arr.push(new Warning(i, table.propToCol(col)));
         });
+        try {
+            if (Object.keys(JSON.parse(table.getDataAtRowProp(i, "options"))).length === 0) arr.push(new Warning(i, 8));
+        }
+        catch (e) {
+            arr.push(new Warning(i, 8));
+        }
         if (sourceData.id !== "" && sourceData.id !== null) {
             if (!Object.keys(idRow).includes(sourceData.id)) idRow[sourceData.id] = i;
             else {
@@ -627,14 +634,190 @@ function resetModal() {
     addQuestionsDocx.value = "";
     addQuestionsXlsx.value = "";
     addQuestionsDb.value = "";
-    // addQuestionsDocx.disabled = false;
+    addQuestionsDocx.disabled = false;
     addQuestionsXlsx.disabled = false;
     addQuestionsDb.disabled = false;
+    addQuestionsUploadImage = [];
     table.clear();
+    table.updateSettings({readOnly: false});
     modalSetButton([addQuestionsCancel]);
     addQuestionsTable.classList.add("visually-hidden");
     addQuestionsDuplicates.classList.add("visually-hidden");
     addQuestionsConfirm.classList.add("visually-hidden");
+}
+function initObj() {
+    questionsObj = {};
+    courseObj = {};
+    topicObj = {};
+    Object.entries(courses).forEach(([level, course]) => {
+        courseObj[level] = Object.keys(course);
+        Object.entries(course).forEach(([key, value]) => {
+            topicObj[key] = Object.keys(value.byTopic);
+        });
+    });
+}
+function createTurndownService() {
+    const turndownService = new TurndownService(
+        {
+            headingStyle: "atx",
+            emDelimiter: "*"
+        }
+    );
+    turndownService.keep(['u', 'sub', 'sup']);
+    turndownService.addRule('strikethrough', {
+        filter: ['del', 's', 'strike'],
+        replacement: function (content) {
+            return "~~" + content + "~~";
+        }
+    });
+    turndownService.addRule('image', {
+        filter: 'img',
+        replacement: function (content, node) {
+            const src = node.getAttribute('src');
+            addQuestionsUploadImage.push(src);
+            return `![]($placeholder:${addQuestionsUploadImage.length-1})`;
+        }
+    });
+    turndownService.escape = function (string) {
+        return escapes.reduce(function (accumulator, escape) {
+            return accumulator.replace(escape[0], escape[1])
+        }, string)
+    }
+    return turndownService;
+}
+function sliceMarkdown(data) {
+    data += '\n';
+    const startRegex = /^(\(?\d+\.?\)?\s*)([A-Z0-9\s_\-]+)\n/;
+    const ansRegex = /^([A-Z]\.\s*)(.+)\n/;
+    const solutionRegex = /^Solution:\s*([A-Z])\s*\n/;
+    const extractRegex = /(\d+|[A-Z])/;
+    const nextLineRegex = /.*\n/;
+    let result = [];
+    let num = 0;
+    let id, answer;
+    let question = "";
+    let explanation = "";
+    let options = {};
+    let option = null;
+    let flag = false;
+    while (data) {
+        const startMatch = startRegex.exec(data);
+        if (startMatch) {
+            if (parseInt(extractRegex.exec(startMatch[1])[0]) === num+1) {
+                num++;
+                if (flag) {
+                    result.push(
+                        {
+                            selected: true,
+                            id: id.trim(),
+                            question: question.trim(),
+                            options: JSON.stringify(options),
+                            answer: answer,
+                            explanation: explanation.trim(),
+                        }
+                    );
+                    question = "";
+                    explanation = "";
+                    options = {};
+                    option = null;
+                    flag = false;
+                }
+                id = startMatch[2].trim();
+                data = data.slice(startMatch[0].length);
+                while (data) {
+                    if (flag) break;
+                    const ansMatch = ansRegex.exec(data);
+                    if (ansMatch) {
+                        option = extractRegex.exec(ansMatch[1])[0];
+                        options[option] = ansMatch[2];
+                        data = data.slice(ansMatch[0].length);
+                    }
+                    else {
+                        const solutionMatch = solutionRegex.exec(data);
+                        if (solutionMatch) {
+                            answer = solutionMatch[1];
+                            data = data.slice(solutionMatch[0].length);
+                            while (data) {
+                                const nextStartMatch = startRegex.exec(data);
+                                if (!nextStartMatch) {
+                                    const nextLineMatch = nextLineRegex.exec(data);
+                                    explanation += nextLineMatch[0];
+                                    data = data.slice(nextLineMatch[0].length);
+                                }
+                                else {
+                                    flag = true;
+                                    break;
+                                }
+                            }
+                        }
+                        else {
+                            const nextLineMatch = nextLineRegex.exec(data);
+                            if (!option) {
+                                question += nextLineMatch[0];
+                                data = data.slice(nextLineMatch[0].length);
+                            }
+                            else {
+                                options[option] += nextLineMatch[0];
+                                data = data.slice(nextLineMatch[0].length);
+                            }
+                        }
+                    }
+                }
+            }
+            else {
+                const nextLineMatch = nextLineRegex.exec(data);
+                explanation += nextLineMatch[0];
+                data = data.slice(nextLineMatch[0].length);
+            }
+        }
+        else {
+            const nextLineMatch = nextLineRegex.exec(data);
+            if (flag) explanation += nextLineMatch[0];
+            data = data.slice(nextLineMatch[0].length);
+        }
+    }
+    result.push(
+        {
+            selected: true,
+            id: id.trim(),
+            question: question.trim(),
+            options: JSON.stringify(options),
+            answer: answer,
+            explanation: explanation.trim(),
+        }
+    );
+    return result;
+}
+function fillImagePlaceholder(id, obj) {
+    const regex = /\$placeholder:(\d+)/;
+    let str = JSON.stringify(obj);
+    let match = regex.exec(str);
+    while (match) {
+        const idx = parseInt(match[1]);
+        if (idx >= addQuestionsUploadImage.length) return null;
+        let base64img = addQuestionsUploadImage[idx];
+        const type = /^data:image\/(png|jpe?g)/.exec(base64img)[1];
+        const fileName = id.replaceAll(/\s/g, "_") + "_" + Date.now() + "." + type;
+        str = str.replace(regex, fileName);
+        match = regex.exec(str);
+        let img = new Image();
+        img.onload = function () {
+            if (img.height > 500 || img.width > 500) {
+                let canvas = document.createElement("canvas");
+                let w = Math.floor(img.width / Math.max(img.height, img.width) * 500);
+                let h = Math.floor(img.height / Math.max(img.height, img.width) * 500);
+                canvas.width = w;
+                canvas.height = h;
+                let ctx = canvas.getContext("2d");
+                ctx.drawImage(img, 0, 0, w, h);
+                base64img = canvas.toDataURL(`image/${type}`);
+            }
+            base64img = base64img.replace(/^data:image\/(png|jpe?g);base64,/, "");
+            localStorage.setItem(fileName, base64img);
+        }
+        img.src = base64img;
+    }
+    return JSON.parse(str);
 }
 const addQuestionsModal = new bootstrap.Modal('#addQuestionsModal');
 const addQuestionsModalFooter = document.getElementById("addQuestionsModalFooter");
@@ -645,12 +828,26 @@ const addQuestionsTable = document.getElementById('addQuestionsTable');
 const addQuestionsDuplicates = document.getElementById('addQuestionsDuplicates');
 const addQuestionsConfirm = document.getElementById('addQuestionsConfirm');
 let questionsObj = {}, courseObj = {}, topicObj = {};
-Object.entries(courses).forEach(([level, course]) => {
-    courseObj[level] = Object.keys(course);
-    Object.entries(course).forEach(([key, value]) => {
-        topicObj[key] = Object.keys(value.byTopic);
-    });
-});
+let addQuestionsUploadImage = [];
+const mammothOptions = {
+    styleMap: [
+        "u => u"
+    ]
+};
+const escapes = [
+    [/\\/g, '\\\\'],
+    [/\*/g, '\\*'],
+    [/^-/g, '\\-'],
+    [/^\+ /g, '\\+ '],
+    [/^(=+)/g, '\\$1'],
+    [/^(#{1,6}) /g, '\\$1 '],
+    [/`/g, '\\`'],
+    [/^~~~/g, '\\~~~'],
+    [/\[/g, '\\['],
+    [/\]/g, '\\]'],
+    [/^>/g, '\\>'],
+    [/_/g, '\\_']
+];
 
 let tableData = [];
 Array.prototype.removeDuplicates = function () {
@@ -782,6 +979,7 @@ addQuestionsDb.addEventListener('change', (e) => {
                         options: JSON.stringify(value.options),
                     });
                 });
+                initObj();
                 Object.entries(data.courses).forEach(([level, course]) => {
                     if (!courseObj[level]) courseObj[level] = [];
                     courseObj[level] = courseObj[level].concat(Object.keys(course)).removeDuplicates();
@@ -824,12 +1022,7 @@ addQuestionsXlsx.addEventListener("change", (e) => {
         const ws = Object.values(wb.Sheets)[0];
         const obj = XLSX.utils.sheet_to_json(ws);
         tableData = obj.map((item) => ({...item, selected: true}));
-        Object.entries(courses).forEach(([key, value]) => {
-            courseObj[key] = Object.keys(value);
-            Object.entries(value).forEach(([course, info]) => {
-                topicObj[course] = Object.keys(info.byTopic);
-            });
-        });
+        initObj();
         obj.forEach((row) => {
             if (row.level) {
                 if (!Object.keys(courseObj).includes(row.level)) courseObj[row.level] = [];
@@ -857,6 +1050,41 @@ addQuestionsXlsx.addEventListener("change", (e) => {
     };
     reader.readAsBinaryString(file);
 });
+addQuestionsDocx.addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    if (!file) {
+        alert("No file selected. Please choose a file.");
+        return;
+    }
+    if (file.type !== "application/msword" && file.type !== "application/vnd.openxmlformats-officedocument.wordprocessingml.document") {
+        alert("Unsupported file type. Please select a word file.");
+        return;
+    }
+    const reader = new FileReader();
+    reader.onload = (evt) => {
+        mammoth.convertToHtml({arrayBuffer: evt.target.result}, mammothOptions)
+            .then((result) => {
+                const html = result.value;
+                const turndown = createTurndownService();
+                const md = turndown.turndown(html);
+                tableData = sliceMarkdown(md);
+                initObj();
+                table.loadData(tableData);
+                updateColSetting(2, {source: Object.keys(courseObj)});
+                for (let i = 0; i < table.countRows(); i++) {
+                    table.setCellMeta(i, 3, "source", courseObj[table.getDataAtRowProp(i, "level")]);
+                    table.setCellMeta(i, 4, "source", topicObj[table.getDataAtRowProp(i, "course")]);
+                }
+                addQuestionsTable.classList.remove("visually-hidden");
+                addQuestionsDocx.disabled = true;
+                addQuestionsXlsx.disabled = true;
+                addQuestionsDb.disabled = true;
+                modalSetButton([addQuestionsCancel, addQuestionsTableNextButton]);
+                location.href = "#addQuestionsTable";
+            });
+    }
+    reader.readAsArrayBuffer(file);
+});
 
 const addQuestionsCancel = createInputButton("addQuestionsCancel", "Cancel", "danger", function () {
     resetModal();
@@ -873,7 +1101,7 @@ const addQuestionsTableNextButton = createInputButton("addQuestionsTableNextButt
     for (let i = 0; i < table.countRows(); i++) {
         if (!table.getDataAtRowProp(i, "selected")) continue;
         const sourceData = table.getSourceDataAtRow(i);
-        questionsObj[sourceData.id] = {
+        const obj = fillImagePlaceholder(sourceData.id, {
             year: sourceData.year,
             course: sourceData.course,
             question_number: sourceData.question_number,
@@ -883,7 +1111,12 @@ const addQuestionsTableNextButton = createInputButton("addQuestionsTableNextButt
             options: JSON.parse(sourceData.options),
             answer: sourceData.answer,
             explanation: sourceData.explanation
-        };
+        });
+        if (!obj) {
+            alert("Image not found.");
+            return;
+        }
+        questionsObj[sourceData.id] = obj;
         if (Object.keys(questions).includes(sourceData.id)) duplicates.push(sourceData.id);
     }
     if (Object.keys(questionsObj).length === 0) {
