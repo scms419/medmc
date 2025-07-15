@@ -1194,6 +1194,11 @@ addQuestionsConfirmDuplicatesButton.className = "btn btn-primary";
 const addQuestionsSubmitButton = createInputButton("addQuestionsSubmitButton", "Submit", "primary", function () {
     questions = {...questions, ...questionsObj};
     let tp = 0;
+    if (Object.keys(questions).includes("")) {
+        delete questions[""];
+        questionCodeOptions.remove("");
+        tp++;
+    }
     Object.entries(questionsObj).forEach(([key, value]) => {
         if (!Object.keys(courses).includes(value.level)) courses[value.level] = {};
         if (!Object.keys(courses[value.level]).includes(value.course)) {
