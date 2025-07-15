@@ -1,10 +1,11 @@
-function createMDE(id, sideBySide, horizontal=true, status=true) {
+function createMDE(id, placeholder, sideBySide, horizontal=true, status=true) {
     const option = {
         element: document.getElementById(id),
         sideBySideFullscreen: false,
         minHeight: (sideBySide && !horizontal) ? "31.4px" : "300px",
         previewRender: (plainText) => marked.parse(plainText),
         uploadImage: true,
+        placeholder: placeholder,
         toolbar: [
             "bold",
             "italic",

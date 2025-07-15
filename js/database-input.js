@@ -10,7 +10,7 @@ document.getElementById("newData").addEventListener("click", (e) => {
                 "question_number": "",
                 "level": "",
                 "topic": "",
-                "question": "Start your question here",
+                "question": "",
                 "options": {
                     "A": "",
                     "B": "",
@@ -19,7 +19,7 @@ document.getElementById("newData").addEventListener("click", (e) => {
                     "E": ""
                 },
                 "answer": "",
-                "explanation": "Provide your explanation here"
+                "explanation": ""
             }
         }
     };

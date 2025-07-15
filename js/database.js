@@ -9,9 +9,9 @@ const selectTopic = document.getElementById("selectTopic");
 const questionId = document.getElementById("questionId");
 const questionYear = document.getElementById("questionYear");
 const questionNumber = document.getElementById("questionNumber");
-const questionEditor = createMDE("question", true);
+const questionEditor = createMDE("question", "Start your question here", true);
 const optionEditor = document.getElementById("optionEditor");
-const explanationEditor = createMDE("explanation", true);
+const explanationEditor = createMDE("explanation", "Provide your explanation here", true);
 const addCourseModal = new bootstrap.Modal("#addCourseModal");
 const addCourseForm = document.getElementById("addCourseForm");
 const addTopicModal = new bootstrap.Modal("#addTopicModal");
@@ -104,7 +104,7 @@ function updateOptions () {
             <textarea id="${'option'+option}"></textarea>
         `;
         optionEditor.appendChild(div);
-        options[option] = createMDE("option"+option, true, false, false);
+        options[option] = createMDE("option"+option, "", true, false, false);
         options[option].value(answer);
     }
     if (question.answer)
@@ -441,7 +441,7 @@ document.getElementsByClassName("fa-solid fa-circle-plus")[0].addEventListener("
             <textarea id="${'option'+newOption}"></textarea>
         `;
     optionEditor.appendChild(span);
-    options[newOption] = createMDE("option"+newOption, true, false, false);
+    options[newOption] = createMDE("option"+newOption, "", true, false, false);
 });
 document.getElementsByClassName("fa-solid fa-circle-minus")[0].addEventListener("click", () => {
     const removeOption = Object.keys(options).at(-1);
@@ -1218,5 +1218,5 @@ addQuestionsSubmitButton.className = "btn btn-primary";
 
 modalSetButton([addQuestionsCancel]);
 document.getElementById("addQuestionsButton").addEventListener("click", () => {
-    if (saveChanges(false)) addQuestionsModal.show();
+    if (saveChanges(true)) addQuestionsModal.show();
 });
