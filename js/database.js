@@ -524,8 +524,8 @@ function validateTable() {
     const idRow = {};
     for (let i = 0; i < table.countRows(); i++) {
         if (!table.getDataAtRowProp(i, "selected")) continue;
-        const sourceData = table.getSourceDataAtRow(i);
-        const cols = ["id", "level", "course", "topic", "year", "question_number", "question", "options", "answer"];
+        const sourceData = table.getDataAtRow(i);
+        const cols = ["id", "year", "question_number", "level", "course", "topic", "question", "options", "answer"];
         cols.forEach((col) => {
             const value = table.getDataAtRowProp(i, col);
             if (value === "" || value === null) arr.push(new Warning(i, table.propToCol(col)));
@@ -536,24 +536,30 @@ function validateTable() {
         catch (e) {
             arr.push(new Warning(i, 8));
         }
-        if (sourceData.id !== "" && sourceData.id !== null) {
-            if (!Object.keys(idRow).includes(sourceData.id)) idRow[sourceData.id] = i;
+        if (sourceData[table.propToCol("id")] !== "" && sourceData[table.propToCol("id")] !== null) {
+            if (!Object.keys(idRow).includes(sourceData[table.propToCol("id")])) idRow[sourceData[table.propToCol("id")]] = i;
             else {
-                if (idRow[sourceData.id] !== -1) {
-                    arr.push(new Warning(idRow[sourceData.id], 1));
-                    idRow[sourceData.id] = -1;
+                if (idRow[sourceData[table.propToCol("id")]] !== -1) {
+                    arr.push(new Warning(idRow[sourceData[table.propToCol("id")]], 1));
+                    idRow[sourceData[table.propToCol("id")]] = -1;
                 }
                 arr.push(new Warning(i, 1));
             }
         }
-        if (sourceData.course !== "" && sourceData.course !== null) {
-            if (Object.keys(courseMap).includes(sourceData.course)) {
-                if (courseMap[sourceData.course] !== sourceData.level) arr.push(new Warning(i, 3));
+        if (sourceData[table.propToCol("course")] !== "" && sourceData[table.propToCol("course")] !== null) {
+            if (Object.keys(courseMap).includes(sourceData[table.propToCol("course")])) {
+                if (courseMap[sourceData[table.propToCol("course")]] !== sourceData[table.propToCol("level")]) arr.push(new Warning(i, 5));
             }
         }
     }
     table.updateSettings({cell: arr});
     return (arr.length === 0);
+}
+function updateColSetting(prop, value) {
+    let index = table.propToCol(prop);
+    const settings = table.getSettings().columns;
+    settings[index] = {...settings[index], ...value};
+    table.updateSettings({columns: settings});
 }
 function renderDuplicateText(oldValue, newValue) {
     let str = "";
@@ -706,6 +712,7 @@ function sliceMarkdown(data) {
             if (parseInt(extractRegex.exec(startMatch[1])[0]) === num+1) {
                 num++;
                 if (flag) {
+                    Object.keys(options).forEach((key) => {options[key] = options[key].trim();});
                     result.push(
                         {
                             selected: true,
@@ -776,6 +783,7 @@ function sliceMarkdown(data) {
             data = data.slice(nextLineMatch[0].length);
         }
     }
+    Object.keys(options).forEach((key) => {options[key] = options[key].trim();});
     result.push(
         {
             selected: true,
@@ -856,19 +864,19 @@ Array.prototype.removeDuplicates = function () {
 }
 
 const table = new Handsontable(document.getElementById('spreadsheet'), {
-    rowHeaders: false,
-    colHeaders: ["", "ID", "Level", "Course", "Topic", "Year", "Question No.", "Question", "Options", "Answer", "Explanation"],
+    rowHeaders: true,
+    colHeaders: ["", "ID", "Year", "Question No.", "Level", "Course", "Topic", "Question", "Options", "Answer", "Explanation"],
     height: "auto",
     minSpareRows: 1,
     autoColumns: true,
     columns: [
         {data: "selected", type: "checkbox"},
         {data: "id", width: 200, wordWrap: false},
+        {data: "year"},
+        {data: "question_number", type: "numeric"},
         {data: "level", type: "autocomplete", strict: false},
         {data: "course", type: "autocomplete", strict: false},
         {data: "topic", type: "autocomplete", strict: false},
-        {data: "year"},
-        {data: "question_number", type: "numeric"},
         {data: "question", width: 400, wordWrap: false},
         {data: "options", width: 300, wordWrap: false},
         {data: "answer"},
@@ -876,14 +884,17 @@ const table = new Handsontable(document.getElementById('spreadsheet'), {
     ],
     autoWrapRow: true,
     autoWrapCol: true,
+    formulas: {
+        engine: HyperFormula
+    },
     afterChange: (changes) => {
         changes?.forEach(([row, prop, oldValue, newValue]) => {
             if (prop === "level") {
                 if (oldValue === newValue) return;
-                const arr = Object.keys(courseObj).concat(table.getDataAtCol(2)).removeDuplicates();
+                const arr = Object.keys(courseObj).concat(table.getDataAtProp("level")).removeDuplicates();
                 arr.remove(null);
                 arr.remove("");
-                updateColSetting(2, {source: arr});
+                updateColSetting("level", {source: arr});
                 let updateCourseForOldLevel = table.getDataAtRowProp(row, "course") !== null && table.getDataAtRowProp(row, "course") !== "";
                 if (updateCourseForOldLevel && courseObj[oldValue] && !courseObj[oldValue].includes(table.getDataAtRowProp(row, "course"))) {
                     for (let i = 0; i < table.countRows(); i++) {
@@ -891,10 +902,10 @@ const table = new Handsontable(document.getElementById('spreadsheet'), {
                         if (table.getDataAtRowProp(i, "course") === table.getDataAtRowProp(row, "course")) updateCourseForOldLevel = false;
                     }
                     if (updateCourseForOldLevel) {
-                        const courseArr = table.getCellMeta(row, 3).source;
+                        const courseArr = table.getCellMeta(row, table.propToCol("course")).source;
                         courseArr.remove(table.getDataAtRowProp(row, "course"));
                         for (let i = 0; i < table.countRows(); i++) {
-                            if (table.getDataAtRowProp(i, "level") === oldValue) table.setCellMeta(i, 3, "source", courseArr);
+                            if (table.getDataAtRowProp(i, "level") === oldValue) table.setCellMeta(i, table.propToCol("course"), "source", courseArr);
                         }
                     }
                 }
@@ -911,7 +922,7 @@ const table = new Handsontable(document.getElementById('spreadsheet'), {
                 arr.remove(null);
                 arr.remove("");
                 for (let i = 0; i < table.countRows(); i++) {
-                    if (table.getDataAtRowProp(i, "level") === table.getDataAtRowProp(row, "level")) table.setCellMeta(i, 3, "source", arr);
+                    if (table.getDataAtRowProp(i, "level") === table.getDataAtRowProp(row, "level")) table.setCellMeta(i, table.propToCol("course"), "source", arr);
                 }
                 let updateTopicForOldCourse = table.getDataAtRowProp(row, "topic") !== null && table.getDataAtRowProp(row, "topic") !== "";
                 if (updateTopicForOldCourse && topicObj[oldValue] && !topicObj[oldValue].includes(table.getDataAtRowProp(row, "topic"))) {
@@ -920,10 +931,10 @@ const table = new Handsontable(document.getElementById('spreadsheet'), {
                         if (table.getDataAtRowProp(i, "topic") === table.getDataAtRowProp(row, "topic")) updateTopicForOldCourse = false;
                     }
                     if (updateTopicForOldCourse) {
-                        const topicArr = table.getCellMeta(row, 4).source;
+                        const topicArr = table.getCellMeta(row, table.propToCol("topic")).source;
                         topicArr.remove(table.getDataAtRowProp(row, "topic"));
                         for (let i = 0; i < table.countRows(); i++) {
-                            if (table.getDataAtRowProp(i, "course") === oldValue) table.setCellMeta(i, 4, "source", topicArr);
+                            if (table.getDataAtRowProp(i, "course") === oldValue) table.setCellMeta(i, table.propToCol("topic"), "source", topicArr);
                         }
                     }
                 }
@@ -940,18 +951,13 @@ const table = new Handsontable(document.getElementById('spreadsheet'), {
                 arr.remove(null);
                 arr.remove("");
                 for (let i = 0; i < table.countRows(); i++) {
-                    if (table.getDataAtRowProp(i, "course") === table.getDataAtRowProp(row, "course")) table.setCellMeta(i, 4, "source", arr);
+                    if (table.getDataAtRowProp(i, "course") === table.getDataAtRowProp(row, "course")) table.setCellMeta(i, table.propToCol("topic"), "source", arr);
                 }
             }
         });
     },
     licenseKey: "non-commercial-and-evaluation"
 });
-function updateColSetting(index, value) {
-    const settings = table.getSettings().columns;
-    settings[index] = {...settings[index], ...value};
-    table.updateSettings({columns: settings});
-}
 
 addQuestionsDb.addEventListener('change', (e) => {
     const file = e.target.files[0];
@@ -989,10 +995,10 @@ addQuestionsDb.addEventListener('change', (e) => {
                     });
                 });
                 table.loadData(tableData);
-                updateColSetting(2, {source: Object.keys(courseObj)});
+                updateColSetting("level", {source: Object.keys(courseObj)});
                 for (let i = 0; i < table.countRows(); i++) {
-                    table.setCellMeta(i, 3, "source", courseObj[table.getDataAtRowProp(i, "level")]);
-                    table.setCellMeta(i, 4, "source", topicObj[table.getDataAtRowProp(i, "course")]);
+                    table.setCellMeta(i, table.propToCol("course"), "source", courseObj[table.getDataAtRowProp(i, "level")]);
+                    table.setCellMeta(i, table.propToCol("topic"), "source", topicObj[table.getDataAtRowProp(i, "course")]);
                 }
                 addQuestionsTable.classList.remove("visually-hidden");
                 addQuestionsDocx.disabled = true;
@@ -1036,10 +1042,10 @@ addQuestionsXlsx.addEventListener("change", (e) => {
             }
         });
         table.loadData(tableData);
-        updateColSetting(2, {source: Object.keys(courseObj)});
+        updateColSetting("level", {source: Object.keys(courseObj)});
         for (let i = 0; i < table.countRows(); i++) {
-            table.setCellMeta(i, 3, "source", courseObj[table.getDataAtRowProp(i, "level")]);
-            table.setCellMeta(i, 4, "source", topicObj[table.getDataAtRowProp(i, "course")]);
+            table.setCellMeta(i, table.propToCol("course"), "source", courseObj[table.getDataAtRowProp(i, "level")]);
+            table.setCellMeta(i, table.propToCol("topic"), "source", topicObj[table.getDataAtRowProp(i, "course")]);
         }
         addQuestionsTable.classList.remove("visually-hidden");
         addQuestionsDocx.disabled = true;
@@ -1070,10 +1076,10 @@ addQuestionsDocx.addEventListener('change', (e) => {
                 tableData = sliceMarkdown(md);
                 initObj();
                 table.loadData(tableData);
-                updateColSetting(2, {source: Object.keys(courseObj)});
+                updateColSetting("level", {source: Object.keys(courseObj)});
                 for (let i = 0; i < table.countRows(); i++) {
-                    table.setCellMeta(i, 3, "source", courseObj[table.getDataAtRowProp(i, "level")]);
-                    table.setCellMeta(i, 4, "source", topicObj[table.getDataAtRowProp(i, "course")]);
+                    table.setCellMeta(i, table.propToCol("course"), "source", courseObj[table.getDataAtRowProp(i, "level")]);
+                    table.setCellMeta(i, table.propToCol("topic"), "source", topicObj[table.getDataAtRowProp(i, "course")]);
                 }
                 addQuestionsTable.classList.remove("visually-hidden");
                 addQuestionsDocx.disabled = true;
@@ -1100,24 +1106,24 @@ const addQuestionsTableNextButton = createInputButton("addQuestionsTableNextButt
     questionsObj = {};
     for (let i = 0; i < table.countRows(); i++) {
         if (!table.getDataAtRowProp(i, "selected")) continue;
-        const sourceData = table.getSourceDataAtRow(i);
-        const obj = fillImagePlaceholder(sourceData.id, {
-            year: sourceData.year,
-            course: sourceData.course,
-            question_number: sourceData.question_number,
-            level: sourceData.level,
-            topic: sourceData.topic,
-            question: sourceData.question,
-            options: JSON.parse(sourceData.options),
-            answer: sourceData.answer,
-            explanation: sourceData.explanation
+        const sourceData = table.getDataAtRow(i);
+        const obj = fillImagePlaceholder(sourceData[table.propToCol("id")], {
+            year: sourceData[table.propToCol("year")],
+            course: sourceData[table.propToCol("course")],
+            question_number: sourceData[table.propToCol("question_number")],
+            level: sourceData[table.propToCol("level")],
+            topic: sourceData[table.propToCol("topic")],
+            question: sourceData[table.propToCol("question")],
+            options: JSON.parse(sourceData[table.propToCol("options")]),
+            answer: sourceData[table.propToCol("answer")],
+            explanation: sourceData[table.propToCol("explanation")]
         });
         if (!obj) {
             alert("Image not found.");
             return;
         }
-        questionsObj[sourceData.id] = obj;
-        if (Object.keys(questions).includes(sourceData.id)) duplicates.push(sourceData.id);
+        questionsObj[sourceData[table.propToCol("id")]] = obj;
+        if (Object.keys(questions).includes(sourceData[table.propToCol("id")])) duplicates.push(sourceData[table.propToCol("id")]);
     }
     if (Object.keys(questionsObj).length === 0) {
         alert("You must select at least one row. ");
@@ -1132,6 +1138,7 @@ const addQuestionsTableNextButton = createInputButton("addQuestionsTableNextButt
     }
     else {
         modalSetButton([addQuestionsCancel, addQuestionsConfirmTableButton, addQuestionsSubmitButton]);
+        document.getElementById("addQuestionsConfirmBoxLabel").innerText = `The following questions will be added: (${Object.keys(questionsObj).length})`
         document.getElementById("addQuestionsConfirmBox").value = Object.keys(questionsObj).join("\n");
         addQuestionsConfirm.classList.remove("visually-hidden");
         location.href = "#addQuestionsConfirm";
@@ -1160,17 +1167,17 @@ const addQuestionsDuplicatesNextButton = createInputButton("addQuestionsDuplicat
     questionsObj = {};
     for (let i = 0; i < table.countRows(); i++) {
         if (!table.getDataAtRowProp(i, "selected") || arr.includes(table.getDataAtRowProp(i, "id"))) continue;
-        const sourceData = table.getSourceDataAtRow(i);
-        questionsObj[sourceData.id] = {
-            year: sourceData.year,
-            course: sourceData.course,
-            question_number: sourceData.question_number,
-            level: sourceData.level,
-            topic: sourceData.topic,
-            question: sourceData.question,
-            options: JSON.parse(sourceData.options),
-            answer: sourceData.answer,
-            explanation: sourceData.explanation
+        const sourceData = table.getDataAtRow(i);
+        questionsObj[sourceData[table.propToCol("id")]] = {
+            year: sourceData[table.propToCol("year")],
+            course: sourceData[table.propToCol("course")],
+            question_number: sourceData[table.propToCol("question_number")],
+            level: sourceData[table.propToCol("level")],
+            topic: sourceData[table.propToCol("topic")],
+            question: sourceData[table.propToCol("question")],
+            options: JSON.parse(sourceData[table.propToCol("options")]),
+            answer: sourceData[table.propToCol("answer")],
+            explanation: sourceData[table.propToCol("explanation")]
         };
     }
     if (Object.keys(questionsObj).length === 0) {
@@ -1178,6 +1185,7 @@ const addQuestionsDuplicatesNextButton = createInputButton("addQuestionsDuplicat
         return;
     }
     document.querySelectorAll(".accordion-checkbox").forEach((checkbox) => {checkbox.disabled = true;});
+    document.getElementById("addQuestionsConfirmBoxLabel").innerText = `The following questions will be added: (${Object.keys(questionsObj).length})`
     document.getElementById("addQuestionsConfirmBox").value = Object.keys(questionsObj).join("\n");
     addQuestionsConfirm.classList.remove("visually-hidden");
     location.href = "#addQuestionsConfirm";
