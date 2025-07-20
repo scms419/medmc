@@ -9,6 +9,13 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="mde-config.css">
+    <style>
+        .icon-square {
+            width: 3rem;
+            height: 3rem;
+            border-radius: .75rem;
+        }
+    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-md bg-body-tertiary">
@@ -99,6 +106,14 @@
                                     <a class="nav-link text-reset" href="#db-edit-save">Save changes for the question database</a>
                                 </li>
                             </ul>
+                            <li class="nav-item">
+                                <a class="nav-link text-reset" href="#db-add-batch">Add questions in batch</a>
+                            </li>
+                            <ul class="nav flex-column ms-4">
+                                <li class="nav-item">
+                                    <a class="nav-link text-reset" href="#db-add-batch-source">Select source</a>
+                                </li>
+                            </ul>
                         </ul>
                         <a class="nav-link text-reset" href="#contribute">Contribute</a>
                     </li>
@@ -115,7 +130,7 @@
                 To start a self-check test, you are provided with two options: <strong>using our predefined database</strong>
                 or <strong>your own database</strong>.
             </p>
-            <div class="my-3 p-2 border rounded">
+            <div class="my-3 px-3 py-2 border rounded">
                 <div class="px-4 py-5 mt-3 mb-3 text-center">
                     <img class="d-block mx-auto mb-4" src="icon/database-fill.svg" alt width="72" height="57">
                     <h1 class="display-5 fw-bold text-body-emphasis">Use predefined database</h1>
@@ -129,10 +144,10 @@
                     the content of the database
                     <a href="https://github.com/scms419/medmc/blob/main/questions.json" target="_blank">here</a>
                     (I am so sorry for making the database so complicated) or simply check the updates from the
-                    <a href="index.html#updates" target="_blank">homepage</a>.
+                    <a href="index.html#latestUpdates">homepage</a>.
                 </p>
             </div>
-            <div class="my-3 p-2 border rounded">
+            <div class="my-3 px-3 py-2 border rounded">
                 <div class="px-4 py-5 mt-3 mb-3 text-center">
                     <img class="d-block mx-auto mb-4" src="icon/file-earmark-zip-fill.svg" alt width="72" height="57">
                     <h1 class="display-5 fw-bold text-body-emphasis">Use your database</h1>
@@ -231,7 +246,7 @@
                 the box below for the options editor).
             </p>
             <p>
-                Check the full guide for the Markdown editor <a href="#" target="_blank">here</a> to discover the different
+                Check the full guide for the Markdown editor <a href="about-mde.html">here</a> to discover the different
                 functions of the editor and the Markdown syntax.
             </p>
             <p>
@@ -259,6 +274,73 @@ database.zip
             </div>
             <p>
                 After that, you can try your database in the “Self-check test” function by uploading it.
+            </p>
+            <h3 class="fs-4 mt-3" id="db-add-batch">Add questions in batch</h3>
+            <p class="mb-0">
+                To speed up the process of question input, we also provide the adding in batch function.
+            </p>
+            <div class="modal position-static d-block" id="addQuestionsModal" tabindex="-1" aria-labelledby="addQuestionsModalLabel">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h3 class="modal-title">Add questions in batch</h3>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="container-fluid p-3">
+                                <div class="py-3">
+                                    <h4>Select source</h4>
+                                    <div class="row g-4 py-2 row-cols-1">
+                                        <div class="col d-flex align-items-start">
+                                            <div class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+                                                <i class="bi bi-filetype-docx" aria-hidden="true"></i>
+                                            </div>
+                                            <div>
+                                                <h5 class="text-body-emphasis">Import from Word document</h5>
+                                                <input class="form-control form-control-sm" type="file" aria-describedby="addQuestionsDocxText" disabled>
+                                                <span class="form-text">
+                                                    Upload .doc / .docx file.
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col d-flex align-items-start">
+                                            <div class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+                                                <i class="bi bi-filetype-xlsx" aria-hidden="true"></i>
+                                            </div>
+                                            <div>
+                                                <h5 class="text-body-emphasis">Import from Excel workbook</h5>
+                                                <input class="form-control form-control-sm" type="file" aria-describedby="addQuestionsXlsxText" disabled>
+                                                <div class="form-text">
+                                                    Upload .xls / .xlsx file. Use the following as column headers or click <a href="template.xltx" target="_blank">here</a> to download the template: <br>
+                                                    "id", "level", "course", "topic", "year", "question_number", "question", "options", "answer", "explanation"
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col d-flex align-items-start">
+                                            <div class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+                                                <i class="bi bi-database-add" aria-hidden="true"></i>
+                                            </div>
+                                            <div>
+                                                <h5 class="text-body-emphasis">Merge with other database</h5>
+                                                <input class="form-control form-control-sm" type="file" aria-describedby="addQuestionsDbText" disabled>
+                                                <span class="form-text">
+                                                    Upload .zip file.
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <input type="button" class="btn btn-danger" value="Cancel" data-bs-dismiss="modal" disabled>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <h4 class="fs-5 mt-2" id="db-add-batch-source">Select source</h4>
+            <p>
+                To be continued...
             </p>
             <h2 class="mt-5" id="contribute">Contribute</h2>
             <p>

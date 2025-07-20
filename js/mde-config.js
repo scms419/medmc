@@ -2,7 +2,7 @@ function createMDE(id, placeholder, sideBySide, horizontal=true, status=true) {
     const option = {
         element: document.getElementById(id),
         sideBySideFullscreen: false,
-        minHeight: (sideBySide && !horizontal) ? "31.4px" : "300px",
+        minHeight: (sideBySide && !horizontal) ? "31.4px" : "250px",
         previewRender: (plainText) => marked.parse(plainText),
         uploadImage: true,
         placeholder: placeholder,

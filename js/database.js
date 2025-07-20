@@ -743,7 +743,7 @@ function sliceMarkdown(data) {
     const extractRegex = /(\d+|[A-Z])/;
     const nextLineRegex = /.*\n/;
     let result = [];
-    let num = 0;
+    let num = -1;
     let id, answer;
     let question = "";
     let explanation = "";
@@ -753,8 +753,9 @@ function sliceMarkdown(data) {
     while (data) {
         const startMatch = startRegex.exec(data);
         if (startMatch) {
-            if (parseInt(extractRegex.exec(startMatch[1])[0]) === num+1) {
-                num++;
+            if (num === -1 || parseInt(extractRegex.exec(startMatch[1])[0]) === num+1) {
+                if (num === -1) num = parseInt(extractRegex.exec(startMatch[1])[0]);
+                else num++;
                 if (flag) {
                     Object.keys(options).forEach((key) => {options[key] = options[key].trim();});
                     result.push(
