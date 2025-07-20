@@ -691,6 +691,50 @@ function createTurndownService() {
     }
     return turndownService;
 }
+function cleanHtml(data) {
+    const htmlRegex = /<([^>]*)>/;
+    const emptyElementRegex = /(br|link|hr|img)( .*)?/
+    let stack = [];
+    let result = "";
+    while (data) {
+        const idx = data.search(htmlRegex);
+        const match = htmlRegex.exec(data);
+        if (match) {
+            result += data.substring(0, idx);
+            if (emptyElementRegex.test(match[1])) {
+                if (stack[stack.length-1] !== "p" && stack[stack.length-1] !== "li" && stack[stack.length-1] !== "td") {
+                    if (result.lastIndexOf(`<${stack[stack.length-1]}>`) === result.length-stack[stack.length-1].length-2) {
+                        result = result.slice(0, result.length - stack[stack.length-1].length - 2);
+                    }
+                    else result += `</${stack[stack.length-1]}>`;
+                    result += match[0];
+                    result += `<${stack[stack.length-1]}>`;
+                }
+                else result += match[0];
+            }
+            else if (match[1].search("/") === -1) {
+                stack.push(match[1]);
+                result += match[0];
+            }
+            else {
+                if (stack[stack.length-1] === match[1].replace(/\//, "")) {
+                    if (result.lastIndexOf(`<${stack[stack.length-1]}>`) === result.length-stack[stack.length-1].length-2) {
+                        result = result.slice(0, result.length - stack[stack.length-1].length - 2);
+                    }
+                    else result += match[0];
+                    stack.pop();
+                }
+            }
+            data = data.slice(idx + match[0].length);
+        }
+        else {
+            result += data;
+            data = "";
+        }
+
+    }
+    return result;
+}
 function sliceMarkdown(data) {
     data += '\n';
     const startRegex = /^(\(?\d+\.?\)?\s*)([A-Z0-9\s_\-]+)\n/;
@@ -1072,7 +1116,7 @@ addQuestionsDocx.addEventListener('change', (e) => {
             .then((result) => {
                 const html = result.value;
                 const turndown = createTurndownService();
-                const md = turndown.turndown(html);
+                const md = turndown.turndown(cleanHtml(html));
                 tableData = sliceMarkdown(md);
                 initObj();
                 table.loadData(tableData);
