@@ -40,9 +40,6 @@ let options = {};
 let id, question;
 let initialData;
 
-Array.prototype.remove = function (value) {
-    if (this.indexOf(value) !== -1) this.splice(this.indexOf(value), 1);
-}
 function updateQuestionCode (selectedIndex, value) {
     selectQuestion.innerHTML = `
         ${questionCodeOptions.map(key => `
@@ -287,6 +284,7 @@ function findImages () {
     const reg = /!\[.*?]\(img\/(.*?)\)/g;
     const matchArr = [...questionsData.matchAll(reg)];
     for (const arr of matchArr) {
+        console.log(arr)
         if (localStorage.getItem(arr[1]) !== null) imgFolder.file(arr[1], localStorage.getItem(arr[1]), {base64: true});
         else {
             let img = new Image();
@@ -644,7 +642,10 @@ function resetModal() {
     addQuestionsXlsx.disabled = false;
     addQuestionsDb.disabled = false;
     addQuestionsUploadImage = [];
-    table.clear();
+    tableData = []
+    table.updateSettings({
+        data: []
+    })
     table.updateSettings({readOnly: false});
     modalSetButton([addQuestionsCancel]);
     addQuestionsTable.classList.add("visually-hidden");
@@ -851,7 +852,7 @@ function fillImagePlaceholder(id, obj) {
         let base64img = addQuestionsUploadImage[idx];
         const type = /^data:image\/(png|jpe?g)/.exec(base64img)[1];
         const fileName = id.replaceAll(/\s/g, "_") + "_" + Date.now() + "." + type;
-        str = str.replace(regex, fileName);
+        str = str.replace(regex, "img/"+fileName);
         match = regex.exec(str);
         let img = new Image();
         img.onload = function () {
@@ -888,7 +889,7 @@ const mammothOptions = {
     ]
 };
 const escapes = [
-    [/\\/g, '\\\\'],
+    // [/\\/g, '\\\\'],
     [/\*/g, '\\*'],
     [/^-/g, '\\-'],
     [/^\+ /g, '\\+ '],
@@ -903,16 +904,13 @@ const escapes = [
 ];
 
 let tableData = [];
-Array.prototype.removeDuplicates = function () {
-    const set = new Set(this);
-    return Array.from(set);
-}
 
 const table = new Handsontable(document.getElementById('spreadsheet'), {
     rowHeaders: true,
     colHeaders: ["", "ID", "Year", "Question No.", "Level", "Course", "Topic", "Question", "Options", "Answer", "Explanation"],
     height: "auto",
     minSpareRows: 1,
+    startRows: 1,
     autoColumns: true,
     columns: [
         {data: "selected", type: "checkbox"},

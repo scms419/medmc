@@ -75,6 +75,15 @@ function loadImages() {
     })
 }
 
+Array.prototype.remove = function (value) {
+    if (this.indexOf(value) !== -1) this.splice(this.indexOf(value), 1);
+}
+
+Array.prototype.removeDuplicates = function () {
+    const set = new Set(this);
+    return Array.from(set);
+}
+
 const dayMap = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
 function timeNow() {

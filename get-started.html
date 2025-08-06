@@ -8,7 +8,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/handsontable/styles/handsontable.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/handsontable/styles/ht-theme-main.min.css" />
     <link rel="stylesheet" href="mde-config.css">
+    <link rel="stylesheet" href="btn-back-to-top.css">
     <style>
         .icon-square {
             width: 3rem;
@@ -58,13 +61,16 @@
             </ul>
         </header>
     </div>
+    <button id="btn-back-to-top"></button>
     <div class="px-4 py-5">
         <div class="container-fluid py-2">
             <h1>Get started with MedMC</h1>
             <p>
                 Practice makes perfect. MedMC is a platform that collects multiple-choice questions from past exams,
-                allowing you to practice more and consolidate the knowledge you've learnt. MedMC contains two main
-                components, the “Self-check test” and the “Database”.
+                allowing you to practice more and consolidate the knowledge you've learnt.
+            </p>
+            <p>
+                It contains two main components, the “Self-check test” and the “Database”.
             </p>
         </div>
         <div class="d-md-inline-flex flex-column justify-content-start border rounded py-2">
@@ -113,6 +119,15 @@
                                 <li class="nav-item">
                                     <a class="nav-link text-reset" href="#db-add-batch-source">Select source</a>
                                 </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-reset" href="#db-add-batch-select">Select questions and update question information</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-reset" href="#db-add-batch-duplicates">Check duplicates</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-reset" href="#db-add-batch-confirm">Confirm</a>
+                                </li>
                             </ul>
                         </ul>
                         <a class="nav-link text-reset" href="#contribute">Contribute</a>
@@ -127,8 +142,8 @@
             </p>
             <h3 class="fs-4 mt-3" id="test-select-db">Select the question database</h3>
             <p>
-                To start a self-check test, you are provided with two options: <strong>using our predefined database</strong>
-                or <strong>your own database</strong>.
+                To start a self-check test, you are provided with two options: <strong>using our predefined
+                database</strong> or <strong>your own database</strong>.
             </p>
             <div class="my-3 px-3 py-2 border rounded">
                 <div class="px-4 py-5 mt-3 mb-3 text-center">
@@ -140,10 +155,10 @@
                     </div>
                 </div>
                 <p>
-                    For simple use, you can go straight ahead for the first option without setting any database. You can check
-                    the content of the database
+                    For simple use, you can go straight ahead for the first option without setting any database. You
+                    can check the database content
                     <a href="https://github.com/scms419/medmc/blob/main/questions.json" target="_blank">here</a>
-                    (I am so sorry for making the database so complicated) or simply check the updates from the
+                    (I am so sorry for making the database so complicated) or the updates from the
                     <a href="index.html#latestUpdates">homepage</a>.
                 </p>
             </div>
@@ -157,42 +172,41 @@
                     </div>
                 </div>
                 <p>
-                    For advanced use, you may also provide your database in zip format created from the “Database” function
-                    (to be discussed in the next section) to practice self-defined questions.
+                    For advanced use, you may also provide your database in zip format created from the “Database”
+                    function (to be discussed in the next section) to practice self-defined questions.
                 </p>
             </div>
             <h3 class="fs-4 mt-3" id="test-select-options">Select options to generate the test</h3>
             <p>
-                After selecting the suitable option, follow the instructions to choose the questions you have to practice
-                on. (I know this is really annoying, but you have to go through it.) By clicking the submit button below,
-                you can eventually start the test.
+                After selecting the suitable option, follow the instructions to choose the questions you have to
+                practice on.
             </p>
             <img src="screenshots/self-check-test-select-options.png" class="img-fluid" alt="Select options to start a self-check test">
             <p>Image for reference only</p>
             <h3 class="fs-4 mt-3" id="test-conduct">Conduct and review the test</h3>
             <p>
-                Try your best to answer the questions and press the "Submit" button below when you have finished the test.
+                Try your best to answer the questions, and press the "Submit" button below when you have finished the
+                test.
             </p>
             <p>
-                After submission, you can check your score and find the explanation for the question.
+                After submission, you can check your score and the explanation for the questions.
             </p>
             <img src="screenshots/self-check-test-result.png" class="img-fluid" alt="Result of the self-check test">
             <p>This is also for reference only</p>
             <p>
-                Due to the unfortunate fact that this website is a static one, we are not able to save the test for you to
-                continue the test or review it later.
+                Due to the unfortunate fact that this website is a static one, we are not able to save the test for you
+                to continue the test or review it later.
             </p>
             <p>
-                A “Print & Save” button is provided for you to save the test on your device whenever you have to stop the
-                test, or you would like to save the test for revision.
+                A “Print & Save” button is provided for you to save the test on your device whenever you have to stop
+                the test, or you would like to save the test for revision.
             </p>
             <p><strong>
-                Note that you cannot open the test again on
-                the website!
+                Note that you cannot open the test again on the website!
             </strong></p>
             <p>
-                If you would like to redo the test on the same set of questions, you may click on the “Redo” button. Otherwise,
-                you may click on the “Restart” button to restart a test.
+                If you would like to redo the test on the same set of questions, you may click the “Redo” button.
+                Otherwise, press the “Restart” button to restart a test.
             </p>
             <h2 class="mt-5" id="database">Database</h2>
             <p>
@@ -204,28 +218,38 @@
             </p>
             <h3 class="fs-4 mt-3" id="db-select-db">Select the question database</h3>
             <p>
-                Similarly, you will have to choose from 3 options: starting from the current database (i.e. the predefined
-                database <a href="https://github.com/scms419/medmc/blob/main/questions.json" target="_blank">here</a>),
-                creating a new database, and importing from local drive. Start editing the database by choosing the
-                appropriate option.
+                Similarly, you will have to choose from 3 options:
+                <ul>
+                    <li>
+                        Starting from the current database (i.e. the predefined database
+                        <a href="https://github.com/scms419/medmc/blob/main/questions.json" target="_blank">here</a>)
+                    </li>
+                    <li>
+                        Creating a new database
+                    </li>
+                    <li>
+                        Importing from local drive
+                    </li>
+                </ul>
+                Start editing by choosing a suitable option.
             </p>
             <h3 class="fs-4 mt-3" id="db-edit">Edit the question database</h3>
             <p>
-                Entering the interface for editing the database, you will see the following.
+                Entering the interface for editing the database, you will see the following:
             </p>
             <img src="screenshots/database.png" class="img-fluid mb-3" alt="Interface for editing the database">
             <h4 class="fs-5 mt-2" id="db-edit-info">Set the information of the question</h4>
             <p>
-                For the first row, you can choose the question to edit or add questions by clicking on the button or
+                For the first row, you can choose the question to edit or add questions by clicking on the buttons or
                 selecting from the drop-down list.
             </p>
             <p>
-                Check and update the information about the question in the second row. This is important for the program to
-                select questions according to the user’s needs when generating the self-check test!
+                Check and update the information about the question in the second row. This is important for the
+                program to select questions according to the user’s needs when generating the self-check test!
             </p>
             <p>
                 To add a new course or a new topic for the course, you can choose the “Add course …” or “Add topic …”
-                options from the corresponding drop-down list.
+                option from the corresponding drop-down list.
             </p>
             <img src="screenshots/database-add-course.png" class="img-fluid mb-3" alt="Add a new course to the database">
             <p>
@@ -241,17 +265,18 @@
                 <textarea id="sampleMDE"></textarea>
             </div>
             <p>
-                The editors require input in Markdown language from the left-hand side (or the box above for the
-                options editor) and translate it into the styled text in the preview window on the right-hand side (or
-                the box below for the options editor).
+                The editors require input in Markdown language from one side, and translate it into styled text on the
+                other side.
             </p>
             <p>
                 Check the full guide for the Markdown editor <a href="about-mde.html">here</a> to discover the different
                 functions of the editor and the Markdown syntax.
             </p>
             <p>
-                For the options, you should click on the “&minus;“ or “&plus;” button to remove the last option or add a
-                new option. Remember to choose the correct answer for the question by checking the radio button beside it.
+                For the options, you should press the “&minus;“ or “&plus;” button to remove the last option, or add a new option.
+            </p>
+            <p>
+                Remember to choose the correct answer for the question by checking the radio button beside it.
             </p>
             <img src="screenshots/database-options.png" class="img-fluid mb-3" alt="Set options for the question">
             <h4 class="fs-5 mt-2" id="db-edit-save">Save changes for the question database</h4>
@@ -340,7 +365,219 @@ database.zip
             </div>
             <h4 class="fs-5 mt-2" id="db-add-batch-source">Select source</h4>
             <p>
-                To be continued...
+                We support MS Word, Excel, and database in our defined format. To allow the website to read the data,
+                a strict format must be applied.
+            </p>
+            <h5 class="fs-6 mt-2 fw-bold">Word Document</h5>
+            <p>
+                A question requires the following 5 components:
+            </p>
+            <ul>
+                <li class="mb-2">
+                    <p class="mb-1"><strong>Question header</strong></p>
+                    Involving the question number and ID
+                    <div class="my-2 p-2 border rounded">
+                        <div class="d-flex align-items-center bg-body-secondary ps-3 pe-2 py-1 border-0 border-top border-bottom">
+                            <small class="font-monospace text-body-secondary text-uppercase">sample</small>
+                        </div>
+                        <div class="bg-body-tertiary ps-3 pe-2 py-1 border-0">
+                            <pre class="m-0"><code>
+1. 24-25 MATH0000 Q1
+2.) 24-25 MATH0000 Q2
+(3) 24-25 MATH0000 Q3
+                            </code></pre>
+                        </div>
+                    </div>
+                    Note that the question number must be in a sequential order to be identified
+                </li>
+                <li class="mb-2">
+                    <p class="mb-1"><strong>Question body</strong></p>
+                    Main content of the question<br>
+                    Simple formatting like bold, italic, and underline are supported
+                </li>
+                <li class="mb-2">
+                    <p class="mb-1"><strong>Question answer</strong></p>
+                    Available options to the question
+                    <div class="my-2 p-2 border rounded">
+                        <div class="d-flex align-items-center bg-body-secondary ps-3 pe-2 py-1 border-0 border-top border-bottom">
+                            <small class="font-monospace text-body-secondary text-uppercase">sample</small>
+                        </div>
+                        <div class="bg-body-tertiary ps-3 pe-2 py-1 border-0">
+                            <pre class="m-0"><code>
+A. Option A
+B. Option B
+C. Option C
+                            </code></pre>
+                        </div>
+                    </div>
+                    <b>Important:</b> Lettered lists in MS Word will be converted to numbered lists, causing the
+                    questions to fail to be identified. You should avoid using the list style in MS Word and change to
+                    plain text.
+                </li>
+                <li class="mb-2">
+                    <p class="mb-1"><strong>Solution</strong></p>
+                    Answer to the question
+                    <div class="my-2 p-2 border rounded">
+                        <div class="d-flex align-items-center bg-body-secondary ps-3 pe-2 py-1 border-0 border-top border-bottom">
+                            <small class="font-monospace text-body-secondary text-uppercase">sample</small>
+                        </div>
+                        <div class="bg-body-tertiary ps-3 pe-2 py-1 border-0">
+                            <pre class="m-0"><code>
+Solution: A
+Solution: B
+Solution: C
+                            </code></pre>
+                        </div>
+                    </div>
+                </li>
+                <li class="mb-2">
+                    <p class="mb-1"><strong>Explanation</strong> (optional)</p>
+                    Explanation to the question<br>
+                    Simple formatting like bold, italic, and underline are supported
+                </li>
+            </ul>
+            <p>
+                You are strongly suggested to refer to the sample question dataset
+                <a href="sample_question_dataset.docx" target="_blank">here</a> to learn more about the syntax required.
+                Feel free to play with the dataset and test the result.
+            </p>
+            <h5 class="fs-6 mt-2 fw-bold">Excel Workbook</h5>
+            <p>
+                Importing from Excel workbook is much simpler. The program recognizes the column headers and loads the
+                particular data. Two ways to start the input:
+            </p>
+            <ol>
+                <li class="mb-2">
+                    Click <a href="template.xltx" target="_blank">here</a> to download the template (same link as the
+                    one in the modal box)
+                </li>
+                <li class="mb-2">
+                    Start with a blank workbook and input the following column headers (case-sensitive):
+                    <ul class="mt-2" >
+                        <li class="mb-2">id</li>
+                        <li class="mb-2">level</li>
+                        <li class="mb-2">course</li>
+                        <li class="mb-2">topic</li>
+                        <li class="mb-2">year</li>
+                        <li class="mb-2">question_number</li>
+                        <li class="mb-2">question</li>
+                        <li class="mb-2">options</li>
+                        <li class="mb-2">answer</li>
+                        <li class="mb-2">explanation</li>
+                    </ul>
+                    Note that you are <strong>not</strong> required to include all the column headers. Blank is also
+                    allowed.
+                </li>
+            </ol>
+            <p>
+                Notes:
+                <ol>
+                    <li>
+                        Due to the very limited text formatting in Excel, you will need markdown for the styling.
+                    </li>
+                    <li>
+                        JSON format is required for the "options" column. <br>
+                        Example: {"A": "Option A", "B": "Option B", "C": "Option C"}
+                    </li>
+                    <li>
+                        Images are not allowed.
+                    </li>
+                </ol>
+            </p>
+            <p>
+                Again, you may check the sample question dataset
+                <a href="sample_question_dataset.xlsx" target="_blank">here</a> for reference. <br>
+                The sample also shows how you can use the Excel formula to good account.
+            </p>
+            <h5 class="fs-6 mt-2 fw-bold">Database</h5>
+            <p>
+                You may also merge databases (zip file in our website's format)
+            </p>
+            <p>
+                Click <a href="sample_question_dataset.zip" target="_blank">here</a> to have a try!! (Please try cuz i
+                hv used so much time to prep it qwq)
+            </p>
+            <h4 class="fs-5 mt-2" id="db-add-batch-select">Select questions and update question information</h4>
+            <p>
+                A spreadsheet-like table will appear after the document uploaded is read. The format is like the Excel
+                workbook mentioned above.
+            </p>
+            <div class="ht-theme-main-dark-auto container-fluid" id="spreadsheet"></div>
+            <p>
+                For reference
+            </p>
+            <p>
+                Few things to do with the table:
+                <ol>
+                    <li>
+                        <strong>Check the number of questions recognized</strong><br>
+                        This is very important especially if you upload the dataset in Word document
+                    </li>
+                    <li>
+                        Fill in the question information<br>
+                        You may also use Excel formula and copy down the column in the table to work efficiently
+                    </li>
+                    <li>
+                        Check the boxes in the first column for questions that you want to include
+                    </li>
+                </ol>
+            </p>
+            <h4 class="fs-5 mt-2" id="db-add-batch-duplicates">Check duplicates</h4>
+            <p>
+                The imported questions may be duplicated with the existing questions. By checking the checkbox beside
+                the question, the existing question will be overwritten.
+            </p>
+            <div class="accordion py-2">
+                <div class="accordion-item">
+                    <div class="d-flex flex-row">
+                        <div class="px-3 align-self-center">
+                            <div class="form-check">
+                                <input class="form-check-input accordion-checkbox" type="checkbox">
+                            </div>
+                        </div>
+                        <div class="border-start flex-grow-1">
+                            <h5 class="accordion-header">
+                                <button class="accordion-button collapsed px-3 py-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseItem" aria-expanded="false" aria-controls="collapseItem">
+                                    24-25 MATH0000 Q1
+                                </button>
+                            </h5>
+                            <div id="collapseItem" class="accordion-collapse collapse">
+                                <div class="accordion-body">
+                                    <table class="table table-sm">
+                                        <tbody>
+                                            <tr><th scope="row">Level</th><td>Year 1 Sem 1</td></tr>
+                                            <tr><th scope="row">Course</th><td>MATH0000</td></tr>
+                                            <tr><th scope="row">Topic</th><td>Simple Mathematics</td></tr>
+                                            <tr><th scope="row">Question</th><td>1 + 1 = ? &rarr;<br>0 + 3 = ?</td></tr>
+                                            <tr><th scope="row">Options</th><td>
+                                                <strong>A:</strong>&#9;&#9;0<br>
+                                                <strong>B:</strong>&#9;&#9;1<br>
+                                                <strong>C:</strong>&#9;&#9;2<br>
+                                                <strong>D:</strong>&#9;&#9;3<br>
+                                            </td></tr>
+                                            <tr><th scope="row">Answer</th><td>C &rarr; D</td></tr>
+                                            <tr><th scope="row">Explanation</th><td>One plus one is two &rarr;<br>Zero plus three is still three</td></tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <h4 class="fs-5 mt-2" id="db-add-batch-confirm">Confirm</h4>
+            <p>
+                Check once again the questions to be added.
+            </p>
+            <p class="fw-bold">
+                Pay attention to the total number of questions to be added
+            </p>
+            <p>
+                Click "Submit" to confirm changes.
+            </p>
+            <p>
+                Check each question carefully. Correct and update with better formatting. Save and start your
+                self-check test!!
             </p>
             <h2 class="mt-5" id="contribute">Contribute</h2>
             <p>
@@ -358,11 +595,12 @@ database.zip
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked-katex-extension@5.1.4/lib/index.umd.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked-more-lists/lib/index.umd.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hyperformula/dist/hyperformula.full.min.js"></script>
     <script src="js/base.js"></script>
+    <script src="js/btn-back-to-top.js"></script>
     <script src="js/mde-config.js"></script>
     <script src="js/marked-config.js"></script>
-    <script>
-        createMDE("sampleMDE", "Type some text here", true);
-    </script>
+    <script src="js/get-started.js"></script>
 </body>
 </html>
