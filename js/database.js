@@ -689,7 +689,7 @@ function createTurndownService() {
         return escapes.reduce(function (accumulator, escape) {
             return accumulator.replace(escape[0], escape[1])
         }, string)
-    }
+    };
     return turndownService;
 }
 function cleanHtml(data) {
