@@ -284,7 +284,6 @@ function findImages () {
     const reg = /!\[.*?]\(img\/(.*?)\)/g;
     const matchArr = [...questionsData.matchAll(reg)];
     for (const arr of matchArr) {
-        console.log(arr)
         if (localStorage.getItem(arr[1]) !== null) imgFolder.file(arr[1], localStorage.getItem(arr[1]), {base64: true});
         else {
             let img = new Image();
