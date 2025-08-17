@@ -102,11 +102,14 @@ function renderQuestion(question, code, num) {
         <h5 class="fs-6">${num}. ${code}</h5>
         ${marked.parse(question.question)}
         <form id="${div.id + "Form"}">
-            ${Object.keys(question.options).map(option => `
+            ${Object.keys(question.options).length === 0 ? `
+                <input type="text" class="form-control" id="${"Q"+num+"input"}" autocomplete="off">
+                <label class="fw-bold fst-italic"></label>
+            ` : Object.keys(question.options).map(option => `
                 <div class="form-check">
                     <input type="radio" id="${"Q"+num+option}" name="${div.id}" value="${option}" class="form-check-input">
                     <label for="${"Q"+num+option}" class="form-check-label">${option}. ${marked.parseInline(question.options[option])}</label>
-                    <label id="response" class="fw-bold fst-italic"></label>
+                    <label class="fw-bold fst-italic"></label>
                 </div>
             `).join('')}
         </form>
@@ -229,20 +232,35 @@ function createMainForm(data) {
                 </div>
             `;
             div.appendChild(explanationDiv);
-            const query = document.querySelector(`input[name='${id}']:checked`);
-            if (query && query.value === questions[codes[i]].answer) {
-                div.classList.add("bg-success-subtle");
-                marks++;
+            if (Object.keys(questions[codes[i]].options).length > 0) {
+                const query = document.querySelector(`input[name='${id}']:checked`);
+                if (query && query.value === questions[codes[i]].answer) {
+                    div.classList.add("bg-success-subtle");
+                    marks++;
+                }
+                else {
+                    div.classList.add("bg-danger-subtle");
+                    const option = document.querySelector(`label[for='${id}${questions[codes[i]].answer}']`);
+                    option.classList.add("fw-bold");
+                    option.classList.add("opacity-100");
+                    option.nextElementSibling.innerHTML = "Correct answer";
+                }
+                for (const input of document.querySelectorAll(`input[name='${id}']`)) {
+                    input.disabled = true;
+                }
             }
             else {
-                div.classList.add("bg-danger-subtle");
-                const option = document.querySelector(`label[for='${id}${questions[codes[i]].answer}']`);
-                option.classList.add("fw-bold");
-                option.classList.add("opacity-100");
-                option.nextElementSibling.innerHTML = "Correct answer";
-            }
-            for (const input of document.querySelectorAll(`input[name='${id}']`)) {
-                input.disabled = true;
+                const query = document.getElementById(`${id}input`);
+                if (query.value === questions[codes[i]].answer) {
+                    div.classList.add("bg-success-subtle");
+                    marks++;
+                }
+                else {
+                    div.classList.add("bg-danger-subtle");
+                    query.nextElementSibling.classList.add("mt-3");
+                    query.nextElementSibling.innerHTML = questions[codes[i]].answer;
+                }
+                query.disabled = true;
             }
         }
         resultContainer.hidden = false;

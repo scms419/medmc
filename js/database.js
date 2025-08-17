@@ -89,23 +89,33 @@ function updateTopic (course, value) {
 }
 function updateOptions () {
     optionEditor.innerHTML = "";
-    options = {};
-    for (let [option, answer] of Object.entries(question.options)) {
+    if (Object.keys(question.options).length > 0) {
+        for (let [option, answer] of Object.entries(question.options)) {
+            const div = document.createElement("div");
+            div.className = "px-1 mb-3";
+            div.innerHTML = `
+                <div class="form-check">
+                    <input type="radio" id="${'option'+option+'-radio'}" name="options" value="${option}" class="form-check-input">
+                    <label for="${'option'+option}" class="form-check-label">${option}:</label>
+                </div>
+                <textarea id="${'option'+option}"></textarea>
+            `;
+            optionEditor.appendChild(div);
+            options[option] = createMDE("option"+option, "", true, false, false);
+            options[option].value(answer);
+        }
+        if (question.answer)
+            document.getElementById("option"+question.answer+"-radio").checked = true;
+    }
+    else {
         const div = document.createElement("div");
         div.className = "px-1 mb-3";
         div.innerHTML = `
-            <div class="form-check">
-                <input type="radio" id="${'option'+option+'-radio'}" name="options" value="${option}" class="form-check-input">
-                <label for="${'option'+option}" class="form-check-label">${option}:</label>
-            </div>
-            <textarea id="${'option'+option}"></textarea>
+            <input type="text" class="form-control" id="option-input" value="${question.answer}" autocomplete="off">
         `;
         optionEditor.appendChild(div);
-        options[option] = createMDE("option"+option, "", true, false, false);
-        options[option].value(answer);
+        options = {}
     }
-    if (question.answer)
-        document.getElementById("option"+question.answer+"-radio").checked = true;
 }
 function updateRenderingInfo (selectedIndex=0) {
     updateQuestionCode(selectedIndex);
@@ -157,17 +167,29 @@ function findOptions () {
     return returnOptions;
 }
 function findAnswer () {
-    const options = document.querySelectorAll("input[name='options']");
-    for (let option of options) {
-        if (option.checked) return option.value;
+    if (Object.keys(options).length > 0) {
+        const optionsQuery = document.querySelectorAll("input[name='options']");
+        for (let option of optionsQuery) {
+            if (option.checked) return option.value;
+        }
+        return null;
     }
-    return null;
+    else {
+        const input = document.getElementById("option-input");
+        return !input ? null : input.value;
+    }
 }
 function checkEmpty () {
     if (selectCourse.value !== "" || selectTopic.value !== "" || questionId.value !== "" || questionYear.value !== "" || questionNumber.value !== "") return false;
     if (questionEditor.value() !== "" || explanationEditor.value() !== "") return false;
-    for (const editor of Object.values(options)) {
-        if (editor.value() !== "") return false;
+    if (Object.keys(options).length === 0) {
+        const input = document.getElementById("option-input")
+        if (input.value === "") return false;
+    }
+    else {
+        for (const editor of Object.values(options)) {
+            if (editor.value() !== "") return false;
+        }
     }
     return true;
 }
@@ -437,14 +459,27 @@ document.getElementsByClassName("fa-solid fa-circle-plus")[0].addEventListener("
             <label for="${'option'+newOption}">${newOption}:</label>
             <textarea id="${'option'+newOption}"></textarea>
         `;
+    if (newOption === 'A') optionEditor.innerHTML = "";
     optionEditor.appendChild(span);
     options[newOption] = createMDE("option"+newOption, "", true, false, false);
 });
 document.getElementsByClassName("fa-solid fa-circle-minus")[0].addEventListener("click", () => {
-    const removeOption = Object.keys(options).at(-1);
-    if (options[removeOption].value() !== "" && !confirm("The last option contains text. Confirm removing the option?")) return;
-    optionEditor.lastElementChild.remove();
-    delete options[removeOption];
+    if (Object.keys(options).length > 0) {
+        const removeOption = Object.keys(options).at(-1);
+        if (options[removeOption].value() !== "" && !confirm("The last option contains text. Confirm removing the option?")) return;
+        optionEditor.lastElementChild.remove();
+        delete options[removeOption];
+        if (Object.keys(options).length === 0) {
+            optionEditor.innerHTML = `
+                <div class="px-1 mb-3">
+                    <input type="text" class="form-control" id="option-input" value="${question.answer}" autocomplete="off">
+                </div>
+            `;
+        }
+    }
+    else {
+        alert("At least one option is required.");
+    }
 });
 
 const removeButton = createInputButton("removeButton", "Remove this question", "danger", function () {
@@ -527,25 +562,25 @@ function validateTable() {
             const value = table.getDataAtRowProp(i, col);
             if (value === "" || value === null) arr.push(new Warning(i, table.propToCol(col)));
         });
-        try {
-            if (Object.keys(JSON.parse(table.getDataAtRowProp(i, "options"))).length === 0) arr.push(new Warning(i, 8));
-        }
-        catch (e) {
-            arr.push(new Warning(i, 8));
-        }
+        // try {
+        //     if (Object.keys(JSON.parse(table.getDataAtRowProp(i, "options"))).length === 0) arr.push(new Warning(i, table.propToCol("options")));
+        // }
+        // catch (e) {
+        //     arr.push(new Warning(i, table.propToCol("options")));
+        // }
         if (sourceData[table.propToCol("id")] !== "" && sourceData[table.propToCol("id")] !== null) {
             if (!Object.keys(idRow).includes(sourceData[table.propToCol("id")])) idRow[sourceData[table.propToCol("id")]] = i;
             else {
                 if (idRow[sourceData[table.propToCol("id")]] !== -1) {
-                    arr.push(new Warning(idRow[sourceData[table.propToCol("id")]], 1));
+                    arr.push(new Warning(idRow[sourceData[table.propToCol("id")]], table.propToCol("id")));
                     idRow[sourceData[table.propToCol("id")]] = -1;
                 }
-                arr.push(new Warning(i, 1));
+                arr.push(new Warning(i, table.propToCol("id")));
             }
         }
         if (sourceData[table.propToCol("course")] !== "" && sourceData[table.propToCol("course")] !== null) {
             if (Object.keys(courseMap).includes(sourceData[table.propToCol("course")])) {
-                if (courseMap[sourceData[table.propToCol("course")]] !== sourceData[table.propToCol("level")]) arr.push(new Warning(i, 5));
+                if (courseMap[sourceData[table.propToCol("course")]] !== sourceData[table.propToCol("level")]) arr.push(new Warning(i, table.propToCol("course")));
             }
         }
     }
@@ -737,9 +772,9 @@ function cleanHtml(data) {
 }
 function sliceMarkdown(data) {
     data += '\n';
-    const startRegex = /^(\(?\d+\.?\)?\s*)([A-Z0-9\s_\-]+)\n/;
-    const ansRegex = /^([A-Z]\.\s*)(.+)\n/;
-    const solutionRegex = /^Solution:\s*([A-Z])\s*\n/;
+    const startRegex = /^(\(?\d+\.?\)?\s*)([A-Z0-9\s_\-]+)\s*\n/;
+    const ansRegex = /^([A-H]\.\s*)(.+)\n/;
+    const solutionRegex = /^Solution:\s*(.+)\s*\n/;
     const extractRegex = /(\d+|[A-Z])/;
     const nextLineRegex = /.*\n/;
     let result = [];
@@ -785,6 +820,7 @@ function sliceMarkdown(data) {
                         data = data.slice(ansMatch[0].length);
                     }
                     else {
+                        const startMatch = startRegex.exec(data);
                         const solutionMatch = solutionRegex.exec(data);
                         if (solutionMatch) {
                             answer = solutionMatch[1];
@@ -801,6 +837,10 @@ function sliceMarkdown(data) {
                                     break;
                                 }
                             }
+                        }
+                        else if (startMatch && parseInt(extractRegex.exec(startMatch[1])[0]) === num+1) {
+                            flag = true
+                            break;
                         }
                         else {
                             const nextLineMatch = nextLineRegex.exec(data);
