@@ -56,16 +56,26 @@ document.getElementById("fileInput").addEventListener("click", (e) => {
         }
         JSZip.loadAsync(file)
             .then(function (zip) {
-                zip.file("questions.json").async("string").then(function (data) {
+                let promises = [];
+
+                let jsonPromise = zip.file("questions.json").async("string").then(function (data) {
                     localStorage.setItem("database", data);
                 });
+                promises.push(jsonPromise);
+
                 zip.folder("img").forEach(function (relativePath, zipEntry) {
-                    zipEntry.async("base64").then(function (data) {
+                    let imgPromise = zipEntry.async("base64").then(function (data) {
                         localStorage.setItem(zipEntry.name.replace(/img\//, ""), data);
                     });
+                    promises.push(imgPromise);
                 });
+
+                return Promise.all(promises);
+            })
+            .then(function () {
                 location.href = "database.html";
-            }, function (e) {
+            })
+            .catch(function (e) {
                 alert("Error reading uploaded file.\nError message: " + e.message);
                 console.log("Error reading uploaded file: ", e.message);
             });
