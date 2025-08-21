@@ -53,7 +53,7 @@ function updateCourse (value) {
     if (Object.keys(courses).length !== 0) {
         selectCourse.innerHTML = `
             ${Object.keys(courses).map(level => `
-                <optgroup label=${level}>
+                <optgroup label="${level}">
                 ${Object.keys(courses[level]).map(course => `
                     <option value="${course}">${course}</option>
                 `).join('')}
