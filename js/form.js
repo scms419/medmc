@@ -19,7 +19,7 @@ function createSelectCourseForm(courses) {
     selectCourseForm.innerHTML = `
         <div class="my-3 border-bottom">
             <h2 class="fs-2 text-body-emphasis mb-3">Select course</h2>
-            ${Object.keys(courses).map(level => `
+            ${Object.keys(courses).toSorted().map(level => `
                     <h5 class="border-bottom">${level}</h5>
                     ${Object.keys(courses[level]).map(course => `
                         <div class="form-check form-check-inline my-3">
