@@ -508,7 +508,7 @@ const saveButton = createInputButton("saveButton", "Save changes", "primary", fu
     if (saveChanges(true)) {
         updateRenderingInfo((selectQuestion.selectedIndex === -1) ? selectQuestion.length-1 : selectQuestion.selectedIndex);
         const obj = clean();
-        initialData = JSON.stringify({"courses": obj, "questions": questions});
+        initialData = JSON.stringify({"courses": obj, "questions": questions}, null, "  ");
         zip.file("questions.json", initialData);
         findImages();
         zip.generateAsync({type:"blob"})
@@ -519,7 +519,7 @@ const saveButton = createInputButton("saveButton", "Save changes", "primary", fu
 });
 const cancelButton = createInputButton("cancelButton", "Return to homepage", "secondary", function () {
     saveChanges(true, false);
-    if (JSON.stringify({courses, questions}) !== initialData && !confirm("Changes have not been saved. Confirm returning to homepage?")) return;
+    if (JSON.stringify({courses, questions}, null, "  ") !== initialData && !confirm("Changes have not been saved. Confirm returning to homepage?")) return;
     location.href = "index.html";
 });
 setButtons([removeButton, addButton, saveButton, cancelButton]);
