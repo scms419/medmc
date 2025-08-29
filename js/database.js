@@ -89,6 +89,7 @@ function updateTopic (course, value) {
 }
 function updateOptions () {
     optionEditor.innerHTML = "";
+    options = {};
     if (Object.keys(question.options).length > 0) {
         for (let [option, answer] of Object.entries(question.options)) {
             const div = document.createElement("div");
@@ -562,12 +563,6 @@ function validateTable() {
             const value = table.getDataAtRowProp(i, col);
             if (value === "" || value === null) arr.push(new Warning(i, table.propToCol(col)));
         });
-        // try {
-        //     if (Object.keys(JSON.parse(table.getDataAtRowProp(i, "options"))).length === 0) arr.push(new Warning(i, table.propToCol("options")));
-        // }
-        // catch (e) {
-        //     arr.push(new Warning(i, table.propToCol("options")));
-        // }
         if (sourceData[table.propToCol("id")] !== "" && sourceData[table.propToCol("id")] !== null) {
             if (!Object.keys(idRow).includes(sourceData[table.propToCol("id")])) idRow[sourceData[table.propToCol("id")]] = i;
             else {

@@ -2397,6 +2397,40 @@
       "answer": "A",
       "explanation": "*All spinal nerves contain both motor and sensory neurons*\n\nSpinal nerves are mixed nerves."
     },
+    "23-24 HS2 MID-TERM Q21": {
+      "year": "2023-24",
+      "course": "MEDF1012B Health Sciences II",
+      "question_number": 21,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 1 & 2 - Electrochemical Signals & Nervous System",
+      "question": "From which region of the central nervous system do the cranial nerves arise from?",
+      "options": {
+        "A": "Brain stem",
+        "B": "Cerebrum",
+        "C": "Cerebellum",
+        "D": "Diencephalon",
+        "E": "Spinal cord"
+      },
+      "answer": "A",
+      "explanation": "*Brain stem*"
+    },
+    "23-24 HS2 MID-TERM Q22": {
+      "year": "2023-24",
+      "course": "MEDF1012B Health Sciences II",
+      "question_number": 22,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 1 & 2 - Electrochemical Signals & Nervous System",
+      "question": "Where are voltage-gated Ca<sup>2+</sup> channels expressed?",
+      "options": {
+        "A": "Axon terminal",
+        "B": "Dendrites",
+        "C": "Soma",
+        "D": "Axon hillock",
+        "E": "Node of Ranvier"
+      },
+      "answer": "A",
+      "explanation": "*Axon terminal*  \n  \nAt the axon terminal, when there is depolarizing current arriving, then this will trigger the opening of the voltage-gated calcium channels. This results in the influx of Ca<sup>2+</sup> which triggers the fusion of synaptic vesicles (with neurotransmitters) with presynaptic membrane so that the neurotransmitters can be released to the synapse and bind to the receptors on the postsynaptic density of the postsynaptic membrane of the next soma/dendrite of neuron/effector."
+    },
     "12-13 HS1 Q17": {
       "year": "2012-13",
       "course": "MEDF1012B Health Sciences II",
@@ -3179,6 +3213,74 @@
       "answer": "C",
       "explanation": "*Radiation*  \n  \nIn fact, the full name of the thermometer is called infrared tympanic membrane thermometer. It measures the infrared emitted from the tympanic membrane which is supplied by the anterior tympanic artery."
     },
+    "23-24 HS2 MID-TERM Q10": {
+      "year": "2023-24",
+      "course": "MEDF1012B Health Sciences II",
+      "question_number": 10,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 3 - Thermoregulation",
+      "question": "Which of the following means of heat loss will be affected most when the subject is covered in a thin sheet of polyester film with a reflective surface (Mylar), also known as emergency blanket or space blanket?",
+      "options": {
+        "A": "Convection",
+        "B": "Conduction",
+        "C": "Convection and radiation",
+        "D": "Evaporation",
+        "E": "Evaporation and radiation"
+      },
+      "answer": "C",
+      "explanation": "*Convection and radiation*  \n  \nConvection: Note that the sheet will cut off air flow over the body surface, hence less heat loss by convection.  \nRadiation: The reflective surface (silvery) is a poor radiator hence reduce heat loss from body by radiation."
+    },
+    "23-24 HS2 MID-TERM Q11": {
+      "year": "2023-24",
+      "course": "MEDF1012B Health Sciences II",
+      "question_number": 11,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 3 - Thermoregulation",
+      "question": "In a thermoregulatory response, which of the following is responsible for the vasodilation of the cutaneous blood vessel?",
+      "options": {
+        "A": "Parasympathetic adrenergic nerves",
+        "B": "Parasympathetic cholinergic nerves",
+        "C": "Somatic cholinergic nerves",
+        "D": "Sympathetic adrenergic nerves",
+        "E": "Sympathetic cholinergic nerves."
+      },
+      "answer": "E",
+      "explanation": "*Sympathetic cholinergic nerves*  \n  \nNote that the sympathetic cholinergic nerves are responsible for heat dissipation/reduction in heat production, for instance, vasodilation of cutaneous blood vessel to increase flow of blood to skin surface to facilitate increased heat dissipation from body via conduction and radiation.  \nSympathetic adrenergic nerves are responsible for heat conservation/generation, for instance, vasoconstriction and piloerection.  \nNote that shivering thermogenesis (i.e. shivering of skeletal muscles) is due to somatic motor neurons but not sympathetic adrenergic neurons."
+    },
+    "23-24 HS2 MID-TERM Q12": {
+      "year": "2023-24",
+      "course": "MEDF1012B Health Sciences II",
+      "question_number": 12,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 3 - Thermoregulation",
+      "question": "Fever refers to the abnormal rise in temperature owing to pathological conditions. Which of the followings produced in hypothalamus is responsible for increasing the set point of thermoregulation?",
+      "options": {
+        "A": "Prostaglandin E<sub>2</sub>",
+        "B": "Exogenous pyrogens",
+        "C": "Tumour necrosis factor",
+        "D": "Endotoxin",
+        "E": "Interleukin-1"
+      },
+      "answer": "A",
+      "explanation": "*Prostaglandin E<sub>2</sub>*\n\nNote that pyrogens will stimulate the endothelial production/synthesis of prostaglandin E<sub>2</sub> at anterior hypothalamus, PGE<sub>2</sub> then diffuse into adjacent preoptic area (i.e. the hypothalamic thermoregulatory center) and increases its set point at the onset of fever.  \n  \nB: Exogenous pyrogens refer to pyrogens (which are chemical substances able to induce fever in body) originated from outside the body.  \nExample include bacterial endotoxin (option D) (e.g. lipopolysaccharides, LPS in cell wall of  \ngram-negative bacteria), foreign antigens as well as other substances products from microorganisms.  \nNote that they will either stimulate the immune system to synthesis endogenous pyrogens  \n(proinflammatory mediators) such as interleukin-1 (Option E), interleukin-6 and tumour necrosis factor (option C); or engage with specific toll-like receptors (TLR) on the organ vasculosum lamina terminalis (OVLT) to produce PGE<sub>2</sub> (option A)."
+    },
+    "23-24 HS2 MID-TERM Q25": {
+      "year": "2023-24",
+      "course": "MEDF1012B Health Sciences II",
+      "question_number": 25,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 3 - Thermoregulation",
+      "question": "In Hong Kong, The Standard Chartered Hong Kong Marathon is usually organized in springtime. Which of the following means of heat transfer is the most adversely affected when the air humidity is high?",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Evaporation",
+        "D": "Radiation",
+        "E": "All of the above"
+      },
+      "answer": "C",
+      "explanation": "*Evaporation*  \n  \nWhen the air humidity is high, note that the gradient of water vapour pressure between skin surface and ambient air decreases dramatically, hence resulting in very lower rate of evaporation of sweat from skin surface, leading to much lower rate of evaporative heat loss from skin surface.  \n  \nRate of heat gain/loss by conduction, convection or radiation is not affected greatly by humidity."
+    },
     "13-14 HS1 Q12": {
       "year": "2013-14",
       "course": "MEDF1012B Health Sciences II",
@@ -3840,6 +3942,40 @@
       "answer": "E",
       "explanation": "*i, ii and iii*  \n  \nNote that vessel A is vein while vessel B is artery.  \nStatement i is definitely true.  \nNote that the curve eventually plateaus off at high pressures and volumes, indicating a decrease in compliance because slope of the volume-pressure curve equals to compliance. Hence statement ii is also true.  \nThe reduced in vascular compliance (brought by constriction of the blood vessels) will result in the slope decreases, similar to shifting down of the curves. Hence statement iii is also true."
     },
+    "23-24 HS2 MID-TERM Q1": {
+      "year": "2023-24",
+      "course": "MEDF1012B Health Sciences II",
+      "question_number": 1,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 4 - Force, pressure and elasticity I",
+      "question": "What is the pressure reservoir in cardiovascular system?",
+      "options": {
+        "A": "Femoral artery",
+        "B": "Arterioles",
+        "C": "Radial artery",
+        "D": "Aorta",
+        "E": "Brachial artery"
+      },
+      "answer": "D",
+      "explanation": "*Aorta*  \n  \nFemoral artery, radial artery and brachial artery are muscular arteries which have lower proportion of elastic fibers (and thicker smooth muscles) hence they are not pressure reservoirs as they do not distend and recoil significantly."
+    },
+    "23-24 HS2 MID-TERM Q20": {
+      "year": "2023-24",
+      "course": "MEDF1012B Health Sciences II",
+      "question_number": 20,
+      "level": "Year 1 Sem 2",
+      "topic": "Lecture 4 - Force, pressure and elasticity I",
+      "question": "Binding to which of the following receptors will cause contraction of vascular smooth muscles?",
+      "options": {
+        "A": "Alpha",
+        "B": "Muscarinic",
+        "C": "Cholinergic",
+        "D": "Nicotinic",
+        "E": "Beta"
+      },
+      "answer": "A",
+      "explanation": "*Alpha*  \n  \nNote that for sympathetic stimulation (extrinsic mechanism), the norepinephrine binds to the  \nα-adrenergic receptors to initiate constriction of the vascular smooth muscles."
+    },
     "12-13 HS1 Q41": {
       "year": "2012-13",
       "course": "MEDF1012B Health Sciences II",
@@ -4450,142 +4586,6 @@
       },
       "answer": "E",
       "explanation": "T wave of ECG represent **ventricular repolarization**\n\nWhen ventricles **just** start repolarization (relax), tension developed **just start to decrease** (ventricular pressure **just start to decrease**), **<u>BUT pressure of ventricle still greater than that of aorta</u>** ⇒ Still systole (late systole) / ejection"
-    },
-    "23-24 HS2 MID-TERM Q21": {
-      "year": "2023-24",
-      "course": "MEDF1012B Health Sciences II",
-      "question_number": 21,
-      "level": "Year 1 Sem 2",
-      "topic": "Lecture 1 & 2 - Electrochemical Signals & Nervous System",
-      "question": "From which region of the central nervous system do the cranial nerves arise from?",
-      "options": {
-        "A": "Brain stem",
-        "B": "Cerebrum",
-        "C": "Cerebellum",
-        "D": "Diencephalon",
-        "E": "Spinal cord"
-      },
-      "answer": "A",
-      "explanation": "*Brain stem*"
-    },
-    "23-24 HS2 MID-TERM Q22": {
-      "year": "2023-24",
-      "course": "MEDF1012B Health Sciences II",
-      "question_number": 22,
-      "level": "Year 1 Sem 2",
-      "topic": "Lecture 1 & 2 - Electrochemical Signals & Nervous System",
-      "question": "Where are voltage-gated Ca<sup>2+</sup> channels expressed?",
-      "options": {
-        "A": "Axon terminal",
-        "B": "Dendrites",
-        "C": "Soma",
-        "D": "Axon hillock",
-        "E": "Node of Ranvier"
-      },
-      "answer": "A",
-      "explanation": "*Axon terminal*  \n  \nAt the axon terminal, when there is depolarizing current arriving, then this will trigger the opening of the voltage-gated calcium channels. This results in the influx of Ca<sup>2+</sup> which triggers the fusion of synaptic vesicles (with neurotransmitters) with presynaptic membrane so that the neurotransmitters can be released to the synapse and bind to the receptors on the postsynaptic density of the postsynaptic membrane of the next soma/dendrite of neuron/effector."
-    },
-    "23-24 HS2 MID-TERM Q10": {
-      "year": "2023-24",
-      "course": "MEDF1012B Health Sciences II",
-      "question_number": 10,
-      "level": "Year 1 Sem 2",
-      "topic": "Lecture 3 - Thermoregulation",
-      "question": "Which of the following means of heat loss will be affected most when the subject is covered in a thin sheet of polyester film with a reflective surface (Mylar), also known as emergency blanket or space blanket?",
-      "options": {
-        "A": "Convection",
-        "B": "Conduction",
-        "C": "Convection and radiation",
-        "D": "Evaporation",
-        "E": "Evaporation and radiation"
-      },
-      "answer": "C",
-      "explanation": "*Convection and radiation*  \n  \nConvection: Note that the sheet will cut off air flow over the body surface, hence less heat loss by convection.  \nRadiation: The reflective surface (silvery) is a poor radiator hence reduce heat loss from body by radiation."
-    },
-    "23-24 HS2 MID-TERM Q11": {
-      "year": "2023-24",
-      "course": "MEDF1012B Health Sciences II",
-      "question_number": 11,
-      "level": "Year 1 Sem 2",
-      "topic": "Lecture 3 - Thermoregulation",
-      "question": "In a thermoregulatory response, which of the following is responsible for the vasodilation of the cutaneous blood vessel?",
-      "options": {
-        "A": "Parasympathetic adrenergic nerves",
-        "B": "Parasympathetic cholinergic nerves",
-        "C": "Somatic cholinergic nerves",
-        "D": "Sympathetic adrenergic nerves",
-        "E": "Sympathetic cholinergic nerves."
-      },
-      "answer": "E",
-      "explanation": "*Sympathetic cholinergic nerves*  \n  \nNote that the sympathetic cholinergic nerves are responsible for heat dissipation/reduction in heat production, for instance, vasodilation of cutaneous blood vessel to increase flow of blood to skin surface to facilitate increased heat dissipation from body via conduction and radiation.  \nSympathetic adrenergic nerves are responsible for heat conservation/generation, for instance, vasoconstriction and piloerection.  \nNote that shivering thermogenesis (i.e. shivering of skeletal muscles) is due to somatic motor neurons but not sympathetic adrenergic neurons."
-    },
-    "23-24 HS2 MID-TERM Q12": {
-      "year": "2023-24",
-      "course": "MEDF1012B Health Sciences II",
-      "question_number": 12,
-      "level": "Year 1 Sem 2",
-      "topic": "Lecture 3 - Thermoregulation",
-      "question": "Fever refers to the abnormal rise in temperature owing to pathological conditions. Which of the followings produced in hypothalamus is responsible for increasing the set point of thermoregulation?",
-      "options": {
-        "A": "Prostaglandin E<sub>2</sub>",
-        "B": "Exogenous pyrogens",
-        "C": "Tumour necrosis factor",
-        "D": "Endotoxin",
-        "E": "Interleukin-1"
-      },
-      "answer": "A",
-      "explanation": "*Prostaglandin E<sub>2</sub>*\n\nNote that pyrogens will stimulate the endothelial production/synthesis of prostaglandin E<sub>2</sub> at anterior hypothalamus, PGE<sub>2</sub> then diffuse into adjacent preoptic area (i.e. the hypothalamic thermoregulatory center) and increases its set point at the onset of fever.  \n  \nB: Exogenous pyrogens refer to pyrogens (which are chemical substances able to induce fever in body) originated from outside the body.  \nExample include bacterial endotoxin (option D) (e.g. lipopolysaccharides, LPS in cell wall of  \ngram-negative bacteria), foreign antigens as well as other substances products from microorganisms.  \nNote that they will either stimulate the immune system to synthesis endogenous pyrogens  \n(proinflammatory mediators) such as interleukin-1 (Option E), interleukin-6 and tumour necrosis factor (option C); or engage with specific toll-like receptors (TLR) on the organ vasculosum lamina terminalis (OVLT) to produce PGE<sub>2</sub> (option A)."
-    },
-    "23-24 HS2 MID-TERM Q25": {
-      "year": "2023-24",
-      "course": "MEDF1012B Health Sciences II",
-      "question_number": 25,
-      "level": "Year 1 Sem 2",
-      "topic": "Lecture 3 - Thermoregulation",
-      "question": "In Hong Kong, The Standard Chartered Hong Kong Marathon is usually organized in springtime. Which of the following means of heat transfer is the most adversely affected when the air humidity is high?",
-      "options": {
-        "A": "Conduction",
-        "B": "Convection",
-        "C": "Evaporation",
-        "D": "Radiation",
-        "E": "All of the above"
-      },
-      "answer": "C",
-      "explanation": "*Evaporation*  \n  \nWhen the air humidity is high, note that the gradient of water vapour pressure between skin surface and ambient air decreases dramatically, hence resulting in very lower rate of evaporation of sweat from skin surface, leading to much lower rate of evaporative heat loss from skin surface.  \n  \nRate of heat gain/loss by conduction, convection or radiation is not affected greatly by humidity."
-    },
-    "23-24 HS2 MID-TERM Q1": {
-      "year": "2023-24",
-      "course": "MEDF1012B Health Sciences II",
-      "question_number": 1,
-      "level": "Year 1 Sem 2",
-      "topic": "Lecture 4 - Force, pressure and elasticity I",
-      "question": "What is the pressure reservoir in cardiovascular system?",
-      "options": {
-        "A": "Femoral artery",
-        "B": "Arterioles",
-        "C": "Radial artery",
-        "D": "Aorta",
-        "E": "Brachial artery"
-      },
-      "answer": "D",
-      "explanation": "*Aorta*  \n  \nFemoral artery, radial artery and brachial artery are muscular arteries which have lower proportion of elastic fibers (and thicker smooth muscles) hence they are not pressure reservoirs as they do not distend and recoil significantly."
-    },
-    "23-24 HS2 MID-TERM Q20": {
-      "year": "2023-24",
-      "course": "MEDF1012B Health Sciences II",
-      "question_number": 20,
-      "level": "Year 1 Sem 2",
-      "topic": "Lecture 4 - Force, pressure and elasticity I",
-      "question": "Binding to which of the following receptors will cause contraction of vascular smooth muscles?",
-      "options": {
-        "A": "Alpha",
-        "B": "Muscarinic",
-        "C": "Cholinergic",
-        "D": "Nicotinic",
-        "E": "Beta"
-      },
-      "answer": "A",
-      "explanation": "*Alpha*  \n  \nNote that for sympathetic stimulation (extrinsic mechanism), the norepinephrine binds to the  \nα-adrenergic receptors to initiate constriction of the vascular smooth muscles."
     },
     "13-14 HS1 Q51": {
       "year": "2013-14",
