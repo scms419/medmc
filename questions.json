@@ -970,8 +970,7 @@
         "A": "K<sup>+</sup> is the major extracellular ion in excitable cells.",
         "B": "Permeability of Na<sup>+</sup> is low except for rising phase of action potential.",
         "C": "K/Na pump is active.",
-        "D": "The permeability of membrane to K<sup>+</sup> is higher, including that of Na<sup>+</sup>.",
-        "E": "Na ion channel close, K ion channel open."
+        "D": "The permeability of membrane to K<sup>+</sup> is higher, including that of Na<sup>+</sup>."
       },
       "answer": "D",
       "explanation": "*The permeability of membrane to K<sup>+</sup> ion is higher, including that of Na<sup>+</sup> ion.*\n\n  \nResting membrane potential is the weighted equilibrium potential of all the ions contributing to the development of the membrane voltage (Na<sup>+</sup>, K<sup>+</sup> and Cl<sup>-</sup>).  \nThe higher the permeability of the ion, then the greater its contribution it is to the resting membrane potential. *Goldman equation*  \nIt should be noted that the permeability of K<sup>+ </sup> is higher due to higher concentration of K<sup>+</sup> leak channels distributed across the cell membrane (compared to Na<sup>+</sup> leak channels)."
@@ -985,10 +984,7 @@
       "question": "Nernst equation and movement of ions across the plasma membrane. Which of the following is false?",
       "options": {
         "A": "Nernst potential can only be positive.",
-        "B": "Only flow along concentration gradient.",
-        "C": "K/Na pump is active.",
-        "D": "The permeability of membrane to K<sup>+</sup> is higher, including that of Na<sup>+</sup>.",
-        "E": "Na ion channel close, K ion channel open."
+        "B": "Only flow along concentration gradient."
       },
       "answer": "A",
       "explanation": "*Nernst potential can only be positive.*\n\n  \nMembrane potential can also be negative.  \nExample: E<sub>K</sub> is around -90 mV."
@@ -1106,8 +1102,7 @@
         "A": "Neuronal control",
         "B": "Homeostatic control",
         "C": "Paracrine control",
-        "D": "Autocrine control",
-        "E": "Na<sup>+</sup> ion channels are partially inactivated"
+        "D": "Autocrine control"
       },
       "answer": "A",
       "explanation": "*Neuronal control*  \n  \nEffect is mediated by the nervous system through synaptic connections."
@@ -4359,9 +4354,7 @@
       "options": {
         "A": "An increase in venomotortone",
         "B": "A fall in pulse pressure",
-        "C": "Reflex Bradycardia",
-        "D": "90",
-        "E": "100"
+        "C": "Reflex Bradycardia"
       },
       "answer": "C",
       "explanation": "Increased pressure within carotid sinus\n⇒ Detected by baroreceptors\n⇒ Cardiovascular center at medulla oblongata\n⇒ Parasympathetic↑, Sympathetic↓\n⇒ Heart rate↓(Reflex bradycardia)"
@@ -4598,8 +4591,7 @@
         "A": "Provide a stable environment for a cell",
         "B": "Same as cerebrospinal fluid in composition",
         "C": "Equivalent to interstitial fluid",
-        "D": "Contains more K<sup>+</sup> than ICF",
-        "E": "infant"
+        "D": "Contains more K<sup>+</sup> than ICF"
       },
       "answer": "A",
       "explanation": ""
@@ -4921,8 +4913,7 @@
         "A": "It is secreted by anterior pituitary gland",
         "B": "It stimulates the release of aldosterone",
         "C": "It is stimulated by the decrease in ECF osmolarity",
-        "D": "It promotes the reabsorption of water",
-        "E": "It promotes dilation of efferent arteriole"
+        "D": "It promotes the reabsorption of water"
       },
       "answer": "D",
       "explanation": ""
@@ -5091,8 +5082,7 @@
         "A": "Ingestion of water",
         "B": "Ingestion of NaCl tablet with negligible volume of water",
         "C": "Intravenous infusion of iso-osmotic glucose",
-        "D": "Water deprivation",
-        "E": "The cells would swell and remain that way"
+        "D": "Water deprivation"
       },
       "answer": "B",
       "explanation": ""
@@ -5108,8 +5098,7 @@
         "A": "Water excretion determines plasma volume but not plasma osmolarity",
         "B": "Balance attained when rate of excretion and reabsorption of solute and water is the same",
         "C": "Tubular fluid in late distal tubule and collecting duct is hypoosmotic to medullary interstitial fluid",
-        "D": "None of the above",
-        "E": "The cells would swell and remain that way"
+        "D": "None of the above"
       },
       "answer": "C",
       "explanation": ""
@@ -5447,9 +5436,7 @@
       "options": {
         "A": "More fluid flow out of the capillary due to higher oncotic pressure",
         "B": "More fluid flow out of the capillary due to lower oncotic pressure",
-        "C": "More fluid flow out of the capillary due to higher osmotic pressure",
-        "D": "Na<sup>+</sup>/H<sup>+</sup> antiporter",
-        "E": "voltage-gated Na<sup>+</sup> channel"
+        "C": "More fluid flow out of the capillary due to higher osmotic pressure"
       },
       "answer": "B",
       "explanation": ""
@@ -5482,8 +5469,7 @@
         "A": "20%",
         "B": "40%",
         "C": "50%",
-        "D": "70%",
-        "E": "Plasma membrane is a fairly good insulator because it offers high resistance to ion movement."
+        "D": "70%"
       },
       "answer": "C",
       "explanation": ""
@@ -5865,7 +5851,7 @@
     "15-16 HSI Q9": {
       "year": "2015-16",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "9",
+      "question_number": 9,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 2 - Amino acid & Proteins",
       "question": "Which of the following amino acids should be used to prepare a buffer solution of pH7?",
@@ -5882,7 +5868,7 @@
     "14-15 HSI Q6": {
       "year": "2014-15",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "6",
+      "question_number": 6,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 2 - Amino acid & Proteins",
       "question": "Which of the following statements about peptide bond is true?",
@@ -5899,7 +5885,7 @@
     "14-15 HSI Q7": {
       "year": "2014-15",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "7",
+      "question_number": 7,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 2 - Amino acid & Proteins",
       "question": "Which of the following amino acid contributes to the light absorption of proteins at UV range?",
@@ -6154,7 +6140,7 @@
     "17-18 HSI Q12": {
       "year": "2017-18",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "12",
+      "question_number": 12,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Comparing to non-catalyst reaction, the standard Gibbs free energy changes in converting substrate into products in an enzyme-catalyzed reaction is",
@@ -6171,7 +6157,7 @@
     "17-18 HSI Q13": {
       "year": "2017-18",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "13",
+      "question_number": 13,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "In a closed system of steady state, which of the following is correct?",
@@ -6188,7 +6174,7 @@
     "17-18 HSI Q14": {
       "year": "2017-18",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "14",
+      "question_number": 14,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Phosphorylation is a common modification in enzyme. Which of the following amino acid can be an acceptor of phosphoryl group transferring from ATP?",
@@ -6205,7 +6191,7 @@
     "16-17 HSI Q13": {
       "year": "2016-17",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "13",
+      "question_number": 13,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Coenzyme is required in enzymatic reaction for what function?",
@@ -6222,7 +6208,7 @@
     "16-17 HSI Q15": {
       "year": "2016-17",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "15",
+      "question_number": 15,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Physical meaning of K<sub>m</sub> is",
@@ -6239,7 +6225,7 @@
     "15-16 HSI Q11": {
       "year": "2015-16",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "11",
+      "question_number": 11,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Which of the following statement about the active site of enzyme is correct?",
@@ -6256,7 +6242,7 @@
     "15-16 HSI Q12": {
       "year": "2015-16",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "12",
+      "question_number": 12,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "K<sub>m</sub> of hexokinase for glucose is 30uM. K<sub>m</sub> of glucokinase for glucose is 10mM. Blood glucose concentration is 10mM. (As measured in the hepatic portal vein after meal)\n\nWhich of the following is true?",
@@ -6273,7 +6259,7 @@
     "15-16 HSI Q13": {
       "year": "2015-16",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "13",
+      "question_number": 13,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Coenzyme is required in enzymatic reaction for what function?",
@@ -6290,7 +6276,7 @@
     "15-16 HSI Q14": {
       "year": "2015-16",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "14",
+      "question_number": 14,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Phosphorylation is a common modification in enzyme. Which of the following amino acid can be an acceptor of phosphoryl group transferring from ATP?",
@@ -6307,7 +6293,7 @@
     "15-16 HSI Q15": {
       "year": "2015-16",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "15",
+      "question_number": 15,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Which of the following is the meaning of K<sub>m</sub>?",
@@ -6324,7 +6310,7 @@
     "14-15 HSI Q13": {
       "year": "2014-15",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "13",
+      "question_number": 13,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Which of the following about coenzyme is correct?",
@@ -6341,7 +6327,7 @@
     "13-14 HSI Q11": {
       "year": "2013-14",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "11",
+      "question_number": 11,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Which of the following statement about substrate of enzymes is correct?",
@@ -6358,7 +6344,7 @@
     "13-14 HSI Q12": {
       "year": "2013-14",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "12",
+      "question_number": 12,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Importance of enzymes in cellular function can be best illustrated by:",
@@ -6375,7 +6361,7 @@
     "13-14 HSI Q13": {
       "year": "2013-14",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "13",
+      "question_number": 13,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Which of the following enzymes is the best catalyst for breaking down protein?",
@@ -6392,7 +6378,7 @@
     "13-14 HSI Q14": {
       "year": "2013-14",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "14",
+      "question_number": 14,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "Coenzyme is required for enzymatic reactions for acting as:",
@@ -6409,7 +6395,7 @@
     "13-14 HSI Q15": {
       "year": "2013-14",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "15",
+      "question_number": 15,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 3 - Biocatalyst",
       "question": "In an isolated system in steady state:",
@@ -6451,8 +6437,7 @@
         "A": "Only glycogen have carbon-carbon double bond",
         "B": "All are soluble in water",
         "C": "All can be digested by alpha amylase",
-        "D": "All contain highly branched polymer of galactose",
-        "E": "The person has a low oxygen-carrying capacity because of the glycated haemoglobin."
+        "D": "All contain highly branched polymer of galactose"
       },
       "answer": "C",
       "explanation": ""
@@ -6467,9 +6452,7 @@
       "options": {
         "A": "A lysosomal deficiency disease in which glycosaminoglycan is not efficiently degraded in lysosome",
         "B": "Caused by having gags with abnormally high number of glycolipids",
-        "C": "People with Mucopolysaccharidosis is taller than usual",
-        "D": "All contain highly branched polymer of galactose",
-        "E": "The person has a low oxygen-carrying capacity because of the glycated haemoglobin."
+        "C": "People with Mucopolysaccharidosis is taller than usual"
       },
       "answer": "A",
       "explanation": ""
@@ -6485,8 +6468,7 @@
         "A": "It inhibits the release of enzymes from pancreas that digests sugars",
         "B": "It inhibits digestion of glucose in the intestine",
         "C": "It delays absorption of dietary carbohydrates",
-        "D": "It increases glucose uptake by muscle cells",
-        "E": "The person has a low oxygen-carrying capacity because of the glycated haemoglobin."
+        "D": "It increases glucose uptake by muscle cells"
       },
       "answer": "C",
       "explanation": ""
@@ -6502,8 +6484,7 @@
         "A": "Glycogen is the main carbohydrate in the body",
         "B": "Glycogen contains only alpha 1-4 bonds",
         "C": "Glycogen can be digested by alpha amylase",
-        "D": "Glycogen only contains amylose and amylopectin",
-        "E": "D-glucose and D-Galactose are epimers"
+        "D": "Glycogen only contains amylose and amylopectin"
       },
       "answer": "C",
       "explanation": ""
@@ -7131,8 +7112,7 @@
         "A": "Glycolysis in all tissue",
         "B": "Cori cycle",
         "C": "Gluconeogenesis in liver",
-        "D": "Glycolysis in exercising muscle cells",
-        "E": "All except IV"
+        "D": "Glycolysis in exercising muscle cells"
       },
       "answer": "C",
       "explanation": ""
@@ -7250,8 +7230,7 @@
         "A": "It is esterified by acyl CoA:cholesterol acyltransferase in kidney",
         "B": "It is esterified by lecithin:cholesterol acyltransferase in liver",
         "C": "It is found in low density lipoprotein",
-        "D": "It is more hydrophilic than cholesterol",
-        "E": "LDL is a protein rich particle"
+        "D": "It is more hydrophilic than cholesterol"
       },
       "answer": "C",
       "explanation": ""
@@ -7394,7 +7373,7 @@
     "22-23 HSI Q10": {
       "year": "2022-23",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "10",
+      "question_number": 10,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 6 - Lipids & Its derivatives in human body",
       "question": "In the beta oxidation of fatty acids:",
@@ -7411,7 +7390,7 @@
     "22-23 HSI Q11": {
       "year": "2022-23",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "11",
+      "question_number": 11,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 6 - Lipids & Its derivatives in human body",
       "question": "In Class II hypercholesterolemia:",
@@ -7428,7 +7407,7 @@
     "22-23 HSI Q12": {
       "year": "2022-23",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "12",
+      "question_number": 12,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 6 - Lipids & Its derivatives in human body",
       "question": "Which of the following is the characteristic of lipoprotein?",
@@ -7445,7 +7424,7 @@
     "23-24 HSI Q13": {
       "year": "2023-24",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "13",
+      "question_number": 13,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 6 - Lipids & Its derivatives in human body",
       "question": "What is the enzyme used to produce cytosolic acetyl CoA?",
@@ -7460,7 +7439,7 @@
     "23-24 HSI Q14": {
       "year": "2023-24",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "14",
+      "question_number": 14,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 6 - Lipids & Its derivatives in human body",
       "question": "What is involved in the endogenous cholesterol synthesis in the liver of our body?",
@@ -7474,7 +7453,7 @@
     "23-24 HSI Q15": {
       "year": "2023-24",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "15",
+      "question_number": 15,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 6 - Lipids & Its derivatives in human body",
       "question": "What is the result of taking short-term ketogenic diet?",
@@ -7491,7 +7470,7 @@
     "23-24 HSI Q16": {
       "year": "2023-24",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "16",
+      "question_number": 16,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 6 - Lipids & Its derivatives in human body",
       "question": "The beta oxidation of long chain fatty acid involves:",
@@ -7508,7 +7487,7 @@
     "23-24 HSI Q17": {
       "year": "2023-24",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "17",
+      "question_number": 17,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 6 - Lipids & Its derivatives in human body",
       "question": "In class 3 familial hypercholesterolemia",
@@ -7525,7 +7504,7 @@
     "23-24 HSI Q18": {
       "year": "2023-24",
       "course": "MEDF1010 Health Sciences I",
-      "question_number": "18",
+      "question_number": 18,
       "level": "Year 1 Sem 1",
       "topic": "Lecture 6 - Lipids & Its derivatives in human body",
       "question": "Lipoprotein is specific for transport of cholesterol since:",
