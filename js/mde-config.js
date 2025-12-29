@@ -164,9 +164,9 @@ function createMDE(id, placeholder, sideBySide, horizontal=true, status=true) {
     cm.on("paste", function (cm, event) {
         customUploadImageFunction(editor, event.clipboardData.files[0], "paste");
     })
-    const map = ["numbered-list", "capital-lettered-list", "small-lettered-list", "capital-roman-numeral-list", "small-roman-numeral-list"];
-    for (let name of map) {
-        document.querySelector(`.${name}`).innerHTML = `<img src="icon/${name}.png" width="20" height="20">`
+    orderedListButtons = document.querySelector(`#${id} + div > div.editor-toolbar > button.ordered-list.easymde-dropdown > div`).children
+    for (let button of orderedListButtons) {
+        button.innerHTML = `<img src="icon/${button.className}.png" width="20" height="20">`;
     }
     return editor;
 }
