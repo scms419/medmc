@@ -871,6 +871,88 @@
           ]
         }
       }
+    },
+    "Year 2": {
+      "MEDU2400 Human Function I": {
+        "byYear": {
+          "2014-15": [
+            "14-15 MEDU2400 Test Q4",
+            "14-15 MEDU2400 Test Q3"
+          ],
+          "2015-16": [
+            "15-16 MEDU2400 Test Q21",
+            "15-16 MEDU2400 Test Q22",
+            "15-16 MEDU2400 Final Q1",
+            "15-16 MEDU2400 Final Q2",
+            "15-16 MEDU2400 Test Q23",
+            "15-16 MEDU2400 Test Q24"
+          ],
+          "2016-17": [
+            "16-17 MEDU2400 Final Q1",
+            "16-17 MEDU2400 Final Q3",
+            "16-17 MEDU2400 Test Q21"
+          ],
+          "2018-19": [
+            "18-19 MEDU2400 Test Q21",
+            "18-19 MEDU2400 Final Q1",
+            "18-19 MEDU2400 Final Q2"
+          ],
+          "2019-20": [
+            "19-20 MEDU2400 Test Q21",
+            "19-20 MEDU2400 Final Q1"
+          ],
+          "2020-21": [
+            "20-21 MEDU2400 Test Q21",
+            "20-21 MEDU2400 Final Q1",
+            "20-21 MEDU2400 Final Q2",
+            "20-21 MEDU2400 Test Q22",
+            "20-21 MEDU2400 Final Q3"
+          ],
+          "2017-18": [
+            "17-18 MEDU2400 Final Q1",
+            "17-18 MEDU2400 Test Q21",
+            "17-18 MEDU2400 Test Q22"
+          ],
+          "2022-23": [
+            "22-23 MEDU2400 Test Q21",
+            "22-23 MEDU2400 Test Q22"
+          ],
+          "2021-22": [
+            "21-22 MEDU2400 Final Q2"
+          ]
+        },
+        "byTopic": {
+          "Excitable Cells": [
+            "14-15 MEDU2400 Test Q4",
+            "15-16 MEDU2400 Test Q21",
+            "15-16 MEDU2400 Test Q22",
+            "16-17 MEDU2400 Final Q1",
+            "18-19 MEDU2400 Test Q21",
+            "19-20 MEDU2400 Test Q21",
+            "20-21 MEDU2400 Test Q21",
+            "20-21 MEDU2400 Final Q1",
+            "15-16 MEDU2400 Final Q1",
+            "15-16 MEDU2400 Final Q2",
+            "16-17 MEDU2400 Final Q3",
+            "17-18 MEDU2400 Final Q1",
+            "18-19 MEDU2400 Final Q1",
+            "19-20 MEDU2400 Final Q1",
+            "20-21 MEDU2400 Final Q2",
+            "22-23 MEDU2400 Test Q21",
+            "14-15 MEDU2400 Test Q3",
+            "15-16 MEDU2400 Test Q23",
+            "15-16 MEDU2400 Test Q24",
+            "16-17 MEDU2400 Test Q21",
+            "17-18 MEDU2400 Test Q21",
+            "17-18 MEDU2400 Test Q22",
+            "18-19 MEDU2400 Final Q2",
+            "20-21 MEDU2400 Test Q22",
+            "20-21 MEDU2400 Final Q3",
+            "21-22 MEDU2400 Final Q2",
+            "22-23 MEDU2400 Test Q22"
+          ]
+        }
+      }
     }
   },
   "questions": {
@@ -7516,6 +7598,457 @@
         "E": "27 carbon molecule very hydrophobic"
       },
       "answer": "E",
+      "explanation": ""
+    },
+    "14-15 MEDU2400 Test Q4": {
+      "year": "2014-15",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following procedures would most likely bring the resting membrane potential of a typical neuron to near-zero millivolt instantaneously?",
+      "options": {
+        "A": "Blocking conductance channels for K+ and opening conductance channels for Na+",
+        "B": "Inhibiting the Na+/ K+-ATPase",
+        "C": "Replacing extracellular NaCl with the same molar concentration of choline (a non-permeable cation) chloride",
+        "D": "Replacing extracellular NaCl with the same molar concentration of KCl",
+        "E": "Replacing extracellular NaCl with the same molar concentration of Na2SO4 (a less permeable anion)"
+      },
+      "answer": "D",
+      "explanation": " A. This removes the influence of K+ to membrane potential, and pull it very close to equilibrium potential of Na+ instead, which is around +60 mV.\n B. There will be a slight depolarization only, not sufficient to a near-zero value.\n C. The RMP would probably be raised slightly as K+ moves out of the cell until it equilibrates itself. Contribution from Cl- is very low.\n D. Extracellular [Na+] is very similar to intracellular [K+] so if the Na+ turns into K then almost no gradient → RMP mainly determined by K+ so it can bring it to near-zero mV\n E. The major cations are the same. No matter how it changes, it would not be as significant as D."
+    },
+    "15-16 MEDU2400 Test Q21": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following ion is responsible for the entry of particles (e.g. amino acid, glucose) into the cell by secondary transport?",
+      "options": {
+        "A": "Ca2+",
+        "B": "H+",
+        "C": "K+",
+        "D": "Mg2+",
+        "E": "Na+"
+      },
+      "answer": "E",
+      "explanation": "For glucose, the example is SGLT1, which refers to sodium glucose transport protein.\nYou will know the answer directly as you make progress in HUF 1."
+    },
+    "15-16 MEDU2400 Test Q22": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Given that $\\frac{RT}{F} = 61$ for cation, extracellular concentration = 2 millimolar, and intracellular concentration = 0.1 micromolar, calculate $\\text{E}_\\text{Ca}$",
+      "options": {
+        "A": "40",
+        "B": "70",
+        "C": "-70",
+        "D": "130",
+        "E": "-130"
+      },
+      "answer": "D",
+      "explanation": "$\\frac{61}{2} \\log{20000} = 131.2$"
+    },
+    "16-17 MEDU2400 Final Q1": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "(with data) If the cell membrane is -75, which of the following has the highest driving force?",
+      "options": {
+        "A": "Ca2+",
+        "B": "Cl-",
+        "C": "K+",
+        "D": "Na+",
+        "E": "Cannot be established"
+      },
+      "answer": "A",
+      "explanation": "From above, you can know that Ca has a very positive equilibrium potential. Hence it has the highest driving force for entering cells, but its permeability is too low to pose a significant effect of resting membrane potential."
+    },
+    "18-19 MEDU2400 Test Q21": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following leads to hypokalemia?",
+      "options": {
+        "A": "Metabolic acidosis",
+        "B": "Excess thyroid hormone",
+        "C": "Chemotherapy of cancer cells",
+        "D": "Repeated generation of action potential"
+      },
+      "answer": "B",
+      "explanation": " A. In acidemia / acidosis, the high extracellular H+ ion concentration would displace intracellular K+, leading to hyperkalemia (for intracellular protein buffering; more in renal physiology)\n B. Excess thyroid hormone stimulates the activity of sodium potassium pump, which causes an excess reuptake of potassium ions from the extracellular fluid and leads to hypokalemia.\n C. Chemotherapy = Cell lysis = burst of intracellular K+ to the outside → Hyperkalemia\n D. At most, prolonged K+ efflux during the repolarization phase raises ECF K+ and causes hyperkalemia / muscle weakness.\n\nOther factors that lead to\n * Hypokalemia: insulin, beta-adrenergic agonists, aldosterone\n * Hyperkalemia: Exercise, beta-adrenergic antagonists, ouabain / digoxin (inhibiting Na+/K+ ATPase)"
+    },
+    "19-20 MEDU2400 Test Q21": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Lowering threshold of potential when generation of action potential",
+      "options": {
+        "A": "Larger axon diameter",
+        "B": "Lowering extracellular Ca2+",
+        "C": "Lowering frequency of stimulation",
+        "D": "Lowering permeability to K+",
+        "E": "Raising extracellular K+"
+      },
+      "answer": "B",
+      "explanation": "This question is actually put in the wrong category. Yet, this is best to let you integrate concepts.\nNote that the question talks about THRESHOLD, not excitability.\n\n A. Axon diameter is proportional to the velocity of action potential propagation.\nB. Reducing extracellular calcium = hypocalcemia, which reduces the accommodation effect of calcium. This lowers the threshold of excitation. The shielding effect is due to the high charge density of calcium that makes it tend to bind with the negatively charged chloride ions that passively distribute across the surface of the membrane. Thus, the presence of calcium alters the gating properties of the voltage-gated channels on the membrane, and raises the threshold of excitation.\n C. The stimulus is coded by frequency, but not the threshold.\n D. Lowering K+ permeability will make the RMP away from equilibrium potential of K+, giving a hyperpolarisation. In the short term it won’t affect the threshold, but in the long run it will increase open-state as less Na+ channels are inactivated.\n E. For option E, raising extracellular K+ = hyperkalemia, which helps depolarize the cell / bring the RMP closer to threshold. In other words, the EXCITABILITY increases."
+    },
+    "20-21 MEDU2400 Test Q21": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "| | extracellular conc. | intracellular conc. |\n| --- | --- | --- |\n| Ca2+ | 2.5 | 10^(-4) |\n| K+ | 4 | 140 |\n| Na+ | 140 | 7 |\n| Cl- | 7 | 110 |\n\nGiven that membrane potential = -70mV, which ion has the highest flow rate?",
+      "options": {
+        "A": "Ca2+",
+        "B": "K+",
+        "C": "Na+",
+        "D": "Cl-",
+        "E": "could not be determined"
+      },
+      "answer": "A",
+      "explanation": "Note that at equilibrium, K+ efflux + Cl- influx = Na+ influx + Ca2+ influx. The relative flow can be estimated from conductance and driving force of each ion. However, we do not have any information about conductance of Ca2+ to estimate its flow. So, I think this question is simply asking which ion has the greatest driving force, i.e. greatest distance of its equilibrium potential from the RMP –70mV. This question will make sense if all ions have the same conductance for free flow, which is not the case in vivo."
+    },
+    "20-21 MEDU2400 Final Q1": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following will cause hypokalemia? (Choices reconstructed)",
+      "options": {
+        "A": "Use of propranolol",
+        "B": "Metabolic acidosis",
+        "C": "Excess thyroid hormone",
+        "D": "Diabetes mellitus",
+        "E": "Repeated muscle contraction"
+      },
+      "answer": "C",
+      "explanation": "Only option A is a new option. The others are the same as the previous questions.\n\n A. Choice A is made up as it is lost from source. Propranolol as a non-selective beta blocker, it will block β2 receptors on body cells as well. This inhibits activity of Na+/K+-ATPase to transport K+ from ECF into ICF, and causes hyperkalemia.\n B. Incorrect, as ECF H+ displaces ICF K+ for buffering and causes hyperkalemia.\n C. Correct, as this stimulates the activity of NA+/K+ ATPase.\n D. D is a bit controversial, as it depends on type I or II. For type I, the absence of insulin will lower activity of Na+/K+-ATPase and cause hyperkalemia similar to beta blocker. However, for type II, the normal or even higher insulin level will do the opposite and cause hypokalemia. This is because in type II DM, insulin secretion is normal and it is insulin resistance causing the inability to lower blood glucose to normal range. Always keep in mind physiology and biochemistry are almost inseparable, and it is important to link concepts in different courses to get the whole picture.\n E. Incorrect, as prolonged K+ efflux in the repolarization phase increases ECF K+."
+    },
+    "15-16 MEDU2400 Final Q1": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following is most likely result in synaptic inhibition",
+      "options": {
+        "A": "Decrease in the activity of Na/K ATPase",
+        "B": "Decrease efflux of K+",
+        "C": "Increase influx Na",
+        "D": "Increase influx Cl",
+        "E": "Increase influx Ca"
+      },
+      "answer": "D",
+      "explanation": " A. Cause slight depolarization\n B. Cause depolarization\n C. Cause depolarization\n D. Hyperpolarization is often caused by efflux of K+ (a cation) through K+ channels, or influx of Cl– (an anion) through Cl– channels.\n E. Causes depolarization + triggers exocytosis of neurotransmitters\nSource: https://en.wikipedia.org/wiki/Hyperpolarization_(biology)"
+    },
+    "15-16 MEDU2400 Final Q2": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "In the perception of sensory information, which of the following has no relation with the intensity of stimulus?",
+      "options": {
+        "A": "The amplitude of action potential in sensory neuron",
+        "B": "The amplitude of receptor potential in receptor cell",
+        "C": "The frequency of action potential in sensory neuron",
+        "D": "The spatial or temporal summation of generator potential in sensory neuron"
+      },
+      "answer": "A",
+      "explanation": "B. receptor potential resembles a graded potential by opening / closing of ion channels\n\nStrength and duration of receptor potentials determine the frequency of action potentials generated in sensory neuron"
+    },
+    "16-17 MEDU2400 Final Q3": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "During a spinal surgical operation, several spinal lumbar dorsal nerve roots were damaged. After the operation, the patient experienced difficulty in standing erect and decrease in smooth muscle tone. Which of the following best represents the most likely cause for the patient's condition?",
+      "options": {
+        "A": "Some of the neurons of the cutaneous sensory nerve receptors in the leg and thigh have been damaged.",
+        "B": "Some of the parasympathetic neurons of the leg and thigh have been damaged.",
+        "C": "Some of the sensory neurons from the muscle spindles are destroyed.",
+        "D": "Some of the somatic motor neurons to the leg and thigh are destroyed.",
+        "E": "Some sympathetic neurons to the leg and thigh are destroyed."
+      },
+      "answer": "C",
+      "explanation": "Refer to this page: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5889228/"
+    },
+    "17-18 MEDU2400 Final Q1": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Botulinum toxin block the cholinergic nerve transmission by",
+      "options": {
+        "A": "accelerate degradation of ACH in presynaptic terminal",
+        "B": "accelerate degradation of ACH in synaptic gap",
+        "C": "prevent exocytosis of ACH vesicles"
+      },
+      "answer": "C",
+      "explanation": "Note that botulinum toxin cleaves SNARE proteins on the presynaptic membrane → regulates the exocytosis of neurotransmitters."
+    },
+    "18-19 MEDU2400 Final Q1": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "increase permeability in which ion reduce synaptic transmission",
+      "options": {
+        "A": "gCa in postsynaptic membrane",
+        "B": "gCa in presynaptic membrane",
+        "C": "gCl in presynaptic membrane",
+        "D": "gK in postsynaptic membrane",
+        "E": "gNa presynaptic membrane"
+      },
+      "answer": "C",
+      "explanation": " A. Increasing gCa in postsynaptic membrane will cause Ca influx and depolarisation, as equilibrium potential of Ca is around +130 mV, while RMP is –70 mV.\n B. This is required to trigger exocytosis of neurotransmitter-containing vesicles from interaction of SNARE proteins.\n C. This could cause slight depolarisation as equilibrium potential of Cl is around –61 mV, which does not favor the opening of voltage-gated Ca channels.\n D. D is incorrect as it causes hyperpolarization in the postsynaptic membrane. It serves just like an EPSP, but synaptic transmission is already achieved. This at most prevents the generation of action potential, but has no effect on synaptic transmission.\n E. E is just like an arrival of AP at synaptic terminal to trigger release of neurotransmitters."
+    },
+    "19-20 MEDU2400 Final Q1": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "23 year old man received botox injection to treat palmar hyperhidrosis. Which changes will be observed at the neuroeffector junction?",
+      "options": {
+        "A": "ACh level decrease",
+        "B": "AChE activity increase",
+        "C": "Muscarinic receptor level decrease",
+        "D": "ACh binding to receptor increase",
+        "E": "Nicotinic receptor level decrease"
+      },
+      "answer": "A",
+      "explanation": "Botox prevents the exocytosis of ACh."
+    },
+    "20-21 MEDU2400 Final Q2": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "A man receives botulinum toxin injection to treat palmar hyperhidrosis. Which of the following changes would have taken place at the neuroeffector junction?",
+      "options": {
+        "A": "Decrease in acetylcholine synthesis",
+        "B": "Decrease in exocytotic release of acetylcholine",
+        "C": "Decrease in muscarinic acetylcholine receptor number",
+        "D": "Desensitisation of acetylcholine receptors due to prolonged acetylcholine binding",
+        "E": "Increase in acetylcholinesterase activity"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "22-23 MEDU2400 Test Q21": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following acute changes in conductance would most likely result in the inhibition of synaptic transmission?",
+      "options": {
+        "A": "Decrease in gK in presynaptic membrane",
+        "B": "Increase in gCa in postsynaptic membrane",
+        "C": "Increase in gCa in presynaptic membrane",
+        "D": "Increase in gCl in postsynaptic membrane",
+        "E": "Increase in gNa in postsynaptic membrane"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "14-15 MEDU2400 Test Q3": {
+      "year": "2014-15",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following statements about the structure and function of neurons in the peripheral nervous system (PNS) is correct?",
+      "options": {
+        "A": "Sensory neurons are bipolar and convey impulse from receptor to CNS",
+        "B": "Motor neurons are multipolar and convey impulse from effector to CNS",
+        "C": "Sensory neurons are multipolar and convey impulse from receptor to CNS",
+        "D": "Motor neurons are multipolar and convey nerve impulse from CNS to receptor",
+        "E": "Sensory neurons are pseudounipolar and convey nerve impulse from receptor to CNS"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Test Q23": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which statement concerning the absolute refractory period is correct",
+      "options": {
+        "A": "Increase in the permeability of K …",
+        "B": "The absolute refractory period overlaps with after-hyperpolarization",
+        "C": "Inactivation of voltage-gated Na channels cause the absolute refractory period",
+        "D": "A second AP can be generated during the refractory period if the stimulus is larger than the original one",
+        "E": "Blocking of voltage-gated K+ channels?"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Test Q24": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Interneurons are characterized by:",
+      "options": {
+        "A": "Being a component in all spinal reflexes",
+        "B": "Being a component in the stretch reflex",
+        "C": "Being a component in the withdrawal reflex",
+        "D": "Producing only excitation",
+        "E": "Producing only inhibition"
+      },
+      "answer": "C",
+      "explanation": " A. Spinal reflex just refers to reflexes that involve the spinal cord. An exception is the knee jerk reflex\n B. Stretch reflex does not involve interneurons. It is only the interaction between type Ia (Nuclear bag fibres) or type II (nuclear chain fibres) with the A (alpha/ gamma) motor neurones.\n C. Withdrawal reflex is a polysynaptic reflex (with more synaptic delays). Interneurons activate motor neurones at multiple spinal cord levels, giving rise to intersegmental reflex arcs.\n D. Depending on the need, interneurons can be excitatory (neurotransmitter: glycine) and inhibitory (neurotransmitter: glutamate)."
+    },
+    "16-17 MEDU2400 Test Q21": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following can lower the threshold?",
+      "options": {
+        "A": "Lower Ca extracellular concentration",
+        "B": "Lower K extracellular concentration",
+        "C": "Prolong increase in K extra concentration",
+        "D": "Increase stimuli frequency"
+      },
+      "answer": "A",
+      "explanation": "**Shielding effect of Ca2+**\nNote that there are static negative charges on the surface of the cell membrane due to phospholipid molecules.\nDivalent ions like Ca2+ have higher charge density and are more attracted to the surface negative charges than those monovalent ions.\nHypercalcaemia increases threshold by shielding effect.\n * Ca2+ binds to the negative charge → alter electric field within membrane\n * Gating properties of channels altered (e.g. Ca2+ increase → Reduce Na+ channel opening tendency)  → Raise threshold potential"
+    },
+    "17-18 MEDU2400 Test Q21": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following can lower the threshold of action potential?",
+      "options": {
+        "A": "Lower extracellular Ca2+ concentration",
+        "B": "Increase extracellular K+ concentration",
+        "C": "Increase stimuli frequency",
+        "D": "Decrease in intracellular Na+",
+        "E": "Smaller axon diameter"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Test Q22": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "When a current is injected to a point in the middle of the axon of motor neuron to produce suprathreshold stimulation, which of the following represents the most likely findings?",
+      "options": {
+        "A": "There is only depolarisation at the site of needle insertion, but no propagation of AP",
+        "B": "The AP is not propagated back to soma",
+        "C": "Can be detected in all regions of the neuron",
+        "D": "Can be detected in all regions of axon",
+        "E": "The amplitude of action potential is increasing towards the trigger zone(?)"
+      },
+      "answer": "D",
+      "explanation": "This is a pretty tricky question.\nUsually, we say that the transmission of electrical signals along a neuron is unidirectional, as ensured by the refractory periods.\nHowever, if the depolarization is initiated in the middle of the neuron, the voltage-gated sodium channels in both directions are NOT inactivated, which means that when the receptors on either side detect a rise in membrane potential above threshold, they will open. Thus, action potential spreads along the entire axon."
+    },
+    "18-19 MEDU2400 Final Q2": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "What would be the effect of a neuron if a drug inhibits Na+ receptors?",
+      "options": {
+        "A": "The after-hyperpolarization following the generation of an action potential is abolished",
+        "B": "The Na+ equilibrium potential becomes less positive",
+        "C": "reduced rate of upstroke of depolarization",
+        "D": "reduced relative refractory period"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Test Q22": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following changes would most likely occur in a neuron when the voltage-gated Na+ channels are partially blocked?",
+      "options": {
+        "A": "The after-hyperpolarization following the generation of an AP is abolished.",
+        "B": "The Na+ equilibrium potential becomes less positive",
+        "C": "The relative refractory period following the generation of AP is shortened",
+        "D": "The Resting membrane potential becomes more negative",
+        "E": "The threshold for generating an AP is raised"
+      },
+      "answer": "E",
+      "explanation": "D. less negative\n\nThis question skips the step about the shielding effect elicited by hypercalcemia. Partial blockage of sodium channels is equivalent to modification of the gating properties of these channels by hypercalcemia."
+    },
+    "20-21 MEDU2400 Final Q3": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following can decrease the threshold for Action Potential generation in neurons?",
+      "options": {
+        "A": "prolonged exposure to high extracellular K+",
+        "B": "larger neuron with a larger axon diameter",
+        "C": "lowering extracellular Ca"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q2": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Midway along the length of an unmyelinated axon, a current is injected to produce a suprathreshold depolarization, which of the following findings would most likely be observed?",
+      "options": {
+        "A": "A depolarization is detected at the site of stimulation, but no action potential is generated",
+        "B": "Action potentials are later recorded in all parts of the neuron",
+        "C": "Action potentials are later recorded in all parts of the axon",
+        "D": "Action potentials of larger amplitude are recorded at the spike initiation zone",
+        "E": "Continuous conduction of action potential occurs only in the direction away from the soma and towards the axon terminal"
+      },
+      "answer": "C",
+      "explanation": "Action potential generation is only possible after the axon hillock."
+    },
+    "22-23 MEDU2400 Test Q22": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following would give rise to a lower threshold potential for generation of nerve action potential?",
+      "options": {
+        "A": "Larger neuron with larger soma and greater nerve fibers",
+        "B": "Decrease in extracellular Ca concentration",
+        "C": "Decrease in frequency of stimulus",
+        "D": "Decrease in membrane permeability of K",
+        "E": "Increase in extracellular Na concentration"
+      },
+      "answer": "B",
       "explanation": ""
     }
   }
