@@ -885,40 +885,66 @@
             "15-16 MEDU2400 Final Q1",
             "15-16 MEDU2400 Final Q2",
             "15-16 MEDU2400 Test Q23",
-            "15-16 MEDU2400 Test Q24"
+            "15-16 MEDU2400 Test Q24",
+            "15-16 MEDU2400 Final Q3",
+            "15-16 MEDU2400 Final Q4"
           ],
           "2016-17": [
             "16-17 MEDU2400 Final Q1",
             "16-17 MEDU2400 Final Q3",
-            "16-17 MEDU2400 Test Q21"
+            "16-17 MEDU2400 Test Q21",
+            "16-17 MEDU2400 Test Q22",
+            "16-17 MEDU2400 Test Q23",
+            "16-17 MEDU2400 Final Q4"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
             "18-19 MEDU2400 Final Q1",
-            "18-19 MEDU2400 Final Q2"
+            "18-19 MEDU2400 Final Q2",
+            "18-19 MEDU2400 Test Q22",
+            "18-19 MEDU2400 Test Q23",
+            "18-19 MEDU2400 Test Q24",
+            "18-19 MEDU2400 Test Q25",
+            "18-19 MEDU2400 Test Q49",
+            "18-19 MEDU2400 Final Q3",
+            "18-19 MEDU2400 Final Q4"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
-            "19-20 MEDU2400 Final Q1"
+            "19-20 MEDU2400 Final Q1",
+            "19-20 MEDU2400 Final Q2",
+            "19-20 MEDU2400 Final Q3",
+            "19-20 MEDU2400 Final Q4"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
+            "20-21 MEDU2400 Test Q22",
+            "20-21 MEDU2400 Final Q0",
             "20-21 MEDU2400 Final Q1",
             "20-21 MEDU2400 Final Q2",
-            "20-21 MEDU2400 Test Q22",
-            "20-21 MEDU2400 Final Q3"
+            "20-21 MEDU2400 Final Q3",
+            "20-21 MEDU2400 Final Q6"
           ],
           "2017-18": [
             "17-18 MEDU2400 Final Q1",
             "17-18 MEDU2400 Test Q21",
-            "17-18 MEDU2400 Test Q22"
+            "17-18 MEDU2400 Test Q22",
+            "17-18 MEDU2400 Test Q23",
+            "17-18 MEDU2400 Final Q2",
+            "17-18 MEDU2400 Final Q3",
+            "17-18 MEDU2400 Test Q24",
+            "17-18 MEDU2400 Final Q4"
           ],
           "2022-23": [
             "22-23 MEDU2400 Test Q21",
-            "22-23 MEDU2400 Test Q22"
+            "22-23 MEDU2400 Test Q22",
+            "22-23 MEDU2400 Q24"
           ],
           "2021-22": [
-            "21-22 MEDU2400 Final Q2"
+            "21-22 MEDU2400 Final Q2",
+            "21-22 MEDU2400 Test Q22",
+            "21-22 MEDU2400 Test Q23",
+            "21-22 MEDU2400 Final Q3"
           ]
         },
         "byTopic": {
@@ -930,14 +956,12 @@
             "18-19 MEDU2400 Test Q21",
             "19-20 MEDU2400 Test Q21",
             "20-21 MEDU2400 Test Q21",
-            "20-21 MEDU2400 Final Q1",
             "15-16 MEDU2400 Final Q1",
             "15-16 MEDU2400 Final Q2",
             "16-17 MEDU2400 Final Q3",
             "17-18 MEDU2400 Final Q1",
             "18-19 MEDU2400 Final Q1",
             "19-20 MEDU2400 Final Q1",
-            "20-21 MEDU2400 Final Q2",
             "22-23 MEDU2400 Test Q21",
             "14-15 MEDU2400 Test Q3",
             "15-16 MEDU2400 Test Q23",
@@ -947,9 +971,37 @@
             "17-18 MEDU2400 Test Q22",
             "18-19 MEDU2400 Final Q2",
             "20-21 MEDU2400 Test Q22",
-            "20-21 MEDU2400 Final Q3",
             "21-22 MEDU2400 Final Q2",
-            "22-23 MEDU2400 Test Q22"
+            "22-23 MEDU2400 Test Q22",
+            "20-21 MEDU2400 Final Q0",
+            "20-21 MEDU2400 Final Q1",
+            "20-21 MEDU2400 Final Q2",
+            "16-17 MEDU2400 Test Q22",
+            "17-18 MEDU2400 Test Q23",
+            "17-18 MEDU2400 Final Q2",
+            "17-18 MEDU2400 Final Q3",
+            "18-19 MEDU2400 Test Q22",
+            "19-20 MEDU2400 Final Q2",
+            "20-21 MEDU2400 Final Q3",
+            "18-19 MEDU2400 Test Q23",
+            "19-20 MEDU2400 Final Q3",
+            "21-22 MEDU2400 Test Q22",
+            "15-16 MEDU2400 Final Q3",
+            "15-16 MEDU2400 Final Q4",
+            "16-17 MEDU2400 Test Q23",
+            "16-17 MEDU2400 Final Q4",
+            "17-18 MEDU2400 Test Q24",
+            "17-18 MEDU2400 Final Q4",
+            "18-19 MEDU2400 Test Q24",
+            "18-19 MEDU2400 Test Q25",
+            "18-19 MEDU2400 Test Q49",
+            "18-19 MEDU2400 Final Q3",
+            "18-19 MEDU2400 Final Q4",
+            "19-20 MEDU2400 Final Q4",
+            "20-21 MEDU2400 Final Q6",
+            "21-22 MEDU2400 Test Q23",
+            "21-22 MEDU2400 Final Q3",
+            "22-23 MEDU2400 Q24"
           ]
         }
       }
@@ -7718,23 +7770,6 @@
       "answer": "A",
       "explanation": "Note that at equilibrium, K+ efflux + Cl- influx = Na+ influx + Ca2+ influx. The relative flow can be estimated from conductance and driving force of each ion. However, we do not have any information about conductance of Ca2+ to estimate its flow. So, I think this question is simply asking which ion has the greatest driving force, i.e. greatest distance of its equilibrium potential from the RMP –70mV. This question will make sense if all ions have the same conductance for free flow, which is not the case in vivo."
     },
-    "20-21 MEDU2400 Final Q1": {
-      "year": "2020-21",
-      "course": "MEDU2400 Human Function I",
-      "question_number": 1,
-      "level": "Year 2",
-      "topic": "Excitable Cells",
-      "question": "Which of the following will cause hypokalemia? (Choices reconstructed)",
-      "options": {
-        "A": "Use of propranolol",
-        "B": "Metabolic acidosis",
-        "C": "Excess thyroid hormone",
-        "D": "Diabetes mellitus",
-        "E": "Repeated muscle contraction"
-      },
-      "answer": "C",
-      "explanation": "Only option A is a new option. The others are the same as the previous questions.\n\n A. Choice A is made up as it is lost from source. Propranolol as a non-selective beta blocker, it will block β2 receptors on body cells as well. This inhibits activity of Na+/K+-ATPase to transport K+ from ECF into ICF, and causes hyperkalemia.\n B. Incorrect, as ECF H+ displaces ICF K+ for buffering and causes hyperkalemia.\n C. Correct, as this stimulates the activity of NA+/K+ ATPase.\n D. D is a bit controversial, as it depends on type I or II. For type I, the absence of insulin will lower activity of Na+/K+-ATPase and cause hyperkalemia similar to beta blocker. However, for type II, the normal or even higher insulin level will do the opposite and cause hypokalemia. This is because in type II DM, insulin secretion is normal and it is insulin resistance causing the inability to lower blood glucose to normal range. Always keep in mind physiology and biochemistry are almost inseparable, and it is important to link concepts in different courses to get the whole picture.\n E. Incorrect, as prolonged K+ efflux in the repolarization phase increases ECF K+."
-    },
     "15-16 MEDU2400 Final Q1": {
       "year": "2015-16",
       "course": "MEDU2400 Human Function I",
@@ -7833,23 +7868,6 @@
       },
       "answer": "A",
       "explanation": "Botox prevents the exocytosis of ACh."
-    },
-    "20-21 MEDU2400 Final Q2": {
-      "year": "2020-21",
-      "course": "MEDU2400 Human Function I",
-      "question_number": 2,
-      "level": "Year 2",
-      "topic": "Excitable Cells",
-      "question": "A man receives botulinum toxin injection to treat palmar hyperhidrosis. Which of the following changes would have taken place at the neuroeffector junction?",
-      "options": {
-        "A": "Decrease in acetylcholine synthesis",
-        "B": "Decrease in exocytotic release of acetylcholine",
-        "C": "Decrease in muscarinic acetylcholine receptor number",
-        "D": "Desensitisation of acetylcholine receptors due to prolonged acetylcholine binding",
-        "E": "Increase in acetylcholinesterase activity"
-      },
-      "answer": "B",
-      "explanation": ""
     },
     "22-23 MEDU2400 Test Q21": {
       "year": "2022-23",
@@ -8002,21 +8020,6 @@
       "answer": "E",
       "explanation": "D. less negative\n\nThis question skips the step about the shielding effect elicited by hypercalcemia. Partial blockage of sodium channels is equivalent to modification of the gating properties of these channels by hypercalcemia."
     },
-    "20-21 MEDU2400 Final Q3": {
-      "year": "2020-21",
-      "course": "MEDU2400 Human Function I",
-      "question_number": 3,
-      "level": "Year 2",
-      "topic": "Excitable Cells",
-      "question": "Which of the following can decrease the threshold for Action Potential generation in neurons?",
-      "options": {
-        "A": "prolonged exposure to high extracellular K+",
-        "B": "larger neuron with a larger axon diameter",
-        "C": "lowering extracellular Ca"
-      },
-      "answer": "C",
-      "explanation": ""
-    },
     "21-22 MEDU2400 Final Q2": {
       "year": "2021-22",
       "course": "MEDU2400 Human Function I",
@@ -8049,6 +8052,491 @@
         "E": "Increase in extracellular Na concentration"
       },
       "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q0": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 0,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following will cause hypokalemia? (Choices reconstructed)",
+      "options": {
+        "A": "Use of propranolol",
+        "B": "Metabolic acidosis",
+        "C": "Excess thyroid hormone",
+        "D": "Diabetes mellitus",
+        "E": "Repeated muscle contraction"
+      },
+      "answer": "C",
+      "explanation": "Only option A is a new option. The others are the same as the previous questions.\n\n A. Choice A is made up as it is lost from source. Propranolol as a non-selective beta blocker, it will block β2 receptors on body cells as well. This inhibits activity of Na+/K+-ATPase to transport K+ from ECF into ICF, and causes hyperkalemia.\n B. Incorrect, as ECF H+ displaces ICF K+ for buffering and causes hyperkalemia.\n C. Correct, as this stimulates the activity of NA+/K+ ATPase.\n D. D is a bit controversial, as it depends on type I or II. For type I, the absence of insulin will lower activity of Na+/K+-ATPase and cause hyperkalemia similar to beta blocker. However, for type II, the normal or even higher insulin level will do the opposite and cause hypokalemia. This is because in type II DM, insulin secretion is normal and it is insulin resistance causing the inability to lower blood glucose to normal range. Always keep in mind physiology and biochemistry are almost inseparable, and it is important to link concepts in different courses to get the whole picture.\n E. Incorrect, as prolonged K+ efflux in the repolarization phase increases ECF K+."
+    },
+    "20-21 MEDU2400 Final Q1": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "A man receives botulinum toxin injection to treat palmar hyperhidrosis. Which of the following changes would have taken place at the neuroeffector junction?",
+      "options": {
+        "A": "Decrease in acetylcholine synthesis",
+        "B": "Decrease in exocytotic release of acetylcholine",
+        "C": "Decrease in muscarinic acetylcholine receptor number",
+        "D": "Desensitisation of acetylcholine receptors due to prolonged acetylcholine binding",
+        "E": "Increase in acetylcholinesterase activity"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q2": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following can decrease the threshold for Action Potential generation in neurons?",
+      "options": {
+        "A": "prolonged exposure to high extracellular K+",
+        "B": "larger neuron with a larger axon diameter",
+        "C": "lowering extracellular Ca"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Test Q22": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Slow adapting receptors",
+      "options": {
+        "A": "Take a longer time to develop the response",
+        "B": "response for slower changes in intensity of stimuli",
+        "C": "Responsible on and off change",
+        "D": "Will maintain a constant level of response regardless of duration of stimulation",
+        "E": "After stimuli ceased the response would continue for a while"
+      },
+      "answer": "D",
+      "explanation": "Slow adapting receptors show little adaptation → signal the intensity of prolonged stimulus\nRapidly adapting receptors are best suited to detect dynamic phase of a stimulus (on-off response)"
+    },
+    "17-18 MEDU2400 Test Q23": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "which of the following neuronal arrangements give rise to contrast enhancement?",
+      "options": {
+        "A": "Convergent control",
+        "B": "Feed forward control",
+        "C": "Lateral inhibition",
+        "D": "Presynaptic facilitation",
+        "E": "Postsynaptic inhibition"
+      },
+      "answer": "C",
+      "explanation": "At the level of PRIMARY SENSORY NEURONES,\n * Responses are proportional to intensity of stimuli in each receptive field\n\nAt the level of SECONDARY SENSORY NEURONES, \n * If the central neurone of a group secondary sensory neurones is stimulated, lateral inhibition (in the form of presynaptic inhibition) takes place through inhibitory interneurons to reduce signal transmission of neighbouring afferent neurones\n\nConvergent control: Referred pain \nFeedforward: opposite of feedback control"
+    },
+    "17-18 MEDU2400 Final Q2": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "What characteristics about slowly adapting response is correct",
+      "options": {
+        "A": "responsible for response of on-off stimulus",
+        "B": "continue to response in cessation of stimulus",
+        "C": "more or less the same regardless to duration of stimulus",
+        "D": "responsible for slow change stimulus",
+        "E": "takes a long time to reach maximum response for stimulus"
+      },
+      "answer": "C",
+      "explanation": "Slowly adapting means the response will sharply reflect the **intensity** of stimulus regardless of its duration. A should be referring fastly adapting as they can only detect sharp **changes** of the stimulus. No receptors work like B, D and E. C is the correct answer despite its wording is a bit tricky, as it is confirmed by Prof. Simon Au during the revision session in 2022."
+    },
+    "17-18 MEDU2400 Final Q3": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "where are the cell bodies of sensory neurons innervating the somatosensory receptors in most of the parts below the neck located?",
+      "options": {
+        "A": "dorsal horn of the spinal cord",
+        "B": "dorsal root ganglion",
+        "C": "Paravertebral ganglion",
+        "D": "Ventral column of spinal white matter",
+        "E": "Ventral horn of spinal cord"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Test Q22": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "What correctly describes rapid-adapting receptors?",
+      "options": {
+        "A": "Linked to rapid adaptory response of the cell",
+        "B": "Rapid progression towards a constant discharge in response to a constant prolonged stimulus",
+        "C": "Ideal for sensing a constant prolonged stimulus",
+        "D": "Ideal for sensing rapid changes in the stimuli",
+        "E": "Ideal for detecting the intensity of the stimulus"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q2": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "For slowly adapting receptors:",
+      "options": {
+        "A": "Maintain more or less same level of response regardless of stimulus duration",
+        "B": "Respond only to slow change in the intensity of stimulus",
+        "C": "Respond to stimuli only after considerable delay",
+        "D": "Continue to respond after cessation of stimuli",
+        "E": "Take a long time to build up to full response of stimuli"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q3": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following would give rise to contrast enhancement?",
+      "options": {
+        "A": "Convergent control",
+        "B": "Feed forward control",
+        "C": "Lateral inhibition",
+        "D": "Presynaptic inhibition",
+        "E": "Presynaptic stimulation"
+      },
+      "answer": "C",
+      "explanation": "However, D and E could be mechanisms to achieve lateral inhibition."
+    },
+    "18-19 MEDU2400 Test Q23": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following best describes the classification of baroreceptor?",
+      "options": {
+        "A": "Conditioned Reflex",
+        "B": "Spinal Reflex",
+        "C": "Disynaptic Reflex",
+        "D": "Cranial Reflex",
+        "E": "Somatic Reflex"
+      },
+      "answer": "D",
+      "explanation": "Conditioned reflex refers to those acquired through learning, e.g. walking and playing piano. You can’t voluntarily control each finger movement for each note, it is a string of conditioned reflexes to precisely control each movement before you realize. Spinal vs cranial refers to the position of control center, and of course baroreceptor reflex works at NTS, CVLM (Integration), NA (PSNS output), RVLM (SNS output) at the medulla oblongata. Knee jerk reflex is the only example of disynaptic reflex. Somatic vs visceral refers to the effector of reflex being skeletal muscle or viscera."
+    },
+    "19-20 MEDU2400 Final Q3": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following would best describe information provided by sensory nerves from muscle spindles?",
+      "options": {
+        "A": "Change in muscle length and muscle tension",
+        "B": "Change in muscle length",
+        "C": "Change in muscle length and rate of change",
+        "D": "Change in muscle tension",
+        "E": "Change in muscle tension and rate of change"
+      },
+      "answer": "C",
+      "explanation": "In a muscle spindle, mechanically-gated ion channels are present in the cell membrane of the sensory nerve endings\nWhen stretched, they give rise to the depolarizing receptor potentials with their amplitudes increasing in proportion to magnitude of stretch.\nStretch = muscle length"
+    },
+    "21-22 MEDU2400 Test Q22": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "In a spinal surgery, a man has several lumbar dorsal root injuries. He has a decreased muscle tone and experiences difficulty to stand upright. Which of the following is most likely to be damaged to cause his condition?",
+      "options": {
+        "A": "Excitatory interneuron in the spinal cord",
+        "B": "Inhibitory interneuron in the spinal cord",
+        "C": "Sensory neuron from muscle spindles in the leg and thigh muscle",
+        "D": "Sensory neuron from proprioceptors in the joints of the lower body",
+        "E": "Somatic motor neuron innervating the leg and thigh muscle"
+      },
+      "answer": "C",
+      "explanation": "Read this if you like. I would just memorize the answer.\nA will cause hyporeflexia. B is a more interesting case, as it has two possible causes you will learn. The first cause is Clostridium tetani infection (HUF1 General Physiology), which causes tetanospasmin (Toxin from bacteria) to enter via wound and reaches the inhibitory interneurons in spinal cord. This will degrade synaptobrevin to inhibit release of inhibitory neurotransmitters from them to cause full contraction in all muscles innervated by affected spinal levels. Another cause is upper motor neuron lesion (UMN lesion, HUS2 Neuroanatomy), as UMN synapses to the inhibitory interneurons to inhibit reflex. Although the initial hyperreflexia is caused by absence of input to inhibitory neurons, however, in later stage the degeneration of UMN reduces the neurotrophic factors released to inhibitory interneurons, causing their degeneration too. It will cause spasm as absence of inhibition causes constant contraction of skeletal muscle. UMN lesion further causes paralysis as it will innervate LMN to voluntarily control the muscles. C is correct as said before. D is similar but wrong. Although sensory neurons from Golgi tendon organ also participate in limb coordination, but its contribution is much less important than muscle spindles. Its main use is to elicit Golgi tendon reflex to prevent overstretching of muscles. Again, E is the LMN lesion which will cause flaccid paralysis, as the absence of LMN supply to skeletal muscles simply make them cannot contract."
+    },
+    "15-16 MEDU2400 Final Q3": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following do parasympathetic and sympathetic nervous systems exerts opposite effect?",
+      "options": {
+        "A": "cutaneous blood flow",
+        "B": "force of ventricular contraction",
+        "C": "pacemaker activity of the heart",
+        "D": "production of sweat",
+        "E": "secretion of salivary enzyme"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Final Q4": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following correctly describes the relationship between the presynaptic and postsynaptic sympathetic neurons.",
+      "options": {
+        "A": "They form synapses near the target tissue.",
+        "B": "A post neuron receives convergence signal from multiple pre neurons.",
+        "C": "Their ratio is 1:1",
+        "D": "There are more pre neurons than post neurons",
+        "E": "More post neurons than pre neurons"
+      },
+      "answer": "E",
+      "explanation": "Refer to P.14 of lecture notes.\nThe preganglionic neuron of ANS originates in the CNS, and travels to a ganglion in the periphery (sympathetic trunk ganglion / prevertebral ganglion), and often synapse with multiple postganglionic neurons. This allows divergence.\nThis could be explained as there only a few sympathetic ganglia (2 cervical, 1 stellate, 11 thoracic, 5 lumbar, 4 sacral, 1 impar, 3 collateral, a total of 27 ganglia), but there are so many structures receiving SNS innervation, so there must be many postsynaptic neurons to meet the demand."
+    },
+    "16-17 MEDU2400 Test Q23": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "The opposite response of parasympathetic and sympathetic in which of the following",
+      "options": {
+        "A": "Cutaneous blood flow",
+        "B": "Salivary enzyme",
+        "C": "Airway",
+        "D": "Ventricular contraction",
+        "E": "Sweat gland"
+      },
+      "answer": "C",
+      "explanation": "A. sympathetic innervation only\nB. sympathetic and parasympathetic same effect (increase)\nC. i.e. bronchial smooth muscle contraction (M3, parasympathetic) and dilation (beta-2, sympathetic via circulating adrenaline)\nD. sympathetic only\nE. sympathetic stimulation increases secretion"
+    },
+    "16-17 MEDU2400 Final Q4": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "A 36-year-old man is exposed to a bio toxin that block anticholinesterase. What symptom is found?",
+      "options": {
+        "A": "Constipation",
+        "B": "Diaphoresis",
+        "C": "Dilation of pupil",
+        "D": "Increase in blood pressure",
+        "E": "Retention of urine"
+      },
+      "answer": "B",
+      "explanation": "That means prolonged action of acetylcholine as they are not broken down.\nRefer to P.81 of lecture notes. (This is a white heading slide…)"
+    },
+    "17-18 MEDU2400 Test Q24": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Sympathetic and parasympathetic nervous system exerts opposite effect in controlling:",
+      "options": {
+        "A": "Bronchial diameter",
+        "B": "Cutaneous blood flow",
+        "C": "Gastric secretion",
+        "D": "sweat gland",
+        "E": "Saliva enzyme secretion"
+      },
+      "answer": "C",
+      "explanation": "A\\. it's circulating adrenaline (hormone) that relaxes beta2 receptors in bronchi. There's no direct noradrenergic sympathetic innervation (Thanks for the feedback!!)\nB & D. symp only\nE\\. symp and para both increase\n!! Read all the options and choose the one that you are the most certain !!"
+    },
+    "17-18 MEDU2400 Final Q4": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following describes interaction of sympathetic preganglionic and postganglionic neurons",
+      "options": {
+        "A": "They form synapses near the target tissue.",
+        "B": "A post neuron receives convergence signal from multiple pre neurons.",
+        "C": "In 1:1 ratio",
+        "D": "More preganglionic than postganglionic neurons",
+        "E": "More postganglionic than preganglionic neurons"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Test Q24": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which one of these demonstrates sympathetic and parasympathetic innervation causing opposing effects?",
+      "options": {
+        "A": "Cutaneous blood vessels",
+        "B": "Bronchial diameter",
+        "C": "emptying of urinary Bladder",
+        "D": "Salivary secretion",
+        "E": "sweat gland"
+      },
+      "answer": "C",
+      "explanation": "Detrusor muscles relax under beta-2 sympathetic stimulation, and contract under M3 parasympathetic stimulation.\nInternal sphincter muscle relaxes under alpha-1 sympathetic stimulation, and contracts under M3 parasympathetic stimulation."
+    },
+    "18-19 MEDU2400 Test Q25": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "An experimental drug is administered to treat asthma. It relaxes tracheal smooth muscle preconstricted by ACh. What is the most likely mechanism of the drug?",
+      "options": {
+        "A": "Reduce affinity of Troponin C binding to Ca2+",
+        "B": "Decrease plasma membrane permeability to Na+",
+        "C": "Decrease plasma membrane permeability to K+",
+        "D": "Decease inhibitory effect of plasma membrane Ca2+ channel",
+        "E": "Increase stimulation of adenylate cyclase"
+      },
+      "answer": "E",
+      "explanation": "A.  troponin C only in skeletal muscle\nB. cannot lower intracellular calcium\nC. cannot hyperpolarize, cannot inhibit calcium channel\nD. lead to contraction\nE. stimulate beta-2 receptors and Gs pathway lead to bronchial smooth muscle relaxation"
+    },
+    "18-19 MEDU2400 Test Q49": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Where can nicotinic receptors be found at postsynaptic site (choose all that applies, use a comma followed by a single space character to separate the answers)\n\n1. Parasympathetic ganglion\n2. Parasympathetic neuroeffector junction\n3. Skeletal neuromuscular junction\n4. Sympathetic ganglion\n5. Sympathetic neuroeffector junction",
+      "options": {},
+      "answer": "1, 3, 4",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Final Q3": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "A woman ate insecticide which is acetylcholinesterase inhibitor. what would be observed?",
+      "options": {
+        "A": "Constipation",
+        "B": "Dilation of pupil",
+        "C": "increase in blood pressure",
+        "D": "paralysis of skeletal muscle",
+        "E": "Urine retention"
+      },
+      "answer": "D",
+      "explanation": "D\\. Initial skeletal muscle twitch (fasciculation), then paralysis caused by depolarising block at NMJ (channel desensitization)\nYou should know the long term anticholinesterase activity of organophosphate, due to its irreversible binding on esteratic site of AChE. This prolongs the action of ACh on MAChR. A, B, C and E are all effect mediated by SNS, but inhibited by PSNS, and will not happen if MAChR stimulation is increased. However, they will happen in the case of atropine (MAChR antagonist) overdose."
+    },
+    "18-19 MEDU2400 Final Q4": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "which of the following autonomic nerve fibres release noradrenaline as neurotransmitters",
+      "options": {
+        "A": "preganglionic innervation adrenal medulla",
+        "B": "postganglionic innervation that leads to bradycardia",
+        "C": "Postganglionic neuron causing constriction of pupil",
+        "D": "Postganglionic neuron causing innervation of eccrine sweat glands",
+        "E": "postganglionic neuron to juxtaglomerular cells"
+      },
+      "answer": "E",
+      "explanation": "A. sympathetic, release Ach to stimulate medulla\nB. bradycardia, slowed heart, parasympathetic, Ach, M2\nC. parasympathetic, M3, Ach\nD. muscarinic cholinergic\nE. sympathetic, beta-1"
+    },
+    "19-20 MEDU2400 Final Q4": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "A 53-year old woman had a meal containing wild mushrooms that she picked from a field earlier in the day. Within 30 minutes after consuming the mushroom, she experienced nausea and vomiting, diarrhea, urinary urgency, vasodilation, sweating and salivation. What type of chemical in the mushroom is responsible for the presentation of these symptoms?",
+      "options": {
+        "A": "A chemical that blocks nicotinic receptors on autonomic ganglia",
+        "B": "A chemical that stimulates the release of epinephrine from adrenal medulla",
+        "C": "A chemical that causes excessive activation of muscarinic receptors",
+        "D": "A chemical that stimulates the release of norepinephrine from nerve endings",
+        "E": "A chemical that blocks muscarinic receptors"
+      },
+      "answer": "C",
+      "explanation": "The chemical is acetylcholinerase inhibitor. It causes prolonged stimulation of muscarinic receptors, and thus the symptoms mentioned in the question."
+    },
+    "20-21 MEDU2400 Final Q6": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following receptor types can be found on the dendrites and cell bodies of postganglionic sympathetic neurons?",
+      "options": {
+        "A": "alpha-2 adrenergic receptors",
+        "B": "beta-2 adrenergic receptors",
+        "C": "even number muscarinic receptors",
+        "D": "nicotinic receptors",
+        "E": "odd number muscarinic receptors"
+      },
+      "answer": "D",
+      "explanation": "All postganglionic fibres, regardless of PSNS or SNS, possess neuron-type NAChR to receive the signal from preganglionic fibres. M2 receptors are present on the synaptic membrane of those preganglionic fibres to serve as negative feedback control. (Similar to effect of α2 receptors in adrenergic nerves)"
+    },
+    "21-22 MEDU2400 Test Q23": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Match ANS innervation to the correct effector response\n\n\n| Option | Answer 1 | Answer 2 |\n| -------- | -------- | -------- |\n| A. | Accommodation reflex to near vision | NE by sympathetic nerves to alpha 1 on ciliary muscles |\n| B. | Increase in salivary enzymatic secretion | NE by sympathetic nerves to alpha 1 on acinar cells |\n| C. | Bronchial dilation | NE by sympathetic nerves to beta 2 on bronchial smooth muscles |\n| D. | Relaxation of urinary bladder during filling | ACh by parasympathetic nerves to M<sub>even</sub> receptors of detrusor muscles |\n| E. | Dilation of cutaneous blood vessels for thermoregulation | ACh from sympathetic nerves bind to M<sub>odd</sub> receptors on endothelial cells |",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      },
+      "answer": "E",
+      "explanation": "Again, don’t fall into the trap. Bronchial dilation is irrelevant to SNS innervation, but instead the effect of circulating adrenaline. Near vision is mediated by PSNS on M3 receptors to achieve contraction of ciliary muscles. SNS indeed increases salivary enzymatic output, but the effect is mediated by β1 receptors. Relaxation of bladder is achieved by SNS on β3 receptors."
+    },
+    "21-22 MEDU2400 Final Q3": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "A woman consumed vegetables contaminated with pesticide containing organophosphate that blocks the acetylcholinesterase activity. Which of the following presentations would most likely be found in this subject? ",
+      "options": {
+        "A": "Constipation",
+        "B": "Dilation of pupil",
+        "C": "Hypersalivation and hypertension",
+        "D": "Increase in blood pressure",
+        "E": "Retention of urine"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "22-23 MEDU2400 Q24": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Match ANS innervation to the correct effector response\n\n| Option | Answer 1 | Answer 2 |\n| --- | --- | --- |\n| A. | Accommodation reflex to near vision | Sympathetic nerves to alpha 1 on ciliary muscles |\n| B. | Increase in salivary enzymatic secretion | NE by sympathetic nerves to alpha 1 on acinar cells |\n| C. | Bronchial dilation | NE by sympathetic nerves to beta 2 on bronchial smooth muscles |\n| D. | Relaxation of urinary bladder during filling phase | ACh by parasympathetic nerves of Meven receptors of detrusor muscle |\n| E. | Dilation of cutaneous blood vessels | ACh from sympathetic nerves bind to Modd receptors on endothelial cells |\n\n",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      },
+      "answer": "E",
       "explanation": ""
     }
   }
