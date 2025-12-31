@@ -877,7 +877,10 @@
         "byYear": {
           "2014-15": [
             "14-15 MEDU2400 Test Q4",
-            "14-15 MEDU2400 Test Q3"
+            "14-15 MEDU2400 Test Q3",
+            "14-15 MEDU2400 Sem1 Q19",
+            "14-15 MEDU2400 Final Q1",
+            "14-15 MEDU2400 Sem1 Q18"
           ],
           "2015-16": [
             "15-16 MEDU2400 Test Q21",
@@ -887,7 +890,11 @@
             "15-16 MEDU2400 Test Q23",
             "15-16 MEDU2400 Test Q24",
             "15-16 MEDU2400 Final Q3",
-            "15-16 MEDU2400 Final Q4"
+            "15-16 MEDU2400 Final Q4",
+            "15-16 MEDU2400 Sem1 Q25",
+            "15-16 MEDU2400 Final Q5",
+            "15-16 MEDU2400 Final Q6",
+            "15-16 MEDU2400 Final Q7"
           ],
           "2016-17": [
             "16-17 MEDU2400 Final Q1",
@@ -895,7 +902,12 @@
             "16-17 MEDU2400 Test Q21",
             "16-17 MEDU2400 Test Q22",
             "16-17 MEDU2400 Test Q23",
-            "16-17 MEDU2400 Final Q4"
+            "16-17 MEDU2400 Final Q4",
+            "16-17 MEDU2400 Sem1 Q30",
+            "16-17 MEDU2400 Final Q3",
+            "16-17 MEDU2400 Final Q5",
+            "16-17 MEDU2400 Sem1 Q25",
+            "16-17 MEDU2400 Sem1 Q26"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
@@ -907,14 +919,19 @@
             "18-19 MEDU2400 Test Q25",
             "18-19 MEDU2400 Test Q49",
             "18-19 MEDU2400 Final Q3",
-            "18-19 MEDU2400 Final Q4"
+            "18-19 MEDU2400 Final Q4",
+            "18-19 MEDU2400 Sem1 Q25",
+            "18-19 MEDU2400 Sem1 Q26",
+            "18-19 MEDU2400 Final Q40"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
             "19-20 MEDU2400 Final Q1",
             "19-20 MEDU2400 Final Q2",
             "19-20 MEDU2400 Final Q3",
-            "19-20 MEDU2400 Final Q4"
+            "19-20 MEDU2400 Final Q4",
+            "19-20 MEDU2400 Final Q5",
+            "19-20 MEDU2400 Final Q6"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
@@ -923,7 +940,10 @@
             "20-21 MEDU2400 Final Q1",
             "20-21 MEDU2400 Final Q2",
             "20-21 MEDU2400 Final Q3",
-            "20-21 MEDU2400 Final Q6"
+            "20-21 MEDU2400 Final Q6",
+            "20-21 MEDU2400 Sem1 Q23",
+            "20-21 MEDU2400 Sem1 Q25",
+            "20-21 MEDU2400 Sem1 Q26"
           ],
           "2017-18": [
             "17-18 MEDU2400 Final Q1",
@@ -933,7 +953,10 @@
             "17-18 MEDU2400 Final Q2",
             "17-18 MEDU2400 Final Q3",
             "17-18 MEDU2400 Test Q24",
-            "17-18 MEDU2400 Final Q4"
+            "17-18 MEDU2400 Final Q4",
+            "17-18 MEDU2400 Sem1 Q25",
+            "17-18 MEDU2400 Final Q17",
+            "17-18 MEDU2400 Sem1 Q26"
           ],
           "2022-23": [
             "22-23 MEDU2400 Test Q21",
@@ -1002,6 +1025,31 @@
             "21-22 MEDU2400 Test Q23",
             "21-22 MEDU2400 Final Q3",
             "22-23 MEDU2400 Q24"
+          ],
+          "Muscle Physiology": [
+            "14-15 MEDU2400 Sem1 Q19",
+            "14-15 MEDU2400 Final Q1",
+            "15-16 MEDU2400 Sem1 Q25",
+            "15-16 MEDU2400 Final Q5",
+            "16-17 MEDU2400 Sem1 Q30",
+            "16-17 MEDU2400 Final Q3",
+            "16-17 MEDU2400 Final Q5",
+            "17-18 MEDU2400 Sem1 Q25",
+            "17-18 MEDU2400 Final Q17",
+            "18-19 MEDU2400 Sem1 Q25",
+            "20-21 MEDU2400 Sem1 Q23",
+            "14-15 MEDU2400 Sem1 Q18",
+            "15-16 MEDU2400 Final Q6",
+            "15-16 MEDU2400 Final Q7",
+            "16-17 MEDU2400 Sem1 Q25",
+            "18-19 MEDU2400 Sem1 Q26",
+            "19-20 MEDU2400 Final Q5",
+            "19-20 MEDU2400 Final Q6",
+            "20-21 MEDU2400 Sem1 Q25",
+            "20-21 MEDU2400 Sem1 Q26",
+            "16-17 MEDU2400 Sem1 Q26",
+            "17-18 MEDU2400 Sem1 Q26",
+            "18-19 MEDU2400 Final Q40"
           ]
         }
       }
@@ -7808,7 +7856,7 @@
       "course": "MEDU2400 Human Function I",
       "question_number": 3,
       "level": "Year 2",
-      "topic": "Excitable Cells",
+      "topic": "Muscle Physiology",
       "question": "During a spinal surgical operation, several spinal lumbar dorsal nerve roots were damaged. After the operation, the patient experienced difficulty in standing erect and decrease in smooth muscle tone. Which of the following best represents the most likely cause for the patient's condition?",
       "options": {
         "A": "Some of the neurons of the cutaneous sensory nerve receptors in the leg and thigh have been damaged.",
@@ -8538,6 +8586,373 @@
       },
       "answer": "E",
       "explanation": ""
+    },
+    "14-15 MEDU2400 Sem1 Q19": {
+      "year": "2014-15",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Which of the following statements about composition of peripheral nerves is correct?",
+      "options": {
+        "A": "Muscle nerves usually contain sensory fibres",
+        "B": "Muscle nerves do not contain autonomic nerve fibres",
+        "C": "Sensory nerves contain only sensory fibres",
+        "D": "Splanchnic nerves contain only preganglionic or postganglionic autonomic nerve fibres",
+        "E": "Cutaneous nerves contain only thin nerve fibres"
+      },
+      "answer": "C",
+      "explanation": "A. sensory → motor\nB. It contains e.g. smooth muscle\nD. All the splanchnic nerves carry preganglionic sympathetic fibers except for the pelvic splanchnic nerve, which carries preganglionic parasympathetic fibers.\nReference: https://www.ncbi.nlm.nih.gov/books/NBK549856/\nE.  (should be thin and medium)"
+    },
+    "14-15 MEDU2400 Final Q1": {
+      "year": "2014-15",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Why slow onset for smooth muscle?",
+      "options": {
+        "A": "The diagonal arrangement of actin and myosin in smooth muscle",
+        "B": "High energy is required for smooth muscle contraction.",
+        "C": "Phosphorylation for myosin light chain by Ca-calmodulin myosin light chain kinase complex is needed.",
+        "D": "Slow rate of cross-bridge establishment",
+        "E": "Slow removal of Ca2+"
+      },
+      "answer": "C",
+      "explanation": "C\\. Slower onset\nD. Slower increase in force\nE. Slower relaxation"
+    },
+    "15-16 MEDU2400 Sem1 Q25": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "The following about the smooth muscle are correct except: (You may choose more than one answers. Use a comma followed by a single space character to separate the answers if needed)\n\nA. Smooth muscle is in spindled shape\nB. Striated muscle\nC. Smooth muscle form cross bridge between actin and myosin binding\nD. Smooth muscle is innervated by somatic nerves\nE. Smooth muscle is innervated by autonomic nerves",
+      "options": {},
+      "answer": "B, D",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Final Q5": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Smooth muscle cell differs from skeletal muscle in that:",
+      "options": {
+        "A": "Smooth muscle has faster cross bridge cycle",
+        "B": "Smooth muscle cell can generate contraction without action potential",
+        "C": "Smooth muscle cells can peak more quickly",
+        "D": "Smooth muscle cell relies more on intracellular Ca2+"
+      },
+      "answer": "B",
+      "explanation": "B. Pharmaco-mechanical coupling"
+    },
+    "16-17 MEDU2400 Sem1 Q30": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "In smooth vascular muscle, nitric oxide via cGMP-PKG is to:",
+      "options": {
+        "A": "Inhibit IP3 channel",
+        "B": "Stimulate Na+/K+ ATPase",
+        "C": "Stimulate ryanodine receptor on SCR",
+        "D": "Stimulate the dihydropyridine receptor",
+        "E": "stimulate the phospholamban production"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Final Q5": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "In smooth muscles,",
+      "options": {
+        "A": "Dihydropyridine receptor on plasma membrane opens in response to depolarization",
+        "B": "Dihydropyridine receptor on plasma membrane opens in response to IP3",
+        "C": "Dihydropyridine receptor on plasma membrane opens in response to Ca",
+        "D": "Ryanodine receptor on cell membrane opens due to Ca",
+        "E": "Ryanodine receptor in sarcoplasmic reticulum opens in response to IP3"
+      },
+      "answer": "A",
+      "explanation": "D. ryanodine receptor not on cell membrane ahhh"
+    },
+    "17-18 MEDU2400 Sem1 Q25": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Why does smooth muscle have longer contraction duration than skeletal muscle?",
+      "options": {
+        "A": "activation of myosin light chain by Ca2+ in smooth muscle",
+        "B": "higher energy requirement in smooth muscle",
+        "C": "higher cytosolic Ca2+ in smooth muscle (not sure)",
+        "D": "inorganized arrangement of myosin and actin in smooth muscle",
+        "E": "slower ATPase activity and cross bridge linkage formation rate in smooth muscle (exact wording not sure)"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Final Q17": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Which of the following leads to increased vascular smooth muscle contraction?",
+      "options": {
+        "A": "activation of NCX",
+        "B": "activation of Na/K-ATPase",
+        "C": "activation of sarcoplasmic reticulum Ca2+ pump",
+        "D": "blockade of K+ channels",
+        "E": "inhibition of voltage-gated Ca2+ channels"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Sem1 Q25": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "An experimental drug is administered to treat asthma. It relaxes tracheal smooth muscle pre-constricted by ACh. What is the most likely mechanism of the drug?",
+      "options": {
+        "A": "Reduce affinity of Troponin C binding to Ca2+",
+        "B": "Decrease plasma membrane permeability to Na+",
+        "C": "Decrease plasma membrane permeability to K+",
+        "D": "Decease inhibitory effect of plasma membrane Ca2+ channel",
+        "E": "Increase stimulation of adenylate cyclase"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Sem1 Q23": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Which of the following is correct for smooth muscles exhibiting pharmaco-mechanical coupling?",
+      "options": {
+        "A": "it will trigger the opening of dihydropyridine receptor",
+        "B": "it will trigger the action of phospholipase C",
+        "C": "it will trigger the opening of ryanodine receptor",
+        "D": "it is a single unit muscle",
+        "E": "it undergoes phasic contraction"
+      },
+      "answer": "B",
+      "explanation": "C\\. distracting option\nD. single unit muscle: electromechanical coupling\nE. phasic → tonic (phasic contraction is for single unit smooth muscle)\n\n(credit simon au)"
+    },
+    "14-15 MEDU2400 Sem1 Q18": {
+      "year": "2014-15",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "The Golgi tendon organ differs in function from the muscle spindle because it",
+      "options": {
+        "A": "is more sensitive to stretching",
+        "B": "causes a reflex excitation of contralateral alpha motor neurons",
+        "C": "causes a reflex inhibition of contralateral alpha motor neurons",
+        "D": "causes a reflex inhibition of ipsilateral, antagonistic alpha motor neurons",
+        "E": "causes a reflex inhibition of ipsilateral, synergistic alpha motor neurons"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Final Q6": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "According to the sliding filament mechanism in skeletal muscle contraction, during contraction:",
+      "options": {
+        "A": "thick and thin filament both shorten",
+        "B": "think filament stay constant and thin filament shorten",
+        "C": "Thin filament stay constant and thick filament shorten",
+        "D": "Thick filament move towards the center of sarcomere occupied by thin filament",
+        "E": "Thin filament move towards the center of sarcomere occupied by thick filament"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Final Q7": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Which of the following is higher in fiber iib than fiber i?",
+      "options": {
+        "A": "capillary density",
+        "B": "myoglobin content",
+        "C": "oxidative capacity",
+        "D": "resistant to fatigue",
+        "E": "size of motor unit"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Sem1 Q25": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Compare type I muscle fibre to Type II muscle",
+      "options": {
+        "A": "Type I is rich in glycogen",
+        "B": "Type I is rich in glycolytic enzyme",
+        "C": "Type I muscle fiber is rich in myoglobin",
+        "D": "Type I muscle fiber has fewer mitochondria",
+        "E": "Type I muscle fiber form large motor unit"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Sem1 Q26": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "During a demonstration for medical students, a neurologist performed magnetic cortical stimulation to trigger firing of the ulnar nerve of a volunteer. At low-amplitude stimulation, action potentials are recorded only from muscle fibre in the index finger. At higher-amplitude stimulation, action potentials are recorded from muscle fibre in both index finger and biceps muscle. Which can be concluded from the observation?",
+      "options": {
+        "A": "Only muscle in index finger is innervated by ulnar nerve",
+        "B": "Biceps is innervated by fewer motor neurons",
+        "C": "The motor unit in biceps is larger than that of index finger",
+        "D": "The muscle fibre of index finger is made up of IIb fibres",
+        "E": "There are more motor units in biceps than index finger"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q5": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "The purpose of Cori cycle is to shift metabolic burden in which of the following direction?",
+      "options": {
+        "A": "muscle to liver",
+        "B": "liver to muscle",
+        "C": "cardiac to skeletal muscle",
+        "D": "brain to liver",
+        "E": "liver to brain"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q6": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Type I vs type IIb muscle fibre",
+      "options": {
+        "A": "More glycolytic enzyme",
+        "B": "More glycogen",
+        "C": "More Myoglobin",
+        "D": "Less number of mitochondria",
+        "E": "Form larger motor unit"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Sem1 Q25": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "What is the correct sequence of elements of reflex of skeletal muscle?",
+      "options": {
+        "A": "Golgi tendon organ, type 1a afferent, excitatory interneuron, alpha motor neuron",
+        "B": "Golgi tendon organ, type 1b afferent, inhibitory interneuron, alpha motor neuron",
+        "C": "Golgi tendon organ, type II afferent, inhibitory interneuron, alpha motor neuron",
+        "D": "Muscle spindle, type Ia afferent, excitatory interneuron, alpha motor neuron",
+        "E": "Muscle spindle, type II afferent, inhibitory interneuron, alpha motor neuron"
+      },
+      "answer": "B",
+      "explanation": "answer provided by simon au"
+    },
+    "20-21 MEDU2400 Sem1 Q26": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Which is taken higher for type IIb muscle fibre when compared to type I muscle fibre",
+      "options": {
+        "A": "Capillary density",
+        "B": "Amount of myoglobin",
+        "C": "Resistance to fatigue",
+        "D": "Oxidative capacity",
+        "E": "Size of motor unit"
+      },
+      "answer": "E",
+      "explanation": "answer provided by simon au"
+    },
+    "16-17 MEDU2400 Sem1 Q26": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Which of the following explain the development of depolarisation blocks in neuromuscular junctions?",
+      "options": {
+        "A": "Development of myasthenic gravis",
+        "B": "Exposure to botulinum toxin",
+        "C": "Exposure to tetrodotoxin",
+        "D": "Injection of too much tubocurarine",
+        "E": "Infusion of too much neostigmine"
+      },
+      "answer": "E",
+      "explanation": "A.  insufficient ACh receptors\nB. Prevent exocytosis of ACh\nC. degrade SNARE protein → prevent exocytosis of ACh\nD. non-depolarizing blockers (block ACh receptor)\nE. inhibiting acetylcholinesterase, leading to continuous depolarization, which leads to desensitization."
+    },
+    "17-18 MEDU2400 Sem1 Q26": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "In patients with Myasthenia gravis, excess cholinesterase inhibitors will result in weakened muscle contraction again. What is the reason for this?",
+      "options": {
+        "A": "Used up the pool of ACh reserve",
+        "B": "Development of depolarizing block",
+        "C": "Can't inhibit increased expression of AchE",
+        "D": "Further destruction of junction fold",
+        "E": "Further destruction of ACh"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Final Q40": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Muscle Physiology",
+      "question": "Botulinum toxin causes blepharospasm which is the abnormal contraction or twitch of the eyelid. What is its mechanism of action?",
+      "options": {
+        "A": "Blocks muscarinic 3 cholinergic receptor.",
+        "B": "Blocks alpha 1 receptor.",
+        "C": "Inhibits the release of acetylcholine from postganglionic neurons",
+        "D": "Inhibits the release of noradrenaline from postganglionic neurons",
+        "E": "Blocks the uptake of acetylcholine at postganglionic neurons"
+      },
+      "answer": "C",
+      "explanation": "prevent exocytosis of ACh by cleaving SNARE?"
     }
   }
 }
