@@ -1042,52 +1042,70 @@ addQuestionsDb.addEventListener('change', (e) => {
         alert("No file selected. Please choose a file.");
         return;
     }
-    if (file.type !== "application/zip" && file.type !== "application/x-zip-compressed") {
-        alert("Unsupported file type. Please select a zip file.");
+    function readJSON (jsonData) {
+        const data = JSON.parse(jsonData);
+        if (!validateJSON(data)) {
+            alert("Uploaded database file not valid");
+            return;
+        }
+        Object.entries(data.questions).forEach(([key, value]) => {
+            tableData.push({
+                ...value,
+                id: key,
+                selected: true,
+                options: JSON.stringify(value.options),
+            });
+        });
+        initObj();
+        Object.entries(data.courses).forEach(([level, course]) => {
+            if (!courseObj[level]) courseObj[level] = [];
+            courseObj[level] = courseObj[level].concat(Object.keys(course)).removeDuplicates();
+            Object.entries(course).forEach(([key, value]) => {
+                if (!topicObj[key]) topicObj[key] = [];
+                topicObj[key] = topicObj[key].concat(Object.keys(value.byTopic));
+            });
+        });
+        table.loadData(tableData);
+        updateColSetting("level", {source: Object.keys(courseObj)});
+        for (let i = 0; i < table.countRows(); i++) {
+            table.setCellMeta(i, table.propToCol("course"), "source", courseObj[table.getDataAtRowProp(i, "level")]);
+            table.setCellMeta(i, table.propToCol("topic"), "source", topicObj[table.getDataAtRowProp(i, "course")]);
+        }
+        addQuestionsTable.classList.remove("visually-hidden");
+        addQuestionsDocx.disabled = true;
+        addQuestionsXlsx.disabled = true;
+        addQuestionsDb.disabled = true;
+        modalSetButton([addQuestionsCancel, addQuestionsTableNextButton]);
+        location.href = "#addQuestionsTable";
+    }
+    if (file.type === "application/zip" || file.type === "application/x-zip-compressed") {
+        JSZip.loadAsync(file)
+            .then(
+                function (zip) {
+                    zip.file("questions.json").async("string").then(readJSON);
+                },
+                function (e) {
+                    alert("Error reading uploaded file.\nError message: " + e.message);
+                    console.log("Error reading uploaded file: ", e.message);
+                }
+            )
+    }
+    else if (file.type === "application/json") {
+        const reader = new FileReader();
+        reader.onload = (e) => {
+            try {
+                readJSON(e.target.result);
+            } catch (error) {
+                alert("Error reading uploaded file.\nError message: " + e.message);
+                console.log("Error reading uploaded file: ", e.message);
+            }
+        }
+        reader.readAsText(file);
+    }
+    else {
+        alert("Unsupported file type. Please select a zip or json file.");
         return;
     }
-    JSZip.loadAsync(file)
-        .then(function (zip) {
-            zip.file("questions.json").async("string").then(function (jsonData) {
-                const data = JSON.parse(jsonData);
-                if (!validateJSON(data)) {
-                    alert("Uploaded database file not valid");
-                    return;
-                }
-                Object.entries(data.questions).forEach(([key, value]) => {
-                    tableData.push({
-                        ...value,
-                        id: key,
-                        selected: true,
-                        options: JSON.stringify(value.options),
-                    });
-                });
-                initObj();
-                Object.entries(data.courses).forEach(([level, course]) => {
-                    if (!courseObj[level]) courseObj[level] = [];
-                    courseObj[level] = courseObj[level].concat(Object.keys(course)).removeDuplicates();
-                    Object.entries(course).forEach(([key, value]) => {
-                        if (!topicObj[key]) topicObj[key] = [];
-                        topicObj[key] = topicObj[key].concat(Object.keys(value.byTopic));
-                    });
-                });
-                table.loadData(tableData);
-                updateColSetting("level", {source: Object.keys(courseObj)});
-                for (let i = 0; i < table.countRows(); i++) {
-                    table.setCellMeta(i, table.propToCol("course"), "source", courseObj[table.getDataAtRowProp(i, "level")]);
-                    table.setCellMeta(i, table.propToCol("topic"), "source", topicObj[table.getDataAtRowProp(i, "course")]);
-                }
-                addQuestionsTable.classList.remove("visually-hidden");
-                addQuestionsDocx.disabled = true;
-                addQuestionsXlsx.disabled = true;
-                addQuestionsDb.disabled = true;
-                modalSetButton([addQuestionsCancel, addQuestionsTableNextButton]);
-                location.href = "#addQuestionsTable";
-            });
-        }, function (e) {
-            alert("Error reading uploaded file.\nError message: " + e.message);
-            console.log("Error reading uploaded file: ", e.message);
-        });
 });
 addQuestionsXlsx.addEventListener("change", (e) => {
     const file = e.target.files[0];
