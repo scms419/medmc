@@ -66,7 +66,7 @@ function createSelectOptionForm(options, mode) {
     selectOptionForm.innerHTML = `
         <div class="my-3 border-bottom">
             <h2 class="fs-2 text-body-emphasis">Select ${(mode === "byYear") ? "year" : "topic(s)"}</h2>
-            ${Object.keys(options).map(option => `
+            ${Object.keys(options).sort().map(option => `
                 <div class="form-check my-3">
                     <input
                         type="${mode === "byYear" ? "radio" : "checkbox"}"

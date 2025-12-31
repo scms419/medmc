@@ -285,7 +285,10 @@ function clean () {
             continue;
         }
         for (let [course, info] of Object.entries(courseList)) {
-            if (Object.keys(info.byYear).length === 0 || Object.keys(info.byTopic).length === 0) delete obj[level][course];
+            if (Object.keys(info.byYear).length === 0 || Object.keys(info.byTopic).length === 0) {
+                delete obj[level][course];
+                continue;
+            }
             else {
                 for (let [year, codes] of Object.entries(info.byYear)) {
                     if (Object.keys(codes).length === 0) delete info.byYear[year];
@@ -293,8 +296,25 @@ function clean () {
                 for (let [topic, codes] of Object.entries(info.byTopic)) {
                     if (Object.keys(codes).length === 0) delete info.byTopic[topic];
                 }
-                if (Object.keys(info.byYear).length === 0 || Object.keys(info.byTopic).length === 0) delete obj[level][course];
+                if (Object.keys(info.byYear).length === 0 || Object.keys(info.byTopic).length === 0) {
+                    delete obj[level][course];
+                    continue;
+                }
             }
+            info.byYear = Object.keys(info.byYear).sort().reduce(
+                (obj, key) => {
+                    obj[key] = info.byYear[key];
+                    return obj;
+                },
+                {}
+            );
+            info.byTopic = Object.keys(info.byTopic).sort().reduce(
+                (obj, key) => {
+                    obj[key] = info.byTopic[key];
+                    return obj;
+                },
+                {}
+            );
         }
         if (Object.keys(obj[level]).length === 0) {
             delete obj[level];
