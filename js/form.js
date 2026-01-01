@@ -232,6 +232,7 @@ function createMainForm(data) {
                 </div>
             `;
             div.appendChild(explanationDiv);
+            loadImages();
             if (Object.keys(questions[codes[i]].options).length > 0) {
                 const query = document.querySelector(`input[name='${id}']:checked`);
                 if (query && query.value === questions[codes[i]].answer) {
