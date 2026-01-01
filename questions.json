@@ -589,80 +589,8 @@
     "Year 1 Sem 1": {
       "MEDF1010 Health Sciences I": {
         "byYear": {
-          "2019-20": [
-            "19-20 HSI Q22",
-            "19-20 HSI Q8",
-            "19-20 HSI Q9",
-            "19-20 HSI Q10",
-            "19-20 HSI Q11",
-            "19-20 HSI Q13",
-            "19-20 HSI Q5",
-            "19-20 HSI Q26",
-            "19-20 HSI Q27",
-            "19-20 HSI Q2",
-            "19-20 HSI Q6",
-            "19-20 HSI Q28"
-          ],
-          "2018-19": [
-            "18-19 HSI Q1",
-            "18-19 HSI Q2",
-            "18-19 HSI Q3",
-            "18-19 HSI Q4",
-            "18-19 HSI Q25",
-            "18-19 HSI Q5",
-            "18-19 HSI Q12",
-            "18-19 HSI Q13",
-            "18-19 HSI Q14",
-            "18-19 HSI Q15",
-            "18-19 HSI Q16",
-            "18-19 HSI Q17",
-            "18-19 HSI Q18",
-            "18-19 HSI Q19",
-            "18-19 HSI Q20",
-            "18-19 HSI Q21",
-            "18-19 HSI Q22",
-            "18-19 HSI Q23",
-            "18-19 HSI Q24",
-            "18-19 HSI Q26",
-            "18-19 HSI Q31"
-          ],
-          "2017-18": [
-            "17-18 HSI Q18",
-            "17-18 HSI Q5",
-            "17-18 HSI Q6",
-            "17-18 HSI Q7",
-            "17-18 HSI Q8",
-            "17-18 HSI Q9",
-            "17-18 HSI Q10",
-            "17-18 HSI Q11",
-            "17-18 HSI Q12",
-            "17-18 HSI Q13",
-            "17-18 HSI Q14",
-            "17-18 HSI Q20",
-            "17-18 HSI Q22",
-            "17-18 HSI Q23",
-            "17-18 HSI Q21",
-            "17-18 HSI Q57"
-          ],
-          "2015-16": [
-            "15-16 HSI Q17",
-            "15-16 HSI Q6",
-            "15-16 HSI Q7",
-            "15-16 HSI Q9",
-            "15-16 HSI Q11",
-            "15-16 HSI Q12",
-            "15-16 HSI Q13",
-            "15-16 HSI Q14",
-            "15-16 HSI Q15",
-            "15-16 HSI Q16",
-            "15-16 HSI Q18",
-            "15-16 HSI Q19",
-            "15-16 HSI Q20",
-            "15-16 HSI Q22",
-            "15-16 HSI Q21",
-            "15-16 HSI Q23",
-            "15-16 HSI Q24",
-            "15-16 HSI Q25"
+          "2012-13": [
+            "12-13 HSI Q1"
           ],
           "2013-14": [
             "13-14 HSI Q19",
@@ -696,8 +624,25 @@
             "14-15 HSI Q25",
             "14-15 HSI Q58"
           ],
-          "2012-13": [
-            "12-13 HSI Q1"
+          "2015-16": [
+            "15-16 HSI Q17",
+            "15-16 HSI Q6",
+            "15-16 HSI Q7",
+            "15-16 HSI Q9",
+            "15-16 HSI Q11",
+            "15-16 HSI Q12",
+            "15-16 HSI Q13",
+            "15-16 HSI Q14",
+            "15-16 HSI Q15",
+            "15-16 HSI Q16",
+            "15-16 HSI Q18",
+            "15-16 HSI Q19",
+            "15-16 HSI Q20",
+            "15-16 HSI Q22",
+            "15-16 HSI Q21",
+            "15-16 HSI Q23",
+            "15-16 HSI Q24",
+            "15-16 HSI Q25"
           ],
           "2016-17": [
             "16-17 HSI Q13",
@@ -706,6 +651,61 @@
             "16-17 HSI Q18",
             "16-17 HSI Q20",
             "16-17 HSI Q21"
+          ],
+          "2017-18": [
+            "17-18 HSI Q18",
+            "17-18 HSI Q5",
+            "17-18 HSI Q6",
+            "17-18 HSI Q7",
+            "17-18 HSI Q8",
+            "17-18 HSI Q9",
+            "17-18 HSI Q10",
+            "17-18 HSI Q11",
+            "17-18 HSI Q12",
+            "17-18 HSI Q13",
+            "17-18 HSI Q14",
+            "17-18 HSI Q20",
+            "17-18 HSI Q22",
+            "17-18 HSI Q23",
+            "17-18 HSI Q21",
+            "17-18 HSI Q57"
+          ],
+          "2018-19": [
+            "18-19 HSI Q1",
+            "18-19 HSI Q2",
+            "18-19 HSI Q3",
+            "18-19 HSI Q4",
+            "18-19 HSI Q25",
+            "18-19 HSI Q5",
+            "18-19 HSI Q12",
+            "18-19 HSI Q13",
+            "18-19 HSI Q14",
+            "18-19 HSI Q15",
+            "18-19 HSI Q16",
+            "18-19 HSI Q17",
+            "18-19 HSI Q18",
+            "18-19 HSI Q19",
+            "18-19 HSI Q20",
+            "18-19 HSI Q21",
+            "18-19 HSI Q22",
+            "18-19 HSI Q23",
+            "18-19 HSI Q24",
+            "18-19 HSI Q26",
+            "18-19 HSI Q31"
+          ],
+          "2019-20": [
+            "19-20 HSI Q22",
+            "19-20 HSI Q8",
+            "19-20 HSI Q9",
+            "19-20 HSI Q10",
+            "19-20 HSI Q11",
+            "19-20 HSI Q13",
+            "19-20 HSI Q5",
+            "19-20 HSI Q26",
+            "19-20 HSI Q27",
+            "19-20 HSI Q2",
+            "19-20 HSI Q6",
+            "19-20 HSI Q28"
           ],
           "2021-22": [
             "21-22 HSI Q49",
@@ -894,7 +894,9 @@
             "15-16 MEDU2400 Sem1 Q25",
             "15-16 MEDU2400 Final Q5",
             "15-16 MEDU2400 Final Q6",
-            "15-16 MEDU2400 Final Q7"
+            "15-16 MEDU2400 Final Q7",
+            "15-16 MEDU2400 Final Q9",
+            "15-16 MEDU2400 Final Q8"
           ],
           "2016-17": [
             "16-17 MEDU2400 Final Q1",
@@ -907,7 +909,26 @@
             "16-17 MEDU2400 Final Q3",
             "16-17 MEDU2400 Final Q5",
             "16-17 MEDU2400 Sem1 Q25",
-            "16-17 MEDU2400 Sem1 Q26"
+            "16-17 MEDU2400 Sem1 Q26",
+            "16-17 MEDU2400 Final Q7",
+            "16-17 MEDU2400 Final Q8"
+          ],
+          "2017-18": [
+            "17-18 MEDU2400 Final Q1",
+            "17-18 MEDU2400 Test Q21",
+            "17-18 MEDU2400 Test Q22",
+            "17-18 MEDU2400 Test Q23",
+            "17-18 MEDU2400 Final Q2",
+            "17-18 MEDU2400 Final Q3",
+            "17-18 MEDU2400 Test Q24",
+            "17-18 MEDU2400 Final Q4",
+            "17-18 MEDU2400 Sem1 Q25",
+            "17-18 MEDU2400 Final Q17",
+            "17-18 MEDU2400 Sem1 Q26",
+            "17-18 MEDU2400 Test Q28",
+            "17-18 MEDU2400 Test Q29",
+            "17-18 MEDU2400 Test Q33",
+            "17-18 MEDU2400 Test Q31"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
@@ -922,7 +943,10 @@
             "18-19 MEDU2400 Final Q4",
             "18-19 MEDU2400 Sem1 Q25",
             "18-19 MEDU2400 Sem1 Q26",
-            "18-19 MEDU2400 Final Q40"
+            "18-19 MEDU2400 Final Q40",
+            "18-19 MEDU2400 Test Q27",
+            "18-19 MEDU2400 Test Q28",
+            "18-19 MEDU2400 Final Q9"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
@@ -931,7 +955,9 @@
             "19-20 MEDU2400 Final Q3",
             "19-20 MEDU2400 Final Q4",
             "19-20 MEDU2400 Final Q5",
-            "19-20 MEDU2400 Final Q6"
+            "19-20 MEDU2400 Final Q6",
+            "19-20 MEDU2400 Sem1 Q27",
+            "19-20 MEDU2400 Final Q12"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
@@ -943,34 +969,46 @@
             "20-21 MEDU2400 Final Q6",
             "20-21 MEDU2400 Sem1 Q23",
             "20-21 MEDU2400 Sem1 Q25",
-            "20-21 MEDU2400 Sem1 Q26"
-          ],
-          "2017-18": [
-            "17-18 MEDU2400 Final Q1",
-            "17-18 MEDU2400 Test Q21",
-            "17-18 MEDU2400 Test Q22",
-            "17-18 MEDU2400 Test Q23",
-            "17-18 MEDU2400 Final Q2",
-            "17-18 MEDU2400 Final Q3",
-            "17-18 MEDU2400 Test Q24",
-            "17-18 MEDU2400 Final Q4",
-            "17-18 MEDU2400 Sem1 Q25",
-            "17-18 MEDU2400 Final Q17",
-            "17-18 MEDU2400 Sem1 Q26"
-          ],
-          "2022-23": [
-            "22-23 MEDU2400 Test Q21",
-            "22-23 MEDU2400 Test Q22",
-            "22-23 MEDU2400 Q24"
+            "20-21 MEDU2400 Sem1 Q26",
+            "20-21 MEDU2400 Sem1 Q31",
+            "20-21 MEDU2400 Final Q7"
           ],
           "2021-22": [
             "21-22 MEDU2400 Final Q2",
             "21-22 MEDU2400 Test Q22",
             "21-22 MEDU2400 Test Q23",
-            "21-22 MEDU2400 Final Q3"
+            "21-22 MEDU2400 Final Q3",
+            "21-22 MEDU2400 Final Q8",
+            "21-22 MEDU2400 Test Q28"
+          ],
+          "2022-23": [
+            "22-23 MEDU2400 Test Q21",
+            "22-23 MEDU2400 Test Q22",
+            "22-23 MEDU2400 Q24",
+            "22-23 MEDU2400 Test Q28"
           ]
         },
         "byTopic": {
+          "Cardiovascular Physiology": [
+            "15-16 MEDU2400 Final Q9",
+            "16-17 MEDU2400 Final Q7",
+            "17-18 MEDU2400 Test Q28",
+            "17-18 MEDU2400 Test Q29",
+            "17-18 MEDU2400 Test Q33",
+            "19-20 MEDU2400 Sem1 Q27",
+            "19-20 MEDU2400 Final Q12",
+            "20-21 MEDU2400 Sem1 Q31",
+            "20-21 MEDU2400 Final Q7",
+            "21-22 MEDU2400 Final Q8",
+            "22-23 MEDU2400 Test Q28",
+            "15-16 MEDU2400 Final Q8",
+            "16-17 MEDU2400 Final Q8",
+            "17-18 MEDU2400 Test Q31",
+            "18-19 MEDU2400 Test Q27",
+            "18-19 MEDU2400 Test Q28",
+            "18-19 MEDU2400 Final Q9",
+            "21-22 MEDU2400 Test Q28"
+          ],
           "Excitable Cells": [
             "14-15 MEDU2400 Test Q4",
             "15-16 MEDU2400 Test Q21",
@@ -8953,6 +8991,311 @@
       },
       "answer": "C",
       "explanation": "prevent exocytosis of ACh by cleaving SNARE?"
+    },
+    "15-16 MEDU2400 Final Q9": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following matches with action potential generation in ventricular myocyte?",
+      "options": {
+        "A": "phase 0 Na influx",
+        "B": "phase 1 Ca influx",
+        "C": "phase 2 Ca efflux",
+        "D": "phase 3 K influx",
+        "E": "phase 4 K efflux"
+      },
+      "answer": "A",
+      "explanation": "Phase 0 is the upstroke for action potential generation in ventricles. \n\n![](img/15-16_MEDU2400_Final_Q9_1767244790548.jpeg)"
+    },
+    "16-17 MEDU2400 Final Q7": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Phase 4 of cardiac pacemaker cells is caused by the opening of which channel?",
+      "options": {
+        "A": "Outward rectifier K+ channel",
+        "B": "L-type Ca2+ channel",
+        "C": "N-type Ca2+ channel",
+        "D": "T-type Ca2+ channel",
+        "E": "Voltage-gated Na+ channel"
+      },
+      "answer": "D",
+      "explanation": "E. Funny Na+ channels are cyclic-nucleotide gated\n\nPhase 4 of cardiac pacemaker potential is due to Na+ influx from funny channels as well as Ca2+ via T-type Ca2+ channels. \nD is opened at the <u>later part of phase 4</u> to accelerate the spontaneous depolarisation to reach the threshold for triggering the depolarising upstroke (Phase 0)."
+    },
+    "17-18 MEDU2400 Test Q28": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following currents happens in phase 4 of pacemaker cells? (Question modified)",
+      "options": {
+        "A": "Inward Cl",
+        "B": "Inward Na",
+        "C": "Inward K",
+        "D": "Outward Ca",
+        "E": "Outward K"
+      },
+      "answer": "B",
+      "explanation": "Note that Na+ influx occurs at phase 4 of pacemaker potential via funny channels, while K+ efflux occurs at phase 3 of pacemaker potential via voltage-gated K+ channels for repolarization."
+    },
+    "17-18 MEDU2400 Test Q29": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which receptor, when bind to norepinephrine, will lead to an increase in myocardial contractility?",
+      "options": {
+        "A": "alpha 1 receptor",
+        "B": "alpha 2 receptor",
+        "C": "beta 1 receptor",
+        "D": "beta 2 receptor",
+        "E": "muscarinic 2 receptor"
+      },
+      "answer": "C",
+      "explanation": "Note that SNS stimulation on beta-1 adrenergic receptors via NE increases (positive) conduction velocity (dromotropic effect), heart rate (chronotropic effect), contractility (inotropic effect) and faster relaxation (lusitropic effect) through Gs protein (cAMP-PKA) pathways."
+    },
+    "17-18 MEDU2400 Test Q33": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which receptor is responsible for increasing contractility in ventricles?",
+      "options": {
+        "A": "Alpha 1",
+        "B": "Alpha 2",
+        "C": "Beta 1",
+        "D": "Beta 2",
+        "E": "Muscarinic 2"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Sem1 Q27": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following phase in the depolarisation is unique to the contractile cardiomyocyte but not to pacemaker cells?",
+      "options": {
+        "A": "phase 0: L-type Ca2+ channel",
+        "B": "phase 1: L-type Ca2+ channel",
+        "C": "phase 2 plateau: L-type Ca2+ channels",
+        "D": "phase 3: repolarisation",
+        "E": "phase 4: depolarisation"
+      },
+      "answer": "C",
+      "explanation": "Note that phase 2 (plateau) is absent in pacemaker potential. Only in ventricular cardiomyocytes is there phase 2, which is caused by a balance between Ca2+ influx (via LTCC) and K+ efflux (via voltage-gated K+ channels). Phase 1 is also unique to contractile myocytes, but it is generated by voltage-gated Na+ channels, not LTCC."
+    },
+    "19-20 MEDU2400 Final Q12": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following represents a direct effect of increased beta-1 stimulation in cardiac pacemaker cells?",
+      "options": {
+        "A": "Decrease slope of phase 0 of the action potential",
+        "B": "Increase duration of pacemaker potential",
+        "C": "Increase rate of phase 2 of the action potential",
+        "D": "Decrease amplitude of peak depolarisation level",
+        "E": "Increase frequency of action potential"
+      },
+      "answer": "E",
+      "explanation": " A. The slope is increased to increase the frequency of action potential generation for a higher HR. \n B. From A, we know that the duration of AP generation is reduced. \n C. Phase 2 is absent in pacemaker potential. \n D. The amplitude of depolarization is increased. \n E. A conclusion for the above explanations."
+    },
+    "20-21 MEDU2400 Sem1 Q31": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following contributes to the major ion current in pacemaker cells?",
+      "options": {
+        "A": "Long lasting K+ channel",
+        "B": "T type Ca2+ channel",
+        "C": "L type Ca2+ channel",
+        "D": "Transient Na+ channel",
+        "E": "Voltage gated Na+ channel"
+      },
+      "answer": "C",
+      "explanation": "This question is very ambiguous. \nThis question appeared the second time in the 2223 test, and it is not recited in the wrong way. \n\nAn email response from Prof. Au: \nThe teacher who set this question tried to help students by putting in weird options. If you have not heard of any “long lasting K+ channel” and “transient Na+ channel” in the lecture, sure they do not exist. The teacher is trying to “paint a wrong picture with the intestine shown” (Chinese proverb). He has not spelt out T-type Ca channel” as “transient opening calcium channel” and L-type Ca channel as “long-lasting calcium channel” as he knows the students would surely understand what they are even with the use of abbreviations. For the wrong options, he has to spell out the long form to make it more convincing as a distractor. \n\nSo, option A & D can be filtered out directly. \nFunny current = Na+ influx by HCN channels (hyperpolarization cyclic-nucleotide-gated Na+ channels); voltage-gated Na+ channels are not involved. \nT-type Ca2+ channels only contribute a minor part in late phase 4; \nSo, LTCC contributes the major ion current in pacemaker cells if we only have these 5 options. \nIn case voltage-gated K+ channels also appear in the options, good luck. "
+    },
+    "20-21 MEDU2400 Final Q7": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is primarily dependent on a normal AV nodal delay?",
+      "options": {
+        "A": "Ca2+ induced Ca2+ release",
+        "B": "Diastolic filling",
+        "C": "Funny current",
+        "D": "Pacemaker potential",
+        "E": "Phase 3 of ventricular AP"
+      },
+      "answer": "B",
+      "explanation": "AV node has the slowest conduction velocity in the conduction system. As the atria contract after the electrical signal propagates from SA node to AV node via atrial cardiomyocytes, the AV nodal delay allows time for atrial systole to take place. This ensures that sufficient time is given for blood to fill the ventricle before the electrical signal is relayed to ventricles with increasing speed (This explains the question below)."
+    },
+    "21-22 MEDU2400 Final Q8": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "A man with dysrhythmia is referred for further examination to identify potential abnormalities in cardiac electrical conduction. Which of the following sites in a normal heart should exhibit the fastest rate of electrical conductance?",
+      "options": {
+        "A": "Atrial muscle",
+        "B": "Atrioventricular node",
+        "C": "Purkinje fibers",
+        "D": "Sino-atrial node",
+        "E": "Ventricular muscle"
+      },
+      "answer": "C",
+      "explanation": "Generally speaking, the conduction rate in the heart conduction system increases from SA node along to Purkinje fibers, except that AV node has the slowest rate given its small radius and low density of gap junctions. \n\nReference Values: (Conduction velocity) (Taken from Ivan’ notes P.5)\nAtria: 1 m/s\nAV node: 0.01-0.05 m/s\nPurkinje Fibers: 2-4 m/s\nVentricle: 1 m/s"
+    },
+    "22-23 MEDU2400 Test Q28": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "What is the major ion current generated by cardiac pacemaker cells?",
+      "options": {
+        "A": "L-type Ca2+ current",
+        "B": "T-type Ca2+ current",
+        "C": "L-type voltage gated K+ current",
+        "D": "T-type voltage gated K+ current",
+        "E": "Voltage-gated Na+ current"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Final Q8": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following values are reached or obtained when the aortic valve closes?",
+      "options": {
+        "A": "Diastolic pressure",
+        "B": "Systolic pressure",
+        "C": "End diastolic volume",
+        "D": "End systolic volume",
+        "E": "Stroke volume"
+      },
+      "answer": "D",
+      "explanation": "When the aortic valve **closes**, it marks the beginning of isovolumetric relaxation and the end of ventricular contraction. Thus, it is ESV that remains in the ventricles."
+    },
+    "16-17 MEDU2400 Final Q8": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is reached when the aortic valve opens?",
+      "options": {
+        "A": "Diastolic pressure",
+        "B": "Systolic pressure",
+        "C": "EDV",
+        "D": "ESV",
+        "E": "stroke volume"
+      },
+      "answer": "A",
+      "explanation": " A. Diastolic pressure refers to the minimal **aortic** pressure reached as the blood drains out of the aorta while the ventricle is still filling up (i.e. attained before ventricular ejection). Thus, the diastolic pressure is attained approximately at the moment when the aortic valve opens (i.e. end of diastole). Pay special attention to the fact that “DIASTOLIC PRESSURE” describes pressure in AORTA, while EDV is a description for the ventricles.\n B. Systolic pressure is the maximal aortic pressure during ventricular contraction. It is obtained **during** ventricular ejection after the aortic valve opens for a while.\n C. EDV is reached **before** the aortic valve opens. It is attained after the ventricular filling phase.\n D. ESV is reached only when the aortic valve closes (beginning of isovolumetric relaxation). Only at that point does blood stop flowing out of the ventricles and remain in it.\n E. Stroke volume = EDV - ESV → Irrelevant to the opening / closure of aortic valve\n\n![](img/16-17_MEDU2400_Final_Q8_1767247768993.jpeg)"
+    },
+    "17-18 MEDU2400 Test Q31": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Aortic diastolic pressure is determined primarily by",
+      "options": {
+        "A": "End diastolic pressure in ventricles",
+        "B": "End systolic pressure in ventricles",
+        "C": "Elastic recoil in arteries",
+        "D": "Resistance in smaller arteries and arterioles"
+      },
+      "answer": "D",
+      "explanation": "B\\. aortic pressure at the dicrotic notch (caused by the closure of aortic valve → retrograde blood flow towards aortic valve) ≠ diastolic pressure\nThe purpose of elastic recoil is to maintain a constant flow in the arteries.\nNote that MAP = CO x TPR. Diastolic pressure is thus related to TPR and hence D is the most relevant answer. \n\n(More Explanations)\nDiastolic pressure determines the **afterload** of the heart, i.e. the pressure remaining after previous contraction which needs to be overcome by the next round of contraction. Diastolic pressure is determined by resistance of smaller arteries and arterioles, as they provide most of the resistance in the CV system.\nC could contribute to the variation in the drop of blood pressure in different segments of circulation. For example, high elasticity in vessels of young individuals facilitates wall stretching and then recoil to cause pressure amplification across arteries."
+    },
+    "18-19 MEDU2400 Test Q27": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following mechanisms is responsible for higher rate of ventricular relaxation?",
+      "options": {
+        "A": "Increase ca2+-induced ca2+ channel activity",
+        "B": "Increase ca2+ efflux by PMCA",
+        "C": "Increase ca2+ efflux by SERCA",
+        "D": "Inhibit ca2+ efflux on plasma membrane",
+        "E": "Phosphorylation of phospholamban"
+      },
+      "answer": "E",
+      "explanation": "B. PMCA is a minor mechanism\nE. removes the inhibition of phospholamban (as a result of sympathetic stimulation) on SERCA, increasing the rate of uptake of Ca2+ ions back to the intracellular store → faster relaxation"
+    },
+    "18-19 MEDU2400 Test Q28": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following value is attained when the aortic valve opens?",
+      "options": {
+        "A": "Diastolic pressure",
+        "B": "ESV",
+        "C": "EDV",
+        "D": "Maximum intraventricular pressure",
+        "E": "Systolic pressure"
+      },
+      "answer": "A",
+      "explanation": "Maximum intraventricular pressure = systolic pressure; attained some time after aortic valve opens during ventricular ejection."
+    },
+    "18-19 MEDU2400 Final Q9": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following event occur during the cardiac cycle to produce normal heart sounds?",
+      "options": {
+        "A": "Closing AV valves",
+        "B": "Isovolumetric ventricular contraction",
+        "C": "Isovolumetric ventricular relaxation",
+        "D": "Open pulmonary And aortic valves",
+        "E": "Passive ventricular filling"
+      },
+      "answer": "A",
+      "explanation": "The first heart sound is produced by the closure of mitral and tricuspid valves (**AV valves**) due to isovolumetric contraction.\nThe second heart sound is produced by the closure of the aortic and pulmonary valves (semilunar valves) when ventricular ejection begins."
+    },
+    "21-22 MEDU2400 Test Q28": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "When is the intraventricular pressure lowest? (Options modified)",
+      "options": {
+        "A": "End of systole",
+        "B": "End of diastole",
+        "C": "Start of isovolumetric contraction",
+        "D": "Start of isovolumetric relaxation",
+        "E": "None of the above"
+      },
+      "answer": "E",
+      "explanation": "**Intraventricular pressure is lowest at the end of isovolumetric relaxation**, as the pressure will rise again when ventricular filling commences right afterwards.\nA is wrong as it is the beginning of isovolumetric relaxation (Same as D), and the pressure is not yet lowest as the ventricle is still in contracted state.\nB is wrong as it is the start of isovolumetric contraction (Same as C), which of course has a similar, but still higher pressure than A and D.\n\"Start of ventricular ejection\" is the end of isovolumetric contraction as the ventricular pressure is high enough to exceed the aortic pressure to start ejection. The highest pressure is at the midst of ventricular ejection, as the pressure continues to rise for a short period due to continuous ventricular contraction. The pressure then starts to drop as there is less blood inside the ventricle to maintain it.\nThe PV-loop below is self-explanatory. \n\n![](img/21-22_MEDU2400_Test_Q28_1767247749579.jpeg)"
     }
   }
 }
