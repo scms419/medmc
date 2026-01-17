@@ -896,7 +896,11 @@
             "15-16 MEDU2400 Final Q6",
             "15-16 MEDU2400 Final Q7",
             "15-16 MEDU2400 Final Q9",
-            "15-16 MEDU2400 Final Q8"
+            "15-16 MEDU2400 Final Q8",
+            "15-16 MEDU2400 Final Q11",
+            "15-16 MEDU2400 Final Q10",
+            "15-16 MEDU2400 Test Q31",
+            "15-16 MEDU2400 Final Q12"
           ],
           "2016-17": [
             "16-17 MEDU2400 Final Q1",
@@ -911,7 +915,12 @@
             "16-17 MEDU2400 Sem1 Q25",
             "16-17 MEDU2400 Sem1 Q26",
             "16-17 MEDU2400 Final Q7",
-            "16-17 MEDU2400 Final Q8"
+            "16-17 MEDU2400 Final Q8",
+            "16-17 MEDU2400 Test Q34",
+            "16-17 MEDU2400 Final Q10",
+            "16-17 MEDU2400 Test Q27",
+            "16-17 MEDU2400 Final Q9",
+            "16-17 MEDU2400 Test Q31"
           ],
           "2017-18": [
             "17-18 MEDU2400 Final Q1",
@@ -928,7 +937,9 @@
             "17-18 MEDU2400 Test Q28",
             "17-18 MEDU2400 Test Q29",
             "17-18 MEDU2400 Test Q33",
-            "17-18 MEDU2400 Test Q31"
+            "17-18 MEDU2400 Test Q31",
+            "17-18 MEDU2400 Test Q27",
+            "17-18 MEDU2400 Test Q30"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
@@ -946,7 +957,10 @@
             "18-19 MEDU2400 Final Q40",
             "18-19 MEDU2400 Test Q27",
             "18-19 MEDU2400 Test Q28",
-            "18-19 MEDU2400 Final Q9"
+            "18-19 MEDU2400 Final Q9",
+            "18-19 MEDU2400 Test Q34",
+            "18-19 MEDU2400 Test Q29",
+            "18-19 MEDU2400 Test Q30"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
@@ -957,7 +971,10 @@
             "19-20 MEDU2400 Final Q5",
             "19-20 MEDU2400 Final Q6",
             "19-20 MEDU2400 Sem1 Q27",
-            "19-20 MEDU2400 Final Q12"
+            "19-20 MEDU2400 Final Q12",
+            "19-20 MEDU2400 Sem1 Q28",
+            "19-20 MEDU2400 Final Q13",
+            "19-20 MEDU2400 Sem1 Q29"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
@@ -971,7 +988,9 @@
             "20-21 MEDU2400 Sem1 Q25",
             "20-21 MEDU2400 Sem1 Q26",
             "20-21 MEDU2400 Sem1 Q31",
-            "20-21 MEDU2400 Final Q7"
+            "20-21 MEDU2400 Final Q7",
+            "20-21 MEDU2400 Sem1 Q32",
+            "20-21 MEDU2400 Final Q8"
           ],
           "2021-22": [
             "21-22 MEDU2400 Final Q2",
@@ -979,13 +998,28 @@
             "21-22 MEDU2400 Test Q23",
             "21-22 MEDU2400 Final Q3",
             "21-22 MEDU2400 Final Q8",
-            "21-22 MEDU2400 Test Q28"
+            "21-22 MEDU2400 Test Q28",
+            "21-22 MEDU2400 Final Q7",
+            "21-22 MEDU2400 Test Q29",
+            "21-22 MEDU2400 Final Q10",
+            "21-22 MEDU2400 Final Q11",
+            "21-22 MEDU2400 Test Q30",
+            "21-22 MEDU2400 Final Q12"
           ],
           "2022-23": [
             "22-23 MEDU2400 Test Q21",
             "22-23 MEDU2400 Test Q22",
             "22-23 MEDU2400 Q24",
-            "22-23 MEDU2400 Test Q28"
+            "22-23 MEDU2400 Test Q28",
+            "22-23 MEDU2400 Test Q27",
+            "22-23 MEDU2400 Test Q29",
+            "22-23 MEDU2400 Test Q30"
+          ],
+          "unclassified": [
+            "Extra MEDU2400 CV Q1",
+            "Extra MEDU2400 CV Q2",
+            "Extra MEDU2400 CV Q3",
+            "Extra MEDU2400 Ex Q1"
           ]
         },
         "byTopic": {
@@ -1007,7 +1041,38 @@
             "18-19 MEDU2400 Test Q27",
             "18-19 MEDU2400 Test Q28",
             "18-19 MEDU2400 Final Q9",
-            "21-22 MEDU2400 Test Q28"
+            "21-22 MEDU2400 Test Q28",
+            "15-16 MEDU2400 Final Q11",
+            "16-17 MEDU2400 Test Q34",
+            "16-17 MEDU2400 Final Q10",
+            "18-19 MEDU2400 Test Q34",
+            "19-20 MEDU2400 Sem1 Q28",
+            "21-22 MEDU2400 Final Q7",
+            "22-23 MEDU2400 Test Q27",
+            "15-16 MEDU2400 Final Q10",
+            "16-17 MEDU2400 Test Q27",
+            "16-17 MEDU2400 Final Q9",
+            "17-18 MEDU2400 Test Q27",
+            "19-20 MEDU2400 Final Q13",
+            "20-21 MEDU2400 Sem1 Q32",
+            "20-21 MEDU2400 Final Q8",
+            "21-22 MEDU2400 Test Q29",
+            "21-22 MEDU2400 Final Q10",
+            "21-22 MEDU2400 Final Q11",
+            "22-23 MEDU2400 Test Q29",
+            "15-16 MEDU2400 Test Q31",
+            "15-16 MEDU2400 Final Q12",
+            "16-17 MEDU2400 Test Q31",
+            "17-18 MEDU2400 Test Q30",
+            "18-19 MEDU2400 Test Q29",
+            "18-19 MEDU2400 Test Q30",
+            "19-20 MEDU2400 Sem1 Q29",
+            "21-22 MEDU2400 Test Q30",
+            "21-22 MEDU2400 Final Q12",
+            "22-23 MEDU2400 Test Q30",
+            "Extra MEDU2400 CV Q1",
+            "Extra MEDU2400 CV Q2",
+            "Extra MEDU2400 CV Q3"
           ],
           "Excitable Cells": [
             "14-15 MEDU2400 Test Q4",
@@ -1062,7 +1127,8 @@
             "20-21 MEDU2400 Final Q6",
             "21-22 MEDU2400 Test Q23",
             "21-22 MEDU2400 Final Q3",
-            "22-23 MEDU2400 Q24"
+            "22-23 MEDU2400 Q24",
+            "Extra MEDU2400 Ex Q1"
           ],
           "Muscle Physiology": [
             "14-15 MEDU2400 Sem1 Q19",
@@ -9296,6 +9362,549 @@
       },
       "answer": "E",
       "explanation": "**Intraventricular pressure is lowest at the end of isovolumetric relaxation**, as the pressure will rise again when ventricular filling commences right afterwards.\nA is wrong as it is the beginning of isovolumetric relaxation (Same as D), and the pressure is not yet lowest as the ventricle is still in contracted state.\nB is wrong as it is the start of isovolumetric contraction (Same as C), which of course has a similar, but still higher pressure than A and D.\n\"Start of ventricular ejection\" is the end of isovolumetric contraction as the ventricular pressure is high enough to exceed the aortic pressure to start ejection. The highest pressure is at the midst of ventricular ejection, as the pressure continues to rise for a short period due to continuous ventricular contraction. The pressure then starts to drop as there is less blood inside the ventricle to maintain it.\nThe PV-loop below is self-explanatory. \n\n![](img/21-22_MEDU2400_Test_Q28_1767247749579.jpeg)"
+    },
+    "15-16 MEDU2400 Final Q11": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following represents the best estimate of the electrical axis of the heart?\n\n![](img/15-16_MEDU2400_Final_Q11_1768627294455.jpeg)",
+      "options": {
+        "A": "-30 degree",
+        "B": "0 degree",
+        "C": "+30 degree",
+        "D": "+60 degree",
+        "E": "+90 degree"
+      },
+      "answer": "B",
+      "explanation": "aVF is equiphasic\nLead I is positive"
+    },
+    "16-17 MEDU2400 Test Q34": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "What is the abnormality?\n\n![](img/16-17_MEDU2400_Test_Q34_1768627377235.jpeg)",
+      "options": {
+        "A": "1st degree Heart block",
+        "B": "ST segment depression",
+        "C": "left axis deviation",
+        "D": "Brachycardia",
+        "E": "Late rotation"
+      },
+      "answer": "A",
+      "explanation": "lengthening of PR interval (>200 ms)"
+    },
+    "16-17 MEDU2400 Final Q10": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "The mean electrical axis of a patient is +150. Which lead is expected to have an inverted QRS complex?",
+      "options": {
+        "A": "Lead AVF",
+        "B": "Lead AVR",
+        "C": "Lead I",
+        "D": "Lead II",
+        "E": "Lead III"
+      },
+      "answer": "C",
+      "explanation": "Negative lead I, positive aVF"
+    },
+    "18-19 MEDU2400 Test Q34": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Lead II of ECG is shown. What is the abnormality?\n\n![](img/18-19_MEDU2400_Test_Q34_1768627536805.jpeg)",
+      "options": {
+        "A": "1st degree heart block",
+        "B": "Right axis deviation",
+        "C": "ST segment elevation",
+        "D": "Tachycardia",
+        "E": "Late rotation (clockwise)"
+      },
+      "answer": "A",
+      "explanation": "lengthening of PR interval"
+    },
+    "19-20 MEDU2400 Sem1 Q28": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "ECG graph, find cardiac axis\nNode I: +ve\nNode II: equiphasic\nNode III: -ve\nAlso aVF, aVL, aVR (but forgot)",
+      "options": {
+        "A": "30",
+        "B": "-30",
+        "C": "0",
+        "D": "60",
+        "E": "90"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q7": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following options best describe the abnormality shown in ECG?\n\n![](img/21-22_MEDU2400_Final_Q7_1768627698189.jpeg)",
+      "options": {
+        "A": "1st degree block",
+        "B": "Late (clockwise) rotation",
+        "C": "Long QT interval",
+        "D": "Right axis deviation",
+        "E": "Sinus arrhythmia"
+      },
+      "answer": "A",
+      "explanation": "I would like everyone of you reading this question to give a big round of applaud to Anes 26 who drew these curves. I think it is quite hard to observe the answer without the underlying scales, but this also means if you have them, you have to pick the correct answer. The answer here is 1st degree AV block, which means PR interval exceeds the 0.12 - 0.2s range. You can observe the spacing between the P wave and QRS complex is much further than the QRS complex and T wave. B is false as the transition zone at V3 indicates no abnormality. C is also wrong as according to this scale, it is obviously the PR interval much longer than QT interval. Electrical axis is at around +90 degrees (aVR and aVL both negative indicates between +60 to +120, while lead I is almost equiphasic, so can only be +90), which is also within normal range. E is false as each pulse has a fixed interval (Hard to see here though).\n\nProf. Simon Au promised to us in the revision session to include everything he taught in his lectures in his only ECG MC, which he really succeeded to do so."
+    },
+    "22-23 MEDU2400 Test Q27": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "In the accompanying ECG, which of the following gives the best estimate of the electrical axis of the heart?\nLead I, II, III, aVL, aVF all positive\nLead III almost equiphasic",
+      "options": {
+        "A": "-30 to 0 degree",
+        "B": "0 to +30 degrees",
+        "C": "+30 to +60 degrees",
+        "D": "+60 to +90 degrees",
+        "E": "+90 to +120 degrees"
+      },
+      "answer": "C",
+      "explanation": "Lead III almost equiphasic is quite useless if you ask me, when all the choices are ranges of degrees. However, you could still guess the axis is pretty close to +30 or –150 degrees. From leads I and III both positive, we can narrow down the search into +30 (+150 – 90) to +90 (0 + 90). aVF and lead II must be positive within this range, so the information is useless. Positive aVL then suggests the axis is between –120 to +60, so the axis must be between +30 to +60 degrees. It is very smart to use the word “almost” equiphasic, as it is sometimes hard to observe a perfectly equiphasic QRS complex. Never assume something is equiphasic, especially the choices are all ranges of degrees."
+    },
+    "15-16 MEDU2400 Final Q10": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "An increase in mean arterial pressure leads to which of the following:",
+      "options": {
+        "A": "a decrease in afterload",
+        "B": "a decrease in preload",
+        "C": "an increase in afterload",
+        "D": "an increase in preload",
+        "E": "no changes to preload or afterload"
+      },
+      "answer": "C",
+      "explanation": "Refer to Maggie’s CV Notes P.40//Answer received from Simon Au\nNote that an increase in MAP will lead to an increase in aortic pressure, so that afterload is increased as ventricles need to generate more forceful contraction isometrically to push open the aortic valve.\nReduced SV will reduce VR and decrease preload, but it is already several steps further from increased MAP."
+    },
+    "16-17 MEDU2400 Test Q27": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following relates to the Frank-Starling relationship or Starling law?",
+      "options": {
+        "A": "Afterload",
+        "B": "Perfusion pressure",
+        "C": "Contractility",
+        "D": "End-systolic volume",
+        "E": "Preload"
+      },
+      "answer": "E",
+      "explanation": "Frank-Starling relationship: Ventricular end-diastolic volume increases (due to increased venous return), leading to an increase in stroke volume.\nThis can be explained as increased preload will **stretch** the cardiomyocytes towards the optimum length with **more actin-myosin overlapping and interaction (forming maximum number of cross-bridges)**, hence increasing the efficiency of muscle contraction and raising the force of contraction. This is necessary for the heart to increase SV to match the increased VR.\nNote that CONTRACTILITY does not increase here, but is the force of contraction / contractile force that increases. This is because contractility is related to intrinsic mechanisms, such as beta-1 stimulation (i.e. relates to calcium influx). Please study P. 13 of Ivan’s notes."
+    },
+    "16-17 MEDU2400 Final Q9": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following mostly causes a decrease in stroke volume?",
+      "options": {
+        "A": "Decrease in diastolic filling time",
+        "B": "Decrease in end-diastolic volume",
+        "C": "Decrease in heart rate",
+        "D": "Increase in conduction velocity",
+        "E": "Increase in myocardial contractility"
+      },
+      "answer": "B",
+      "explanation": "Please refer to Ivan’s notes P. 10.\nA. EDV may only be decreased if diastolic filling time is shortened too much"
+    },
+    "17-18 MEDU2400 Test Q27": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following ensures venous return equal cardiac output?",
+      "options": {
+        "A": "Baroreceptor reflex",
+        "B": "Bainbridge reflex",
+        "C": "Darcy’s law",
+        "D": "Laplace law",
+        "E": "Frank-Starling law"
+      },
+      "answer": "E",
+      "explanation": "Bainbridge reflex, also called atrial reflex, is an increase in heart rate due to an increase in central venous pressure. Increased blood volume is detected by stretch receptors (cardiac receptors) located at both sides of the atria at the venoatrial junctions.\nThe overall response in the heart by the Frank-Starling mechanism is as follows:\n1. There is increased central venous pressure = filling pressure of the heart.\n2. There are 2 consequences:\n\ta. By the Frank-Starling relationship, there will be increased right ventricular SV and thus an increased output from the right heart\n\tb. Venous return is reduced (CVP increase → reduce pressure gradient between veins / venous bed and right atrium → reduce flow)\n3. Right output > left output\n4. Blood accumulates in the pulmonary vasculature and raises pulmonary venous and left atrial pressures.\n5. By the Frank-Starling relationship, increased left atrial pressure increases left ventricular stroke volume.\n6. A new steady state is reached, where output from both sides of the heart becomes equal."
+    },
+    "19-20 MEDU2400 Final Q13": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following represents the most likely reason for a decreased Stroke volume",
+      "options": {
+        "A": "decreased passive filling",
+        "B": "Increased ESV",
+        "C": "Increased EDV",
+        "D": "Decreased afterload",
+        "E": "Decreased Systolic duration"
+      },
+      "answer": "A",
+      "explanation": "A. see (B)\nB. refer to 1-35 heart failure p.3\nC. decreased EDV → decreased SV\nD. decrease afterload → increase SV\nE. only decreases SV at very short systole, i.e. not all the blood possible is pumped out after systole\n\nA could be a possible reason but only valid when HR is raised too much. It is worth noting that passive filling contributes 70-80% of EDV. B is also a possible reason given that EDV is constant, as SV = EDV – ESV. C and D should increase SV due to Frank-Starling (C) and decreased resistance for blood flow (D). E is never an option either, as systolic duration is kept rather constant despite increase in HR, it is the diastolic duration being compromised when HR raises, which leads to the option A. However, there is no such factor that will affect ESV primarily, and it is always the EDV (Preload, passive filling) and SV (Afterload, contractility etc.) being varied first. Hence I would prefer A as the answer here, as increased ESV is more likely the consequence of decreased SV, instead of its reason."
+    },
+    "20-21 MEDU2400 Sem1 Q32": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following mechanisms can increase the cardiac output?",
+      "options": {
+        "A": "Decrease afterload",
+        "B": "Decrease preload",
+        "C": "Decrease venous return",
+        "D": "Increase acetylcholine-activated potassium channel",
+        "E": "Increase muscarinic receptor stimulation"
+      },
+      "answer": "A",
+      "explanation": " A. Decreasing the afterload increases SV and hence CO.\n B. Decreasing the preload (EDV) reduces SV and hence CO\n C. Decreasing the venous return reduces EDV and SV and CO by the Frank-Starling relationship\n D. Increasing ACh-activated K+ channels increases the rate of repolarization (hyperpolarization) as well as the duration of phase 2. This is caused by option E.\n E. Increasing parasympathetic stimulation will reduce the HR and hence CO"
+    },
+    "20-21 MEDU2400 Final Q8": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following represent the direct outcome of the Frank-Starling mechanism?",
+      "options": {
+        "A": "Increase sympathetic output increase heart rate",
+        "B": "Increase stroke volume due to increase heart rate",
+        "C": "Increase stroke volume due to increase cardiac contractility",
+        "D": "Increase stroke volume due to increase preload",
+        "E": "Increase systolic blood pressure due to increase stroke volume"
+      },
+      "answer": "D",
+      "explanation": "By definition, the answer is D. <u>**READ THIS!**</u>\nYou must remember that the Frank-Starling relationship has nothing to do with cardiac contractility. Some sources suggest that option C is the reason while option D is the direct outcome of the Frank-Starling relationship, but this is not entirely true. Contractility defines the relative ability of the heart to eject a stroke volume **AT A GIVEN AFTERLOAD (arterial pressure / MAP) & PRELOAD (EDV)**! If the Frank-Starling relationship states that EDV is proportional to SV, then the increase in SV cannot be attributed to contractility because EDV is the independent variable now, and hence the definition of contractility does not hold.\nTo put it simply, just remember that contractility relates to all sorts of intrinsic control mechanisms, while the Frank-Starling relationship can only be described using “force of contraction”.\nYou can fully understand the length-dependent and length-independent changes in contractile function (≠ contractility).\nhttps://www.cvphysiology.com/Cardiac%20Function/CF003\nAgain, refer to P.13 of Ivan’s notes."
+    },
+    "21-22 MEDU2400 Test Q29": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following states that amount of blood flowing out of the heart equals blood flowing into the heart? (forgot exact wordings)",
+      "options": {
+        "A": "Poiseuille’s Law",
+        "B": "Laplace Law",
+        "C": "Frank-Starling mechanism",
+        "D": "Darcy Law",
+        "E": "Baroreceptor reflex"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q10": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "A healthy 30-year-old man stand up after you being in a supine position for several hours. Which of the following changes to his cardiovascular response is expected after he stands up for several seconds?",
+      "options": {
+        "A": "Increase coronary flow resistance",
+        "B": "Increase EDV",
+        "C": "Increase EF",
+        "D": "Increase PP",
+        "E": "Increase VR"
+      },
+      "answer": "D",
+      "explanation": "It would be better to place this question at Integrative Cardiovascular Physiology.\nFirst you should know VR decreases due to gravity, and then SV and MAP drop. Obviously B and E are wrong at this point. Ejection fraction will not be affected by postural changes, but instead slowly decreases in the case of systolic heart failure, which is not the case here (You can’t have significant change in EF within hours).\nA is achieved under PSNS stimulation, which is the opposite of this scene, as baroreceptor reflex will take place to restore MAP by increasing SNS output. However, this is not caused by direct innervation, but instead active hyperemia. The positive chronotropic and inotropic effects in the heart will increase its energy consumption and production of vasodilators, e.g. adenosine, H+, K+ etc. The dilation of coronary arteries will lower the resistance, so A is false.\nThe only answer here is D. Positive inotropy of the heart raises the SP, and therefore raises the PP (SP-DP). Actually, DP can also raise as SNS effect also includes peripheral vasoconstriction, but such effect will increase VR and then SV, so that the increase in SP will be greater than DP, leading to net increase in PP.\nThis is a pretty interesting question and lets you have a feeling of logical deduction in physiology. Sometimes, different factors will contradict each other, and you will need to justify the results with principles instead. Stick to the given result, and try to weigh out which factor predominates in the setting will be the answer."
+    },
+    "21-22 MEDU2400 Final Q11": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "After applying effective dose of NE, original point X will shift to which point?\n\n![](img/21-22_MEDU2400_Final_Q11_1768628352941.jpeg)",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      },
+      "answer": "D",
+      "explanation": "If you are smart, you can spot that the NE dose is similar to SNS stimulation, and you can just copy the graph in lecture slides. Venoconstriction decreases the venous capacitance, so that ECV (Renal physiology concept, i.e. the effective volume of blood in circulation) increases. This raises the VR for any given RAP linearly (Each point increases for the same amount) as there is simply more blood flowing in the circulation, and the curve will shift parallel to the right. For cardiac function curve, the slope will increase as positive inotropy increases the CO for each given RAP (Which also indicates VR and EDV). The flattened part of cardiac function curve indicates the maximum CO possible limited by maximum heart contractility achieved by Frank-Starling mechanism. To sum up, the new point should be on a vascular curve shifted parallel to right, and cardiac curve with higher slope, which is D."
+    },
+    "22-23 MEDU2400 Test Q29": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is a likely mechanism underlying an increase in cardiac output?",
+      "options": {
+        "A": "Decrease afterload",
+        "B": "Decrease preload",
+        "C": "Decrease venous return",
+        "D": "Increase binding to muscarinic receptors",
+        "E": "Increase acetylcholine-dependent K+ channel"
+      },
+      "answer": "A",
+      "explanation": "A will decrease the cardiac muscle work used to overcome the resistance, so more blood can be pumped out. B is wrong as it will decrease contractility due to reduced ventricular wall stretching. C is wrong as it will reduce preload. Binding of ACh to M2 receptors (D) will cause E in the pacemaker cells, causing hyperpolarisation and reduces the firing of pacemaker. The heart rate will be reduced, and thus CO."
+    },
+    "15-16 MEDU2400 Test Q31": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Increased sympathetic stimulation of the blood vessel will cause which of the following?",
+      "options": {
+        "A": "Increase capillary filtration",
+        "B": "Increase arterial diameter",
+        "C": "Increase venous return of blood to heart",
+        "D": "Increase of blood flow to skin",
+        "E": "Increase of blood flow to brain"
+      },
+      "answer": "C",
+      "explanation": "A. venoconstriction (arteriolar contraction + venous constriction) → same pressure gradient ⇒ overall no change\nC. increased venoconstriction (refer to hemodynamics lecture P.60)\nD. vasoconstriction of cutaneous vessels reduce blood flow\nE. flow to brain is always constant\n\n![](img/15-16_MEDU2400_Test_Q31_1768629365050.jpeg)"
+    },
+    "15-16 MEDU2400 Final Q12": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following would lead to a decrease in venous return to the heart?",
+      "options": {
+        "A": "Arterial constriction",
+        "B": "Exercising the leg muscles",
+        "C": "Expansion of blood volume",
+        "D": "Take a deep breath",
+        "E": "Venoconstriction"
+      },
+      "answer": "A",
+      "explanation": "A. arteriolar constriction → increase TPR, arteriolar pressure; increased **afterload**; increased CVP, reduced VR\nB. Exercising → Increase in sympathetic activity vasoconstriction of veins (reservoir of blood) → more blood in circulation → more blood returns to heart\nC. Increase blood volume → increase MAP → increase venous return (under all conditions, when MAP increase, pressure gradient between veins and right atrium increase)\nD. Deep breath → more negative intrathoracic pressure → force blood to return to heart via respiratory pump\nE. Venoconstriction → Pressure gradient between veins and right atrium increase → Increase venous return"
+    },
+    "16-17 MEDU2400 Test Q31": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "According to Poiseuille's law, which of the following has a linear relationship with flow in an artery?",
+      "options": {
+        "A": "Viscosity of the blood",
+        "B": "Length of the artery",
+        "C": "Radius of the artery",
+        "D": "Perfusion Pressure",
+        "E": "Compliance of artery"
+      },
+      "answer": "D",
+      "explanation": "Poiseuille’s law: $\\frac{8 \\eta \\Delta L}{\\pi r ^4}$\n\nThus, $Q = \\frac{\\Delta P \\times \\pi r ^ 4}{8 \\eta \\Delta L}$ ; Compliance = dV/dp\n\n**Note that the answer is not radius since radius is to a power 4 in the equation.**"
+    },
+    "17-18 MEDU2400 Test Q30": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "According to Poiseuille's law, which of the following has a linear relationship with flow in an artery?",
+      "options": {
+        "A": "Viscosity of the blood",
+        "B": "Length of the artery",
+        "C": "Radius of the artery",
+        "D": "Pressure Drop",
+        "E": "Compliance of artery"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Test Q29": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following leads to decreased venous return?",
+      "options": {
+        "A": "Arteriolar constriction",
+        "B": "Exercising of leg muscles",
+        "C": "Increase of blood volume",
+        "D": "Taking a deep breath",
+        "E": "Venoconstriction"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Test Q30": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "According to Poiseuille’s law, which factor has a direct and linear relationship with blood flow?",
+      "options": {
+        "A": "Length of artery",
+        "B": "Compliance of artery",
+        "C": "Viscosity of blood",
+        "D": "Perfusion pressure",
+        "E": "Radius of lumen of artery"
+      },
+      "answer": "D",
+      "explanation": "Poiseuille’s law: $Q = \\frac{\\Delta P \\times \\pi r ^ 4}{8 \\eta \\Delta L}$ (Repeated)"
+    },
+    "19-20 MEDU2400 Sem1 Q29": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following would most likely decrease venous return?",
+      "options": {
+        "A": "Arteriolar dilation",
+        "B": "Increase cardiac output",
+        "C": "Increase right atrial pressure",
+        "D": "Lying flat on bed",
+        "E": "Walking up the stairs"
+      },
+      "answer": "C",
+      "explanation": "A. Arteriolar dilation leads to reduction in afterload\nB. Increase CO → balancing through Frank-Starling relationship → VR increase\nC. Increase RAP → Reduce pressure gradient between veins and right atrium → reduce VR\nD. Lying flat → Reduce effect from gravity → VR increase\nE. Walking → skeletal muscle contraction around veins → facilitate blood flow → VR increase"
+    },
+    "21-22 MEDU2400 Test Q30": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "What is the compliance of a blood vessel?",
+      "options": {
+        "A": "Distensibility of a blood vessel",
+        "B": "Elasticity of a blood vessel",
+        "C": "Pressure difference between 2 ends of the blood vessels",
+        "D": "Elastic recoil of the blood vessels"
+      },
+      "answer": "A",
+      "explanation": "This is a tricky question.\nWell, you can just answer A by saying that “this is the definition listed in the lecture slides.” But you better know the reason why the answer is not B.\nIn fact, vascular compliance can be described by **distensibility** and **elastance** of the blood vessel. Distensibility and elastance are reciprocal of each other. However, elasticity is not an accurate term in this question! It has to be the elastance of a blood vessel to be describing vascular compliance! **No other alternative wordings!**\nRemember that elastance and distensibility are terms used in biomedical sciences, while elasticity is a layman term!"
+    },
+    "21-22 MEDU2400 Final Q12": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "What is the ratio of equivalent resistance between arterial segments A and B? (Reconstructed although canceled)\n\n![](img/21-22_MEDU2400_Final_Q12_1768629690546.jpeg)",
+      "options": {
+        "A": "1:3",
+        "B": "1:1",
+        "C": "3:1",
+        "D": "9:1",
+        "E": "1:9"
+      },
+      "answer": "B",
+      "explanation": "This question is canceled because Willmann didn’t involve the question phrase, but just the setting in the question. The equivalent resistance is similar to that in combining resistors in an electric circuit. Both segments A and B have the equivalent resistance of R, and so the answer is B.\nIf you did not study physics in the past, the equivalent resistance in A is simply the reciprocal of the sum of reciprocals of the parallel resistances [i.e. R = 1 / (⅓ + ⅓ + ⅓ = 1]"
+    },
+    "22-23 MEDU2400 Test Q30": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following indicates vascular compliance?",
+      "options": {
+        "A": "Distensibility of the blood vessel",
+        "B": "Elasticity of the blood vessel",
+        "C": "Pressure gradient along two ends of a blood vessel",
+        "D": "Resistance to blood flow",
+        "E": "Vascular contractility"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU2400 CV Q1": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "According to Darcy's law, flow in a blood vessel is inversely proportional to which of the following?",
+      "options": {
+        "A": "Perfusion pressure",
+        "B": "Radius",
+        "C": "Radius to the fourth power",
+        "D": "Diameter to the fourth power",
+        "E": "Resistance"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2400 CV Q2": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following would most likely increase venous return?",
+      "options": {
+        "A": "Arteriolar constriction",
+        "B": "Breathing shortly",
+        "C": "Increase right atrial pressure",
+        "D": "Lying flat on bed",
+        "E": "Sitting on a plane"
+      },
+      "answer": "D",
+      "explanation": "Lying flat eliminates the effect of gravity."
+    },
+    "Extra MEDU2400 CV Q3": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following would most likely increase Central Venous Pressure?",
+      "options": {
+        "A": "Decrease blood volume",
+        "B": "Decrease cardiac output",
+        "C": "Walking downstairs",
+        "D": "Sitting on a chair",
+        "E": "Standing up immediately"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU2400 Ex Q1": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Excitable Cells",
+      "question": "Which of the following would increase the excitability of a cell? ",
+      "options": {
+        "A": "Inhibiting the Na+/K+ ATPase",
+        "B": "Applying Na+ channel blockers",
+        "C": "Metabolic alkalosis",
+        "D": "Insulin injection",
+        "E": "Hyperthyroidism"
+      },
+      "answer": "A",
+      "explanation": " A. Depolarization\n B. This prevents depolarization and reduces excitability\n C. This causes a shift of K+ into the cell and hence hypokalemia \n D. Insulin causes hypokalemia \n E. Hyperthyroidism causes hypokalemia "
     }
   }
 }
