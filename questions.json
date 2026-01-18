@@ -920,7 +920,10 @@
             "16-17 MEDU2400 Final Q10",
             "16-17 MEDU2400 Test Q27",
             "16-17 MEDU2400 Final Q9",
-            "16-17 MEDU2400 Test Q31"
+            "16-17 MEDU2400 Test Q31",
+            "16-17 MEDU2400 Test Q30",
+            "16-17 MEDU2400 Final Q15",
+            "16-17 MEDU2400 Final Q13"
           ],
           "2017-18": [
             "17-18 MEDU2400 Final Q1",
@@ -939,7 +942,8 @@
             "17-18 MEDU2400 Test Q33",
             "17-18 MEDU2400 Test Q31",
             "17-18 MEDU2400 Test Q27",
-            "17-18 MEDU2400 Test Q30"
+            "17-18 MEDU2400 Test Q30",
+            "17-18 MEDU2400 Final Q17"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
@@ -960,7 +964,9 @@
             "18-19 MEDU2400 Final Q9",
             "18-19 MEDU2400 Test Q34",
             "18-19 MEDU2400 Test Q29",
-            "18-19 MEDU2400 Test Q30"
+            "18-19 MEDU2400 Test Q30",
+            "18-19 MEDU2400 Final Q13",
+            "18-19 MEDU2400 Final Q16"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
@@ -974,7 +980,10 @@
             "19-20 MEDU2400 Final Q12",
             "19-20 MEDU2400 Sem1 Q28",
             "19-20 MEDU2400 Final Q13",
-            "19-20 MEDU2400 Sem1 Q29"
+            "19-20 MEDU2400 Sem1 Q29",
+            "19-20 MEDU2400 Sem1 Q33",
+            "19-20 MEDU2400 Final Q8",
+            "19-20 MEDU2400 Sem1 Q32"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
@@ -990,7 +999,10 @@
             "20-21 MEDU2400 Sem1 Q31",
             "20-21 MEDU2400 Final Q7",
             "20-21 MEDU2400 Sem1 Q32",
-            "20-21 MEDU2400 Final Q8"
+            "20-21 MEDU2400 Final Q8",
+            "20-21 MEDU2400 Sem1 Q27",
+            "20-21 MEDU2400 Final Q11",
+            "20-21 MEDU2400 Sem1 Q30"
           ],
           "2021-22": [
             "21-22 MEDU2400 Final Q2",
@@ -1004,7 +1016,11 @@
             "21-22 MEDU2400 Final Q10",
             "21-22 MEDU2400 Final Q11",
             "21-22 MEDU2400 Test Q30",
-            "21-22 MEDU2400 Final Q12"
+            "21-22 MEDU2400 Final Q12",
+            "21-22 MEDU2400 Test Q31",
+            "21-22 MEDU2400 Final Q13",
+            "21-22 MEDU2400 Final Q14",
+            "21-22 MEDU2400 Final Q15"
           ],
           "2022-23": [
             "22-23 MEDU2400 Test Q21",
@@ -1013,13 +1029,19 @@
             "22-23 MEDU2400 Test Q28",
             "22-23 MEDU2400 Test Q27",
             "22-23 MEDU2400 Test Q29",
-            "22-23 MEDU2400 Test Q30"
+            "22-23 MEDU2400 Test Q30",
+            "22-23 MEDU2400 Test Q31"
           ],
           "unclassified": [
             "Extra MEDU2400 CV Q1",
             "Extra MEDU2400 CV Q2",
             "Extra MEDU2400 CV Q3",
-            "Extra MEDU2400 Ex Q1"
+            "Extra MEDU2400 Ex Q1",
+            "Extra MEDU2400 CV Q4",
+            "Extra MEDU2400 CV Q5",
+            "Extra MEDU2400 CV Q6",
+            "Extra MEDU2400 CV Q7",
+            "Extra MEDU2400 CV Q8"
           ]
         },
         "byTopic": {
@@ -1072,7 +1094,29 @@
             "22-23 MEDU2400 Test Q30",
             "Extra MEDU2400 CV Q1",
             "Extra MEDU2400 CV Q2",
-            "Extra MEDU2400 CV Q3"
+            "Extra MEDU2400 CV Q3",
+            "16-17 MEDU2400 Test Q30",
+            "16-17 MEDU2400 Final Q15",
+            "18-19 MEDU2400 Final Q13",
+            "19-20 MEDU2400 Sem1 Q33",
+            "19-20 MEDU2400 Final Q8",
+            "20-21 MEDU2400 Sem1 Q27",
+            "20-21 MEDU2400 Final Q11",
+            "21-22 MEDU2400 Test Q31",
+            "21-22 MEDU2400 Final Q13",
+            "21-22 MEDU2400 Final Q14",
+            "21-22 MEDU2400 Final Q15",
+            "22-23 MEDU2400 Test Q31",
+            "Extra MEDU2400 CV Q4",
+            "Extra MEDU2400 CV Q5",
+            "Extra MEDU2400 CV Q6",
+            "16-17 MEDU2400 Final Q13",
+            "17-18 MEDU2400 Final Q17",
+            "18-19 MEDU2400 Final Q16",
+            "19-20 MEDU2400 Sem1 Q32",
+            "20-21 MEDU2400 Sem1 Q30",
+            "Extra MEDU2400 CV Q7",
+            "Extra MEDU2400 CV Q8"
           ],
           "Excitable Cells": [
             "14-15 MEDU2400 Test Q4",
@@ -8808,7 +8852,7 @@
       "course": "MEDU2400 Human Function I",
       "question_number": 17,
       "level": "Year 2",
-      "topic": "Muscle Physiology",
+      "topic": "Cardiovascular Physiology",
       "question": "Which of the following leads to increased vascular smooth muscle contraction?",
       "options": {
         "A": "activation of NCX",
@@ -9905,6 +9949,363 @@
       },
       "answer": "A",
       "explanation": " A. Depolarization\n B. This prevents depolarization and reduces excitability\n C. This causes a shift of K+ into the cell and hence hypokalemia \n D. Insulin causes hypokalemia \n E. Hyperthyroidism causes hypokalemia "
+    },
+    "16-17 MEDU2400 Test Q30": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "In smooth vascular muscle, nitric oxide via cGMP-PKG is to:",
+      "options": {
+        "A": "Inhibit IP3 channel",
+        "B": "Stimulate Na+/K+ ATPase",
+        "C": "Stimulate ryanodine receptor on SCR",
+        "D": "Stimulate the dihydropyridine receptor",
+        "E": "stimulate the phospholamban production"
+      },
+      "answer": "A",
+      "explanation": "A&B. refer to 1920 final Q27 (below)\nC, D: ryanodine receptor, dihydropyridine receptor stimulate Calcium induced calcium release and vasoconstriction\nE. phospholamban (unphosphorylated) inhibits SERCA\n\nIn reality, NO stimulates the cGMP/PKG pathway and lead to:\n1. Activation of BK channels for the efflux of K+ → Hyperpolarization (which may further lead to closure of LTCC / VOC → Relaxation)\n2. Increased activity of SERCA/ PMCA for faster uptake / lowering of intracellular calcium\n\nEdit: read Tianxiaoyu geh lecture slides carefully :)\n![](img/16-17_MEDU2400_Test_Q30_1768714264825.jpeg)"
+    },
+    "16-17 MEDU2400 Final Q15": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following substances require the endothelial cells to achieve a vasodilatory effect?",
+      "options": {
+        "A": "Acetylcholine",
+        "B": "Atrial natriuretic peptide",
+        "C": "Cromokalim",
+        "D": "Nifedipine",
+        "E": "Nitroglycerin"
+      },
+      "answer": "A",
+      "explanation": "For option A, the following is the whole process of how **ACh leads to vasodilation with NO from endothelial cells**.\n1. ACh requires endothelial cells to achieve vasodilation. ACh binds with M3 receptors and triggers the Gq protein pathway. PLC activation → DAG + IP3\n\t* DAG → Receptor-operated Ca2+ channels (ROC) open\n\t* IP3 → IP3R → IP3-gated Calcium channel release Ca2+ from SERCA (intracellular store)\n\t\t* With a depletion of intracellular calcium store, store-operated Ca2+ channels also open\n2. Overall, intracellular calcium of the ENDOTHELIAL CELLS is increased. Try not to mix up the calcium influx and efflux in VSMC with the things happening here.\n3. As a result, nitric oxide synthesis is promoted as high intracellular calcium concentration stimulates the activity of eNOS by the formation of Ca-calmodulin complex. (Under eNOS, L-arginine + O2 → NO + citrulline)\n4. NO diffuses from endothelial cells to VSMC, and triggers the cGMP/ PKG pathway (soluble guanylyl cyclase → cGMP → PKG).\n5. There are 2 pathways by which the cGMP/PKG pathway leads to vasodilation\n\t* Opening of BK channels → hyperpolarization → closure of LTCC\n\t* Increased activity of SERCA & PMCA\n\nHowever, note that ACh can also act on M3 receptors on VSMC to elicit vasoconstriction via the Gq pathway. This is because the surge in Ca2+ will trigger cross-bridge cycle in VSMC.\n\nFor option B, ANP is an antagonist to aldosterone. It can lead to vasodilation by increasing water excretion in kidneys.\nFor option C, the drug there is a potassium channel opener, which DIRECTLY leads to hyperpolarization of cells and hence vasodilation.\nFor option D, nifedipine is a calcium channel blocker. It reduces intracellular calcium by blocking LTCC DIRECTLY.\nFor option E, the drug mentioned is a NO donor, so endothelium is not involved in the synthesis of NO and the related vasodilatory effects."
+    },
+    "18-19 MEDU2400 Final Q13": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "endothelium-derived substance inhibited by superoxide anion",
+      "options": {
+        "A": "endothelin",
+        "B": "endothelium-derived depolarizing factor",
+        "C": "nitric oxide",
+        "D": "nitric oxide and reactive oxygen species",
+        "E": "prostacyclin"
+      },
+      "answer": "C",
+      "explanation": "NO is the endothelium-derived vasodilator that helps to reduce MAP. As it carries an unpaired electron, it will react with ROS to break down into more stable molecules, hence its effect is inhibited by ROS. This may explain why increased oxidative stress (e.g. due to aging, smoking) will decrease the vasodilatory effect of NO, hence increasing the risk of developing hypertension.\nYou may refer to the details in the following website.\nhttps://www.cvphysiology.com/Blood%20Flow/BF016"
+    },
+    "19-20 MEDU2400 Sem1 Q33": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "which requires endothelium to give dilatory effect",
+      "options": {
+        "A": "ACh",
+        "B": "ANP",
+        "C": "Levcromakalim (K+ blocker)",
+        "D": "Nifedipine (Ca2+ blocker)",
+        "E": "nitroglycerine"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q8": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is the effect of NO?",
+      "options": {
+        "A": "Open plasma membrane K channel",
+        "B": "Inhibit SERCA",
+        "C": "Inhibit IP3 receptor",
+        "D": "Increase Na/K ATPase activity",
+        "E": "Increase phospholamban activity"
+      },
+      "answer": "A",
+      "explanation": "A is correct as PKG (Activated by increased cGMP level) will phosphorylate voltage gated K channels to increase K efflux, hence causing hyperpolarisation and subsequent relaxation of VSMC due to reduced opening of LTCC.\nEdit: Not sure if the above explanation (by rodman/jonathan idk) is correct, but I haven't heard about it. For the new syllabus, you should know that NO activates big K channels directly, not via PKG effect."
+    },
+    "20-21 MEDU2400 Sem1 Q27": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following EDVF increases intracellular cAMP?",
+      "options": {
+        "A": "endothelin",
+        "B": "hyperpolarizing factor",
+        "C": "nitric oxide",
+        "D": "prostacyclin",
+        "E": "superoxide anion"
+      },
+      "answer": "D",
+      "explanation": " A. Endothelin-1 (ET-1) binds with Gq protein to cause vasoconstriction\n B. Does not exist\n C. Binds to sGC & activate cGMP\n D. PGI2 binds with IP receptors associated with Gs protein → cAMP/ PKA pathway\n E. It only acts to oxidize and inactivate cellular molecules to cause oxidative damages"
+    },
+    "20-21 MEDU2400 Final Q11": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is an endothelium-derived vasoactive factor that leads to an increase in intracellular cGMP level in vascular smooth muscle cells?",
+      "options": {
+        "A": "Endothelin",
+        "B": "Prostacyclin",
+        "C": "Hyperpolarizing factor",
+        "D": "Nitric oxide",
+        "E": "Superoxide ion"
+      },
+      "answer": "D",
+      "explanation": "Only ANP and NO acts on guanylate cyclase to increase cGMP to bring about vasodilation. However, ANP acts on membrane receptors directly coupled with membrane-bound guanylate cyclase, while NO binds to cytosolic (Soluble) guanylate cyclase to initiate the same signal cascade."
+    },
+    "21-22 MEDU2400 Test Q31": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following about prostacyclin is correct?",
+      "options": {
+        "A": "It triggers vasodilation by increasing cytosolic [cAMP] in vascular smooth muscle cells.",
+        "B": "It is formed from L-arginine via cyclooxygenase pathway.",
+        "C": "It acts by blocking K+ channels on endothelial cells.",
+        "D": "It acts by blocking Ca2+ channels on vascular smooth muscle cells.",
+        "E": "It acts by increasing cytosolic [Ca2+] in endothelial cells."
+      },
+      "answer": "A",
+      "explanation": "A. Correct. PGI2 binds to its receptor coupled with adenylate cyclase, then cAMP activates PKA to phosphorylate MLCK into its inactive form to prevent cross-bridge cycling. PKA also phosphorylates a series of different target transporters to bring about smooth muscle relaxation, and you can almost assume Gs receptors are linked to muscle relaxation.\nB. This describes NO.\nC. C is false as PKA activates BK channels to cause K+ efflux and hyperpolarisation.\nD. D is false as calcium channels in VSMC are closed due to hyperpolarisation, instead of direct inhibition by PGI2. However, direct block can be achieved by dihydropyridine class of calcium channel blocker, e.g. amlodipine.\nE. E is false as this is performed by ACh and storage-gated Ca2+ channels instead."
+    },
+    "21-22 MEDU2400 Final Q13": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "An effective concentration of acetylcholine has been added to a normal, isolated artery segment. Which of the following changes to flow parameter is expected?",
+      "options": {
+        "A": "Decrease in pressure gradient due to a direct action of acetylcholine on smooth muscle.",
+        "B": "Decrease in resistance due to a direct action of acetylcholine on endothelium.",
+        "C": "Decrease in resistance due to a direct action of acetylcholine of smooth muscle.",
+        "D": "Increase in flow due to the action of acetylcholine on both endothelium and smooth muscle",
+        "E": "Increase in resistance due to the action of acetylcholine on both endothelium and smooth muscle"
+      },
+      "answer": "B",
+      "explanation": "If ACh gets to act on VSMC directly, the Ca2+ influx will cause vasoconstriction directly. This is a good question to show the opposing effects of Ca2+ influx in EC and VSMC. High [Ca2+] in EC will facilitate production of vasodilators, while high [Ca2+] in VSMC will increase cross-bridge cycling to promote vasoconstriction."
+    },
+    "21-22 MEDU2400 Final Q14": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following represents a target of calmodulin in the production of nitric oxide in endothelial cells?",
+      "options": {
+        "A": "Calcium ion",
+        "B": "Myosin light chain kinase",
+        "C": "Nitric oxide synthase",
+        "D": "Protein kinase A",
+        "E": "Protein kinase B"
+      },
+      "answer": "A",
+      "explanation": "B is involved in smooth muscle contraction, as Ca-CaM complex phosphorylates and activates MLCK.\neNOS appears to be the answer, but the activity of eNOS is only stimulated when calmodulin is bound with Ca (Ca-CaM complex)."
+    },
+    "21-22 MEDU2400 Final Q15": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "A substance is found to diminish vascular smooth muscle contraction but without any effect on ventricular muscle contraction. Which of the following represents the most likely site of action of this substance?",
+      "options": {
+        "A": "Beta-1 receptor",
+        "B": "Calmodulin",
+        "C": "Protein kinase A",
+        "D": "Troponin C",
+        "E": "Tropomyosin"
+      },
+      "answer": "B",
+      "explanation": "This vasodilator is most likely acting on mechanisms leading to muscle relaxation, yet not related to cardiac muscle. But before we start, make sure you know there is **no troponin in smooth muscle**, as calmodulin takes up the part as Ca sensor already. Tropomyosin is still present to regulate actin-myosin interaction, but not as the same way in skeletal muscle, i.e. blocking actin-binding site on myosin. The exact mechanism is outsyl, but you still need to know it still has a regulatory role. A and C are clearly wrong as β1 receptors control inotropy and chronotropy of the heart, while PKA is involved in signal transduction of β1 stimulation. The answer left is calmodulin. The drug could be potentiating the effect of Ca-calmodulin complex to produce even more vasodilators under Ca2+ stimulation."
+    },
+    "22-23 MEDU2400 Test Q31": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Prostacyclin effect:",
+      "options": {
+        "A": "Increase cAMP for vasodilation caused by relaxation of VSMC",
+        "B": "Promotes platelet aggregation",
+        "C": "Synthesised from L-arginine via COX pathway",
+        "D": "Causes VSMC relaxation by closing endothelial Ca2+ channels",
+        "E": "Increase cytosolic [Ca2+] in endothelial cells, stimulate NO production"
+      },
+      "answer": "A",
+      "explanation": "A. Correct. PGI2 receptor is coupled to Gs protein.\n B. PGI2 inhibits platelet aggregation.\n C. PGI2 is synthesized from arachidonic acid instead. L-arginine is the precursor of NO.\n D. PGI2 does not act on endothelium.\n E. This describes the effect of acetylcholine on endothelial cells."
+    },
+    "Extra MEDU2400 CV Q4": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is a function of NO?",
+      "options": {
+        "A": "Stimulates thrombosis",
+        "B": "Stimulates apoptosis of endothelial cells",
+        "C": "Inhibits proliferation and migration of VSMC",
+        "D": "Stimulates vascular remodeling",
+        "E": "Inhibit apoptosis of VSMC"
+      },
+      "answer": "C",
+      "explanation": "There are some different uses of NO besides vasodilation, including:\n 1. Prevent abnormal clot formation tendency (as in thrombosis)\n 2. Facilitate immunoglobulin access to inflamed tissues by widening gaps on endothelial cells\n 3. Inhibits VSMC proliferation\n 4. Inhibits over-expression of adhesion molecules (of white blood cell)"
+    },
+    "Extra MEDU2400 CV Q5": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following acts as an EDCF by destroying NO and preventing its entry to VSMC?",
+      "options": {
+        "A": "Thrombin",
+        "B": "Angiotensin II",
+        "C": "Prostaglandin",
+        "D": "Superoxide anion",
+        "E": "Prostacyclin"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU2400 CV Q6": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is the least likely to protect your endothelial function?",
+      "options": {
+        "A": "Polyphenolic antioxidants",
+        "B": "Black tea extract",
+        "C": "Resveratrol",
+        "D": "Glutathione (GSH)",
+        "E": "Mental stress"
+      },
+      "answer": "E",
+      "explanation": "Cheer up! :)"
+    },
+    "16-17 MEDU2400 Final Q13": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following will result in contraction of vascular smooth muscle?",
+      "options": {
+        "A": "Activation of Na+-Ca+ exchanger",
+        "B": "Activation of Na+-K+ ATPase",
+        "C": "Activation of sarcoplasmic reticulum calcium pump",
+        "D": "Inhibition of ...",
+        "E": "Inhibition of K+ channel"
+      },
+      "answer": "E",
+      "explanation": "A. NCX pump Ca out of the cell (1x Ca2+ out for 3x Na+ in)\nB. Not related\nC. smooth muscle relies on extracellular Ca2+ → not main point\nE. inhibition of K+ channel → block K+ efflux → depolarize"
+    },
+    "18-19 MEDU2400 Final Q16": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following transporters are involved in the contraction of vascular smooth muscles?",
+      "options": {
+        "A": "Inhibition of sodium-potassium ATPase",
+        "B": "Activation of sarcoplasmic reticulum calcium ATPase (SERCA)",
+        "C": "Activation of plasma membrane calcium ATPase (PMCA)",
+        "D": "Activation of potassium channels",
+        "E": "Activation of calcium-hydrogen exchanger"
+      },
+      "answer": "A",
+      "explanation": " A. Inhibition of Na/K-ATPase → increased intracellular Na → decrease driving force for NCX\n B. SERCA uptakes intracellular Ca2+ to SR, unbinding Ca2+ from Calmodulin.\n C. PMCA pumps Ca2+ out of the cell, unbinding Ca2+ from Calmodulin.\n D. It would lead to hyperpolarization, causing relaxation.\n E. NCX → remove calcium (can work in both directions)"
+    },
+    "19-20 MEDU2400 Sem1 Q32": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "what will occur when alpha 1(?) receptor on blood vessels is activated",
+      "options": {
+        "A": "blood flow to brain decrease",
+        "B": "heart rate decrease",
+        "C": "net filtration in capillaries decrease",
+        "D": "percentage of blood volume in veins increase",
+        "E": "venous return increase"
+      },
+      "answer": "E",
+      "explanation": "Sympathetic stimulation would have no net change in capillary filtration rate.\n A. Vessels in the brain do not respond to ANS influence, and rely on autoregulation and blood gas level instead. Massive vasoconstriction commences in such setting in the question, which greatly raises TPR and MAP.\n B. B would be correct after the baroreceptor reflex takes place, but at that time, SNS output to vessels will be reduced and overthrows the initial setting already.\n C. C is wrong, as increased arterial pressure will increase hydrostatic pressure at capillary bed to facilitate filtration.\n D. D is wrong, as venoconstriction will reduce its capacitance to free up more blood volume in general circulation, increasing the ECV.\n E. E is the best answer as it is the most direct effect (vasoconstriction)"
+    },
+    "20-21 MEDU2400 Sem1 Q30": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following mechanisms is involved in an increased contractility of vascular smooth muscle cells?",
+      "options": {
+        "A": "Activation of Na+/K+-ATPase",
+        "B": "Activation of PMCA",
+        "C": "Activation of SERCA",
+        "D": "Inhibition of potassium channels",
+        "E": "Inhibition of voltage-gated calcium channels"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU2400 CV Q7": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following regarding K+ channels is incorrect?",
+      "options": {
+        "A": "High [K+] inside the cell is maintained by Na+/K+ pump",
+        "B": "K+ channel activity controls membrane potential",
+        "C": "Free [Ca2+] and vascular tone is determined by the activity of NO",
+        "D": "Endothelium-derived hyperpolarizing factors reduce vascular tone by increasing K+ channel activity",
+        "E": "Dysfunction of K+ channels in VSMC is related to depolarization, increase in Ca2+ and arterial hypertension"
+      },
+      "answer": "C",
+      "explanation": "K+ channel activity controls membrane potential and is a principal determinant of free [Ca2+]i and vascular tone"
+    },
+    "Extra MEDU2400 CV Q8": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following regarding the regulation of the vascular tone of VSMC is correct?",
+      "options": {
+        "A": "NE on α1/α2 receptors, endothelin on ETAR/ETBR and angiotensin II on AT1R are constricting agonists that can lead to elevated calcium level in VSMC.",
+        "B": "NO, EDHF, PGF2a &PGH2 are vasodilators in the endothelium.",
+        "C": "Vasodilator works by binding to Gs protein, which activates phospholipase C.",
+        "D": "β-agonists, adenosine and vasoactive intestinal peptide can act on receptors to stimulate guanylate cyclase, in which an increase in production in cGMP and activation of PKG leads to hyperpolarization.",
+        "E": "The major vascular ion channel that opens during vasodilation is Ca2+ channels, and that during vasoconstriction is K+ channels."
+      },
+      "answer": "A",
+      "explanation": "A. NE on α1/α2 receptors, endothelin on ETAR/ETBR and angiotensin II on AT1R are constricting agonists that can lead to elevated calcium level in VSMC. (In fact, we usually only refer to α1, ETA and AT1 receptors)\nB. PGF2a &PGH2 are vasoconstrictors in the endothelium.\nC. Gs protein does not activate phospholipase C.\nD. β-agonists, adenosine and vasoactive intestinal peptide can act on receptors to stimulate adenylate cyclase, in which an increase in production in cAMP and activation of PKA leads to hyperpolarization.\nE. Ca2+ and K+ should be interchanged in this statement."
     }
   }
 }
