@@ -121,8 +121,11 @@ function createMDE(id, placeholder, sideBySide, horizontal=true, status=true) {
     editor.codemirror.setOption("extraKeys", {
         ...originalKeys,
         "Ctrl-U": (cm) => toggleUnderline(editor),
+        "Cmd-U": (cm) => toggleUnderline(editor),
         "Shift-Ctrl--": (cm) => toggleSubscript(editor),
+        "Shift-Cmd--": (cm) => toggleSubscript(editor),
         "Shift-Ctrl-=": (cm) => toggleSuperscript(editor),
+        "Shift-Cmd-=": (cm) => toggleSuperscript(editor),
         "Enter": (cm) => newLineAndContinueList(editor)
     });
     let cm = editor.codemirror;
