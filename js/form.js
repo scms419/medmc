@@ -200,20 +200,28 @@ function createMainForm(data) {
         const inputs = document.querySelectorAll("input[name='selectCourse'], input[name='selectMode'], input[name='selectOption']");
         const selectNumInput = document.querySelector("input[id='selectNum']");
         num = selectNumInput.value;
-        codes = generateQuestions(courses[selectedLevel][selectedCourse][selectedMode], options, num);
-        if (codes.length < num) {
+        if (+num <= 0) {
             const span = document.createElement("span");
             span.id = "numErrorMessage";
             span.style = "color: red";
-            span.innerText = "Required number of questions exceed the amount (n = " + codes.length + ")";
+            span.innerText = "Invalid number";
             selectOptionForm.insertBefore(span, selectNumInput.nextElementSibling);
         }
         else {
-            for (const input of inputs) input.disabled = true;
-            selectNumInput.disabled = true;
-            renderQuestions(questions, codes);
-            location.href = "#questionView";
-            setButtons([printButton, submitQuestionButton, cancelButton]);
+            codes = generateQuestions(courses[selectedLevel][selectedCourse][selectedMode], options, num);
+            if (codes.length < num) {
+                const span = document.createElement("span");
+                span.id = "numErrorMessage";
+                span.style = "color: red";
+                span.innerText = "Required number of questions exceed the amount (n = " + codes.length + ")";
+                selectOptionForm.insertBefore(span, selectNumInput.nextElementSibling);
+            } else {
+                for (const input of inputs) input.disabled = true;
+                selectNumInput.disabled = true;
+                renderQuestions(questions, codes);
+                location.href = "#questionView";
+                setButtons([printButton, submitQuestionButton, cancelButton]);
+            }
         }
     });
     submitQuestionButton.addEventListener("click", (e) => {
