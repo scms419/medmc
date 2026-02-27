@@ -880,7 +880,8 @@
             "14-15 MEDU2400 Test Q3",
             "14-15 MEDU2400 Sem1 Q19",
             "14-15 MEDU2400 Final Q1",
-            "14-15 MEDU2400 Sem1 Q18"
+            "14-15 MEDU2400 Sem1 Q18",
+            "14-15 MEDU2400 Final Q49"
           ],
           "2015-16": [
             "15-16 MEDU2400 Test Q21",
@@ -905,7 +906,11 @@
             "15-16 MEDU2400 Final Q13",
             "15-16 MEDU2400 Test Q32",
             "15-16 MEDU2400 Test Q34",
-            "15-16 MEDU2400 Test Q33"
+            "15-16 MEDU2400 Test Q33",
+            "15-16 MEDU2400 Final Q37",
+            "15-16 MEDU2400 Final Q39",
+            "15-16 MEDU2400 Final Q40",
+            "15-16 MEDU2400 Final Q41"
           ],
           "2016-17": [
             "16-17 MEDU2400 Final Q1",
@@ -936,7 +941,12 @@
             "16-17 MEDU2400 Test Q28",
             "16-17 MEDU2400 Test Q29",
             "16-17 MEDU2400 Final Q14",
-            "16-17 MEDU2400 Final Q17"
+            "16-17 MEDU2400 Final Q17",
+            "16-17 MEDU2400 Final Q35",
+            "16-17 MEDU2400 Final Q36",
+            "16-17 MEDU2400 Final Q39",
+            "16-17 MEDU2400 Final Q40",
+            "16-17 MEDU2400 Final Q41"
           ],
           "2017-18": [
             "17-18 MEDU2400 Final Q1",
@@ -958,7 +968,11 @@
             "17-18 MEDU2400 Test Q30",
             "17-18 MEDU2400 Final Q17",
             "17-18 MEDU2400 Test Q34",
-            "17-18 MEDU2400 Test Q32"
+            "17-18 MEDU2400 Test Q32",
+            "17-18 MEDU2400 Final Q38",
+            "17-18 MEDU2400 Final Q37",
+            "17-18 MEDU2400 Final Q39",
+            "17-18 MEDU2400 Final Q40"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
@@ -987,7 +1001,9 @@
             "18-19 MEDU2400 Final Q15",
             "18-19 MEDU2400 Test Q32",
             "18-19 MEDU2400 Final Q12",
-            "18-19 MEDU2400 Test Q33"
+            "18-19 MEDU2400 Test Q33",
+            "18-19 MEDU2400 Final Q34",
+            "18-19 MEDU2400 Final Q35"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
@@ -1012,7 +1028,12 @@
             "19-20 MEDU2400 Final Q15",
             "19-20 MEDU2400 Final Q14",
             "19-20 MEDU2400 Sem1 Q34",
-            "19-20 MEDU2400 Final Q16"
+            "19-20 MEDU2400 Final Q16",
+            "19-20 MEDU2400 Final Q33",
+            "19-20 MEDU2400 Final Q34",
+            "19-20 MEDU2400 Final Q35",
+            "19-20 MEDU2400 Final Q37",
+            "19-20 MEDU2400 Final Q38"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
@@ -1036,7 +1057,9 @@
             "20-21 MEDU2400 Sem1 Q29",
             "20-21 MEDU2400 Final Q9",
             "20-21 MEDU2400 Sem1 Q34",
-            "20-21 MEDU2400 Final Q10"
+            "20-21 MEDU2400 Final Q10",
+            "20-21 MEDU2400 Final Q34",
+            "20-21 MEDU2400 Final Q36"
           ],
           "2021-22": [
             "21-22 MEDU2400 Final Q2",
@@ -1057,7 +1080,10 @@
             "21-22 MEDU2400 Final Q15",
             "21-22 MEDU2400 Test Q32",
             "21-22 MEDU2400 Test Q33",
-            "21-22 MEDU2400 Test Q34"
+            "21-22 MEDU2400 Test Q34",
+            "21-22 MEDU2400 Final Q36",
+            "21-22 MEDU2400 Final Q37",
+            "21-22 MEDU2400 Final Q38"
           ],
           "2022-23": [
             "22-23 MEDU2400 Test Q21",
@@ -1284,6 +1310,34 @@
             "16-17 MEDU2400 Sem1 Q26",
             "17-18 MEDU2400 Sem1 Q26",
             "18-19 MEDU2400 Final Q40"
+          ],
+          "Pharmacology": [
+            "15-16 MEDU2400 Final Q37",
+            "16-17 MEDU2400 Final Q35",
+            "17-18 MEDU2400 Final Q38",
+            "18-19 MEDU2400 Final Q34",
+            "19-20 MEDU2400 Final Q33",
+            "14-15 MEDU2400 Final Q49",
+            "15-16 MEDU2400 Final Q39",
+            "15-16 MEDU2400 Final Q40",
+            "15-16 MEDU2400 Final Q41",
+            "16-17 MEDU2400 Final Q36",
+            "16-17 MEDU2400 Final Q39",
+            "16-17 MEDU2400 Final Q40",
+            "16-17 MEDU2400 Final Q41",
+            "17-18 MEDU2400 Final Q37",
+            "17-18 MEDU2400 Final Q39",
+            "17-18 MEDU2400 Final Q40",
+            "18-19 MEDU2400 Final Q35",
+            "19-20 MEDU2400 Final Q34",
+            "19-20 MEDU2400 Final Q35",
+            "19-20 MEDU2400 Final Q37",
+            "19-20 MEDU2400 Final Q38",
+            "20-21 MEDU2400 Final Q34",
+            "20-21 MEDU2400 Final Q36",
+            "21-22 MEDU2400 Final Q36",
+            "21-22 MEDU2400 Final Q37",
+            "21-22 MEDU2400 Final Q38"
           ]
         }
       }
@@ -11120,6 +11174,442 @@
       },
       "answer": "B",
       "explanation": "Refer to lecture P.4 purple graph → increased LV pressure in early diastolic HF\nAt early diastolic HF, the ejection fraction is maintained as concentric hypertrophy of heart will not compromise its contractility. As the initial hypertrophy is still within the range to provide normal EDV, SV is still normal given the normal contractility as EF is preserved. However, as the concentric hypertrophy progresses, the low SV and MAP triggers compensation by RAAS to raise volume retention in kidneys. This causes volume overload in the heart and systolic HF will start to develop, which is quite beyond the scope of question here. However, you should at least understand the autocatalytic cycles of heart failure. Back to the question, A is correct as the decreased chamber volume accommodating similar ESV will of course increases end-systolic IV pressure significantly. I am not sure what does B means, as end diastolic should be irrelevant to filling. If it is filling, then it is not yet end diastolic. Assuming it is filling pressure, then B is wrong as this should appear at late diastolic HF such that ventricle is too stiffened to receive blood during filling. Assuming it is end-diastolic pressure, then it is also false as the ventricular volume is still enough to accomodate EDV at early stage. The decreased chamber volume due to hypertrophy is more evident when the heart contracts. C and D are false as contractility is not compromised under concentric hypertrophy, or even increased as sarcomeres are added in parallel. E is definitely wrong as the chamber volume is decreased during concentric hypertrophy."
+    },
+    "15-16 MEDU2400 Final Q37": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Different receptor types from the same family couple with different G proteins to give different cellular responses. Which of the following statements is true?",
+      "options": {
+        "A": "B1 couple with Gq/11 to increase IP3 to relax vsm",
+        "B": "B1 couple with Gs to increase cAMP and contract cardiac muscle",
+        "C": "B1 couple with Gs to increase cAMP and relax cardiac muscle",
+        "D": "B2 couple with Gs to increase cAMP and contract vsm",
+        "E": "B2 couple with Gq/11 to increase cAMP and relax vsm"
+      },
+      "answer": "B",
+      "explanation": "Refer to cardiovascular physiology on these effects.\n\n![](img/15-16_MEDU2400_Final_Q37_1772205338992.jpeg)"
+    },
+    "16-17 MEDU2400 Final Q35": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "During receptor activation, the exchange of bound GDP with cellular GTP is achieved by:",
+      "options": {
+        "A": "B-arrestin",
+        "B": "GPCR kinase",
+        "C": "GTPase Activating Protein",
+        "D": "Guanine-nucleotide exchange factor",
+        "E": "Protein kinase A"
+      },
+      "answer": "D",
+      "explanation": "22-23 Lecture P.14\nThe GTP switch"
+    },
+    "17-18 MEDU2400 Final Q38": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "What is the effector target of Gs protein?",
+      "options": {
+        "A": "Adenylate cyclase",
+        "B": "Phosphodiesterase",
+        "C": "Phospholipase C",
+        "D": "Protein kinase A",
+        "E": "Protein kinase C"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Final Q34": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following will lead to desensitization of GPCR once bound to phosphorylated C terminal?",
+      "options": {
+        "A": "Arrestin",
+        "B": "Beta antagonist",
+        "C": "Clarithrin",
+        "D": "GPCR kinase",
+        "E": "Phosphodiesterase"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q33": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following is in GPCR downregulation?",
+      "options": {
+        "A": "tyrosine phosphorylation of stimulated GPCR by GAK",
+        "B": "activation and association of Gi protein to stimulated GPCRs",
+        "C": "aggregation of simulated GPCR into coated pits",
+        "D": "cleavage of c terminal of g protein coupling region of stimulated GPCR by b-arrestin",
+        "E": "hydrolysis of bound GRP in activated G alpha subunit coupled w/ stimulated GPCRs"
+      },
+      "answer": "C",
+      "explanation": "downregulation = reduce number of receptors\nLecture Notes P.32\nFor GPCR down-regulation, the receptor-B-arrestin complexes are recruited to the coated pits for internalization via endocytosis. Once internalized, the β-arrestin dissociates and the receptor is dephosphorylated. Two fates are possible: the receptors are sent back to the cell surface later; OR it is sent to lysosomes for degradation.\nD. only bind to the receptor without cleavage → wrong\nE no binding of GRP"
+    },
+    "14-15 MEDU2400 Final Q49": {
+      "year": "2014-15",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Morphine analogue is used to suppress as it interacts with opioid receptors. Morphine is a full agonist of opioid receptor. When used together, the effect of morphine is suppressed. What best describes the pharmacological action of the analogue?",
+      "options": {
+        "A": "non-competitive antagonist",
+        "B": "irreversible antagonist",
+        "C": "functional antagonist",
+        "D": "partial agonist",
+        "E": "inverse agonist"
+      },
+      "answer": "D",
+      "explanation": "This is one very classical method to prove partial agonism experimentally. First producing the maximum response with full agonist, then slowly add partial agonist. As it displaces full agonists from the receptor, it will produce a lesser response, which could be observed as a decline from maximum response."
+    },
+    "15-16 MEDU2400 Final Q39": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Drugs A and B are used for the same receptor. A has receptor reserve 90%, B has 40%. Which of the following descriptions about drugs A and B is correct?",
+      "options": {
+        "A": "A must have higher affinity",
+        "B": "B must have higher affinity",
+        "C": "A is affected less by a competitive irreversible antagonist",
+        "D": "A is affected more by competitive irreversible antagonist",
+        "E": "A is full agonist and B is partial agonist"
+      },
+      "answer": "C",
+      "explanation": "Receptor reserve means the amount of receptors that is not binded when a drug produces a 100% effect at a certain concentration."
+    },
+    "15-16 MEDU2400 Final Q40": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Given that the agonist doesn't have spare receptors, which of the following is correct?",
+      "options": {
+        "A": "EC50 decreases, max. response unchanged",
+        "B": "EC50 and max response deceases",
+        "C": "EC50 increases, max response unchanged",
+        "D": "EC50 and max response increase",
+        "E": "Neither EC50 nor max response is affected"
+      },
+      "answer": "E",
+      "explanation": "EC50 = concentration for 50% of maximal effect. probably sth is missing in the question"
+    },
+    "15-16 MEDU2400 Final Q41": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "A partial agonist",
+      "options": {
+        "A": "Parallel shift of log dose curve to right",
+        "B": "Parallel shift of log dose to left",
+        "C": "Increases the maximum response of a full agonist",
+        "D": "Additive action with full agonist at low concentration",
+        "E": "Suppressive action with full agonist at low concentration"
+      },
+      "answer": "D",
+      "explanation": "Refer to lecture slide P.23.\nAt low concentrations of partial agonists, the interaction with full agonists is close to additive.\nAt high concentrations of partial agonists, its occupancy increases at the expense of the occupancy of the full agonist. Consequently, the action of a full agonist is antagonized by a partial agonist. (In simple terms, partial agonists suppress the action of full agonists at high concentration.)\nThe shift of log dose curve is not parallel as a result."
+    },
+    "16-17 MEDU2400 Final Q36": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following is true for a partial agonist?",
+      "options": {
+        "A": "Partial agonist must have a lower efficacy than the corresponding full agonist.",
+        "B": "Partial agonist will increase the maximum response of the corresponding full agonist.",
+        "C": "Partial agonist has both efficacy and affinity to the target receptor.",
+        "D": "Partial agonist has affinity to the target receptor, but no efficacy.",
+        "E": "Partial agonist shifts the log concentration-response curve of the corresponding full agonist parallel to the right."
+      },
+      "answer": "A",
+      "explanation": "A is probably a better option than C"
+    },
+    "16-17 MEDU2400 Final Q39": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Irreversible interaction of an antagonist with a receptor is due to",
+      "options": {
+        "A": "Covalent bonds",
+        "B": "Hydrogen bonds",
+        "C": "Hydrophobic bonds",
+        "D": "Ionic bonds",
+        "E": "Van der Waals force"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Final Q40": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following terms applies to the max biological effect resulting from an agonist binding to its target?",
+      "options": {
+        "A": "Affinity",
+        "B": "Efficacy",
+        "C": "Potency",
+        "D": "Specificity",
+        "E": "Stability"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Final Q41": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "For a competitive antagonist with a pA2 value of 6.52, which of the following corresponds to its equilibrium dissociation constant?",
+      "options": {
+        "A": "3 E-7 m",
+        "B": "3 E-6 m",
+        "C": "5 E-7 m",
+        "D": "5 E-6 m",
+        "E": "6 E-5 m"
+      },
+      "answer": "A",
+      "explanation": "Answer = 10^-6.52 = -3.01995172e-7 = A"
+    },
+    "17-18 MEDU2400 Final Q37": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "In an experiment determining the equilibrium dissociation constant (Ki) of an antagonist of a particular receptor",
+      "options": {
+        "A": "only a single agonist concentration is sufficient",
+        "B": "the repression of the maximum response is important for a full agonist",
+        "C": "the receptor occupancy of a full agonist is the same when the stimulus generated is the same with or without the antagonist",
+        "D": "The value for full and partial agonists is different",
+        "E": "The value varies between full agonists"
+      },
+      "answer": "C",
+      "explanation": "This experiment requires doing multiple agonist concentration to obtain dose-response curve under different antagonist concentration. As response = efficacy x occupancy, for the same agonist, having the same response means same occupancy. The value of Ki should depend on the antagonist itself and type of receptors, but never the type of agonist being used for the experiment."
+    },
+    "17-18 MEDU2400 Final Q39": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following characteristics of drug-receptor mechanism is the reciprocal of equilibrium dissociation constant (Kd)?",
+      "options": {
+        "A": "Affinity",
+        "B": "Biological stimulus",
+        "C": "EC50",
+        "D": "Efficacy",
+        "E": "Maximum binding"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Final Q40": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "With respect to a single receptor system in a smooth muscle tissue, a competitive reversible antagonist:",
+      "options": {
+        "A": "Binds covalently to the receptor",
+        "B": "Blocks the activity of a partial agonist more effectively than a full agonist",
+        "C": "Has higher affinity than an agonist for the receptor",
+        "D": "obeys the Schild's equation",
+        "E": "shifts the log-concentration response curve of a full agonist to the left in a parallel manner"
+      },
+      "answer": "D",
+      "explanation": "Refer to Pharmacology Notes made by Embry 2020 Jason and 2021 Ivan\nThe assumptions of the Schild's equation are mentioned in the pre-lab talk (but not found in the lecture slides)"
+    },
+    "18-19 MEDU2400 Final Q35": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following is correct for the experiment of determining Dissociation constant (Ki) for a competitive reversible antagonist?",
+      "options": {
+        "A": "Use of One agonist concentration is sufficient for this experiment.",
+        "B": "The depression in the maximum response curve of full agonist is an important factor.",
+        "C": "It is same for different agonist of the receptor",
+        "D": "It varies for full and partial agonist.",
+        "E": "It represents the occupancy of the antagonist."
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q34": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "The results shown in the graph below were obtained in a comparison of the positive inotropic agents. Which of the following statements would be most accurate?\n\n![](img/19-20_MEDU2400_Final_Q34_1772207439728.jpeg)",
+      "options": {
+        "A": "B is least potent",
+        "B": "B is more potent than C and more effective than A",
+        "C": "A is more effective",
+        "D": "C is most potent",
+        "E": "A is more potent than B and more effective than C"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q35": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "For an antagonist with a pA2 value of 7 at its specific receptor, it will occupy 50% of the total receptor pool at:\n\n(Please input the order of magnitude of the value.\nFor 10^(-9) M, you should input -9)",
+      "options": {},
+      "answer": "-7",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q37": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Partial agonist",
+      "options": {
+        "A": "Suppressive interaction with full agonist when both present at a low concentration",
+        "B": "Increases maximum response of full agonist",
+        "C": "Produce parallel shift of log dose response curve of full agonist to the right",
+        "D": "Produce parallel shift of log dose response curve of full agonist to the left",
+        "E": "Will have additive interaction with full agonist when both present at a low concentration"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q38": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following is true for irreversible antagonism?",
+      "options": {
+        "A": "Can be demonstrated by the radio-ligand binding method",
+        "B": "Can be overcome by raising the agonist concentration to a very high level",
+        "C": "Always leads to insurmountable antagonism in an isolated tissue preparation",
+        "D": "Leads to the antagonism that diminishes after repeated washing of the preparation",
+        "E": "Means that K2 is very large for the antagonist-receptor interaction"
+      },
+      "answer": "A",
+      "explanation": " A. The radio-labeled antagonists are still bound to the receptors even after multiple washings, and the binding of agonists is permanently inhibited.\n B. Not necessarily true as it only works for surmountable antagonism, that the receptor has a large receptor reserve to maintain the maximum response despite some receptors being inhibited.\n C. Not necessarily true, as C is false if the receptor has a large receptor reserve.\n D. D can only describe reversible antagonists.\n E. Wrong. k2 = rate at which antagonist-receptor dissociates. As K2 and Ki can only describe competitive and reversible antagonists. And even for competitive antagonists, a large K2 indicates easy dissociation from the receptor and the antagonist will have a very large Ki and low affinity."
+    },
+    "20-21 MEDU2400 Final Q34": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "In an experiment determining the equilibrium dissociation constant (Ki) of a antagonist of a particular receptor",
+      "options": {
+        "A": "only a single agonist concentration is sufficient",
+        "B": "the repression of the maximum response is important for a full agonist",
+        "C": "the receptor occupancy of a full agonist is the same when the stimulus generated is the same with or without the antagonist",
+        "D": "The value for full and partial agonists is different",
+        "E": "The value varies between full agonists"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q36": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Histamine binds to histamine H1 receptors and norepinephrine binds to β2-adrenoceptors. They exert opposite effects to the cell. This is an example of",
+      "options": {
+        "A": "Irreversible antagonism",
+        "B": "Indirect antagonism",
+        "C": "Functional antagonism",
+        "D": "Chemical antagonism",
+        "E": "Non competitive antagonism"
+      },
+      "answer": "C",
+      "explanation": "This question is not scientifically true. NE does not bind onto β2-adrenoceptors. Nonetheless, let’s assume that it is true for the sake of answering the question.\nNote that options A and B are made up options.\nAlthough histamine and norepinephrine should be able to demonstrate indirect antagonism, the description does not match. This should meet functional antagonism more."
+    },
+    "21-22 MEDU2400 Final Q36": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "What is the least common drug receptor bond?",
+      "options": {
+        "A": "covalent bond",
+        "B": "hydrogen bond",
+        "C": "hydrophilic bond",
+        "D": "ionic bond",
+        "E": "Van de Waal force"
+      },
+      "answer": "A",
+      "explanation": "B-E are all weak bondings and common in drug-receptor interaction. However, covalent bond is so strong that the effect is often irreversible, which can only be seen in some irreversible antagonists, e.g. phenoxybenzamine, organophosphates. Having weaker bondings allow the drug to be cleared from the body more effectively. Thus, long-term adverse effects can be eliminated."
+    },
+    "21-22 MEDU2400 Final Q37": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "For a drug with equilibrium dissociation constant (Kd) of 10^-7 M, it will occupy 50% of total receptor pool at:",
+      "options": {
+        "A": "10^-6 M",
+        "B": "5 x 10^-7 M",
+        "C": "10^-7 M",
+        "D": "5 x10^-8 M",
+        "E": "10^-8 M"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q38": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "In the absence of other drugs, pindolol causes an increase in heart rate by activating β-adrenoreceptors. In the presence of highly effective β-adrenoreceptor agonists, however, pindolol causes a dose-dependent, reversible decrease in heart rate. Therefore, pindolol is probably:",
+      "options": {
+        "A": "A functional agonist",
+        "B": "A non-competitive antagonist",
+        "C": "A partial agonist",
+        "D": "A reversible antagonist",
+        "E": "An irreversible antagonist"
+      },
+      "answer": "C",
+      "explanation": ""
     }
   }
 }
