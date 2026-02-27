@@ -900,7 +900,12 @@
             "15-16 MEDU2400 Final Q11",
             "15-16 MEDU2400 Final Q10",
             "15-16 MEDU2400 Test Q31",
-            "15-16 MEDU2400 Final Q12"
+            "15-16 MEDU2400 Final Q12",
+            "15-16 MEDU2400 Final Q14",
+            "15-16 MEDU2400 Final Q13",
+            "15-16 MEDU2400 Test Q32",
+            "15-16 MEDU2400 Test Q34",
+            "15-16 MEDU2400 Test Q33"
           ],
           "2016-17": [
             "16-17 MEDU2400 Final Q1",
@@ -923,7 +928,15 @@
             "16-17 MEDU2400 Test Q31",
             "16-17 MEDU2400 Test Q30",
             "16-17 MEDU2400 Final Q15",
-            "16-17 MEDU2400 Final Q13"
+            "16-17 MEDU2400 Final Q13",
+            "16-17 MEDU2400 Combined Q32",
+            "16-17 MEDU2400 Final Q16",
+            "16-17 MEDU2400 Test Q33",
+            "16-17 MEDU2400 Final Q12",
+            "16-17 MEDU2400 Test Q28",
+            "16-17 MEDU2400 Test Q29",
+            "16-17 MEDU2400 Final Q14",
+            "16-17 MEDU2400 Final Q17"
           ],
           "2017-18": [
             "17-18 MEDU2400 Final Q1",
@@ -943,7 +956,9 @@
             "17-18 MEDU2400 Test Q31",
             "17-18 MEDU2400 Test Q27",
             "17-18 MEDU2400 Test Q30",
-            "17-18 MEDU2400 Final Q17"
+            "17-18 MEDU2400 Final Q17",
+            "17-18 MEDU2400 Test Q34",
+            "17-18 MEDU2400 Test Q32"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
@@ -966,7 +981,13 @@
             "18-19 MEDU2400 Test Q29",
             "18-19 MEDU2400 Test Q30",
             "18-19 MEDU2400 Final Q13",
-            "18-19 MEDU2400 Final Q16"
+            "18-19 MEDU2400 Final Q16",
+            "18-19 MEDU2400 Test Q31",
+            "18-19 MEDU2400 Final Q14",
+            "18-19 MEDU2400 Final Q15",
+            "18-19 MEDU2400 Test Q32",
+            "18-19 MEDU2400 Final Q12",
+            "18-19 MEDU2400 Test Q33"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
@@ -983,7 +1004,15 @@
             "19-20 MEDU2400 Sem1 Q29",
             "19-20 MEDU2400 Sem1 Q33",
             "19-20 MEDU2400 Final Q8",
-            "19-20 MEDU2400 Sem1 Q32"
+            "19-20 MEDU2400 Sem1 Q32",
+            "19-20 MEDU2400 Sem1 Q30",
+            "19-20 MEDU2400 Final Q10",
+            "19-20 MEDU2400 Final Q11",
+            "19-20 MEDU2400 Sem1 Q31",
+            "19-20 MEDU2400 Final Q15",
+            "19-20 MEDU2400 Final Q14",
+            "19-20 MEDU2400 Sem1 Q34",
+            "19-20 MEDU2400 Final Q16"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
@@ -1002,7 +1031,12 @@
             "20-21 MEDU2400 Final Q8",
             "20-21 MEDU2400 Sem1 Q27",
             "20-21 MEDU2400 Final Q11",
-            "20-21 MEDU2400 Sem1 Q30"
+            "20-21 MEDU2400 Sem1 Q30",
+            "20-21 MEDU2400 Sem1 Q28",
+            "20-21 MEDU2400 Sem1 Q29",
+            "20-21 MEDU2400 Final Q9",
+            "20-21 MEDU2400 Sem1 Q34",
+            "20-21 MEDU2400 Final Q10"
           ],
           "2021-22": [
             "21-22 MEDU2400 Final Q2",
@@ -1020,7 +1054,10 @@
             "21-22 MEDU2400 Test Q31",
             "21-22 MEDU2400 Final Q13",
             "21-22 MEDU2400 Final Q14",
-            "21-22 MEDU2400 Final Q15"
+            "21-22 MEDU2400 Final Q15",
+            "21-22 MEDU2400 Test Q32",
+            "21-22 MEDU2400 Test Q33",
+            "21-22 MEDU2400 Test Q34"
           ],
           "2022-23": [
             "22-23 MEDU2400 Test Q21",
@@ -1030,7 +1067,10 @@
             "22-23 MEDU2400 Test Q27",
             "22-23 MEDU2400 Test Q29",
             "22-23 MEDU2400 Test Q30",
-            "22-23 MEDU2400 Test Q31"
+            "22-23 MEDU2400 Test Q31",
+            "22-23 MEDU2400 Test Q32",
+            "22-23 MEDU2400 Test Q33",
+            "22-23 MEDU2400 Test Q34"
           ],
           "unclassified": [
             "Extra MEDU2400 CV Q1",
@@ -1041,7 +1081,10 @@
             "Extra MEDU2400 CV Q5",
             "Extra MEDU2400 CV Q6",
             "Extra MEDU2400 CV Q7",
-            "Extra MEDU2400 CV Q8"
+            "Extra MEDU2400 CV Q8",
+            "Extra MEDU2400 CV Q9",
+            "Extra MEDU2400 CV Q10",
+            "Extra MEDU2400 CV Q11"
           ]
         },
         "byTopic": {
@@ -1116,7 +1159,50 @@
             "19-20 MEDU2400 Sem1 Q32",
             "20-21 MEDU2400 Sem1 Q30",
             "Extra MEDU2400 CV Q7",
-            "Extra MEDU2400 CV Q8"
+            "Extra MEDU2400 CV Q8",
+            "15-16 MEDU2400 Final Q14",
+            "16-17 MEDU2400 Combined Q32",
+            "16-17 MEDU2400 Final Q16",
+            "17-18 MEDU2400 Test Q34",
+            "18-19 MEDU2400 Test Q31",
+            "18-19 MEDU2400 Final Q14",
+            "20-21 MEDU2400 Sem1 Q28",
+            "21-22 MEDU2400 Test Q32",
+            "22-23 MEDU2400 Test Q32",
+            "Extra MEDU2400 CV Q9",
+            "Extra MEDU2400 CV Q10",
+            "15-16 MEDU2400 Final Q13",
+            "16-17 MEDU2400 Test Q33",
+            "16-17 MEDU2400 Final Q12",
+            "18-19 MEDU2400 Final Q15",
+            "19-20 MEDU2400 Sem1 Q30",
+            "19-20 MEDU2400 Final Q10",
+            "19-20 MEDU2400 Final Q11",
+            "20-21 MEDU2400 Sem1 Q29",
+            "Extra MEDU2400 CV Q11",
+            "15-16 MEDU2400 Test Q32",
+            "18-19 MEDU2400 Test Q32",
+            "18-19 MEDU2400 Final Q12",
+            "19-20 MEDU2400 Sem1 Q31",
+            "19-20 MEDU2400 Final Q15",
+            "20-21 MEDU2400 Final Q9",
+            "21-22 MEDU2400 Test Q33",
+            "22-23 MEDU2400 Test Q33",
+            "15-16 MEDU2400 Test Q34",
+            "16-17 MEDU2400 Test Q28",
+            "16-17 MEDU2400 Test Q29",
+            "16-17 MEDU2400 Final Q14",
+            "17-18 MEDU2400 Test Q32",
+            "20-21 MEDU2400 Sem1 Q34",
+            "20-21 MEDU2400 Final Q10",
+            "18-19 MEDU2400 Test Q33",
+            "19-20 MEDU2400 Final Q14",
+            "21-22 MEDU2400 Test Q34",
+            "22-23 MEDU2400 Test Q34",
+            "15-16 MEDU2400 Test Q33",
+            "16-17 MEDU2400 Final Q17",
+            "19-20 MEDU2400 Sem1 Q34",
+            "19-20 MEDU2400 Final Q16"
           ],
           "Excitable Cells": [
             "14-15 MEDU2400 Test Q4",
@@ -10306,6 +10392,734 @@
       },
       "answer": "A",
       "explanation": "A. NE on α1/α2 receptors, endothelin on ETAR/ETBR and angiotensin II on AT1R are constricting agonists that can lead to elevated calcium level in VSMC. (In fact, we usually only refer to α1, ETA and AT1 receptors)\nB. PGF2a &PGH2 are vasoconstrictors in the endothelium.\nC. Gs protein does not activate phospholipase C.\nD. β-agonists, adenosine and vasoactive intestinal peptide can act on receptors to stimulate adenylate cyclase, in which an increase in production in cAMP and activation of PKA leads to hyperpolarization.\nE. Ca2+ and K+ should be interchanged in this statement."
+    },
+    "15-16 MEDU2400 Final Q14": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Net filtration of capillary will increase when",
+      "options": {
+        "A": "decreased capillary permeability",
+        "B": "decreased arterial blood pressure",
+        "C": "increased contraction of the precapillary sphincter",
+        "D": "increased plasma protein concentration",
+        "E": "increased postcapillary resistance"
+      },
+      "answer": "E",
+      "explanation": "Increased postcapillary resistance leads to pooling of blood and increased capillary hydrostatic pressure at the venous end, reducing reabsorption of tissue fluid into plasma.\n A. This will decrease the ratio of substance able to pass into IF.\n B. This reduces the hydrostatic pressure for filtration.\n C. This will stop blood flow into the capillary bed, which of course hinders filtration.\n D. This will hold more water in plasma due to increased oncotic pressure, hence wrong.\n E. This raises hydrostatic pressure at the venule end of capillary, which impairs fluid reabsorption at the end."
+    },
+    "16-17 MEDU2400 Combined Q32": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which one will increase the net filtration of capillaries?",
+      "options": {
+        "A": "Decrease in arterial blood pressure",
+        "B": "Decrease in capillary permeability",
+        "C": "Increase in plasma protein",
+        "D": "Contraction of the precapillary sphincter",
+        "E": "increase in venous pressure"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Final Q16": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Net filtration of capillary will increase when:",
+      "options": {
+        "A": "Decreased capillary permeability",
+        "B": "Decreased arterial blood pressure",
+        "C": "Increased contraction of the pre-capillary sphincter",
+        "D": "Increased plasma protein concentration",
+        "E": "Increased post-capillary resistance"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Test Q34": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "At arterial end of capillary: capillary hydrostatic pressure is 35mmHg, interstitial hydrostatic pressure is 1 mmHg; capillary oncotic pressure is 28mmHg, interstitial oncotic pressure is 1mmHg. What is the net driving force and direction?",
+      "options": {
+        "A": "Absorption: 7mmHg",
+        "B": "Absorption: 9mmHg",
+        "C": "Filtration: 7mmHg",
+        "D": "Filtration: 9mmHg",
+        "E": "No driving force"
+      },
+      "answer": "C",
+      "explanation": "Take the direction force that causes a flow of fluid from capillaries to interstitial fluid as positive.\nNet force = (35-1) - (28-1) = 34 - 27 = +7mmHg"
+    },
+    "18-19 MEDU2400 Test Q31": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Net filtration from capillaries is increased in which of the following conditions?",
+      "options": {
+        "A": "decreased arterial blood pressure",
+        "B": "decreased capillary permeability",
+        "C": "increased contraction of precapillary sphincters",
+        "D": "increased plasma protein concentration",
+        "E": "increased postcapillary pressure"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Final Q14": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following increases filtration from capillary to interstitial fluid?",
+      "options": {
+        "A": "Decrease capillary flow",
+        "B": "Decrease plasma protein concentration",
+        "C": "Decrease postcapillary resistance",
+        "D": "Increase arterial pulse pressure",
+        "E": "Increase precapillary sphincter contraction"
+      },
+      "answer": "B",
+      "explanation": "Reference\nhttps://www.cvphysiology.com/Microcirculation/M012\nDecreasing the plasma protein concentration can increase plasma hydrostatic pressure."
+    },
+    "20-21 MEDU2400 Sem1 Q28": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following statements about microcirculation is correct?",
+      "options": {
+        "A": "At the entrance of capillary, muscle fibers are arranged to form precapillary sphincters that are innervated",
+        "B": "Blood flow into the microcirculation is regulated by smooth muscle contraction of arterioles, that is increased by sympathetic innervation via beta adrenergic receptor activation",
+        "C": "In microcirculation, net filtration is enhanced by osmotic pressure and attenuated by capillary hydrostatic pressure",
+        "D": "Microcirculation consists of smallest arterioles and venues for exchange of gases and smallest molecules",
+        "E": "Plays an important role in the regulation of body fluid and formation of Edema"
+      },
+      "answer": "E",
+      "explanation": " A. At the entrance of capillary, muscle fibers are arranged to form precapillary sphincters that are not innervated.\n B. alpha-1 → vasoconstriction (beta-2 is involved in HR & contractility increase)\n C. In microcirculation, net filtration is attenuated by osmotic pressure and enhanced by capillary hydrostatic pressure\n D. Exchange takes place in capillary\n E. This cannot be wrong"
+    },
+    "21-22 MEDU2400 Test Q32": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is favoured by the increase in hydrostatic pressure in capillaries?",
+      "options": {
+        "A": "Fluid flow into capillaries",
+        "B": "Fluid flow out of capillaries",
+        "C": "Fluid flow out of lymphatic vessels",
+        "D": "Protein flow into capillaries",
+        "E": "Protein flow out of capillaries"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "22-23 MEDU2400 Test Q32": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is favoured by the increase in hydrostatic pressure in capillaries?",
+      "options": {
+        "A": "Fluid flow into the capillaries",
+        "B": "Fluid flow out of capillaries",
+        "C": "Fluid flow out of lymphatic vessels",
+        "D": "Protein flow into capillaries",
+        "E": "Protein flow out of capillaries"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU2400 CV Q9": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "At the venous end of capillary: capillary hydrostatic pressure is 17mmHg, interstitial hydrostatic pressure is 1 mmHg; capillary oncotic pressure is 25mmHg, interstitial oncotic pressure is 0mmHg. What is the net driving force and direction?",
+      "options": {
+        "A": "Absorption: 7mmHg",
+        "B": "Absorption: 9mmHg",
+        "C": "Filtration: 7mmHg",
+        "D": "Filtration: 9mmHg",
+        "E": "No driving force"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU2400 CV Q10": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Net filtration of capillary will decrease when there is:",
+      "options": {
+        "A": "Increased capillary permeability",
+        "B": "Increased arterial blood pressure",
+        "C": "Decreased post-capillary resistance",
+        "D": "Decreased contraction of the pre-capillary sphincter",
+        "E": "Decreased plasma protein concentration"
+      },
+      "answer": "C",
+      "explanation": "This increases reabsorption."
+    },
+    "15-16 MEDU2400 Final Q13": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following about arterial baroreceptors are true?",
+      "options": {
+        "A": "They are most sensitive to pressures from 120-180mmHg",
+        "B": "They are reprogrammed to higher sensitivity in exercise",
+        "C": "They sense acute changes in arterial pressure",
+        "D": "They sense changes in end diastolic pressure in ventricles",
+        "E": "They sense changes in pulse pressure in right atrium"
+      },
+      "answer": "C",
+      "explanation": "A. 80-120 mmHg"
+    },
+    "16-17 MEDU2400 Test Q33": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following systems are primarily responsible for the long term regulation of arterial blood pressure?",
+      "options": {
+        "A": "Autoregulation system",
+        "B": "Baroreceptor system",
+        "C": "Parasympathetic branch from ANS",
+        "D": "Renin-angiotensin-aldosterone system",
+        "E": "Sympathetic branch from ANS"
+      },
+      "answer": "D",
+      "explanation": "Long term BP control is through regulating blood volume → RAAS\n\nEffects of baroreceptor reflex diminish due to desensitization of baroreceptors via resetting of pressure set-points. It is RAAS performing long term regulation of MAP."
+    },
+    "16-17 MEDU2400 Final Q12": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is most likely in a patient who developed hypertension at an old age?",
+      "options": {
+        "A": "higher sensitivity of arteries to vasoconstrictors",
+        "B": "higher sensitivity of heart to sympathetic stimulation",
+        "C": "increased blood volume due to renal Na retention",
+        "D": "increased stiffness of blood vessels",
+        "E": "increased wall thickness of ventricles"
+      },
+      "answer": "D",
+      "explanation": "Most HTN begins with “impaired ability of kidneys to produce urine within normal BP range” (Mostly due to raised RAAS activity), as said by Willmann in the HTN lecture. Sodium and water retention is the primary cause of HTN, which causes subsequent remodeling in the heart and vessels. Pressure overload (High MAP leads to high afterload) in the heart causes concentric remodeling to generate larger contractile force to overcome the afterload. Increased shear stress also triggers vascular wall remodeling (Wall hypertrophy), which increases stiffness and TPR, adding on HTN.\n\nA is the case of glucocorticoid excess, as cortisol increases vascular sensitivity to vasoconstrictors (NA, Ang II) and reduces endothelial synthesis of NO and PGI2, hence causing HTN in Cushing’s syndrome/disease. B is the case of thyrotoxicosis, as thyroid hormones upregulate β1 receptors in the heart to augment the inotropic and chronotropic effects of SNS stimulation, hence causing palpitation and arrhythmia. However, thyroid hormones also upregulate β2 receptors in peripheral vessels to cause peripheral vasodilation, greatly decreasing TPR. Hence, there will be an increase in systolic pressure (Contractility increase), and a paradoxical decrease in diastolic pressure (TPR decrease), and thus greatly increasing pulse pressure. You will know all these in the Endocrine Physiology lecture in MED3."
+    },
+    "18-19 MEDU2400 Final Q15": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Baroreceptor detects",
+      "options": {
+        "A": "MAP and blood volume",
+        "B": "MAP and oxygen partial pressure",
+        "C": "MAP and pulse pressure",
+        "D": "MAP and blood flow rate",
+        "E": "MAP only"
+      },
+      "answer": "C",
+      "explanation": "Atrial baroreceptor: volume sensor\nBaroreceptor in carotid sinus: senses MAP and pulse pressure, a rise in MAP or an increase in pulse pressure causes an increase in the firing frequency of the action potential along the carotid sinus nerve\n\nNote that if **atrial** baroreceptors are also concerned, then the answer is MAP and pulse pressure and **volume**"
+    },
+    "19-20 MEDU2400 Sem1 Q30": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following contribute to the increase of pulse pressure?",
+      "options": {
+        "A": "Increase in preload",
+        "B": "Decrease in compliance of major arteries",
+        "C": "Increase in heart rate",
+        "D": "Increase afterload",
+        "E": "increase in vasoconstriction of resistance arteries"
+      },
+      "answer": "B",
+      "explanation": "Note that A could also be correct. \n\nExplanation from Simon Au: \n![](img/19-20_MEDU2400_Sem1_Q30_1772181709984.jpeg)\n\nHowever, if we are talking about pulse pressure variation, an increase in preload is going to decrease it. You may refer to the following: \n![](img/19-20_MEDU2400_Sem1_Q30_1772181753487.jpeg)"
+    },
+    "19-20 MEDU2400 Final Q10": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following systems is primarily responsible for long term regulation of arterial blood pressure?",
+      "options": {
+        "A": "Myogenic autoregulation",
+        "B": "Baroreceptor reflex",
+        "C": "RAAS",
+        "D": "Sympathetic branch of ANS",
+        "E": "Parasympathetic branch of ANS"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q11": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Increase pulse pressure?",
+      "options": {
+        "A": "Decrease in compliance of aorta",
+        "B": "Decrease in venous return",
+        "C": "Decrease in arteriole diameter",
+        "D": "Increase in viscosity of blood",
+        "E": "Increase in heart rate"
+      },
+      "answer": "A",
+      "explanation": "Keep in mind pulse pressure = SP – DP. A means that the aorta is **stiffer**, which of course raises the systolic pressure. B decreases the preload and hence decreases SV and SP. C raises the TPR and MAP, hence increases afterload and reduces SV and SP. C also directly raises DP as TPR is raised. D raises both pressure similarly and there will not be significant change in pulse pressure. E does not affect SV or DV if increased mildly. However, massive increase in HR will decrease SV due to reduced filling time, and decrease SP and pulse pressure."
+    },
+    "20-21 MEDU2400 Sem1 Q29": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Baroreceptors are:",
+      "options": {
+        "A": "present in aortic arch and carotid sinus that detect the change in blood volume",
+        "B": "sensory neurons that detect the mechanical stretch within arterial wall, stabilizing the blood pressure",
+        "C": "Stimulated by vasopressin",
+        "D": "Suppressed by increased blood pressure",
+        "E": "G protein coupled receptors which stimulate generation and propagation of action potentials along sensory neurons"
+      },
+      "answer": "B",
+      "explanation": " A. Baroreceptors detect change in blood pressure, and is most sensitive in 80-120mmHg\n B. Note that mechanoreceptors are a type of sensory neurons, and this is an accurate description of baroreceptor reflex\n C. These receptors only respond to stretch at arterial wall, not ADH\n D. They are stimulated to increase their firing frequency when they are stretched by an increased blood pressure\n E. They are not GPCR but sensory neurons"
+    },
+    "Extra MEDU2400 CV Q11": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is the most direct contribution to reduced pulse pressure?",
+      "options": {
+        "A": "Increased arterial stiffness",
+        "B": "Increased stimulation to the baroreceptors",
+        "C": "Reduced stroke volume",
+        "D": "Reduced preload",
+        "E": "Vasoconstriction"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Test Q32": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "When a segment of the coronary artery is exposed to blood flow:",
+      "options": {
+        "A": "Decrease in blood flow will lead to vasodilation",
+        "B": "Introduction of L-NAA causes vessel dilation",
+        "C": "Decrease blood flow will lead to increase in endothelial NO",
+        "D": "K+ inhibitors cause constriction of vessels",
+        "E": "NO donor release decrease"
+      },
+      "answer": "D",
+      "explanation": " A. A and C are wrong as decreased flow will cause vasoconstriction due to reduced shear stress and subsequent NO synthesis.\n B. L-NNA stands for L-nitroarginine, which acts as arginine analogue to inhibit NO synthase. So introduction of L-NNA will cause vasoconstriction.\n C. Same as A.\n D. D causes depolarisation and of course triggers vasoconstriction.\n E. E is just the opposite."
+    },
+    "18-19 MEDU2400 Test Q32": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "which increases the coronary blood flow during exercise",
+      "options": {
+        "A": "adenosine mediated NO release",
+        "B": "a1 of heart",
+        "C": "b2 of heart",
+        "D": "circulating Ach",
+        "E": "myogenic activity"
+      },
+      "answer": "A",
+      "explanation": "Note that coronary circulation is mainly modulated by metabolic influence (Active hyperemia during exercise, or reactive hyperemia during ventricular diastole) and autoregulation, instead of neural control.\n\n A. Adenosine produced by extensive ATP consumption acts on A2 receptors on VSMC in coronary arteries, increasing cAMP synthesis to cause vasodilation. This accounts for the reactive hyperemia due to compression of coronary blood flow due to contraction of ventricles, and also active hyperemia as ATP consumption is raised in exercise.\n B. There are no α1 or β2 receptors in the heart.\n C. Same as B.\n D. Endothelial cells of coronary vessels only have A1 receptors to raise NO synthesis, but not M3 receptors.\n E. Myogenic activity is not significant in the control of coronary blood flow, and increased stretching due to raised coronary blood flow (Mostly due to adenosine) will in fact trigger vasoconstriction to reduce flow again."
+    },
+    "18-19 MEDU2400 Final Q12": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which one is correct about active hyperemia in coronary blood vessels?",
+      "options": {
+        "A": "It is due to increase coronary artery pressure",
+        "B": "It happen due to increase local metabolites",
+        "C": "Propulsion by heart contraction",
+        "D": "Stimulate by alpha1 receptor",
+        "E": "Stimulate by beta1 receptor"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Sem1 Q31": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "which is the reason for the increase coronary blood flow at high heart rate",
+      "options": {
+        "A": "activation of beta 1 receptor",
+        "B": "activation of beta 2 receptor",
+        "C": "high coronary perfusion pressure",
+        "D": "high adenosine",
+        "E": "myogenic response"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q15": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is the primary mechanism underlying active hyperaemia in coronary circulation?",
+      "options": {
+        "A": "Decrease flow-mediated vasodilation",
+        "B": "Increase ADP and adenosine production",
+        "C": "Increase Ca2+ uptake to SERCA",
+        "D": "Increase alpha1 stimulation in coronary artery",
+        "E": "Decrease cAMP in coronary smooth muscle cells"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q9": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "What accounts for active hyperaemia?",
+      "options": {
+        "A": "Relaxation of precapillary sphincter due to metabolic (influence / products/ modulator)",
+        "B": "Sympathetic stimulation causing constriction of arterioles",
+        "C": "Reduce blood blow to metabolically active tissue"
+      },
+      "answer": "A",
+      "explanation": "This question is different as it sets on active hyperemia in skeletal muscles. A is correct as the muscle relaxation effect of A1 receptor is exerted to precapillary sphincter instead of those capillaries don’t even have smooth muscles. B is a correct statement but it can only cause raise in TPR, and vasoconstriction will reduce blood flow to the muscles instead of causing hyperemia."
+    },
+    "21-22 MEDU2400 Test Q33": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "What is the most significant influence on cerebral blood flow?",
+      "options": {
+        "A": "arterial CO2",
+        "B": "arterial O2",
+        "C": "sympathetic output",
+        "D": "perfusion pressure",
+        "E": "parasympathetic"
+      },
+      "answer": "A",
+      "explanation": "I think you should be able to narrow down to A or B. Cerebral blood flow is controlled by autoregulation, i.e. myogenic activity and metabolic influences (Including active hyperemia). Metabolic influence rides myogenic response if metabolic activity is high, e.g. when you are thinking about this question. However the rest is really a matter of factual recall. Cerebral blood flow varies directly with PaCO2, but only increases steeply when PaO2 is **very** low."
+    },
+    "22-23 MEDU2400 Test Q33": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following may act as a trigger of active hyperemia?",
+      "options": {
+        "A": "Decrease in physical compression of blood vessel",
+        "B": "Decrease in sympathetic nerve activity",
+        "C": "Increase in parasympathetic nerve activity",
+        "D": "Increase in intracellular concentration of ATP",
+        "E": "Increase in tissue CO2 production"
+      },
+      "answer": "E",
+      "explanation": "A acts as the trigger of reactive hyperemia instead. Active hyperemia is triggered by accumulation of local metabolites, e.g. adenosine, H+, K+, and CO2."
+    },
+    "15-16 MEDU2400 Test Q34": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "In hemorrhagic shock what is the primary reason for fall in blood pressure",
+      "options": {
+        "A": "Lower contractility",
+        "B": "Lower plasma volume",
+        "C": "Lower firing rate of baroreceptor reflex",
+        "D": "Lower aldosterone release",
+        "E": "Lower endothelium-1 production"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Test Q28": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following mechanisms is most important in maintaining increased blood flow to skeletal muscles during exercise?",
+      "options": {
+        "A": "Decreased flow to splanchnic and renal vessels",
+        "B": "Increased aortic pressure",
+        "C": "Increased B1 adrenergic stimulation",
+        "D": "Increased cholinergic stimulation",
+        "E": "Increase local metabolite levels"
+      },
+      "answer": "E",
+      "explanation": "E. refer to study companion p.5: “flow redistribution to the muscles (due to metabolic vasodilation) is rather significant…”"
+    },
+    "16-17 MEDU2400 Test Q29": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is the major symptom of hemorrhagic shock?",
+      "options": {
+        "A": "Bradycardia",
+        "B": "Increase in firing of carotid sinus nerve",
+        "C": "Decrease in blood pH",
+        "D": "Warm moist skin",
+        "E": "Weak pulse"
+      },
+      "answer": "E",
+      "explanation": " A. Baroreceptor reflex takes place to raise MAP by increasing HR, contractility and TPR via vasoconstriction. \n B. Firing rate should be low under such low MAP. \n C. Impaired circulation causes O2 level to drop and CO2 level to increase. Under strong SNS outflow to restore MAP, sweat production could be increased to give a moist skin. \n D. However, cutaneous blood flow will be greatly reduced as blood is redirected to vital organs, hence the skin should be rather cold. Weak pulse is certainly correct, as MAP is very low. \n E. BP is too low to create a pulse."
+    },
+    "16-17 MEDU2400 Final Q14": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "What happens immediately at the start of dynamic exercise?",
+      "options": {
+        "A": "Increase blood flow to skeletal muscle",
+        "B": "Increase preload",
+        "C": "Increase cutaneous blood flow",
+        "D": "Reduce in peripheral resistance",
+        "E": "Withdrawal of vagal innervation to the heart"
+      },
+      "answer": "E",
+      "explanation": "E. refer to study companion p.6: when a person anticipates in doing exercise, higher brain areas initiate signal transmission to the medulla so that sympathetic outputs to the heart and blood vessels are increased; HR is increased **immediately** after exercise commences"
+    },
+    "17-18 MEDU2400 Test Q32": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Compensation of shock initially:",
+      "options": {
+        "A": "Decrease in cardiomyocyte contractility",
+        "B": "Decrease in output of medulla",
+        "C": "Increase in sympathetic to heart",
+        "D": "Increase in parasympathetic to arteries",
+        "E": "Increase in venodilation"
+      },
+      "answer": "C",
+      "explanation": "Compensation should increase CO, BP, VR, etc. \n\nThis question is the same as asking you what is the baroreceptor reflex response when MAP is dropped. Increased SNS output to the heart raises contractility (SV) and HR, while increased SNS output to peripheral vessels (Arterioles and veins) causes vasoconstriction and rise in TPR. B is a bit vague though, as there will be increased SNS output from RVLM in the ventrolateral part of rostral medulla, and decreased PSNS output from nucleus ambiguus in rostral medulla, with a similar position as RVLM."
+    },
+    "20-21 MEDU2400 Sem1 Q34": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "What is a cause that triggers active hyperemia",
+      "options": {
+        "A": "decrease in physical compression on a blood vessels",
+        "B": "Decrease in sympathetic nerve activity",
+        "C": "Increase in intracellular ATP",
+        "D": "Increase in intracellular CO2"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q10": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following might fail a compensatory response for haemorrhage?",
+      "options": {
+        "A": "Sympathetic outputs from central command",
+        "B": "Increasing MAP by increasing CO",
+        "C": "Increasing MAP by increasing TPR",
+        "D": "Reducing activity of mechanoreceptor of skeletal muscle",
+        "E": "Reducing HR by suppressing stimulation of baroreceptor reflex"
+      },
+      "answer": "C",
+      "explanation": "I personally memorized the whole chart of decompensatory response, in case it appears in SAQ or EQ. (Damn then it turns out to be that coronary circulation question, which scared all of us.)\n\nDuring hemorrhage, massive volume loss reduces the perfusion to tissues and also MAP. As compensation, baroreceptor reflex increases SNS outflow to try to restore MAP, by increasing heart rate and contractility, and TPR via peripheral vasoconstriction. Although MAP is restored, **the great TPR raises afterload and limits SV and CO**. The low CO compromises tissue perfusion and causes ischemia there. There are 3 pathways of decompensatory response, which **all start with low CO due to high TPR**. \n\nIschemia in the brain damages the CVLM, which increases even more SNS output from RVLM as its inhibition is removed, further worsening the situation. \n\nIschemia of the vascular wall increases its permeability and more plasma is trapped within the tissue fluid, decreasing the effective circulating volume. \n\nTissue ischemia releases a lot of metabolites that suppress the heart function, e.g. adenosine acts on A1 receptors to reduce HR and contractility. \n\nThese three further decrease the compensated MAP, and TPR is further raised to try to compensate again. This cycle continues until death, and cannot be reversed even with fluid transfusion if permanent tissue damage has been elicited."
+    },
+    "18-19 MEDU2400 Test Q33": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following should be promoted in management of hypertension?",
+      "options": {
+        "A": "a-1 receptor stimulation of vascular smooth muscles",
+        "B": "AngII production",
+        "C": "B-1 receptor stimulation of heart",
+        "D": "Ca2+ channel opening of vascular smooth muscles",
+        "E": "Na+ and water excretion"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q14": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Result of untreated hypertension:",
+      "options": {
+        "A": "decrease SV",
+        "B": "decrease HR",
+        "C": "Increase Na excretion",
+        "D": "increase plasma volume",
+        "E": "increase urine output"
+      },
+      "answer": "D",
+      "explanation": "Note that A may also be correct\n\nFor D, increased plasma volume is a cause of hypertension, but indeed hypertension can also lead to a vicious cycle of damaging the kidney → activate RAAS → increased fluid retention.\nHowever it seems to me that A is a less complicated answer because untreated hypertension leads to concentric hypertrophy → diastolic heart failure → systolic heart failure.\nOr in other words, increased MAP and afterload reduces SV as more work is wasted in the isovolumetric contraction to overcome the large afterload. D is not necessarily true as 25% of HTN cases do not have a rise in RAAS activity."
+    },
+    "21-22 MEDU2400 Test Q34": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which one promotes myocardial wall remodeling?",
+      "options": {
+        "A": "Acetylcholine",
+        "B": "Endothelin-1",
+        "C": "Epinephrine",
+        "D": "Epoxyeicosatrienoic acids",
+        "E": "Prostacyclin"
+      },
+      "answer": "B",
+      "explanation": "Endothelin, Ang II and ROS released from damaged endothelial cells are the principal agents triggering myocardial wall remodelling. To be precise, they cause concentric hypertrophy which leads to pressure overload and diastolic HF."
+    },
+    "22-23 MEDU2400 Test Q34": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following substances promote the vascular remodeling process?",
+      "options": {
+        "A": "Acetylcholine",
+        "B": "Endothelin-1",
+        "C": "Epinephrine",
+        "D": "Epoxyeicosatrienoic acid",
+        "E": "Prostacyclin"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Test Q33": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Decrease in CO due to heart failure results in an increase of which of the following?",
+      "options": {
+        "A": "Acetylcholine",
+        "B": "Aortic diameter?",
+        "C": "Prostaglandin",
+        "D": "TPR",
+        "E": "Blood to kidney"
+      },
+      "answer": "D",
+      "explanation": "Drop in CO reduces MAP, which triggers baroreceptor reflex and RAAS to induce vasoconstriction to raise TPR, and fluid retention in renal tubules. A and C are too vague as their sites of having increased level is not specified. B is usually unchanged as it is not subject to vasodilation or vasoconstriction. E will be decreased as total CO is decreased, very simple. This drops the GFR and triggers RAAS to cause reflex afferent arteriole dilation to increase RPF as compensation. If C is regarding the rise of PGE2 in macula densa then it is correct as PGE2 is responsible for mediating vasodilation."
+    },
+    "16-17 MEDU2400 Final Q17": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Drug best for preload reduction in heart failure",
+      "options": {
+        "A": "ACE inhibitor",
+        "B": "Beta-adrenoceptor inhibitor",
+        "C": "Digoxin",
+        "D": "Loop diuretics",
+        "E": "Spironolactone"
+      },
+      "answer": "D",
+      "explanation": "It has to be loop diuretics to lower preload most efficiently. Preload is simply another term for EDV and blood volume. Indeed beta blocker can act on JG cells to reduce renin output and RAAS activity, so as to reduce fluid retention (Just 3% controlled by RAAS) to lower preload. But loop diuretics is still the most potent drug class to excrete massive volume of urine (25% of Na reabsorption gone) to reduce preload. Also, loop diuretics can abolish the corticopapillary osmotic gradient in renal medulla to force the kidneys to produce isosmotic urine (300 mOsm/L), hence they are the most potent drug for such purpose."
+    },
+    "19-20 MEDU2400 Sem1 Q34": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "elevated of which has a pivotal role in tissue remodeling in heart failure",
+      "options": {
+        "A": "Ach",
+        "B": "Ang II",
+        "C": "natriuretic peptides",
+        "D": "NO",
+        "E": "prostacyclin"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q16": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Cardiovascular Physiology",
+      "question": "Which of the following is most likely the characteristic of early stage diastolic heart failure?",
+      "options": {
+        "A": "increased end systolic intraventricular pressure",
+        "B": "increased end diastolic filling pressure",
+        "C": "decreased ejection fraction",
+        "D": "decreased contractility of myocardiocytes",
+        "E": "increased end diastolic filling volume"
+      },
+      "answer": "B",
+      "explanation": "Refer to lecture P.4 purple graph → increased LV pressure in early diastolic HF\nAt early diastolic HF, the ejection fraction is maintained as concentric hypertrophy of heart will not compromise its contractility. As the initial hypertrophy is still within the range to provide normal EDV, SV is still normal given the normal contractility as EF is preserved. However, as the concentric hypertrophy progresses, the low SV and MAP triggers compensation by RAAS to raise volume retention in kidneys. This causes volume overload in the heart and systolic HF will start to develop, which is quite beyond the scope of question here. However, you should at least understand the autocatalytic cycles of heart failure. Back to the question, A is correct as the decreased chamber volume accommodating similar ESV will of course increases end-systolic IV pressure significantly. I am not sure what does B means, as end diastolic should be irrelevant to filling. If it is filling, then it is not yet end diastolic. Assuming it is filling pressure, then B is wrong as this should appear at late diastolic HF such that ventricle is too stiffened to receive blood during filling. Assuming it is end-diastolic pressure, then it is also false as the ventricular volume is still enough to accomodate EDV at early stage. The decreased chamber volume due to hypertrophy is more evident when the heart contracts. C and D are false as contractility is not compromised under concentric hypertrophy, or even increased as sarcomeres are added in parallel. E is definitely wrong as the chamber volume is decreased during concentric hypertrophy."
     }
   }
 }
