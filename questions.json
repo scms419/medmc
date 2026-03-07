@@ -875,13 +875,21 @@
     "Year 2": {
       "MEDU2400 Human Function I": {
         "byYear": {
+          "2013-14": [
+            "13-14 MEDU2400 Final Q34",
+            "13-14 MEDU2400 Final Q35",
+            "13-14 MEDU2400 Final Q36",
+            "13-14 MEDU2400 Final Q37",
+            "13-14 MEDU2400 Final Q38"
+          ],
           "2014-15": [
             "14-15 MEDU2400 Test Q4",
             "14-15 MEDU2400 Test Q3",
             "14-15 MEDU2400 Sem1 Q19",
             "14-15 MEDU2400 Final Q1",
             "14-15 MEDU2400 Sem1 Q18",
-            "14-15 MEDU2400 Final Q49"
+            "14-15 MEDU2400 Final Q49",
+            "14-15 MEDU2400 Final Q15"
           ],
           "2015-16": [
             "15-16 MEDU2400 Test Q21",
@@ -910,7 +918,15 @@
             "15-16 MEDU2400 Final Q37",
             "15-16 MEDU2400 Final Q39",
             "15-16 MEDU2400 Final Q40",
-            "15-16 MEDU2400 Final Q41"
+            "15-16 MEDU2400 Final Q41",
+            "15-16 MEDU2400 Final Q44",
+            "15-16 MEDU2400 Final Q45",
+            "15-16 MEDU2400 Final Q47",
+            "15-16 MEDU2400 Final Q48",
+            "15-16 MEDU2400 Final Q46",
+            "15-16 MEDU2400 Final Q49",
+            "15-16 MEDU2400 Final Q50",
+            "15-16 MEDU2400 Final Q51"
           ],
           "2016-17": [
             "16-17 MEDU2400 Final Q1",
@@ -946,7 +962,12 @@
             "16-17 MEDU2400 Final Q36",
             "16-17 MEDU2400 Final Q39",
             "16-17 MEDU2400 Final Q40",
-            "16-17 MEDU2400 Final Q41"
+            "16-17 MEDU2400 Final Q41",
+            "16-17 MEDU2400 Final Q37",
+            "16-17 MEDU2400 Final Q38",
+            "16-17 MEDU2400 Final Q44",
+            "16-17 MEDU2400 Final Q43",
+            "16-17 MEDU2400 Final Q46"
           ],
           "2017-18": [
             "17-18 MEDU2400 Final Q1",
@@ -972,7 +993,12 @@
             "17-18 MEDU2400 Final Q38",
             "17-18 MEDU2400 Final Q37",
             "17-18 MEDU2400 Final Q39",
-            "17-18 MEDU2400 Final Q40"
+            "17-18 MEDU2400 Final Q40",
+            "17-18 MEDU2400 Final Q43",
+            "17-18 MEDU2400 Final Q44",
+            "17-18 MEDU2400 Final Q47",
+            "17-18 MEDU2400 Final Q45",
+            "17-18 MEDU2400 Final Q46"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
@@ -1003,7 +1029,8 @@
             "18-19 MEDU2400 Final Q12",
             "18-19 MEDU2400 Test Q33",
             "18-19 MEDU2400 Final Q34",
-            "18-19 MEDU2400 Final Q35"
+            "18-19 MEDU2400 Final Q35",
+            "18-19 MEDU2400 Final Q48"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
@@ -1033,7 +1060,13 @@
             "19-20 MEDU2400 Final Q34",
             "19-20 MEDU2400 Final Q35",
             "19-20 MEDU2400 Final Q37",
-            "19-20 MEDU2400 Final Q38"
+            "19-20 MEDU2400 Final Q38",
+            "19-20 MEDU2400 Final Q39",
+            "19-20 MEDU2400 Final Q40",
+            "19-20 MEDU2400 Final Q41",
+            "19-20 MEDU2400 Final Q45",
+            "19-20 MEDU2400 Final Q44",
+            "19-20 MEDU2400 Final Q42"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
@@ -1059,7 +1092,11 @@
             "20-21 MEDU2400 Sem1 Q34",
             "20-21 MEDU2400 Final Q10",
             "20-21 MEDU2400 Final Q34",
-            "20-21 MEDU2400 Final Q36"
+            "20-21 MEDU2400 Final Q36",
+            "20-21 MEDU2400 Final Q39",
+            "20-21 MEDU2400 Final Q40",
+            "20-21 MEDU2400 Final Q41",
+            "20-21 MEDU2400 Final Q42"
           ],
           "2021-22": [
             "21-22 MEDU2400 Final Q2",
@@ -1083,7 +1120,14 @@
             "21-22 MEDU2400 Test Q34",
             "21-22 MEDU2400 Final Q36",
             "21-22 MEDU2400 Final Q37",
-            "21-22 MEDU2400 Final Q38"
+            "21-22 MEDU2400 Final Q38",
+            "21-22 MEDU2400 Final Q40",
+            "21-22 MEDU2400 Final Q41",
+            "21-22 MEDU2400 Final Q42",
+            "21-22 MEDU2400 Final Q44",
+            "21-22 MEDU2400 Final Q43",
+            "21-22 MEDU2400 Final Q39",
+            "21-22 MEDU2400 Final Q45"
           ],
           "2022-23": [
             "22-23 MEDU2400 Test Q21",
@@ -1110,7 +1154,9 @@
             "Extra MEDU2400 CV Q8",
             "Extra MEDU2400 CV Q9",
             "Extra MEDU2400 CV Q10",
-            "Extra MEDU2400 CV Q11"
+            "Extra MEDU2400 CV Q11",
+            "PMDT2 FA2 MEDU2400 Q29",
+            "Extra MEDU2400 Pharmacology Q1"
           ]
         },
         "byTopic": {
@@ -1337,7 +1383,51 @@
             "20-21 MEDU2400 Final Q36",
             "21-22 MEDU2400 Final Q36",
             "21-22 MEDU2400 Final Q37",
-            "21-22 MEDU2400 Final Q38"
+            "21-22 MEDU2400 Final Q38",
+            "PMDT2 FA2 MEDU2400 Q29",
+            "13-14 MEDU2400 Final Q34",
+            "13-14 MEDU2400 Final Q35",
+            "13-14 MEDU2400 Final Q36",
+            "13-14 MEDU2400 Final Q37",
+            "14-15 MEDU2400 Final Q15",
+            "15-16 MEDU2400 Final Q44",
+            "15-16 MEDU2400 Final Q45",
+            "15-16 MEDU2400 Final Q47",
+            "16-17 MEDU2400 Final Q37",
+            "16-17 MEDU2400 Final Q38",
+            "16-17 MEDU2400 Final Q44",
+            "17-18 MEDU2400 Final Q43",
+            "17-18 MEDU2400 Final Q44",
+            "17-18 MEDU2400 Final Q47",
+            "19-20 MEDU2400 Final Q39",
+            "19-20 MEDU2400 Final Q40",
+            "19-20 MEDU2400 Final Q41",
+            "19-20 MEDU2400 Final Q45",
+            "20-21 MEDU2400 Final Q39",
+            "20-21 MEDU2400 Final Q40",
+            "20-21 MEDU2400 Final Q41",
+            "20-21 MEDU2400 Final Q42",
+            "21-22 MEDU2400 Final Q40",
+            "21-22 MEDU2400 Final Q41",
+            "21-22 MEDU2400 Final Q42",
+            "21-22 MEDU2400 Final Q44",
+            "13-14 MEDU2400 Final Q38",
+            "15-16 MEDU2400 Final Q48",
+            "15-16 MEDU2400 Final Q46",
+            "15-16 MEDU2400 Final Q49",
+            "15-16 MEDU2400 Final Q50",
+            "15-16 MEDU2400 Final Q51",
+            "16-17 MEDU2400 Final Q43",
+            "16-17 MEDU2400 Final Q46",
+            "17-18 MEDU2400 Final Q45",
+            "17-18 MEDU2400 Final Q46",
+            "18-19 MEDU2400 Final Q48",
+            "19-20 MEDU2400 Final Q44",
+            "19-20 MEDU2400 Final Q42",
+            "21-22 MEDU2400 Final Q43",
+            "21-22 MEDU2400 Final Q39",
+            "21-22 MEDU2400 Final Q45",
+            "Extra MEDU2400 Pharmacology Q1"
           ]
         }
       }
@@ -11610,6 +11700,752 @@
       },
       "answer": "C",
       "explanation": ""
+    },
+    "PMDT2 FA2 MEDU2400 Q29": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "A patient is admitted to the emergency department for being just overdosed with aspirin (Weakly acidic drug), in this situation:",
+      "options": {
+        "A": "More of the drug would be absorbed from stomach than small intestine",
+        "B": "More of the drug would be eliminated by inhibition of metabolizing enzymes",
+        "C": "More of the drug would be metabolized by administration of NaHCO3",
+        "D": "Urinary excretion would be accelerated by administration of NaHCO3",
+        "E": "Tubular reabsorption would be enhanced by administration of NaHCO3"
+      },
+      "answer": "D",
+      "explanation": "Alkaline diuresis with NaHCO3 can help excrete aspirin in the alkaline urine by ion trapping effect. Since the stomach has a very thick mucus barrier, drugs are mostly absorbed at the proximal duodenum."
+    },
+    "13-14 MEDU2400 Final Q34": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "For a drug with pKa = 3.0, which of the following is correct?",
+      "options": {
+        "A": "For administering by oral route, it will be mostly absorbed in small intestine",
+        "B": "For administering by oral route, most of the drug will be trapped in stomach",
+        "C": "It has a high affinity with plasma protein",
+        "D": "Intake of NH4Cl will facilitate its excretion via renal route",
+        "E": "Intake of NaHCO3 will facilitate its excretion via renal route"
+      },
+      "answer": "E",
+      "explanation": "A drug with pKa = 3.0 is probably a WEAK acid.\nNote that the proposed answer has changed from A to E. \n\n A. By definition, the small intestine includes the duodenum to the ileum. Acidic drugs are usually MOSTLY (but not entirely) absorbed in the proximal duodenum. This is because the drug mixes with acidic chyme and remains in the non-ionized form, so that it can pass through the cell membrane more easily. The drug is absorbed partly in the stomach due to the acidic environment, but the extent of absorption is limited by the thick mucosa.\n B. This option is ambiguous, because the word “trapped” is for 2 compartments. Probably option A is better.\n C. There are so many factors that affect whether a drug has high plasma protein binding. pKa alone is not sufficient to draw a conclusion.\n D. NH4Cl is an acidic salt (as we learn from secondary school chemistry that weak base NH3 + strong acid HCl should give a weak acid salt), so making the urine more acidic is going to reduce excretion of an acid by reducing its ionization.\n E. Opposite to D, alkaline diuresis should help with renal excretion. However, we do not know if this drug is excreted via the renal route or not. This is not a safe option to choose."
+    },
+    "13-14 MEDU2400 Final Q35": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Volume of distribution of a drug is 0.05L/kg, assuming complete absorption, which of the following is correct?",
+      "options": {
+        "A": "High plasma concentration",
+        "B": "Low plasma concentration",
+        "C": "Drug evenly distributed into tissue",
+        "D": "Accumulate in fat",
+        "E": "Extensively metabolized"
+      },
+      "answer": "A",
+      "explanation": "Vd = Dose / Plasma Conc.\nThe higher the plasma protein binding, the lower is the Vd.\nThe higher the Vd, the wider the distribution (i.e. not remaining in the vascular component but enters organs)\nAn example of such a drug is streptomycin."
+    },
+    "13-14 MEDU2400 Final Q36": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following about drug metabolizing enzymes is the most correct?",
+      "options": {
+        "A": "Cytochrome P450 monooxygenase catalyze N-demethylation",
+        "B": "Plasma esterase mediate phase 2 metabolism",
+        "C": "Alcohol dehydrogenase converts ethanol to ethyl ester",
+        "D": "Flavin-containing monooxygenase catalyze aromatic hydroxylation",
+        "E": "Monoamine oxidase mediates biotransformation of quaternary ammonium compound."
+      },
+      "answer": "A",
+      "explanation": "B: wrong. phase I\nC: wrong, it converts ethanol to acetaldehyde\nD: wrong, it catalyzes heteroatom (N, S, P) oxidation\nE. no, MAO can only oxidize primary, secondary, and some tertiary amines"
+    },
+    "13-14 MEDU2400 Final Q37": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Promethazine, a weakly basic drug",
+      "options": {
+        "A": "Increase urinary excretion by giving NH4Cl",
+        "B": "Increase urinary excretion by giving NaHCO3",
+        "C": "Greater proportion in blood than stomach",
+        "D": "Greater absorption in stomach than intestine",
+        "E": "Increase elimination by inhibiting metabolic enzymes"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "14-15 MEDU2400 Final Q15": {
+      "year": "2014-15",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which process is most important in metabolizing toxic chemicals?",
+      "options": {
+        "A": "Oxidation",
+        "B": "Sulphation",
+        "C": "Glucuronidation",
+        "D": "GSH conjugation",
+        "E": "Hydrolysis"
+      },
+      "answer": "D",
+      "explanation": "Phase II metabolism (conjugation) is the most important for TOXIC chemicals that involve UDP glucuronosyltransferase (UGT).\nSulphation and glucuronidation increases water solubility of drugs for excretion.\nOxidation introduces a polar group to the drugs, but it may also generate reactive oxygen species that are toxic.\nHydrolysis is a less common reaction."
+    },
+    "15-16 MEDU2400 Final Q44": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "For weakly acidic drug pKa 3, which of the following about oral absorption is correct?",
+      "options": {
+        "A": "decrease gastric ph decrease absorption",
+        "B": "increase gastric ph increase absorption",
+        "C": "free form of drug is absorbed",
+        "D": "ionized form is absorbed in intestine",
+        "E": "major portion of drug is absorbed in stomach"
+      },
+      "answer": "C",
+      "explanation": "A & B: At higher gastric pH, the acidic drug tends to ionize. Due to ion-trapping effect, the drug absorption is poorer.\nNot D, because ionized form cannot be absorbed. That’s also why we have the ion-trapping effect.\nE is not the correct answer since there is a thick mucosal layer along the stomach that prevents absorption. Maximal absorption takes place at the proximal duodenum, where mixing of pancreatic juice & bile has not take place."
+    },
+    "15-16 MEDU2400 Final Q45": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following occurs when the drug binds to a plasma protein?",
+      "options": {
+        "A": "Enhance its effect",
+        "B": "Reduce onset time",
+        "C": "Accelerate elimination",
+        "D": "Increase its activity",
+        "E": "Prolong its duration of action"
+      },
+      "answer": "E",
+      "explanation": "There are 3 effects:\n * Prolong duration of action: Plasma Protein (unless extracted by liver or kidneys)\n * Lower Vd: Drug remain in the vascular compartment\n * Inactivate the drug: bound drug is not functional"
+    },
+    "15-16 MEDU2400 Final Q47": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following is the most important metabolic pathway for the metabolism of chemically reactive substance for detoxification in the body?",
+      "options": {
+        "A": "Oxidation",
+        "B": "Glucuronidation",
+        "C": "Glutathione conjugation",
+        "D": "Sulphatation",
+        "E": "Hydrolysis"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Final Q37": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "What happen to drug when protein binding?",
+      "options": {
+        "A": "Increase in metabolism",
+        "B": "Increase in effect",
+        "C": "Acceleration in absorption",
+        "D": "Reduce onset time",
+        "E": "Prolong duration action of drug"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Final Q38": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "A drug was orally given, 30% was excreted unchanged in the urine. Which of the following is correct?",
+      "options": {
+        "A": "At least 30% was absorbed into systemic circulation",
+        "B": "At least 70% was absorbed into systemic circulation",
+        "C": "At least 30% was absorbed and in biliary excretion.",
+        "D": "At least 30% of drug absorbed, 70% metabolized.",
+        "E": "At least 70% of drug absorbed, 30% metabolized"
+      },
+      "answer": "A",
+      "explanation": "You can only tell the 30% excreted from urine must be those absorbed. You cannot say the other 70% is metabolized, as those could be just not absorbed into blood."
+    },
+    "16-17 MEDU2400 Final Q44": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following represent the most accurate statement about pharmacokinetics?",
+      "options": {
+        "A": "Drug-drug interaction",
+        "B": "Dose-response relationship for drug",
+        "C": "Effects of drug on body",
+        "D": "Effects of body on drug",
+        "E": "Mechanics of action of drug"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Final Q43": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "cytochrome P450 enzyme may",
+      "options": {
+        "A": "alter the structure of drug in body",
+        "B": "catalyze reductive biotransformation of drug",
+        "C": "convert the drug to conjugated metabolites",
+        "D": "increase drug permeability through plasma membrane",
+        "E": "mediate oxidation by inserting an O2"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Final Q44": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "For a weak basic drug with pKa of 8, a ratio between the total drug concentration in the tubular fluid (pH 7) and in the plasma compartment (pH 7.4) is about 2/1. If the tubular fluid is acidified to pH 5 to accelerate the excretion of the drug, the ratio will be about:",
+      "options": {
+        "A": "20/1",
+        "B": "100/1",
+        "C": "200/1",
+        "D": "400/1",
+        "E": "2000/1"
+      },
+      "answer": "C",
+      "explanation": "Basic drug: $R = \\frac{1 + \\text{antilog(pKa - pH1)}}{1 + \\text{antilog(pKa - pH2)}}$\n\n$R = \\frac{1+10^{8-5}}{1+10^{8-7.4}} = 1001:5 = 200:1$"
+    },
+    "17-18 MEDU2400 Final Q47": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "An antibiotic has volume of distribution 200L which of the following correct",
+      "options": {
+        "A": "Confined to plasma",
+        "B": "Accumulate to lipid compartment due to high lipid solubility",
+        "C": "evenly distributed throughout body",
+        "D": "distributed in extracellular fluid only",
+        "E": "markedly high concentration in plasma"
+      },
+      "answer": "B",
+      "explanation": "Vd gives a good profile of the drug kinetics, as it represents the ratio between plasma concentration and initial dose. If Vd roughly equal to 5-6L, this mean the drug is confined to plasma, such that you can find all the drug in plasma, as Vd (Plasma volume) x plasma conc = all drugs administered. If Vd is greatly beyond 40L, this means it has only very little conc in body water. This suggests the drug is distributed to adipose tissue, and could be very lipid soluble and does not stay in body fluid compartments (Plasma, IF, ICF)."
+    },
+    "19-20 MEDU2400 Final Q39": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which statement about drug excretion is correct?",
+      "options": {
+        "A": "Phase II metabolites with high molecular weight mainly undergo biliary excretion",
+        "B": "Inhalational general anaesthetics mainly excreted in urine",
+        "C": "Polar compound with low molecular weight mainly excreted in expired air",
+        "D": "Weak acidic drug accumulate in milk due to ion-trapping effect",
+        "E": "Drug undergoing enterohepatic circulation enhance therapeutic activity"
+      },
+      "answer": "E",
+      "explanation": " A. May not be entirely true as some may be excreted in feces (if they are not absorbed in the gut).\n B. Inhalational general anesthetics mainly excreted in breath\n C. Polar compounds with low molecular weight cannot pass cell membrane easily and should excrete mainly in urine.\n D. Weak alkaline drug accumulate in milk due to ion-trapping effect (milk is slightly acidic)\nE. Correct. Absorbing back through the distal ileum enhances therapeutic activity by prolonging the duration of action of the drug. This process continues until the drug is metabolized or excreted in the feces."
+    },
+    "19-20 MEDU2400 Final Q40": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Drug metabolism may",
+      "options": {
+        "A": "improve the drug distribution",
+        "B": "prolong the drug action",
+        "C": "facilitate the drug clearance",
+        "D": "augment the drug absorption",
+        "E": "enhance the drug bioavailability"
+      },
+      "answer": "C",
+      "explanation": "Never say drug metabolism makes it less toxic. For example, CYP2E1 will turn paracetamol into more toxic NAPQI, causing hepatotoxicity in OD individuals."
+    },
+    "19-20 MEDU2400 Final Q41": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Distribution of a drug is the process by which:",
+      "options": {
+        "A": "Form of drug administered is changed in different body compartments",
+        "B": "Amount of drug moves from systemic circulation to different body compartments",
+        "C": "Amount of drug moves into systemic circulation after administration",
+        "D": "Amount of drug to different body compartments after administration",
+        "E": "Amount of drug administered is removed from different body compartments"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q45": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "For a weakly acidic drug with pKa of 3.0, the ratio of drug concentration in tubular fluid (pH = 7.0) and plasma (pH = 7.0) is 1:1. If the tubular fluid is alkalized to pH = 8.0, the new ratio will be:",
+      "options": {
+        "A": "5:1",
+        "B": "10:1",
+        "C": "20:1",
+        "D": "100:1",
+        "E": "2:1"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q39": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "A drug was orally given and 20% of the drug was excreted unchanged in the urine. Which of the following is correct?",
+      "options": {
+        "A": "At least 20% was absorbed into systemic circulation.",
+        "B": "At least 80% was absorbed into systemic circulation.",
+        "C": "At least 20% was absorbed into systemic circulation and 20% was metabolised.",
+        "D": "At least 80% was absorbed into systemic circulation and 20% was metabolized.",
+        "E": "At least 80% was metabolized."
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q40": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Distribution of drugs is the process by which the drug:",
+      "options": {
+        "A": "Move among different body compartments after administration",
+        "B": "Move to systemic circulation from different body compartments",
+        "C": "Move from systemic circulation to different body compartments",
+        "D": "Move from different body compartments to the target",
+        "E": "Move from systemic circulation to the target"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q41": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "The effect of drug metabolism may",
+      "options": {
+        "A": "improve the drug distribution",
+        "B": "prolong the drug action",
+        "C": "augment the drug absorption",
+        "D": "facilitate the drug clearance",
+        "E": "increase the drug bioavailability"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q42": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Excretion of a drug is",
+      "options": {
+        "A": "Removal of a drug and its metabolites",
+        "B": "Termination of action of parent drug administered",
+        "C": "Renal handling by glomerular filtration, reabsorption, and secretion"
+      },
+      "answer": "A",
+      "explanation": "Keep in mind **excretion is not equivalent to clearance**.\nExcretion really means removal of drug and metabolites from the body, while clearance only indicates removal of the parent drug, e.g. excretion of parent drug, metabolism of parent drug.\nB is addressing drug clearance, while C is describing the entire process of renal handling and excretion of drug and metabolites into urine. However, drug excretion can also occur via breath and bile, besides renal excretion."
+    },
+    "21-22 MEDU2400 Final Q40": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Distribution of a drug is a process by which",
+      "options": {
+        "A": "Amount of drug to different body compartment after administration",
+        "B": "Amount of drug removed from different body compartment",
+        "C": "Amount of drug moving from blood to target tissues",
+        "D": "Amount of drug moves from systemic circulation to different body compartments",
+        "E": "Amount of drug moves from different body compartment to systemic circulation"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q41": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Drug metabolism may",
+      "options": {
+        "A": "Augment drug absorption",
+        "B": "Enhance drug bioavailability",
+        "C": "Facilitate drug elimination",
+        "D": "Improve drug distribution",
+        "E": "Prolong duration of drug"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q42": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Drug excretion is a process of:",
+      "options": {
+        "A": "Sum of kidney glomerular filtration, tubular secretion and reabsorption",
+        "B": "Disappearance of drug from systemic circulation",
+        "C": "Elimination of drug by hepatic transformation",
+        "D": "Remove drugs and its metabolites in body",
+        "E": "Termination of action of parent drug administered"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q44": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following process is considered as clearance?",
+      "options": {
+        "A": "Phase I metabolite change to phase II metabolite",
+        "B": "Excrete phase II metabolites from urine",
+        "C": "Hydrolysis of drug by esterase",
+        "D": "Reabsorption through enterohepatic circulation",
+        "E": "Release of drug from plasma protein binding"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "13-14 MEDU2400 Final Q38": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "In terms of first order pharmacokinetics, elimination is:",
+      "options": {
+        "A": "The drug is firstly distributed into the central compartment.",
+        "B": "The drug is firstly metabolized in the gut.",
+        "C": "The drug is eliminated in its intact form.",
+        "D": "The drug elimination rate is constant.",
+        "E": "The drug elimination half-life is constant."
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Final Q48": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "If the plasma conc. of a drug declines in first order kinetics, it means:",
+      "options": {
+        "A": "The drug will first be distributed to the central compartment",
+        "B": "The drug will be cleared exclusively via first pass",
+        "C": "The drug will first be metabolized in the liver",
+        "D": "The half life is constant regardless of the plasma conc.",
+        "E": "The clearance is constant regardless of the dose"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Final Q46": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "If an oral tablet of drug A has the same AUC (area under curve) as equivalent dose of drug A given intravenously. It can be generally concluded:",
+      "options": {
+        "A": "drug a is completely absorbed",
+        "B": "drug a is slowly metabolised",
+        "C": "drug a is quickly cleared",
+        "D": "drug a is rapidly absorbed",
+        "E": "IV of drug A is preferable than oral"
+      },
+      "answer": "A",
+      "explanation": "The bioavailability of this drug is almost 100%. So, it is completely absorbed."
+    },
+    "15-16 MEDU2400 Final Q49": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Verapamil and phenytoin are excreted by the liver. The clearance of verapamil is equal to liver plasma flow (1.5 L/min), and the clearance of phenytoin is equal to 0.1 ml/min. Rifampin is an inducer of liver metabolizing enzymes. If it is prescribed with verapamil and phenytoin, which of the following is the correct effect of drug excretion?",
+      "options": {
+        "A": "Phenytoin enhanced; verapamil enhanced",
+        "B": "Phenytoin enhanced; verapamil remains unchanged",
+        "C": "Phenytoin reduced; verapamil remains unchanged",
+        "D": "Phenytoin remains unchanged; Vera reduced",
+        "E": "Phenytoin unchanged; verapamil enhanced"
+      },
+      "answer": "B",
+      "explanation": "C = EQ (Clearance = Blood flow x Extraction ratio)\nVerapamil has a high clearance, so it has a high extraction ratio, and is flow-dependent rather than metabolic rate-dependent.\nPhenytoin has a low clearance, so it has a low extraction ratio, so it depends on metabolic rate."
+    },
+    "15-16 MEDU2400 Final Q50": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Some drug has clearance 1.54L/h and volume of distribution 20L. What is the half life of the drug?",
+      "options": {
+        "A": "5h",
+        "B": "7h",
+        "C": "9h",
+        "D": "10h",
+        "E": "15h"
+      },
+      "answer": "C",
+      "explanation": "Cl = kV\nCl = (0.693 / t) x V\n1.54 = (0.693 / t) x 20\nt = 9 h"
+    },
+    "15-16 MEDU2400 Final Q51": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Mrs Lee is prescribed with antibiotics. Clearance is 144 ml/min, volume of distribution is 25L, what is the maintenance dose such that the steady state is 4 mg/L at 6 hour interval?",
+      "options": {
+        "A": "20.7 mg",
+        "B": "107 mg",
+        "C": "1007 mg",
+        "D": "207 mg",
+        "E": "307 mg"
+      },
+      "answer": "D",
+      "explanation": "Volume of distribution is only used for calculating loading dose.\nAssume F = 100%\nCpss = 4 mg/L → 0.0004 mg/mL\nT = 6 h = 360 min\nDm = Cpss * CL * T / F = 0.0004 *144 * 360 = 207.36 mg = 207 mg"
+    },
+    "16-17 MEDU2400 Final Q43": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "With an equivalent dose of drug A, if AUC values are the same via oral and IV route of administration, it can be concluded that drug A is",
+      "options": {
+        "A": "Completely absorbed",
+        "B": "Slowly metabolised",
+        "C": "Very quickly cleared",
+        "D": "Very rapidly absorbed",
+        "E": "Widely distributed"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "16-17 MEDU2400 Final Q46": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following processes is considered as clearance?",
+      "options": {
+        "A": "Conversion of phase I to II metabolites",
+        "B": "Excretion of phase II metabolites from urine",
+        "C": "Hydrolysis of drug in plasma by esterases",
+        "D": "Reabsorption of drug via enterohepatic circulation",
+        "E": "Release of drug from plasma protein binding"
+      },
+      "answer": "C",
+      "explanation": "We only consider elimination of parent drug as clearance, let it **metabolized or excreted**, but excretion of metabolite will not be double counted again."
+    },
+    "17-18 MEDU2400 Final Q45": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Drug A, AUC same for oral and iv transfusion",
+      "options": {
+        "A": "It is completely absorbed",
+        "B": "It is slowly metabolised",
+        "C": "It is very quickly cleared",
+        "D": "It is very rapidly metabolised",
+        "E": "It is widely spread"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Final Q46": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "drug x is given 4 times per day orally, clearance 139 ml/ min, well absorbed and first order kinetics elimination. If the requested Cavss is 4 ug/ ml, what’s the maintenance dose?",
+      "options": {
+        "A": "200mg",
+        "B": "220mg",
+        "C": "240mg",
+        "D": "260 mg",
+        "E": "280mg"
+      },
+      "answer": "A",
+      "explanation": "Dm = Cavss * CL * T /F = 4 * 139 * 60 * 6 /1 = 200160 microgram = 200.16 mg\n(1 mg = 1000 ug)"
+    },
+    "18-19 MEDU2400 Final Q48": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "A drug prescribed four times a day has a clearance of 139 mL per min. Assume it has first order kinetics and a steady state of 4 ug per ml is needed. What is the maintenance dose?",
+      "options": {
+        "A": "200 mg",
+        "B": "250 mg",
+        "C": "300 mg",
+        "D": "350 mg",
+        "E": "400 mg"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q44": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "First Order Kinetics: if the plasma concentration of a drug declines with first order kinetics, it means that",
+      "options": {
+        "A": "the drug is first metabolized in liver",
+        "B": "drug first distributes in the central compartment",
+        "C": "first pass metabolism always occur",
+        "D": "half life is constant regardless of plasma concentration",
+        "E": "rate of elimination is constant regardless of dose"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q42": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "A new drug has undergone phase I clinical trial in healthy volunteers to determine the clearance (CLT) and volume of distribution (V) of this drug. Which of the following formula can be used to determine the half-life (t1/2) of the drug in those subjects from the above two pharmacokinetic parameters?",
+      "options": {
+        "A": "V / (CLT + log 2)",
+        "B": "(V x log 2) / CLT",
+        "C": "V / (CLT x ln 2)",
+        "D": "V / (CLT x log ^ 2)",
+        "E": "(V x ln 2) / CLT"
+      },
+      "answer": "E",
+      "explanation": "Cl = kV = (ln2 / t) V\nt = Vln2 / CLT"
+    },
+    "21-22 MEDU2400 Final Q43": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following statements about the concentration-time profiles for a single orally-administered drug within its one elimination half life is most correct?",
+      "options": {
+        "A": "The amount of drug in the systemic circulation increase along the time",
+        "B": "The amount of drug in the target site increase along the time",
+        "C": "The amount of metabolites increase along the time",
+        "D": "Drug concentration at the absorption site increase along the time",
+        "E": "The drug concentration in the body increase along the time"
+      },
+      "answer": "C",
+      "explanation": "After one half-life, 50% of drug has already cleared (NOT excreted, metabolized, as both are inaccurate in describing clearance), and the plasma conc has already started to decrease. Keep in mind distribution is always much faster than clearance. So, B is false as the considerable amount of drug should be already cleared at the target site after 1 half-life. C is true as the amount of metabolites will only increase over time. D is false as it should be decreasing due to the spread of drugs. E is constant if talking about the concentration in the entire body."
+    },
+    "21-22 MEDU2400 Final Q39": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "With equivalent dose of a drug, if AUC value via oral administration is 80% of that in intravenous injection, it means the drug is:",
+      "options": {
+        "A": "Incompletely absorbed",
+        "B": "Slowly metabolized",
+        "C": "Very quickly absorbed",
+        "D": "Very quickly cleared",
+        "E": "Very rapidly distributed"
+      },
+      "answer": "A",
+      "explanation": "This is a modification to the past paper. However, the answer is just incompletely absorbed, but not anything about metabolism, rate of absorption or distribution. It is not clear how the 20% is lost. For example, it can be due to slow metabolism, slow excretion or clearance whatsoever."
+    },
+    "21-22 MEDU2400 Final Q45": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "If the clearance of a given drug is 11.5L/h, while the volume distribution is 100L. What is the half-life of the drug?",
+      "options": {
+        "A": "4h",
+        "B": "5h",
+        "C": "6h",
+        "D": "7h",
+        "E": "8h"
+      },
+      "answer": "C",
+      "explanation": "Cl = kV = (0.693 / t) V\nt = 100 x 0.693 / 11.5 = 6 h"
+    },
+    "Extra MEDU2400 Pharmacology Q1": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following is the main determinant for the time of which a steady state plasma concentration (Css) is reached?",
+      "options": {
+        "A": "Bioavailability",
+        "B": "Clearance",
+        "C": "Dosing rate",
+        "D": "Half-life of the drug",
+        "E": "Total drug infused in 24 hours"
+      },
+      "answer": "D",
+      "explanation": " A. No effect\n B. It affects the level of Css, but not the time required to reach it\n C. Same as B\nD. Usually it takes around 4-5 half lives to reach the steady state plasma concentration.\n E. Also affects Css but not the time required to reach it.\n\nNote that Css is reached when clearance = dosing rate"
     }
   }
 }
