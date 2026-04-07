@@ -1430,6 +1430,186 @@
             "Extra MEDU2400 Pharmacology Q1"
           ]
         }
+      },
+      "MEDU2600 Molecular Medicine and Genetics": {
+        "byYear": {
+          "2014-15": [
+            "14-15 MEDU2600 Test Q7",
+            "14-15 MEDU2600 Test Q8"
+          ],
+          "2015-16": [
+            "15-16 MEDU2600 Test Q45",
+            "15-16 MEDU2600 Test Q46",
+            "15-16 MEDU2600 Final Q27",
+            "15-16 MEDU2600 Final Q17",
+            "15-16 MEDU2600 Test Q51"
+          ],
+          "2016-17": [
+            "16-17 MEDU2600 Test Q45",
+            "16-17 MEDU2600 Test Q49",
+            "16-17 MEDU2600 Final Q5",
+            "16-17 MEDU2600 Final Q7",
+            "16-17 MEDU2600 Final Q17",
+            "16-17 MEDU2600 Test Q46",
+            "16-17 MEDU2600 Test Q47",
+            "16-17 MEDU2600 Final Q4",
+            "16-17 MEDU2600 Final Q8",
+            "16-17 MEDU2600 Final Q10",
+            "16-17 MEDU2600 Final Q16",
+            "16-17 MEDU2600 Test Q60",
+            "16-17 MEDU2600 Final Q9",
+            "16-17 MEDU2600 Test Q58"
+          ],
+          "2017-18": [
+            "17-18 MEDU2600 Final Q5",
+            "17-18 MEDU2600 Final Q20",
+            "17-18 MEDU2600 Test Q46",
+            "17-18 MEDU2600 Test Q47",
+            "17-18 MEDU2600 Test Q49",
+            "17-18 MEDU2600 Final Q6",
+            "17-18 MEDU2600 Final Q4",
+            "17-18 MEDU2600 Final Q8",
+            "17-18 MEDU2600 Test Q48",
+            "17-18 MEDU2600 Final Q9"
+          ],
+          "2018-19": [
+            "18-19 MEDU2600 Test Q50",
+            "18-19 MEDU2600 Final Q3",
+            "18-19 MEDU2600 Final Q5",
+            "18-19 MEDU2600 Final Q6",
+            "18-19 MEDU2600 Final Q7",
+            "18-19 MEDU2600 Test Q48",
+            "18-19 MEDU2600 Test Q49",
+            "18-19 MEDU2600 Final Q4",
+            "18-19 MEDU2600 Final Q8",
+            "18-19 MEDU2600 Final Q9",
+            "18-19 MEDU2600 Final Q10"
+          ],
+          "2019-20": [
+            "19-20 MEDU2600 Sem1 Q47",
+            "19-20 MEDU2600 Final Q5",
+            "19-20 MEDU2600 Final Q6",
+            "19-20 MEDU2600 Final Q7",
+            "19-20 MEDU2600 Final Q8",
+            "19-20 MEDU2600 Final Q9",
+            "19-20 MEDU2600 Final Q10"
+          ],
+          "2020-21": [
+            "20-21 MEDU2600 Sem1 Q45",
+            "20-21 MEDU2600 Final Q4",
+            "20-21 MEDU2600 Final Q6",
+            "20-21 MEDU2600 Sem1 Q44",
+            "20-21 MEDU2600 Sem1 Q46",
+            "20-21 MEDU2600 Sem1 Q48",
+            "20-21 MEDU2600 Final Q5",
+            "20-21 MEDU2600 Final Q7",
+            "20-21 MEDU2600 Final Q8",
+            "20-21 MEDU2600 Sem1 Q49",
+            "20-21 MEDU2600 Final Q9",
+            "20-21 MEDU2600 Sem1 Q50",
+            "20-21 MEDU2600 Final Q10"
+          ],
+          "2021-22": [
+            "21-22 MEDU2600 Test Q45",
+            "21-22 MEDU2600 Final Q3",
+            "21-22 MEDU2600 Test Q46",
+            "21-22 MEDU2600 Test Q47",
+            "21-22 MEDU2600 Final Q6",
+            "21-22 MEDU2600 Final Q8",
+            "21-22 MEDU2600 Final Q10",
+            "21-22 MEDU2600 Test Q48",
+            "21-22 MEDU2600 Test Q49",
+            "21-22 MEDU2600 Final Q7"
+          ],
+          "2022-23": [
+            "22-23 MEDU2600 Test Q46",
+            "22-23 MEDU2600 Test Q47",
+            "22-23 MEDU2600 Test Q48",
+            "22-23 MEDU2600 Test Q49",
+            "22-23 MEDU2600 Test Q50"
+          ]
+        },
+        "byTopic": {
+          "Carbohydrate": [
+            "15-16 MEDU2600 Test Q45",
+            "15-16 MEDU2600 Test Q46",
+            "16-17 MEDU2600 Test Q45",
+            "16-17 MEDU2600 Test Q49",
+            "17-18 MEDU2600 Final Q5",
+            "17-18 MEDU2600 Final Q20",
+            "18-19 MEDU2600 Test Q50",
+            "18-19 MEDU2600 Final Q3",
+            "18-19 MEDU2600 Final Q5",
+            "19-20 MEDU2600 Sem1 Q47",
+            "20-21 MEDU2600 Sem1 Q45",
+            "20-21 MEDU2600 Final Q4",
+            "20-21 MEDU2600 Final Q6",
+            "21-22 MEDU2600 Test Q45",
+            "21-22 MEDU2600 Final Q3",
+            "22-23 MEDU2600 Test Q46",
+            "14-15 MEDU2600 Test Q7",
+            "14-15 MEDU2600 Test Q8",
+            "15-16 MEDU2600 Final Q27",
+            "15-16 MEDU2600 Final Q17",
+            "16-17 MEDU2600 Final Q5",
+            "16-17 MEDU2600 Final Q7",
+            "16-17 MEDU2600 Final Q17",
+            "16-17 MEDU2600 Test Q46",
+            "16-17 MEDU2600 Test Q47",
+            "16-17 MEDU2600 Final Q4",
+            "16-17 MEDU2600 Final Q8",
+            "16-17 MEDU2600 Final Q10",
+            "16-17 MEDU2600 Final Q16",
+            "17-18 MEDU2600 Test Q46",
+            "17-18 MEDU2600 Test Q47",
+            "17-18 MEDU2600 Test Q49",
+            "17-18 MEDU2600 Final Q6",
+            "17-18 MEDU2600 Final Q4",
+            "17-18 MEDU2600 Final Q8",
+            "18-19 MEDU2600 Final Q6",
+            "18-19 MEDU2600 Final Q7",
+            "18-19 MEDU2600 Test Q48",
+            "18-19 MEDU2600 Test Q49",
+            "18-19 MEDU2600 Final Q4",
+            "18-19 MEDU2600 Final Q8",
+            "19-20 MEDU2600 Final Q5",
+            "19-20 MEDU2600 Final Q6",
+            "19-20 MEDU2600 Final Q7",
+            "19-20 MEDU2600 Final Q8",
+            "20-21 MEDU2600 Sem1 Q44",
+            "20-21 MEDU2600 Sem1 Q46",
+            "20-21 MEDU2600 Sem1 Q48",
+            "20-21 MEDU2600 Final Q5",
+            "20-21 MEDU2600 Final Q7",
+            "20-21 MEDU2600 Final Q8",
+            "21-22 MEDU2600 Test Q46",
+            "21-22 MEDU2600 Test Q47",
+            "21-22 MEDU2600 Final Q6",
+            "21-22 MEDU2600 Final Q8",
+            "21-22 MEDU2600 Final Q10",
+            "22-23 MEDU2600 Test Q47",
+            "22-23 MEDU2600 Test Q48",
+            "16-17 MEDU2600 Test Q60",
+            "16-17 MEDU2600 Final Q9",
+            "17-18 MEDU2600 Test Q48",
+            "18-19 MEDU2600 Final Q9",
+            "19-20 MEDU2600 Final Q9",
+            "20-21 MEDU2600 Sem1 Q49",
+            "20-21 MEDU2600 Final Q9",
+            "21-22 MEDU2600 Test Q48",
+            "22-23 MEDU2600 Test Q49",
+            "15-16 MEDU2600 Test Q51",
+            "17-18 MEDU2600 Final Q9",
+            "18-19 MEDU2600 Final Q10",
+            "19-20 MEDU2600 Final Q10",
+            "20-21 MEDU2600 Sem1 Q50",
+            "20-21 MEDU2600 Final Q10",
+            "21-22 MEDU2600 Test Q49",
+            "21-22 MEDU2600 Final Q7",
+            "22-23 MEDU2600 Test Q50",
+            "16-17 MEDU2600 Test Q58"
+          ]
+        }
       }
     }
   },
@@ -12446,6 +12626,1305 @@
       },
       "answer": "D",
       "explanation": " A. No effect\n B. It affects the level of Css, but not the time required to reach it\n C. Same as B\nD. Usually it takes around 4-5 half lives to reach the steady state plasma concentration.\n E. Also affects Css but not the time required to reach it.\n\nNote that Css is reached when clearance = dosing rate"
+    },
+    "15-16 MEDU2600 Test Q45": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which is right for hexokinase & glucokinase?\ni. Glucokinase found in liver, hexokinase is found in brain\nii. Hexokinase has a lower Km while glucokinase has a higher Km\niii hexokinase but not glucokinase exhibits product inhibition by g6p\niv glucokinase but not hexokinase is an inducible enzyme",
+      "options": {
+        "A": "All",
+        "B": "All but i",
+        "C": "i, ii",
+        "D": "iii, iv",
+        "E": "None of the above"
+      },
+      "answer": "A",
+      "explanation": "Hexokinase:\n- Present in all cell types\n- High affinity for glucose regardless of glucose concentration (Low Km)\n- Inhibited by high levels of G6P\n\nGlucokinase:\n- Only found in liver (For regulation of blood glucose after a meal)\n- Insulin induces its synthesis (inducible enzyme)\n- Low affinity for glucose (only catalyze formation of G6P under high glucose concentration)\n- Not inhibited by high levels of G6P\n- Provide G6P for synthesis of glycogen"
+    },
+    "15-16 MEDU2600 Test Q46": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "A function of the enzyme lactate dehydrogenase in the red blood cell is",
+      "options": {
+        "A": "To reduce potentially toxic lactate",
+        "B": "Produce Acetyl CoA",
+        "C": "To recycle NADH to NAD+ for glycolysis",
+        "D": "Provide ATP",
+        "E": "Produce pyruvate for next enzymatic reaction by pyruvate dehydrogenase"
+      },
+      "answer": "C",
+      "explanation": "Lactate dehydrogenase helps convert pyruvate into lactic acid with the recycling of NADH into NAD+."
+    },
+    "16-17 MEDU2600 Test Q45": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Km for glucose of Hexokinase is 30 micromole and glucokinase is 10 millimole. Normally, the postprandial level of glucose in the hepatic portal vein is 10 millimole. Which of the following is correct about hexokinase glucokinase or both?",
+      "options": {
+        "A": "Both are near fully saturated",
+        "B": "Glucokinase near fully saturated",
+        "C": "Hexokinase near fully saturated",
+        "D": "Neither are fully saturated",
+        "E": "Forgot"
+      },
+      "answer": "C",
+      "explanation": "The lower the Km, the higher the affinity.\nKm refers to the amount of substrate that is required to half-saturate the enzyme. Recall from Albert Cheung’s lecture last year!\nYou need to know that hexokinase has a higher affinity, however."
+    },
+    "16-17 MEDU2600 Test Q49": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following are possible reactions in humans?\nI. pyruvate → lactate\nII. pyruvate → acetyl coA\nIII. pyruvate → oxaloacetate\nIV. pyruvate → alanine",
+      "options": {
+        "A": "All",
+        "B": "All except I",
+        "C": "All except II",
+        "D": "All except III",
+        "E": "All except IV"
+      },
+      "answer": "A",
+      "explanation": "I. Catalyzed by lactate dehydrogenase\nII. Catalyzed by pyruvate dehydrogenase complex\nIII. Catalyzed by pyruvate carboxylase (3C → 4C)\nIV. Catalyzed by alanine aminotransferase (transamination; nitrogen metabolism)"
+    },
+    "17-18 MEDU2600 Final Q5": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "What is the function of lactate dehydrogenase in RBC",
+      "options": {
+        "A": "removing potentially toxic lactate",
+        "B": "Produce ATP by substrate-level phosphorylation",
+        "C": "Produce NADPH",
+        "D": "Related to fatty acid metabolism",
+        "E": "recycle NADH to NAD+"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q20": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "under fed state, glucokinase is",
+      "options": {
+        "A": "convert G6p to glucose",
+        "B": "convert Glycerol to glycerol 3 P",
+        "C": "..... is inactive",
+        "D": "increase Enzymatic activity by glucagon",
+        "E": "increase Enzymatic activity by insulin"
+      },
+      "answer": "E",
+      "explanation": "Glucokinase activity is induced by insulin."
+    },
+    "18-19 MEDU2600 Test Q50": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Muscle phosphofructokinase deficiency is characterized by muscle pain, weakness, and low exercise endurance. Biopsy shows increased level of muscle glycogen and exercise evokes little or no increase in venous lactate. Which of the following statements is true regarding phosphofructokinase?",
+      "options": {
+        "A": "This enzyme is allosterically inhibited by citrate.",
+        "B": "This enzyme is allosterically activated by ATP.",
+        "C": "This enzyme is the major regulatory enzyme for the pentose phosphate pathway.",
+        "D": "Increased glucose catabolism accounts for the increased muscle glycogen.",
+        "E": "Increased glucose catabolism accounts for the reduced venous lactate."
+      },
+      "answer": "A",
+      "explanation": "PFK:\n- Allosterically inhibited by ATP & citrate\n- Activated by high AMP (ADP + ADP → ATP + AMP)\n\nMuscle pain and weakness are caused by the inability to mobilize glycogen and glucose during exercise. As glycolysis is stopped, of course no pyruvate is released for production of lactate. PFK is activated by AMP and inhibited by citrate and ATP.\nC is wrong as regulation of PPP is at G6PD.\nD and E are wrong as they should be explained by reduced glucose metabolism."
+    },
+    "18-19 MEDU2600 Final Q3": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "The Km for hexokinase is 30 μM, while the Km for glucokinase is 10mM. Which of the following is true when blood glucose concentration is 10 mM?",
+      "options": {
+        "A": "Both hexokinase and glucokinase operate near maximal velocity",
+        "B": "Neither hexokinase nor glucokinase operate near maximal velocity",
+        "C": "Only glucokinase operates near maximal velocity",
+        "D": "Only hexokinase operates near maximum velocity",
+        "E": "Concentration of fructose and glucose determine whether they are operate near maximal velocity"
+      },
+      "answer": "D",
+      "explanation": "The higher the Km, the lower the affinity of an enzyme towards the substrate."
+    },
+    "18-19 MEDU2600 Final Q5": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "In muscle, pyruvate is converted into glycogen but not blood glucose because,",
+      "options": {
+        "A": "There is no Glucose 6 Phosphatase",
+        "B": "There is no Glucose 6 Phosphate Dehydrogenase",
+        "C": "Muscle has no glycogenic (?) capacity",
+        "D": "Pyruvate in muscle is used to enter PPP"
+      },
+      "answer": "A",
+      "explanation": "Refer to P. 7 of Glycogen Metabolism.\nGlucose 6-phosphatase is only expressed on sER of hepatocyte, hence LIVER is the only organ capable of performing gluconeogenesis and glycogenolysis to yield glucose. Muscles cannot perform gluconeogenesis to yield glucose, and have to rely on the glucose 6-phosphate produced in glycogenolysis. The G6P is then passed to glycolysis to yield pyruvate."
+    },
+    "19-20 MEDU2600 Sem1 Q47": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "What is the net release of NADH from 1 mole of glucose 6-phosphate undergoing glycolysis and conversion to acetyl-CoA?",
+      "options": {
+        "A": "0 mole",
+        "B": "1 mole",
+        "C": "2 mole",
+        "D": "3 mole",
+        "E": "4 mole"
+      },
+      "answer": "E",
+      "explanation": "When glyceraldehyde-3-phosphate is converted into 1,3-bisphosphoglycerate by glyceraldehyde-3-phosphate dehydrogenase, 1 NADH is produced → 2 moles\nWhen pyruvate is converted into acetyl-CoA by pyruvate dehydrogenase, 1 NADH is produced per pyruvate → 2 moles"
+    },
+    "20-21 MEDU2600 Sem1 Q45": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Glucokinase and hexokinase are responsible for converting glucose to glucose 6-phosphate. Which of the following about the two enzymes is true?",
+      "options": {
+        "A": "Hexokinase, but not glucokinase, is an inducible enzyme",
+        "B": "Hexokinase has low affinity for glucose while glucokinase has high affinity for glucose",
+        "C": "Glucokinase, but not hexokinase, is subject to inhibition by glucose 6-phosphate",
+        "D": "Glucokinase, but not hexokinase, provides glucose 6-phosphate for glycogen synthesis",
+        "E": "Glucokinase is mainly expressed in the brain while hexokinase is mainly expressed in the liver"
+      },
+      "answer": "D",
+      "explanation": "A. Glucokinase is inducible by insulin.\nB. Hexokinase has high affinity to glucose regardless of glucose concentration; glucokinase only has high affinity to glucose at high glucose level\nC. Hexokinase is subject to the inhibition of glucose 6-phosphate\nD. Correct.\nE. Hexokinase is expressed in ALL cells to break down glucose for energy; glucokinase is ONLY expressed in the liver for glycogenesis."
+    },
+    "20-21 MEDU2600 Final Q4": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which is produced by RBC in glycolysis?",
+      "options": {
+        "A": "GDP",
+        "B": "CO2",
+        "C": "Acetyl CoA",
+        "D": "NADH",
+        "E": "Water"
+      },
+      "answer": "D",
+      "explanation": "A. is not produced in any reaction.\nB. Only produced in Link reaction and TCA cycle.\nC. Only produced in Link reaction and TCA cycle.\nD. Correct.\nE. Only produced in oxidative phosphorylation."
+    },
+    "20-21 MEDU2600 Final Q6": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "What is the net yield of NADH if 1 mole of glucose 6-phosphate is metabolised by glycolysis and pyruvate dehydrogenase to yield acetyl CoA?",
+      "options": {
+        "A": "0 moles",
+        "B": "1 mole",
+        "C": "2 moles",
+        "D": "3 moles",
+        "E": "4 moles"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Test Q45": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "What is the importance of 2,3-bisphosphoglycerate to RBC?",
+      "options": {
+        "A": "Regulation of oxygen release and uptake",
+        "B": "Regulation of glucose uptake",
+        "C": "Regulation of PFK"
+      },
+      "answer": "A",
+      "explanation": "2,3-BPG lowers oxygen affinity of hemoglobin, hence facilitates release of oxygen at hypoxic tissues. Hence, production of 2,3-BPG is increased during acclimatization to high altitude so as to cope with lower atmospheric oxygen concentration."
+    },
+    "21-22 MEDU2600 Final Q3": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "The enzyme lactate dehydrogenase is important in:",
+      "options": {
+        "A": "Alcoholic fermentation in yeast",
+        "B": "The citric acid cycle",
+        "C": "The Cori cycle",
+        "D": "Generation of ATP during oxidative phosphorylation",
+        "E": "The generation of NADPH during catabolism"
+      },
+      "answer": "C",
+      "explanation": "Cori cycle refers to the production of lactate in skeletal muscles, which is converted into glucose in the liver by gluconeogenesis, and transported to skeletal muscles for anaerobic glycolysis into lactate again."
+    },
+    "22-23 MEDU2600 Test Q46": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Lactate dehydrogenase is important in",
+      "options": {
+        "A": "Alcohol fermentation in yeast.",
+        "B": "TCA cycle.",
+        "C": "Cori cycle.",
+        "D": "NADH generation during glycolysis.",
+        "E": "NADPH generation during catabolism."
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "14-15 MEDU2600 Test Q7": {
+      "year": "2014-15",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following statements about the citric acid cycle is correct?",
+      "options": {
+        "A": "The reversible nature of the pyruvate dehydrogenase reaction is responsible for the tight control of the citric acid cycle",
+        "B": "The complete oxidation of acetyl CoA requires the presence of NADPH",
+        "C": "The cycle speeds up when cellular energy levels are low, and slows down as ATP accumulates",
+        "D": "Only fatty acids but not carbohydrates can be oxidized completely in this cycle.",
+        "E": "Excess acetyl CoA is converted to urea for excretion to avoid the build-up of this toxic ketogenic intermediate"
+      },
+      "answer": "C",
+      "explanation": "A. Not related to control of the TCA cycle. Instead, the control of TCA cycle is mediated by substrate availability and irreversible nature of citrate synthase, isocitrate dehydrogenase and α-ketoglutarate reactions. For example, in low energy profile, high NADH favors formation of malate from OAA for gluconeogenesis.\nB. Oxidation of acetyl CoA requires NAD and FAD instead of NADPH.\nC. TCA cycle is favored when NADH and FADH are rapidly consumed, i.e. oxidative phosphorylation is available, and this makes cellular energy high as many ATP could be produced.\nD. TCA cycle is where the breakdown of carbohydrates and fatty acids meet.\nE. Excess acetyl CoA is converted to fatty acid for storage, instead of urea. However, build-up of toxic ketone bodies is possible but they come from breakdown of fatty acid instead of synthesis from excess acetyl CoA."
+    },
+    "14-15 MEDU2600 Test Q8": {
+      "year": "2014-15",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "In fat cells undergoing pentose phosphate pathway, cellular requirement for NADPH usually exceeds that of ribose-5-phosphate. Which of the following statements is correct?",
+      "options": {
+        "A": "Only the irreversible part of the pentose phosphate pathway would occur",
+        "B": "Both the irreversible and reversible parts of the pentose phosphate pathway would occur",
+        "C": "Only the reversible part of the pentose phosphate pathway would occur",
+        "D": "Neither the irreversible part nor the reversible part of the pentose phosphate pathway would occur.",
+        "E": "Nucleic acid degradation would be stimulated to replenish the deficient pentose"
+      },
+      "answer": "B",
+      "explanation": "There are a total of 3 cases:\n1. Requires only NADPH: Both oxidative (irreversible) and non-oxidative (reversible) stages of PPP will be activated, with the ribose 5-phosphate being recycled into glycolytic intermediates.\n2. Requires only ribose 5-phosphate: ONLY NON-OXIDATIVE (reversible) stages of PPP will be activated.\n3. Requires both NADPH and ribose 5-phosphate: ONLY OXIDATIVE (irreversible) stages of PPP will be activated."
+    },
+    "15-16 MEDU2600 Final Q27": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following about gluconeogenesis is correct?",
+      "options": {
+        "A": "Gluconeogenesis takes place in all body cells.",
+        "B": "Gluconeogenesis produces free glucose in the liver as lactate, amino acids and fatty acids as the substrates.",
+        "C": "Glucose-6-phosphatase in the liver is important to maintain fasting glucose homeostasis.",
+        "D": "In Cori cycle, muscle convert lactate to free glucose to replenish depleted blood glucose due to strenuous exercise",
+        "E": "Phosphofructokinase is important in gluconeogenesis because it is an allosteric enzyme"
+      },
+      "answer": "C",
+      "explanation": "A. Gluconeogenesis mainly takes place in the liver. In the brain, skeletal muscles and kidney, gluconeogenesis also takes place to a small extent.\nB. All these substrates should convert into pyruvate or DHAP (glycerol) first before entering the gluconeogenesis pathway. Note that almost everything can eventually be converted back to glucose, except acetyl-CoA and its friends such as malonyl-CoA\nC. Correct. Glucose 6-phosphatase catalyzes the last step of gluconeogenesis.\nD. Muscle converts lactate into pyruvate during Cori cycle; besides, muscle lack glucose 6-phosphatase\nE. PFK is not involved."
+    },
+    "15-16 MEDU2600 Final Q17": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following statements correctly describe the citric acid cycle?\n1. It occurs in all cell of the body\n2. It can occur in the absence of oxygen\n3. It oxidizes acetyl CoA synthesized from glucose, amino acid and fatty acid\n4. It produces most of the ATP and CO2.\n5. It produces precursors for some amino acids",
+      "options": {
+        "A": "1,2,3",
+        "B": "2,3,4",
+        "C": "3,4",
+        "D": "3,4,5",
+        "E": "all of the above"
+      },
+      "answer": "D",
+      "explanation": "1. Exception: RBCs\n2. Oxygen is required as the final electron acceptor in the electron transport chain for regeneration of NAD+ and FAD+ for the continuation of TCA cycle\n3. Correct\n4. Correct (arguable for the part on ATP)\n5. Examples: glutamate, aspartate (Glucogenic amino acids)"
+    },
+    "16-17 MEDU2600 Final Q5": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following on gluconeogenesis is correct?",
+      "options": {
+        "A": "Gluconeogenesis occurs in all cells in body",
+        "B": "Glucose-6-phosphatase is a gluconeogenic enzyme important in maintaining blood glucose level during fasting",
+        "C": "Cori cycle, lactate from muscle is used in gluconeogenesis for supply glucose to all body",
+        "D": "Lactate and amino acid are for gluconeogenesis",
+        "E": "Phosphofructokinase is enzyme regulating gluconeogenesis"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q7": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Dinitrophenol uncouples the electron transport chain by:",
+      "options": {
+        "A": "Blocking reduction of oxygen to water",
+        "B": "Blocking the transport of electron from cytosol to mitochondrial matrix",
+        "C": "Dissipating the proton gradient across inner mitochondrial membrane",
+        "D": "Inhibiting oxidation of ubiquinone",
+        "E": "Inhibiting transport of proton across inner mitochondrial membrane"
+      },
+      "answer": "C",
+      "explanation": "2,4-dinitrophenol disrupts the H+ gradient by binding to H+ in inner membrane space and transporting them back to the mitochondrial matrix. Electron transport is rapid, but a proton gradient cannot be established as a result. The energy is released as heat."
+    },
+    "16-17 MEDU2600 Final Q17": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Product of aminotransferase-catalyzed reaction between pyruvate and glutamate",
+      "options": {
+        "A": "Alanine and a-ketoglutarate",
+        "B": "Alanine and oxaloacetate",
+        "C": "Aspartate and a-ketoglutarate",
+        "D": "Aspartate and oxaloacetate",
+        "E": "Oxaloacetate and a-ketoglutarate"
+      },
+      "answer": "A",
+      "explanation": "This reaction is catalyzed by alanine aminotransferase.\nFor E, they are the products of ASPARTATE & glutamate."
+    },
+    "16-17 MEDU2600 Test Q46": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following act as an reducing agent for metabolism -,-",
+      "options": {
+        "A": "NADH",
+        "B": "NADPH",
+        "C": "ATP",
+        "D": "ADP",
+        "E": "AMP"
+      },
+      "answer": "B",
+      "explanation": "Note that A may also be an answer"
+    },
+    "16-17 MEDU2600 Test Q47": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following considering RBC metabolism is correct? (can choose more than one)",
+      "options": {
+        "A": "It can undergo glycolysis and TCA cycle",
+        "B": "It is transformed to metHb under oxygen exposure and can be recovered through NADPH produced from PPP.",
+        "C": "It can synthesize NADH and NADPH"
+      },
+      "answer": "C",
+      "explanation": "B: metHb is recovered through NADH-dependent metHb reductase or NADH-dependent cytochrome b5 reductase"
+    },
+    "16-17 MEDU2600 Final Q4": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "NADPH is used instead of NADH. Why?",
+      "options": {
+        "A": "NADPH can diffuse across mitochondrial membrane while NADH cannot",
+        "B": "NADPH has 1 more phosphate group which can synthesize ATP",
+        "C": "NADPH has stronger reducing power than NADH",
+        "D": "In most tissue, NADPH is produced in larger quantity than NADH in anaerobic break down of glucose",
+        "E": "Enzyme involved is specific towards using NADPH as coenzyme"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q8": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following statements correctly describe the PPP pathway in fat cells?",
+      "options": {
+        "A": "Both irreversible and reversible pathways in PPP would occur",
+        "B": "Neither irreversible and reversible pathways in PPP would occur",
+        "C": "Nucleic acid degradation would be stimulated to generate pentose",
+        "D": "Only irreversible pathway of PPP would occur",
+        "E": "only reversible pathway of PPP would occur"
+      },
+      "answer": "A",
+      "explanation": "Note that fat cells require NADPH mostly for fatty acid synthesis.\nThus, both reversible and irreversible parts of PPP will be activated to synthesize NADPH plus recycle ribose 5-phosphate as glycolytic intermediates."
+    },
+    "16-17 MEDU2600 Final Q10": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following statements about glucose-6-phosphate dehydrogenase is correct?",
+      "options": {
+        "A": "It catalyses the reaction causing cataracts in diabetic patients",
+        "B": "It catalyses the committed first step of glycolysis",
+        "C": "It is absent in the liver",
+        "D": "It is important for the metabolism of glutathione in red blood cells",
+        "E": "It uses NAD+ as a coenzyme"
+      },
+      "answer": "D",
+      "explanation": "This enzyme catalyzes the conversion of glucose 6-phosphate to 6-phosphogluconolactone with the generation of a NADPH molecule. NADPH is useful for the reduction of glutathione from GSSG to GSH. GSH is useful to react with reactive oxygen species to prevent hemolytic anemia."
+    },
+    "16-17 MEDU2600 Final Q16": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which is true about glutathione (GSH)?",
+      "options": {
+        "A": "Glutathione dehydroxylase recycles GSSG from GSH",
+        "B": "Glutathione reductase recycles GSH to GSSG",
+        "C": "Involve in fatty acid transport",
+        "D": "Extracellular antioxidant",
+        "E": "Glutathione consists of glutamine phenylalanine and glycine"
+      },
+      "answer": "D",
+      "explanation": "A. The enzyme involved in the conversion of GSH to GSSG is glutathione peroxidase\nB. Same as A (despite a twist in grammar…)\nC. Albumin is involved in fatty acid transport\nD. GSH may react with reactive oxygen species\nE. Glutathione = glycine + cysteine + glutamate"
+    },
+    "17-18 MEDU2600 Test Q46": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following enzymes is involved in both gluconeogenesis and glycolysis?",
+      "options": {
+        "A": "Hexokinase",
+        "B": "PEP carboxykinase",
+        "C": "Phosphofructokinase",
+        "D": "Phosphoglycerate kinase",
+        "E": "Pyruvate kinase"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Test Q47": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Non-shivering thermogenesis occurs in:",
+      "options": {
+        "A": "all adipose tissue upon the administration of carbon monoxide",
+        "B": "all adipose tissue upon the administration of cyanide",
+        "C": "all tissue during hypoxic injury",
+        "D": "brown adipose tissue with high gene expression of uncoupling protein",
+        "E": "white adipose tissue with large supply of triglycerides"
+      },
+      "answer": "D",
+      "explanation": "This can be achieved with thermogenin (UCP1), which generates heat by forming pores on the inner mitochondrial membrane, so that protons re-enter the mitochondrial matrix without passing through the F0F1 pump. Energy is released as heat."
+    },
+    "17-18 MEDU2600 Test Q49": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Deficiency in glucose-6-phosphate dehydrogenase and 6-Phosphogluconate dehydrogenase would lead to hemolytic anemia. What is the function of these two enzymes in red blood cell?",
+      "options": {
+        "A": "Catalyze the interconversion of 3,4,5,6,7-carbon sugar phosphate",
+        "B": "Catalyze the first two steps in converting ribulose-5-phosphate to glucose-6-phosphate",
+        "C": "provide NADH for ATP Oxidative Phosphorylation",
+        "D": "provide NADH for converting pyruvate to lactate",
+        "E": "provide NADPH for the regeneration of glutathione"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q6": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Assume malate-aspartate predominates in the liver, when oxygen is provided, how many ATP is produced when one glucose is broken down completely into CO2 and H2O?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "6",
+        "D": "38",
+        "E": "120"
+      },
+      "answer": "D",
+      "explanation": "Note that for malate-aspartate shuttle, 1 NADH in cytosol yields 1 NADH in mitochondria that enters the electron transport chain. Thus, 38 ATP is produced.\nIn the case of glycerol 3-phosphate shuttle, 1 NADH in cytosol yields 1 FADH2 in mitochondria that enters the electron transport chain. Thus, 36 ATP is produced. (2 less ATP produced as there is 2 NADH in glycolysis)."
+    },
+    "17-18 MEDU2600 Final Q4": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which is a reductive agent in metabolism:",
+      "options": {
+        "A": "AMP",
+        "B": "ADP",
+        "C": "ATP",
+        "D": "NADPH",
+        "E": "NAD+"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q8": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "The importance of the pentose phosphate pathway to the red blood cell is:",
+      "options": {
+        "A": "The presence of pentose is required for formation of 2,3-BPG",
+        "B": "Pentose is the major precursor of ATP and NADH for RBC",
+        "C": "Pentose is a major component of hemoglobin",
+        "D": "The pentose phosphate pathway is the only carbohydrate metabolism pathway in the RBC",
+        "E": "The pentose phosphate pathway produces NADPH for maintaining the structural integrity of the RBC"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q6": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Why anaplerotic reactions are important for TCA cycle intermediates",
+      "options": {
+        "A": "TCA cycle intermediates are consumed by other molecules metabolism",
+        "B": "Pyruvate dehydrogenase is essentially irreversible"
+      },
+      "answer": "A",
+      "explanation": "Anaplerotic reactions (from the Greek ?ν?= 'up' and πληρ?ω= 'to fill') are chemical reactions that form intermediates of a metabolic pathway.\nhttps://en.wikipedia.org/wiki/Anaplerotic_reactions"
+    },
+    "18-19 MEDU2600 Final Q7": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "The flow of electron in electron transport chain of inner mitochondrial membrane is regulated by",
+      "options": {
+        "A": "Pyruvate dehydrogenase",
+        "B": "Alpha ketoglutarate dehydrogenase",
+        "C": "Activating acetyl CoA",
+        "D": "Citrate",
+        "E": "Energy level of cell"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Test Q48": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "If oxidative phosphorylation is uncoupled in mitochondria, which of the following is expected?",
+      "options": {
+        "A": "Decrease in ADP",
+        "B": "Decrease in heat production",
+        "C": "Decrease in substrate oxidation rate",
+        "D": "Increase in cytosolic inorganic phosphate",
+        "E": "Increase in ADP transport from mitochondria to cytosol"
+      },
+      "answer": "E",
+      "explanation": "A. ADP accumulate → increase\nB. energy cannot be converted to ATP → dissipated as heat → increase\nC. would not affect NADH/FADH2 oxidation rate → just affect H+ gradient\nD. cytosolic → mitochondrial\nFrom Rebecca: I think this is not a complete question? Or a wrong question? Did you get it from the textbook? I don’t think the question makes sense, I guess some information is missing / wrong, thus I cannot give you a correct answer. But option B is definitely incorrect, there should be an increase in heat production."
+    },
+    "18-19 MEDU2600 Test Q49": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "In fat cells undergoing pentose phosphate pathway, cellular requirement for NADPH usually exceeds that of ribose-5-phosphate. Which of the following statements is correct?",
+      "options": {
+        "A": "Only the irreversible part of the pentose phosphate pathway would occur",
+        "B": "Both the irreversible and reversible parts of the pentose phosphate pathway would occur",
+        "C": "Only the reversible part of the pentose phosphate pathway would occur",
+        "D": "Neither the irreversible part nor the reversible part of the pentose phosphate pathway would occur",
+        "E": "Nucleic acid degradation would be stimulated to replenish the deficient pentose"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q4": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following molecules is common in both pentose phosphate pathway and glycolysis?",
+      "options": {
+        "A": "2,3-bisphosphoglycerate",
+        "B": "6-phosphogluconate",
+        "C": "fructose-1-phosphate",
+        "D": "glyceraldehyde-3-phosphate",
+        "E": "Ribulose-5-phosphate"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q8": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Why is the irreversible part of PPP important for adipose tissue?",
+      "options": {
+        "A": "Adipocytes lacks nuclei",
+        "B": "Adipocytes don’t have sufficient number of mitochondria",
+        "C": "Adipocytes needs large amount of 5C sugar",
+        "D": "Adipocytes needs large amount of NADPH",
+        "E": "Glycolysis is not significant in adipocytes"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q5": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "The purpose of Cori cycle is to shift metabolic burden in which of the following direction?",
+      "options": {
+        "A": "muscle to liver",
+        "B": "liver to muscle",
+        "C": "cardiac to skeletal muscle",
+        "D": "brain to liver",
+        "E": "liver to brain"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q6": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "In the citric acid cycle, GTP is produced via a process referred to as substrate-level phosphorylation. Which of the following enzymes is involved in this process of formation of GTP from GDP?",
+      "options": {
+        "A": "isocitrate dehydrogenase",
+        "B": "Citrate synthase",
+        "C": "malate dehydrogenase",
+        "D": "succinate dehydrogenase",
+        "E": "succinyl-CoA synthetase"
+      },
+      "answer": "E",
+      "explanation": "GTP is obtained in the conversion of succinyl CoA into succinate, catalysed by E.\nEven if you forgot this step, you can deduce the answer with the word “synthetase”, as it catalyzes steps that require ATP/GTP. The same goes for fatty acyl CoA synthetase."
+    },
+    "19-20 MEDU2600 Final Q7": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "The term “oxidative phosphorylation” refers to a process in which",
+      "options": {
+        "A": "ATP energy supplies power for transfer of electrons from substrate to oxygen",
+        "B": "electron transfer from substrate to oxygen provides energy to create a proton gradient which then powers ATP synthesis",
+        "C": "ATP energy is used to drive proton across the inner mitochondrial membrane",
+        "D": "a proton gradient provides power for electron transfer from substrate to oxygen",
+        "E": "phosphorylation of ADP creates a pH gradient across the inner mitochondrial membrane"
+      },
+      "answer": "B",
+      "explanation": "D is almost correct, but it is not the proton gradient that drives electron transfer. Don’t be misled."
+    },
+    "19-20 MEDU2600 Final Q8": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "The irreversible reactions of Pentose Phosphate Pathway are very important for adipocyte because they",
+      "options": {
+        "A": "provide an alternative pathway for energy producing should glycolysis fall",
+        "B": "provide a mechanism for utilization of C skeleton of excess amino acids",
+        "C": "provide an alternative pathway for oxidation of excess fructose",
+        "D": "supply the cell with pentose sugar and NADPH",
+        "E": "supply the cell with hexose and NADH"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q44": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Why does reductive biosynthesis make use of NADPH instead of NADH? Most possible reason is…",
+      "options": {
+        "A": "In most tissues, NADPH more abundantly produced by anaerobic respiration of glucose",
+        "B": "NADPH permeable to mitochondrial membrane but NADH is not",
+        "C": "Nadph has one more phosphate group that can drive ATP synthesis",
+        "D": "NADPH is stronger reducing agent",
+        "E": "Enzymes involved in reductive biosynthesis bind more specifically to NADPH."
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q46": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following is correct concerning pyruvate dehydrogenase?",
+      "options": {
+        "A": "Its catalytic ability is enhanced by dephosphorylation.",
+        "B": "It is phosphorylated by pyruvate dehydrogenase phosphatase.",
+        "C": "It catalyzes oxidative carboxylation.",
+        "D": "Its catalytic activity is increased by high energy charge.",
+        "E": "It catalyzed a reversible reaction"
+      },
+      "answer": "A",
+      "explanation": "A. Insulin stimulates PDH phosphatase to activate the link reaction and kick off acetyl-CoA and fatty acid synthesis.\nB. Phosphatase removes phosphate groups.\nC. It catalyzes oxidative decarboxylation.\nD. High ATP:ADP ratio will inactivate it by activating PDH kinase. ATP also inhibits PDH allosterically.\nE. This reaction is irreversible."
+    },
+    "20-21 MEDU2600 Sem1 Q48": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following can be found in the oxidative branch of the pentose phosphate pathway?",
+      "options": {
+        "A": "6-phosphogluconolactone",
+        "B": "Glucose 1-phosphate",
+        "C": "Phosphoribosyl pyrophosphate",
+        "D": "Fructose 6-phosphate",
+        "E": "Erythrose 4-phosphate"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q5": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following enzymes are not present in muscle but present in liver?",
+      "options": {
+        "A": "Hexokinase",
+        "B": "Glucose 6-phosphatase",
+        "C": "Lactate dehydrogenase",
+        "D": "Pyruvate dehydrogenase",
+        "E": "Glycogen phosphorylase"
+      },
+      "answer": "B",
+      "explanation": "Gluconeogenesis is unique to the liver. Thus, the enzymes responsible for gluconeogenesis but not glycolysis will be the answer."
+    },
+    "20-21 MEDU2600 Final Q7": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Cyanide, one of the most rapid acting poisons in humans, inhibit electron transport chain by:",
+      "options": {
+        "A": "inhibiting ATP synthase in inner mitochondrial membrane",
+        "B": "inhibiting Complex I of electron transport chain",
+        "C": "inhibiting Complex II of electron transport chain",
+        "D": "inhibiting Complex III of electron transport chain",
+        "E": "inhibiting Complex IV of electron transport chain"
+      },
+      "answer": "E",
+      "explanation": "CO has the same effect to cause tissue hypoxia."
+    },
+    "20-21 MEDU2600 Final Q8": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "What is the main function of the pentose phosphate pathway?",
+      "options": {
+        "A": "Provide alternative pathway for breaking down C skeleton of amino acid",
+        "B": "Provide alternative pathway for break down excess fructose",
+        "C": "Provide alternative pathway when glycolysis is not enough to obtain energy",
+        "D": "Supply NADH and hexose sugar",
+        "E": "Supply pentose sugar and NADPH"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Test Q46": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "A man is trapped under a collapsed building for four days. His glucose level is normal. What is the process that accounts for this?",
+      "options": {
+        "A": "Gluconeogenesis",
+        "B": "Muscle glycogen breakdown",
+        "C": "Liver glycogen breakdown",
+        "D": "Protein synthesis"
+      },
+      "answer": "A",
+      "explanation": "Muscle glycogen is irrelevant to blood glucose homeostasis due to its lack of glucose 6-phosphatase. Liver glycogen can only last for 24 hours, and it can only be gluconeogenesis (Most likely from amino acids of skeletal muscle) to last 4 days."
+    },
+    "21-22 MEDU2600 Test Q47": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "How does oligomycin affect oxidative phosphorylation?",
+      "options": {
+        "A": "ATP synthase",
+        "B": "Complex I",
+        "C": "Complex II",
+        "D": "Complex III",
+        "E": "Complex IV"
+      },
+      "answer": "A",
+      "explanation": "It blocks the F0 (Proton channel) part of ATP synthase, stopping ATP synthesis."
+    },
+    "21-22 MEDU2600 Final Q6": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following enzymes is absent in muscle but present in liver?",
+      "options": {
+        "A": "Hexokinase",
+        "B": "Glucose 6-phosphatase",
+        "C": "Lactate dehydrogenase",
+        "D": "Pyruvate dehydrogenase",
+        "E": "Glycogen phosphorylase"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q8": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following is a common intermediate in the conversion of glycerol and lactate to glucose?",
+      "options": {
+        "A": "Glucose-6-phosphate",
+        "B": "Malate",
+        "C": "Oxaloacetate",
+        "D": "Phosphoenolpyruvate",
+        "E": "Pyruvate"
+      },
+      "answer": "A",
+      "explanation": "Do note that glycerol enters gluconeogenesis as DHAP, while lactate enters gluconeogenesis via pyruvate in the Cori cycle. Their starting point is different."
+    },
+    "21-22 MEDU2600 Final Q10": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following statements is correct about PPP in adipocytes?",
+      "options": {
+        "A": "Both irreversible and reversible reactions proceed",
+        "B": "Neither irreversible nor reversible reactions proceed",
+        "C": "Nucleic acid degeneration for replenishing the loss of phosphopentose",
+        "D": "Only irreversible reactions proceed",
+        "E": "Only reversible reactions proceed"
+      },
+      "answer": "A",
+      "explanation": "After adipocytes have obtained NADPH for reductive synthesis in reversible reactions, they still require acetyl CoA for conversion into malonyl CoA to construct the fatty acid chain. So, the ribulose 5-phosphate is recycled by reversible reactions into G3P and F6P to be fed into glycolysis to obtain acetyl CoA."
+    },
+    "22-23 MEDU2600 Test Q47": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "How many molecules of ATP are generated when one glucose molecule is metabolised completely to CO2 and H2O in the presence of oxygen? Assume that the malate-aspartate shuttle operates predominantly in liver.",
+      "options": {
+        "A": "30",
+        "B": "32",
+        "C": "34",
+        "D": "36",
+        "E": "38"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "22-23 MEDU2600 Test Q48": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following enzymes functions in the oxidative segment of pentose phosphate pathway?",
+      "options": {
+        "A": "6-phosphogluconate dehydrogenase.",
+        "B": "Fructose 1,6-bisphosphatase.",
+        "C": "Glucose 6-phosphatase.",
+        "D": "Glucose 6-phosphate hydroxylase.",
+        "E": "Glyceraldehyde 3-phosphate dehydrogenase."
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Test Q60": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Formation of glucose from glycogen is NOT an example of:",
+      "options": {
+        "A": "Metabolism",
+        "B": "Breakdown reaction",
+        "C": "Catabolism",
+        "D": "Anabolism",
+        "E": "Hydrolysis"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q9": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following statement about hormonal control of carbohydrate metabolism is correct?",
+      "options": {
+        "A": "Both glucagon and epinephrine are secreted in response to hyperglycemia",
+        "B": "Both glycogen synthetase and glycogen phosphatase are activated by phosphorylation",
+        "C": "Glucagon is the primary control of carbohydrate metabolism in liver",
+        "D": "Insulin is secreted in response to hypoglycemia",
+        "E": "Insulin stimulates release of glucagon"
+      },
+      "answer": "C",
+      "explanation": "A. Glucagon and epinephrine (catecholamines) are secreted in response to hypoglycemia\nB. ONLY glycogen phosphorylase is activated by phosphorylation. Glycogen synthase (indeed not synthetase) is deactivated by phosphorylation. Glycogen phosphatase is an unknown enzyme for our syllabus.\nC. Glucagon and insulin are the 2 major hormones that control metabolism.\nD. Insulin is secreted in response to hypoglycemia.\nE. Insulin and glucagon are antagonistic in nature."
+    },
+    "17-18 MEDU2600 Test Q48": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which enzyme is used to turn glycogen into glucose-1-phosphate in the liver?",
+      "options": {
+        "A": "Branching enzyme",
+        "B": "Glucose-6-phosphate dehydrogenase",
+        "C": "Glycogen phosphorylase",
+        "D": "Phosphoglucoisomerase",
+        "E": "UDP glucose pyrophosphorylase"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q9": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following about hormonal regulation of carbohydrate metabolism?",
+      "options": {
+        "A": "Glucagon and epinephrine are secreted in response to hyperglycaemia",
+        "B": "Both glycogen synthase and phosphorylase are activated by phosphorylation",
+        "C": "Both glycogen synthase and phosphorylase are inhibited by dephosphorylation",
+        "D": "Glucagon inhibit breakdown of glycogen",
+        "E": "Insulin stimulate synthesis of glycogen"
+      },
+      "answer": "E",
+      "explanation": "This is very similar to a past paper question. Pay attention to the minor changes in the options!!!"
+    },
+    "19-20 MEDU2600 Final Q9": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which enzyme forms alpha 1,6 linkage in glycogen",
+      "options": {
+        "A": "Alpha 16 glucosidase",
+        "B": "Glucose 6 phosphatase",
+        "C": "Glycogen branching enzyme",
+        "D": "Glycogen synthase",
+        "E": "Phosphorylase kinase"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q49": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "When glucose is incorporated into liver glycogen, which of the following is the direct glucosyl donor?",
+      "options": {
+        "A": "ATP glucose",
+        "B": "GTP glucose",
+        "C": "UDP glucose",
+        "D": "Glucose-1-phosphate",
+        "E": "Glucose-6-phosphate"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q9": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "What is the entry point of galactose in gluconeogenesis?",
+      "options": {
+        "A": "1,3-bisphisphoglucerate",
+        "B": "DHAP",
+        "C": "Fructose-1,6-bisphosphate",
+        "D": "Fructose-6-phosphate",
+        "E": "Glucose-6-phosphate"
+      },
+      "answer": "E",
+      "explanation": "This is an interesting question. You need to know the metabolism of galactose first. Galactose is converted to Galactose 1-phosphate by galactokinase (GALK), then UDP-galactose by galactose 1-phosphate uridyltransferase (GALT), consuming 1 UDP-glucose into glucose 1-phosphate. UDP-galactose is then converted to UDP-glucose via UDP-galactose 4-epimerase. Glucose 1-phosphate is the product of galactose metabolism, which is then converted to glucose 6-phosphate by phosphoglucose mutase, joining the gluconeogenic or glycolytic pathways."
+    },
+    "21-22 MEDU2600 Test Q48": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following enzymes breaks down alpha 1,6-bond?",
+      "options": {
+        "A": "Glycogen synthase",
+        "B": "Glycogen debranching enzyme",
+        "C": "Glycogen phosphorylase",
+        "D": "Phosphoglucomutase"
+      },
+      "answer": "B",
+      "explanation": "Obviously you are looking for enzyme that can break down polysaccharides, and the only possible answer is B or C. However, glycogen phosphorylase can only yield G1P via cleaving α-1,4 glycosidic bonds on a branch at least having 5 residues. Debranching enzyme is also required in glycogenolysis as glycogen phosphorylase can only acts on glucose chain with at least 5 residues, else the other branches will block the active site. The glucosyltransferase activity of debranching enzyme helps transfer 3 glucose residues (Maltotriose) to another branch by breaking and rejoining α-1,4 bonds. However, it also possesses alpha 1,6-glucosidase activity to free the remaining 1 glucose residue in original branch. Given that glycogen branches every 8-10 residues, breakdown of each chain will yield 1 glucose and 7-9 glucose 1-phosphate. This ratio could be useful if you want to investigate the cause of impaired glycogen metabolism.\n\nThe following is outsyl but just for reference if you want to learn more:\nDeficiency of debranching enzyme causes type III glycogen storage disease (GSD III). The diagnostic test could be done by performing liver biopsy before and after fasting for 24 hours. The glycogen collected from two samples is then digested with preparations of normal glycogenolytic enzymes. The sample before fasting will show the ordinary 9:1 ratio of G1P to glucose. However, as the patient has no debranching enzyme to work during fasting, the glycogen can only be broken down up to leaving 4 residues from each branching point. Digestion with normal enzymes will yield a 3:1 ratio of G1P to glucose subsequently. This is quite difficult to understand at first glance, but this shows how biochemical principles is translated to measurable lab results, to serve diagnostic purposes."
+    },
+    "22-23 MEDU2600 Test Q49": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following about carbohydrate metabolism is correct?",
+      "options": {
+        "A": "Glucagon and epinephrine are secreted during hyperglycaemia",
+        "B": "Glycogen synthase and glycogen phosphorylase are activated when phosphorylated",
+        "C": "Glucagon is mainly involved in regulating carbohydrate metabolism in the liver",
+        "D": "Insulin is secreted during hypoglycaemia",
+        "E": "Insulin stimulates release of glucagon"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "15-16 MEDU2600 Test Q51": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "a boy, dizzy nausea vomiting, consistent with hypoglycemia, reducing sugar in urine, symptoms occur after eating fruits and cane sugar, no symptoms when breastfeeding, liver cirrhosis",
+      "options": {
+        "A": "Diabetes",
+        "B": "galact?",
+        "C": "hereditary fructose intolerance",
+        "D": "g6pd deficiency",
+        "E": "glucose 6 phosphatase deficiency"
+      },
+      "answer": "C",
+      "explanation": "In the case of fructose 1-phosphate aldolase deficiency, a person may experience fructosuria and fasting hypoglycemia.\nFor fructosuria, it is caused by the accumulation of fructose 1-phosphate that inhibits fructokinase.\nFor hypoglycemia, it is caused by the inhibition of glycogen phosphorylase by product inhibition exhibited by fructose 1-phosphate. At the same time, inorganic phosphate is trapped in F1P, so low concentration of P also inhibit glycogen phosphorylase."
+    },
+    "17-18 MEDU2600 Final Q9": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "What’s the symptom caused by G6PD deficiency?",
+      "options": {
+        "A": "Cataract",
+        "B": "Fasting hypoglycaemia",
+        "C": "Haemolytic anemia",
+        "D": "Mental retardation",
+        "E": "Sickle cell anemia"
+      },
+      "answer": "C",
+      "explanation": "RBC lacks mitochondria, so PPP is the only pathway for the synthesis of NADPH.\nG6PD deficiency leads to failure in PPP, so a lack of NADPH will lead to hemolytic anemia caused by accumulation of reactive oxygen species."
+    },
+    "18-19 MEDU2600 Final Q10": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following correctly describes the differences between pyruvate carboxylase deficiency and pyruvate dehydrogenase deficiency?",
+      "options": {
+        "A": "Gluconeogenesis response to alanine load\n- Pyruvate dehydrogenase deficiency → positive response\n- Pyruvate carboxylase deficiency → no response",
+        "B": "Alanine levels abnormally increase (?)",
+        "C": "Lactate levels: \n- pyruvate dehydrogenase deficiency: normal\n- pyruvate carboxylase deficiency: elevated",
+        "D": "Blood pH\n- Pyruvate dehydrogenase deficiency: acidosis\n- Pyruvate carboxylase deficiency: normal",
+        "E": "General well-being and physique\n- Pyruvate dehydrogenase deficiency: weak\n- Pyruvate carboxylase deficiency: normal"
+      },
+      "answer": "A",
+      "explanation": "I have rewritten this question for easier interpretation. The content shall remain the same.\nNote that \n- PDH = Pyruvate → Acetyl-CoA (i.e. TCA cycle)\n- Pyruvate carboxylase = Pyruvate → OAA (i.e. Gluconeogenesis)\nOption A: Gluconeogenesis is possible without PDH, but not without pyruvate carboxylase.\nOption B: Not related.\nOption C & D: Under BOTH conditions, pyruvate will tend to be used in anaerobic respiration. There may be chances of lactic acidosis.\nOption E: Under BOTH conditions, the patient will be weak as there is insufficient energy production."
+    },
+    "19-20 MEDU2600 Final Q10": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following is a symptom of von Gierke's disease?",
+      "options": {
+        "A": "Hepatomegaly",
+        "B": "Hypoglycemia",
+        "C": "Cataracts",
+        "D": "Hypolipidemia",
+        "E": "Diarrhea"
+      },
+      "answer": "A",
+      "explanation": "Von Gierke’s disease is an autosomal recessive glycogen storage disease. Glycogen is in excess in our liver, which leads to hepatomegaly. Other problems include fasting hypoglycemia, hyperlipidemia, lactic acidemia etc.\nSome sources suggest that B is also the answer. I will prefer A if I can only choose 1 option.\nPerhaps option B is not correctly memorized. You may refer to the question asked in 2223 Test."
+    },
+    "20-21 MEDU2600 Sem1 Q50": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Enlarged liver, lactic acidemia, fasting hypoglycemia, which enzyme is deficient?",
+      "options": {
+        "A": "Glucokinase",
+        "B": "Glucose 6 Phosphatase",
+        "C": "Glucose 6 Phosphate dehydrogenase",
+        "D": "Glucose pyrophosphorylase",
+        "E": "Glycogen synthase"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q10": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "An African American Male wants to visit his grandparents in Malaria belt in Africa. His doctor wants to prescribe him with primaquine as anti-malarial drug (sth like this). Prior to using the drug, he should test his:",
+      "options": {
+        "A": "Transketolase",
+        "B": "Pyruvate dehydrogenase",
+        "C": "Alpha-ketoglutarate dehydrogenase",
+        "D": "Glucose 6-phosphate dehydrogenase",
+        "E": "Glyceraldehyde 3-phosphate Dehydrogenase"
+      },
+      "answer": "D",
+      "explanation": "Primaquine kills malaria-causing parasites living in RBC by producing ROS. Such drug greatly increases the oxidative stress in RBC and may trigger hemolysis. The African ancestry of patient also slightly suggests that he is more likely to carry mutation in G6PD, but of course, it is just a 馬後炮. You will learn more about such ethnical distribution of genetic disorders in Term 2 Genetic lectures."
+    },
+    "21-22 MEDU2600 Test Q49": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "A 2-year-old boy has phosphoenolpyruvate carboxykinase deficiency. What substrate can he use for gluconeogenesis?",
+      "options": {
+        "A": "Aspartate",
+        "B": "Alanine",
+        "C": "Glycerol",
+        "D": "Pyruvate",
+        "E": "Lactate"
+      },
+      "answer": "C",
+      "explanation": "Glycerol can be phosphorylated into glycerol 3-phosphate by glycerol kinase, then oxidized to DHAP by glycerol 3-phosphate dehydrogenase."
+    },
+    "21-22 MEDU2600 Final Q7": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "A 12-year-old girl presented with a grossly enlarged liver. Laboratory tests suggested that she had fasting hypoglycaemia, hyperlipidemia, and lactic acidemia. This patient is consistent with a deficiency of which of the following enzymes?",
+      "options": {
+        "A": "Glucokinase",
+        "B": "Glucose 6-phosphatase",
+        "C": "Glucose 6-phosphate dehydrogenase",
+        "D": "Glycogen phosphorylase",
+        "E": "Glycogen synthase"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "22-23 MEDU2600 Test Q50": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which of the following is the symptom of Von Gierke disease?",
+      "options": {
+        "A": "Fructosuria",
+        "B": "Hemolytic anemia",
+        "C": "Hepatomegaly",
+        "D": "Hyperglycaemia",
+        "E": "Hypolipidemia"
+      },
+      "answer": "C",
+      "explanation": "Von Gierke’s disease features glucose 6-phosphatase deficiency. A will only occur in fructokinase or aldolase B deficiency. B will only occur in G6PD deficiency. C will occur as accumulation of unmetabolized glycogen causes hepatomegaly. D is wrong as it should be fasting hypoglycemia happening, due to the inability to perform gluconeogenesis or glycogenolysis. E is wrong as it should be hyperlipidemia happening, due to excessive lipolysis under stimulation of adrenaline and glucagon to release fatty acids as alternate fuel during fasting."
+    },
+    "16-17 MEDU2600 Test Q58": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Carbohydrate",
+      "question": "Which if the following metabolic pathways take place in both cytosol and mitochondria?",
+      "options": {
+        "A": "Glycolysis and TCA",
+        "B": "Glycolysis and PPP",
+        "C": "Urea cycle and TCA",
+        "D": "Urea cycle and gluconeogenesis",
+        "E": "Urea cycle and PPP"
+      },
+      "answer": "D",
+      "explanation": "Note that pyruvate carboxylase is found in mitochondria, while the rest of the enzymes of gluconeogenesis is found in cytosol."
     }
   }
 }
