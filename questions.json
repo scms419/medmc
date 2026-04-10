@@ -1610,6 +1610,258 @@
             "16-17 MEDU2600 Test Q58"
           ]
         }
+      },
+      "MEDU2300 Human Structure I": {
+        "byYear": {
+          "2015-16": [
+            "15-16 MEDU2300 Test Q2",
+            "15-16 MEDU2300 Test Q9",
+            "15-16 MEDU2300 Test Q10",
+            "15-16 MEDU2300 Final Q10",
+            "15-16 MEDU2300 Final Q3",
+            "15-16 MEDU2300 Final Q5",
+            "15-16 MEDU2300 Final Q6",
+            "15-16 MEDU2300 Test Q8",
+            "15-16 MEDU2300 Test Q16",
+            "15-16 MEDU2300 Test Q20",
+            "15-16 MEDU2300 Final Q2",
+            "15-16 MEDU2300 Final Q4",
+            "15-16 MEDU2300 Final Q7",
+            "15-16 MEDU2300 Final Q8",
+            "15-16 MEDU2300 Final Q11"
+          ],
+          "2016-17": [
+            "16-17 MEDU2300 Test Q2",
+            "16-17 MEDU2300 Test Q4",
+            "16-17 MEDU2300 Final Q1",
+            "16-17 MEDU2300 Final Q3",
+            "16-17 MEDU2300 Final Q5",
+            "16-17 MEDU2300 Final Q6",
+            "16-17 MEDU2300 Test Q5",
+            "16-17 MEDU2300 Test Q6",
+            "16-17 MEDU2300 Test Q9",
+            "16-17 MEDU2300 Final Q2",
+            "16-17 MEDU2300 Final Q7",
+            "16-17 MEDU2300 Final Q11",
+            "16-17 MEDU2300 Test Q1",
+            "16-17 MEDU2300 Test Q3",
+            "16-17 MEDU2300 Final Q8",
+            "16-17 MEDU2300 Final Q9",
+            "16-17 MEDU2300 Final Q10"
+          ],
+          "2017-18": [
+            "17-18 MEDU2300 Test Q1",
+            "17-18 MEDU2300 Test Q2",
+            "17-18 MEDU2300 Final Q1",
+            "17-18 MEDU2300 Test Q3",
+            "17-18 MEDU2300 Test Q4",
+            "17-18 MEDU2300 Final Q2",
+            "17-18 MEDU2300 Final Q3",
+            "17-18 MEDU2300 Final Q4",
+            "17-18 MEDU2300 Test Q6",
+            "17-18 MEDU2300 Test Q7",
+            "17-18 MEDU2300 Test Q13"
+          ],
+          "2018-19": [
+            "18-19 MEDU2300 Test Q1",
+            "18-19 MEDU2300 Test Q2",
+            "18-19 MEDU2300 Test Q3",
+            "18-19 MEDU2300 Test Q4",
+            "18-19 MEDU2300 Final Q1",
+            "18-19 MEDU2300 Test Q5",
+            "18-19 MEDU2300 Test Q6",
+            "18-19 MEDU2300 Final Q2",
+            "18-19 MEDU2300 Final Q4"
+          ],
+          "2019-20": [
+            "19-20 MEDU2300 Test Q1",
+            "19-20 MEDU2300 Test Q2",
+            "19-20 MEDU2300 Final Q2",
+            "19-20 MEDU2300 Test Q3",
+            "19-20 MEDU2300 Final Q3",
+            "19-20 MEDU2300 Final Q4",
+            "19-20 MEDU2300 Final Q5",
+            "19-20 MEDU2300 Final Q6"
+          ],
+          "2020-21": [
+            "20-21 MEDU2300 Test Q1",
+            "20-21 MEDU2300 Test Q2",
+            "20-21 MEDU2300 Final Q1",
+            "20-21 MEDU2300 Final Q2",
+            "20-21 MEDU2300 Test Q3",
+            "20-21 MEDU2300 Test Q4",
+            "20-21 MEDU2300 Final Q3",
+            "20-21 MEDU2300 Test Q5",
+            "20-21 MEDU2300 Final Q5",
+            "20-21 MEDU2300 Final Q6",
+            "20-21 MEDU2300 Final Q7"
+          ],
+          "2021-22": [
+            "21-22 MEDU2300 Test Q1",
+            "21-22 MEDU2300 Test Q2",
+            "21-22 MEDU2300 Final Q1",
+            "21-22 MEDU2300 Final Q2",
+            "21-22 MEDU2300 Test Q3",
+            "21-22 MEDU2300 Test Q4",
+            "21-22 MEDU2300 Final Q3",
+            "21-22 MEDU2300 Final Q4",
+            "21-22 MEDU2300 Test Q5",
+            "21-22 MEDU2300 Test Q6",
+            "21-22 MEDU2300 Final Q5",
+            "21-22 MEDU2300 Final Q6",
+            "21-22 MEDU2300 Final Q7"
+          ],
+          "2022-23": [
+            "22-23 MEDU2300 Test Q1",
+            "22-23 MEDU2300 Test Q2",
+            "22-23 MEDU2300 Test Q3",
+            "22-23 MEDU2300 Test Q4",
+            "22-23 MEDU2300 Test Q20",
+            "22-23 MEDU2300 Test Q5",
+            "22-23 MEDU2300 Test Q6"
+          ],
+          "unclassified": [
+            "FA MEDU2300 Thorax Q1",
+            "FA MEDU2300 Thorax Q2",
+            "FA MEDU2300 Thorax Q3",
+            "FA MEDU2300 Thorax Q4",
+            "FA MEDU2300 Thorax Q5",
+            "FA MEDU2300 Thorax Q6",
+            "Extra MEDU2300 Thorax Q1",
+            "FA MEDU2300 Thorax Q7",
+            "FA MEDU2300 Thorax Q8",
+            "FA MEDU2300 Thorax Q9",
+            "FA MEDU2300 Thorax Q10",
+            "FA MEDU2300 Thorax Q11",
+            "FA MEDU2300 Thorax Q12",
+            "FA MEDU2300 Thorax Q13",
+            "FA MEDU2300 Thorax Q14",
+            "FA MEDU2300 Thorax Q15",
+            "FA MEDU2300 Thorax Q16",
+            "FA MEDU2300 Thorax Q17",
+            "FA MEDU2300 Thorax Q18",
+            "FA MEDU2300 Thorax Q19",
+            "FA MEDU2300 Thorax Q20",
+            "Extra MEDU2300 Thorax Q2"
+          ]
+        },
+        "byTopic": {
+          "Thorax": [
+            "15-16 MEDU2300 Test Q2",
+            "15-16 MEDU2300 Test Q9",
+            "15-16 MEDU2300 Test Q10",
+            "15-16 MEDU2300 Final Q10",
+            "16-17 MEDU2300 Test Q2",
+            "16-17 MEDU2300 Test Q4",
+            "16-17 MEDU2300 Final Q1",
+            "16-17 MEDU2300 Final Q3",
+            "16-17 MEDU2300 Final Q5",
+            "16-17 MEDU2300 Final Q6",
+            "17-18 MEDU2300 Test Q1",
+            "17-18 MEDU2300 Test Q2",
+            "17-18 MEDU2300 Final Q1",
+            "18-19 MEDU2300 Test Q1",
+            "18-19 MEDU2300 Test Q2",
+            "19-20 MEDU2300 Test Q1",
+            "19-20 MEDU2300 Test Q2",
+            "19-20 MEDU2300 Final Q2",
+            "20-21 MEDU2300 Test Q1",
+            "20-21 MEDU2300 Test Q2",
+            "20-21 MEDU2300 Final Q1",
+            "20-21 MEDU2300 Final Q2",
+            "21-22 MEDU2300 Test Q1",
+            "21-22 MEDU2300 Test Q2",
+            "21-22 MEDU2300 Final Q1",
+            "21-22 MEDU2300 Final Q2",
+            "22-23 MEDU2300 Test Q1",
+            "22-23 MEDU2300 Test Q2",
+            "FA MEDU2300 Thorax Q1",
+            "FA MEDU2300 Thorax Q2",
+            "FA MEDU2300 Thorax Q3",
+            "FA MEDU2300 Thorax Q4",
+            "FA MEDU2300 Thorax Q5",
+            "FA MEDU2300 Thorax Q6",
+            "Extra MEDU2300 Thorax Q1",
+            "15-16 MEDU2300 Final Q3",
+            "15-16 MEDU2300 Final Q5",
+            "15-16 MEDU2300 Final Q6",
+            "15-16 MEDU2300 Test Q8",
+            "15-16 MEDU2300 Test Q16",
+            "15-16 MEDU2300 Test Q20",
+            "15-16 MEDU2300 Final Q2",
+            "15-16 MEDU2300 Final Q4",
+            "15-16 MEDU2300 Final Q7",
+            "15-16 MEDU2300 Final Q8",
+            "15-16 MEDU2300 Final Q11",
+            "16-17 MEDU2300 Test Q5",
+            "16-17 MEDU2300 Test Q6",
+            "16-17 MEDU2300 Test Q9",
+            "16-17 MEDU2300 Final Q2",
+            "16-17 MEDU2300 Final Q7",
+            "16-17 MEDU2300 Final Q11",
+            "16-17 MEDU2300 Test Q1",
+            "16-17 MEDU2300 Test Q3",
+            "16-17 MEDU2300 Final Q8",
+            "16-17 MEDU2300 Final Q9",
+            "16-17 MEDU2300 Final Q10",
+            "17-18 MEDU2300 Test Q3",
+            "17-18 MEDU2300 Test Q4",
+            "17-18 MEDU2300 Final Q2",
+            "17-18 MEDU2300 Final Q3",
+            "17-18 MEDU2300 Final Q4",
+            "17-18 MEDU2300 Test Q6",
+            "17-18 MEDU2300 Test Q7",
+            "17-18 MEDU2300 Test Q13",
+            "18-19 MEDU2300 Test Q3",
+            "18-19 MEDU2300 Test Q4",
+            "18-19 MEDU2300 Final Q1",
+            "18-19 MEDU2300 Test Q5",
+            "18-19 MEDU2300 Test Q6",
+            "18-19 MEDU2300 Final Q2",
+            "18-19 MEDU2300 Final Q4",
+            "19-20 MEDU2300 Test Q3",
+            "19-20 MEDU2300 Final Q3",
+            "19-20 MEDU2300 Final Q4",
+            "19-20 MEDU2300 Final Q5",
+            "19-20 MEDU2300 Final Q6",
+            "20-21 MEDU2300 Test Q3",
+            "20-21 MEDU2300 Test Q4",
+            "20-21 MEDU2300 Final Q3",
+            "20-21 MEDU2300 Test Q5",
+            "20-21 MEDU2300 Final Q5",
+            "20-21 MEDU2300 Final Q6",
+            "20-21 MEDU2300 Final Q7",
+            "21-22 MEDU2300 Test Q3",
+            "21-22 MEDU2300 Test Q4",
+            "21-22 MEDU2300 Final Q3",
+            "21-22 MEDU2300 Final Q4",
+            "21-22 MEDU2300 Test Q5",
+            "21-22 MEDU2300 Test Q6",
+            "21-22 MEDU2300 Final Q5",
+            "21-22 MEDU2300 Final Q6",
+            "21-22 MEDU2300 Final Q7",
+            "22-23 MEDU2300 Test Q3",
+            "22-23 MEDU2300 Test Q4",
+            "22-23 MEDU2300 Test Q20",
+            "22-23 MEDU2300 Test Q5",
+            "22-23 MEDU2300 Test Q6",
+            "FA MEDU2300 Thorax Q7",
+            "FA MEDU2300 Thorax Q8",
+            "FA MEDU2300 Thorax Q9",
+            "FA MEDU2300 Thorax Q10",
+            "FA MEDU2300 Thorax Q11",
+            "FA MEDU2300 Thorax Q12",
+            "FA MEDU2300 Thorax Q13",
+            "FA MEDU2300 Thorax Q14",
+            "FA MEDU2300 Thorax Q15",
+            "FA MEDU2300 Thorax Q16",
+            "FA MEDU2300 Thorax Q17",
+            "FA MEDU2300 Thorax Q18",
+            "FA MEDU2300 Thorax Q19",
+            "FA MEDU2300 Thorax Q20",
+            "Extra MEDU2300 Thorax Q2"
+          ]
+        }
       }
     }
   },
@@ -13925,6 +14177,1913 @@
       },
       "answer": "D",
       "explanation": "Note that pyruvate carboxylase is found in mitochondria, while the rest of the enzymes of gluconeogenesis is found in cytosol."
+    },
+    "15-16 MEDU2300 Test Q2": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "nasogastric, PA chest x ray. Where is the tube?",
+      "options": {
+        "A": "esophagus",
+        "B": "in right lung hilum because it is inserted in the trachea and the right main bronchus",
+        "C": "through right hemidiaphragm",
+        "D": "in the right of aortic arch because enter esophagus",
+        "E": "in the right of aortic arch because enter trachea"
+      },
+      "answer": "A",
+      "explanation": "Obviously, the nasogastric tube should be inserted to the esophagus, then through the esophageal hiatus on the left hemidiaphragm to the stomach. Oesophagus traverses the posterior mediastinum on the left of midline, and posterior to trachea and aortic arch. Afterwards, the esophagus traverses anterior to descending aorta and thoracic duct, along the midline."
+    },
+    "15-16 MEDU2300 Test Q9": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which muscle is the least used in respiration?",
+      "options": {
+        "A": "External oblique",
+        "B": "Internal oblique",
+        "C": "Serratus anterior",
+        "D": "Rectus abdominus",
+        "E": "Latissimus dorsi"
+      },
+      "answer": "E",
+      "explanation": "The accessory muscles of inspiration include the scalenes, SCM, levator scapulae, and upper fibers of the trapezius, the iliocostalis thoracis, subclavius, and omohyoid. The serratus anterior and latissimus dorsi are accessory muscles of respiration with the upper extremities elevated. Accessory muscles of expiration include the interosseous internal intercostals, abdominal muscles, transversus thoracis, subcostalis, iliocostalis lumborum, quadratus lumborum, serratus posterior inferior, and latissimus dorsi. :O\nNote that during quiet inspiration, only the diaphragm contracts. Quiet expiration is achieved by the passive recoil of the lung.\nSource from\nhttps://www.healio.com/books/health-professions/physical-therapy/%7Be9e1f861-5efb-4c19-9a38-93c09a110294%7D/~/media/51ce0d6dfb6f438cbf6c463c1a942a1c.ashx"
+    },
+    "15-16 MEDU2300 Test Q10": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following structures would LEAST likely be found behind the sternal angle of Louis?",
+      "options": {
+        "A": "Lower end of aortic arch",
+        "B": "Bifurcation of trachea",
+        "C": "Brachiocephalic trunk",
+        "D": "Intervertebral disc of T4-T5"
+      },
+      "answer": "C",
+      "explanation": "![](img/15-16_MEDU2300_Test_Q10_1775752434180.png)\n\nOption C: At T2/3 level\nBrachiocephalic trunk is above the aortic arch already. You may consider T3 as the root of these large arteries (三枝香)."
+    },
+    "15-16 MEDU2300 Final Q10": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of these regarding the mammary gland is incorrect?",
+      "options": {
+        "A": "Receives 75% of all lymph",
+        "B": "Axillary fascia makes the axillary fossa",
+        "C": "Suspensory ligaments join the glands to pectoralis major.",
+        "D": "It is in the superficial fascia."
+      },
+      "answer": "A",
+      "explanation": "A. Thoracic duct receives 75% of all lymph\nB. Axillary fascia is located at the base of the axilla. This is correct. (Upper Limb)\nC. Suspensory ligament (of Cooper) joins the gland to pectoral fascia covering the muscle, and the dermis of overlying skin\nD. As the mammary gland is just beneath the dermis of skin, it is within the superficial fascia (Subcutaneous fat tissue)."
+    },
+    "16-17 MEDU2300 Test Q2": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following is most likely found at the sternal angle?",
+      "options": {
+        "A": "Azygos vein",
+        "B": "Bifurcation of trachea",
+        "C": "Right pulmonary vein",
+        "D": "Origin of ascending aorta"
+      },
+      "answer": "B",
+      "explanation": "![](img/16-17_MEDU2300_Test_Q2_1775752545247.png)\n\nNote that the sternal angle is at T4.\nA. Azygos vein arches over the hilum of right lung, which is located at T5.\nB. Correct.\nC. The right hilum contains the right pulmonary veins, so they are at T5-T7.\nD. Origin of ascending aorta is at around T5, slightly lower than the lower end of the aortic arch at T4/5 intervertebral disc."
+    },
+    "16-17 MEDU2300 Test Q4": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Dermatome of nipple",
+      "options": {
+        "A": "T2",
+        "B": "T3",
+        "C": "T4",
+        "D": "T5",
+        "E": "T6"
+      },
+      "answer": "C",
+      "explanation": "![](img/16-17_MEDU2300_Test_Q4_1775752572330.png)\n\nPlease just remember…"
+    },
+    "16-17 MEDU2300 Final Q1": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following muscle posterior to the internal thoracic artery links sternum to ribs?",
+      "options": {
+        "A": "Internal intercostal muscle",
+        "B": "External intercostal muscle",
+        "C": "Innermost intercostal muscle",
+        "D": "Serratus anterior",
+        "E": "Transversus thoracis muscle"
+      },
+      "answer": "E",
+      "explanation": "![](img/16-17_MEDU2300_Final_Q1_1775752599053.png)\n\nThe problem lies not in \"muscle posterior to the internal thoracic artery\".\nInternal thoracic artery is a branch of the subclavian artery that runs directly behind the first 6 costal cartilage between transversus thoracis and internal intercostal muscles. It terminates at the sixth thoracic vertebrae and gives rise to musculophrenic artery and superior epigastric artery.\nThe problem lies in which type of muscle \"links sternum to ribs\". Obviously, only transversus thoracis does that."
+    },
+    "16-17 MEDU2300 Final Q3": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The intercostal vessels and nerves course through which layers of tissues?",
+      "options": {
+        "A": "Deep fascia and external intercostal",
+        "B": "External and internal intercostal",
+        "C": "Internal and innermost intercostal",
+        "D": "Innermost intercostal and parietal pleura",
+        "E": "Skin and deep fascia"
+      },
+      "answer": "C",
+      "explanation": "![](img/16-17_MEDU2300_Final_Q3_1775752618555.png)\n![](img/16-17_MEDU2300_Final_Q3_1775752627354.png)\n\nView the thorax from a transverse section. (P. 20 of lecture notes or Atlas)\nExcept for the lateral cutaneous branch, the intercostal VAN runs along the space between internal intercostal muscle and innermost intercostal muscle. This is because the intercostal VAN and the internal thoracic artery travels in the same layer.\nThe following 2 photos show many other important relations (e.g. internal thoracic artery), which are useful for a lot of questions that follow. Please refer to them whenever necessary."
+    },
+    "16-17 MEDU2300 Final Q5": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following structures links to the manubriosternal joint?",
+      "options": {
+        "A": "Clavicle",
+        "B": "Costal cartilage of first rib",
+        "C": "Costal cartilage of second rib",
+        "D": "Head of first rib",
+        "E": "Head of second rib"
+      },
+      "answer": "C",
+      "explanation": "manubriosternal joint = sternal angle\nTry not to be confused by the \"head\" options."
+    },
+    "16-17 MEDU2300 Final Q6": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following structures is the major motor nerve supply to the diaphragm?",
+      "options": {
+        "A": "Cervical sympathetic and lower intercostal nerves",
+        "B": "Cervical sympathetic and phrenic nerve",
+        "C": "Phrenic nerve",
+        "D": "Phrenic nerve and lower intercostal nerves"
+      },
+      "answer": "C",
+      "explanation": "It is not just major, but is the ONLY SOMATIC MOTOR innervation.\nThe central part of the diaphragm receives sensory fibres from the phrenic nerve, whereas the peripheral part receives sensory fibers from the intercostal nerves.\nD. Lower intercostal nerve is sensory"
+    },
+    "17-18 MEDU2300 Test Q1": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which muscle attaches the sternum to the ribs",
+      "options": {
+        "A": "external intercostals muscle",
+        "B": "internal intercostals muscle",
+        "C": "innermost intercostals",
+        "D": "serratus posterior",
+        "E": "transversus thoracis"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2300 Test Q2": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "A superficial cut is made on the lateral side of the sternum. Which vessel would be damaged?",
+      "options": {
+        "A": "Esophageal artery",
+        "B": "Bronchial artery",
+        "C": "Internal thoracic artery",
+        "D": "Pericardicophrenic artery",
+        "E": "Posterior intercostal artery"
+      },
+      "answer": "C",
+      "explanation": "Internal thoracic artery runs along the parasternal line, which is on the midway between the lateral sternal line and mid-clavicular line."
+    },
+    "17-18 MEDU2300 Final Q1": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "which of the following is the anatomical characteristic of T4",
+      "options": {
+        "A": "Bifurcation of aorta",
+        "B": "Arch of Aorta",
+        "C": "Costosternal junction with the fourth ribs",
+        "D": "Jugular notch"
+      },
+      "answer": "B",
+      "explanation": "To be exact, it should be the beginning and ending of the aortic arch, not the entire aortic arch."
+    },
+    "18-19 MEDU2300 Test Q1": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "On male chest surface, where is the apex of the heart located?",
+      "options": {
+        "A": "At the level of left costal margin, 3.5 inch from the midline",
+        "B": "At the level of left nipple",
+        "C": "At the level of 4th intercostal space, 3.5 inch from the midline",
+        "D": "At the level of 5th intercostal space, 3.5 inch from the midline",
+        "E": "At the level of 6th intercostal space, 3.5 inch. from midline"
+      },
+      "answer": "D",
+      "explanation": "![](img/18-19_MEDU2300_Test_Q1_1775752687360.png)\n\nIt is the exact location that you can hear the auscultation of the bicuspid valve."
+    },
+    "18-19 MEDU2300 Test Q2": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following does not supply the breast?",
+      "options": {
+        "A": "Anterior intercostal arteries",
+        "B": "Internal thoracic artery and its branches",
+        "C": "Lateral thoracic artery",
+        "D": "Superior epigastric artery",
+        "E": "Posterior intercostal arteries"
+      },
+      "answer": "D",
+      "explanation": "Superior epigastric artery is one of the terminal branches of internal thoracic artery, just that it does not supply the breast since it begins after the sixth intercostal space.\n\nThe breast is related to the thoracic wall and to structures associated with the upper limb; therefore, vascular supply and drainage can occur by multiple routes (Fig. 3.16):\n■ laterally, vessels from the axillary artery — superior thoracic, thoraco-acromial, lateral thoracic, and sub-scapular arteries;\n■ medially, branches from the internal thoracic artery;\n■ the second to fourth intercostal arteries via branches that perforate the thoracic wall and overlying muscle.\n(Gray’s Anatomy)"
+    },
+    "19-20 MEDU2300 Test Q1": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "What can be found behind the sternal angle?",
+      "options": {
+        "A": "Bifurcation of Trachea",
+        "B": "Superior border of mediastinum",
+        "C": "Upper end of aortic arch",
+        "D": "Brachiocephalic trunk",
+        "E": "T2/3 Vertebral column"
+      },
+      "answer": "A",
+      "explanation": "B. inferior border of superior mediastinum"
+    },
+    "19-20 MEDU2300 Test Q2": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "For thoracentesis, inject something into the lung through the lateral side of the chest wall, which is the first layer of muscle to be penetrated by the needle",
+      "options": {
+        "A": "Serratus anterior",
+        "B": "Pectoralis major",
+        "C": "Intercostal muscle",
+        "D": "External oblique",
+        "E": "Transversus thoracic"
+      },
+      "answer": "A",
+      "explanation": "Thoracentesis is done on the lateral side of the body. Note the position of the safety triangle, which is formed medially by the pectoralis major muscle, inferiorly by the base of diaphragm, laterally by the latissimus dorsi (posterior axillary line). Serratus anterior is the most superior layer of muscle.\n\nWell, this may not be scientifically correct. Refer to the photo below. Moore depicts the procedure of thoracocentesis using the 9th intercostal space along the midaxillary line. Note that serratus anterior runs only along the lateral surface first 8 ribs from the medial side of scapula. Therefore, serratus anterior is not even present in this area that thoracocentesis is performed! The answer has to be external intercostal muscles in this case. [2]\n\n![](img/19-20_MEDU2300_Test_Q2_1775752729966.png)\n\nIn the next question, there is another diagram given in a very old lecture of Franky Chan. The safety triangle (in Dr. Calvin Ng’s surface anatomy lecture, most textbooks and online sources), is defined with an imaginary line from the nipple as the inferior border. In other words, the inferior border is somewhere around the 4th intercostal space. Franky defines the diaphragm as “moving around the 5th and 6th rib”, which is within the 5th intercostal space. The main point is not the difference between the 2 definitions of the location of diaphragm, but whether the safety triangle is designed for thoracocentesis. Given that usually thoracocentesis is performed at 7th-9th intercostal space (to avoid the liver, spleen, diaphragm and lungs), which is outside of this safety triangle, how can this define the location for thoracocentesis?\n\nThe safety triangle can only be said to be the best site for chest drain, particularly at the 4th intercostal space.\n\nThe main problem is: Is “chest drain” equivalent to “thoracocentesis”?"
+    },
+    "19-20 MEDU2300 Final Q2": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Intercostal nerves can be injured by injection by needle. Which of the following places of injection would most likely injure intercostal bundles?",
+      "options": {
+        "A": "middle part of ics",
+        "B": "Inferior border of ribs",
+        "C": "Superior border of ribs",
+        "D": "Lower part of ics",
+        "E": "Between innermost intercostals and fascia"
+      },
+      "answer": "B",
+      "explanation": "![](img/19-20_MEDU2300_Final_Q2_1775752749556.png)\n\nKeep close to the superior border of the ribs as intercostal VAN is found near the inferior border (the groove)."
+    },
+    "20-21 MEDU2300 Test Q1": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following is most likely found in the horizontal section cut at sternal angle?",
+      "options": {
+        "A": "Beginning of the trachea",
+        "B": "The brachiocephalic trunk",
+        "C": "The inferior border of the superior mediastinum",
+        "D": "Intervertebral disc between T2 and T3 vertebrae",
+        "E": "Top of aortic arch"
+      },
+      "answer": "C",
+      "explanation": "A. Trachea begins at the cricoid cartilage (C6) and runs downwards. It just branches into the left and right bronchus at the T4 level.\nB. Brachiocephalic trunk is found at T2\nC. Correct. The sternal angle marks the transverse thoracic plane, which divides the mediastinum into superior and 3 remaining parts of the mediastinum.\nD. Sternal angle is at T4\nE. Top of aortic arch is found at T2"
+    },
+    "20-21 MEDU2300 Test Q2": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "When a superficial cut is made on the lateral sternum, which of the following blood vessels will be damaged?",
+      "options": {
+        "A": "Bronchial artery",
+        "B": "esophageal artery",
+        "C": "internal thoracic artery",
+        "D": "posterior thoracic artery",
+        "E": "pericardicophrenic artery"
+      },
+      "answer": "C",
+      "explanation": "A. Bronchial arteries are branches from the thoracic aorta or intercostal arteries. It is found in the posterior mediastinum.\nB. There are multiple sources of blood supply to the esophagus. Thoracic oesophagus is supplied by some direct branches from the thoracic aorta. These are found in the posterior mediastinum.\nIn the abdomen, the blood supply include the oesophageal branches from the left gastric artery (celiac trunk), and the inferior phrenic artery (a direct branch from the abdominal aorta). (For future reference)\nThere are also some cervical supply, but those names are probably not important at this stage.\nC. Although this is the answer as you memorise the past exam questions, you should figure out what the other arteries are and where they can be found.\nD. This does not exist.\nE. The pericardiocophrenic artery is a branch from the internal thoracic artery. It accompanies the phrenic nerve between the pleura and the pericardium to the diaphragm. In other words, it is located deeper relatively."
+    },
+    "20-21 MEDU2300 Final Q1": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "A guy was stabbed on the 5th intercostal space right to the sternum. The stab wound was 1cm deep. Which one of the structures is most likely injured?",
+      "options": {
+        "A": "pericardium",
+        "B": "right internal thoracic artery",
+        "C": "right lung",
+        "D": "right main bronchi",
+        "E": "stomach"
+      },
+      "answer": "B",
+      "explanation": "Recall that apex of heart is at 5th ICS at midclavicular line, and considering the leftward orientation of heart, 5th ICS right sternal border is already away from the heart. Also, the 1cm wound can only damage the thoracic wall. C, D and E are all impossible to be injured. B is correct as again, internal thoracic artery roughly runs along the sternal border and sternocostal joint."
+    },
+    "20-21 MEDU2300 Final Q2": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "After the surgical removal of the mammary tumour mass in the right breast of the patient, the patient had difficulty to elevate her right arm above the horizontal plane. Which of the following nerves is likely to be injured?",
+      "options": {
+        "A": "axillary nerve",
+        "B": "lateral pectoral nerve",
+        "C": "long thoracic nerve",
+        "D": "musculocutaneous nerve",
+        "E": "intercostal nerve"
+      },
+      "answer": "C",
+      "explanation": "Cannot elevate arm above horizontal plane = no glenoid up → serratus anterior gg → long thoracic nerve gg. This question is directly taken from Gray’s review, the answer is long thoracic nerve.\n\n![](img/20-21_MEDU2300_Final_Q2_1775752860910.png)\n![](img/20-21_MEDU2300_Final_Q2_1775752844793.png)"
+    },
+    "21-22 MEDU2300 Test Q1": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following articulates with the manubriosternal joint?",
+      "options": {
+        "A": "Clavicle",
+        "B": "Head of first rib",
+        "C": "Head of second rib",
+        "D": "Costal cartilage of first rib",
+        "E": "Costal cartilage of second rib"
+      },
+      "answer": "E",
+      "explanation": "A is called sternoclavicular joint, which you will learn in Back and Upper Limb. Always remember the head of rib articulates posteriorly with the costal facet of vertebrae, while the costal cartilage articulates anteriorly with the sternum."
+    },
+    "21-22 MEDU2300 Test Q2": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The intercostal neurovascular bundle travels between which two layers?",
+      "options": {
+        "A": "Skin and deep fascia",
+        "B": "Deep fascia and external intercostal",
+        "C": "Inner and innermost intercostal",
+        "D": "External and inner intercostal",
+        "E": "Innermost intercostal and parietal pleura"
+      },
+      "answer": "C",
+      "explanation": "In previous questions, it is said that the intercostal VAN travels along the inner interocostal muscles and transversus thoracis. However, you can read small Moore to read the exact course as it travels as transversus thoracis inserts at the inner surface of costal cartilages 2-6, and the relations would change slightly. You should be able to get this answer right anyways."
+    },
+    "21-22 MEDU2300 Final Q1": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The anatomical relationship of the neurovascular bundle within the intercostal space from superior to inferior is:",
+      "options": {
+        "A": "Artery → Nerve → Vein",
+        "B": "Artery → Vein → Nerve",
+        "C": "Nerve → Artery → Vein",
+        "D": "Nerve → Vein → Artery",
+        "E": "Vein → Artery → Nerve"
+      },
+      "answer": "E",
+      "explanation": "Just memorize VAN! This also works for contents in the femoral triangle (From medial to lateral), but not popliteal fossa (you will see them soon)."
+    },
+    "21-22 MEDU2300 Final Q2": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The internal thoracic artery gives rise to the following branches except:",
+      "options": {
+        "A": "Anterior intercostal artery",
+        "B": "Internal mammary artery",
+        "C": "Musculophrenic artery",
+        "D": "Posterior intercostal artery",
+        "E": "Superior epigastric artery"
+      },
+      "answer": "D",
+      "explanation": "Internal thoracic artery comes from the subclavian artery, then descends along the parasternal line to give out anterior intercostal arteries and internal mammary artery. At the costal margin (7th costal cartilage), it divides into musculophrenic artery (Running along costal margin) and superior epigastric artery (Descends into rectus sheath to supply rectus abdominis and anastomose with inferior epigastric artery).\n3rd – 11th posterior intercostal arteries come from thoracic aorta directly, while the first two come from costocervical trunk of subclavian artery. Be careful there are 9 anterior intercostal arteries, but 11 on posterior sides. This is because the floating ribs (11th and 12th) do not extend to the anterior thoracic wall."
+    },
+    "22-23 MEDU2300 Test Q1": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Female breasts least likely to be supplied by",
+      "options": {
+        "A": "Internal thoracic artery",
+        "B": "Lateral thoracic artery",
+        "C": "Anterior intercostal artery",
+        "D": "Posterior intercostal artery",
+        "E": "Superior epigastric artery"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "22-23 MEDU2300 Test Q2": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "For thoracentesis, insert chest drain into the lung through the lateral side of the chest wall, which is the first layer of muscle to be penetrated by the needle?",
+      "options": {
+        "A": "Serratus anterior",
+        "B": "Pectoralis major",
+        "C": "Intercostal muscle",
+        "D": "External oblique",
+        "E": "Transversus thoracic"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "FA MEDU2300 Thorax Q1": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The 5th intercostal artery of the anterior thoracic wall arises from:",
+      "options": {
+        "A": "Subclavian artery",
+        "B": "Superior epigastric artery",
+        "C": "Thoracic aorta",
+        "D": "Musculophrenic artery",
+        "E": "Internal thoracic artery"
+      },
+      "answer": "E",
+      "explanation": "All anterior intercostal arteries arise from internal thoracic artery, which arises from 1st part of subclavian artery in the neck and descends behind the first 6 costal cartilages.\nSuperior epigastric and musculophrenic arteries are the terminal branches of internal thoracic artery, arising at the costal margin at approximately the 6th intercostal space. Thoracic aorta gives the 3rd – 11th posterior intercostal arteries instead.\nThe 1st and 2nd posterior intercostal arteries arise from the superior intercostal artery, which is from costocervical trunk of subclavian artery. (Head & Neck content)"
+    },
+    "FA MEDU2300 Thorax Q2": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following dermatome are the nipples within?",
+      "options": {
+        "A": "T1 dermatome",
+        "B": "T4 dermatome",
+        "C": "T6 dermatome",
+        "D": "T10 dermatome",
+        "E": "T12 dermatome"
+      },
+      "answer": "B",
+      "explanation": "T1 is in medial part of arm. T4 is in the thorax at the level of nipples. T6 (Or T7) is the level of xiphoid process (xiphosternum). T10 is at the level of umbilicus, which is also the site of referred pain of acute appendicitis, make sure you know this. T12 (Preferably L1) is for the pubic region."
+    },
+    "FA MEDU2300 Thorax Q3": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "How many pairs of internal intercostal muscles are there?",
+      "options": {
+        "A": "9 pairs",
+        "B": "10 pairs",
+        "C": "11 pairs",
+        "D": "12 pairs",
+        "E": "13 pairs"
+      },
+      "answer": "C",
+      "explanation": "You have 12 pairs of ribs, then you will have 11 ICS and 11 pairs of intercostals."
+    },
+    "FA MEDU2300 Thorax Q4": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "In what direction do external intercostal muscles run on posterior thoracic wall?",
+      "options": {
+        "A": "Obliquely upward and laterally",
+        "B": "Vertically",
+        "C": "Transversely",
+        "D": "Obliquely downward and medially",
+        "E": "Obliquely downward and laterally"
+      },
+      "answer": "E",
+      "explanation": "External intercostals run obliquely downward and medially at the anterior wall（插袋）, so as the pattern moves to the back, it will become obliquely downward and laterally. Draw it out to understand this if you cannot visualize."
+    },
+    "FA MEDU2300 Thorax Q5": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "What can be palpated at both sides of the sternal angle?",
+      "options": {
+        "A": "Costal cartilage of the 2nd ribs",
+        "B": "Intercostal muscles of the 2nd intercostal space",
+        "C": "Costal cartilage of the 1st ribs",
+        "D": "Clavicles",
+        "E": "Intercostal muscles of the 1st intercostal space"
+      },
+      "answer": "A",
+      "explanation": "Sternal angle is the manubriosternal joint (T4), which is also the articulation between 2nd costal cartilages to the sternum."
+    },
+    "FA MEDU2300 Thorax Q6": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which one of the following structures form a part of the thoracic inlet (superior thoracic aperture)?",
+      "options": {
+        "A": "Seventh cervical vertebra",
+        "B": "Inferior border of clavicle",
+        "C": "Xiphoid process",
+        "D": "Costal margin",
+        "E": "Jugular notch"
+      },
+      "answer": "E",
+      "explanation": "Thoracic inlet is formed by the first ribs, clavicular and jugular notches of manubrium, and T1 vertebra."
+    },
+    "Extra MEDU2300 Thorax Q1": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following concerning the thorax is correct?",
+      "options": {
+        "A": "The arch of the aorta begins at the level of the jugular notch.",
+        "B": "The internal thoracic artery branches off to give the musculophrenic artery and the superficial epigastric artery.",
+        "C": "Thoracocentesis should be performed near the superior border of a rib.",
+        "D": "There are 12 intercostal spaces.",
+        "E": "The intercostal vessels and nerves course through external and internal intercostal muscles."
+      },
+      "answer": "C",
+      "explanation": "A. The arch of aorta is located at T4.\nB. Superficial → Superior epigastric artery\nC. Correct\nD. There are 11 intercostal spaces.\nE. The intercostal VAN courses through the internal and innermost intercostal muscles."
+    },
+    "15-16 MEDU2300 Final Q3": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following statements most accurately describes the oesophageal hiatus on the diaphragm?",
+      "options": {
+        "A": "It encircles the oesophagus and the left phrenic nerve",
+        "B": "It can be narrowed by the stimulation of the vagus nerve",
+        "C": "at T8",
+        "D": "It is located in the centre of the central tendon of the diaphragm",
+        "E": "It lies anteriorly and to the left of the aortic orifice"
+      },
+      "answer": "E",
+      "explanation": "![](img/15-16_MEDU2300_Final_Q3_1775809286150.jpeg)\n![](img/15-16_MEDU2300_Final_Q3_1775809296617.png)\n\nOesophageal hiatus at T10 is on the left and anterior aspect of aortic hiatus, which is along the midline. It is created by a loop of the right crux of the diaphragm. Apart from esophagus and vagus nerve, the left inferior phrenic vessels and small esophageal arteries from left gastric vessels also go through the hiatus.\nVena caval opening is at T8 and on the central tendon of diaphragm.\nOesophageal hiatus is formed by diaphragm, which does not receive innervation by CN X. However, it is the part of LES within the oesophagus being constricted under PSNS stimulation. Oesophageal hiatus carries CN X instead of phrenic nerve.\nIn thorax, the aortic hiatus is seldom talked about. Note that the aorta goes below the median arcuate ligament of the diaphragm (diaphragm attachment; middle one). Slightly below this level, the aorta can be cross-clamped during abdominal surgery, such as during abdominal aortic aneurysm repair. (Clinical significance taught by Paul Lai)\nOne can remember this with the mnemonic \"I 8 10 EGGs AAT 12\": I 8 = IVC at T8. 10 EGGs = EsophaGus and vaGus at T10. AAT 12 = Aorta, Azygos, and Thoracic duct at T12. (Also check out other mnemonics in Gabriel’s Notes)"
+    },
+    "15-16 MEDU2300 Final Q5": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following statement about trachea is incorrect?",
+      "options": {
+        "A": "it has the arch of aorta on its left side",
+        "B": "it is closely related to the left recurrent laryngeal nerve",
+        "C": "it is on the left side of the midline",
+        "D": "it is crossed by the left brachiocephalic vein",
+        "E": "it is crossed by the brachiocephalic trunk"
+      },
+      "answer": "C",
+      "explanation": "![](img/15-16_MEDU2300_Final_Q5_1775809321637.png)\n\nA. The arch of aorta arches over the right pulmonary artery and the left main bronchus\nB. The left recurrent laryngeal nerve is in between the arch of aorta and the left main bronchus\nC. It lies exactly on the midline in the posterior mediastinum together with the esophagus, except that the distal part of esophagus is displaced to the left as it transverses through the esophageal hiatus to the stomach.\nD. Left brachiocephalic vein and brachiocephalic trunk cross midline, so they cross the trachea."
+    },
+    "15-16 MEDU2300 Final Q6": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following statements with regard to the pleural cavity is incorrect?",
+      "options": {
+        "A": "It is bound by the parietal pleura.",
+        "B": "The parietal pleura has sensory innervations.",
+        "C": "It extends above the clavicle",
+        "D": "It is not occupied by the lung",
+        "E": "It extends below medial end of the twelve rib"
+      },
+      "answer": "A",
+      "explanation": "![](img/15-16_MEDU2300_Final_Q6_1775809340056.png)\n![](img/15-16_MEDU2300_Final_Q6_1775809345402.png)\n\nA. Pleural cavity is bound by BOTH parietal pleura and visceral pleura.\nB. This is a reference that is MADE UP! Yet, this is an important concept to know that the parietal pleura can sense pain!\nC. Refer to the right figure below. (Apices is 2 cm above the clavicles)\nD. Correct as it is filled with pleural fluid\nE. Refer to the left figure below.\nKeep in mind the 8-10-12 rule of inferior limits of parietal pleura: 8th rib at midclavicular line, 10th at midaxillary line, 12th at scapular line and body of T12 vertebra. Body of T12 vertebra is slightly lower than medial end of 12th rib, which is the transverse process of T12. (Surface projection)"
+    },
+    "15-16 MEDU2300 Test Q8": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following supplies the main motor function of diaphragm?",
+      "options": {
+        "A": "lower intercostal and phrenic nerves",
+        "B": "great thoracic splanchnic nerve",
+        "C": "phrenic nerves alone",
+        "D": "lesser thoracic splanchnic And phrenic nerves",
+        "E": "cervical sympathetic and phrenic nerves"
+      },
+      "answer": "C",
+      "explanation": "A is referring to the sensory innervation of diaphragm. Lower intercostal nerves supply the peripheral part and phrenic nerve supplies the central part."
+    },
+    "15-16 MEDU2300 Test Q16": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The sound of the mitral valve can be best heard at which of the following sites?",
+      "options": {
+        "A": "the fifth intercostal space near the apex of the heart",
+        "B": "the back near the scapular line",
+        "C": "the lateral margin of the sternum at the level of the sternal angle",
+        "D": "the left midclavicular line at the level of the sternal angle of Louis",
+        "E": "the superior border of the heart"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "15-16 MEDU2300 Test Q20": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "With reference to the coronary circulation, which of the following statements is INCORRECT?",
+      "options": {
+        "A": "The right coronary artery is closer to the sternum than the left coronary artery.",
+        "B": "When compared with other regions of the body, the heart has a minimum of anastomotic vessels.",
+        "C": "Minute veins in the heart wall may drain directly into the heart chambers.",
+        "D": "The atrioventricular nodal artery usually arises from the right coronary artery.",
+        "E": "The right coronary artery is shorter than the left coronary artery."
+      },
+      "answer": "E",
+      "explanation": "![](img/15-16_MEDU2300_Test_Q20_1775809414320.png)\n\nA. Without recalling any direct statements from the lectures, just think about it. Your heart is located slightly to the left of the midline. The coronary artery is the first branch of ascending aorta. Obviously, the coronary artery on the right will be closer to your sternum in the midline.\nB. There are 2 anastomotic vessels in your heart: a. The anterior interventricular artery & posterior interventricular artery; b. The right coronary artery and the left circumflex artery\nC. There is only 1 type of cardiac veins that begin in the heart wall and empty DIRECTLY into its chambers, and that is the smallest cardiac veins.\nD. This is true. The right coronary artery also gives rise to SA nodal artery, posterior interventricular artery and marginal artery\nE. The left coronary artery is shorter than the right coronary artery as it branches off very soon into anterior interventricular artery and circumflex artery."
+    },
+    "15-16 MEDU2300 Final Q2": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following concerning the mediastinum is correct?",
+      "options": {
+        "A": "The superior mediastinum contains the remnant of thyroid gland",
+        "B": "The vagus nerves pass from superior mediastinum to middle mediastinum",
+        "C": "The superior mediastinum is behind the body of sternum",
+        "D": "The root of aorta is amongst the content of middle mediastinum"
+      },
+      "answer": "D",
+      "explanation": "A. The remnant of thyroid gland is in the ANTERIOR mediastinum. However, the superior mediastinum does contain the thymus. \nB. It (vagus nerve) descends on the left side of the aortic arch, which separates it from the left pleura, and travels behind the phrenic nerve. It courses behind the root of the left lung and then deviates medially and downwards to reach the esophagus and form the esophageal plexus by joining the opposite (right) vagus nerve.\na. In short, the vagus nerve should be going into the POSTERIOR mediastinum instead of the middle mediastinum.\nC. The sternal angle is already the inferior border of superior mediastinum. It should be posterior to the manubrium.\nD. Middle mediastinum contains the roots of all great vessels."
+    },
+    "15-16 MEDU2300 Final Q4": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following statements with regards to the heart valves is correct?",
+      "options": {
+        "A": "The aortic valve is found at the right medial end of the 2nd intercostal space.",
+        "B": "The tricuspid valve can be heard at the 5th intercostal space on the left.",
+        "C": "The aortic valve and pulmonary valves are too close that cannot be distinguished.",
+        "D": "The valve of superior vena cava can be heard.",
+        "E": "Aortic sinus forms at each cusp of the aortic valves."
+      },
+      "answer": "E",
+      "explanation": "![](img/15-16_MEDU2300_Final_Q4_1775809487166.png)\n![](img/15-16_MEDU2300_Final_Q4_1775809493170.png)\n\nA. The aortic valve, obliquely placed, is located posterior to the left side of the sternum at the level of the 3rd intercostal space (small moore). Option A is only true if it talks about where to hear the aortic valve sound.\nB. Tricuspid → Mitral\nC. Can be distinguished\nD. Cannot; in fact it is more correct to say that SVC has no valves\nE. The aortic sinuses are the spaces at the origin of the ascending aorta between the dilated wall of the vessel and each cusp of the aortic (semilunar) valve. The opening of the right coronary artery is in the right aortic sinus; the opening of the left coronary artery is in the left aortic sinus; and no artery arises from the posterior aortic (noncoronary) sinus. (small moore)"
+    },
+    "15-16 MEDU2300 Final Q7": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following about aortic arch is correct?",
+      "options": {
+        "A": "move from left to right when it arches the pulmonary artery",
+        "B": "extend to root of neck",
+        "C": "highest border is at the same level of jugular notch",
+        "D": "related inferiorly with the left main bronchus",
+        "E": "branches 2 subclavian arteries and 2 common carotid arteries"
+      },
+      "answer": "D",
+      "explanation": "![](img/15-16_MEDU2300_Final_Q7_1775809515554.png)\n\nA. right to left instead\nB. Root of the neck refers to the thoracic outlet, which is bounded by the first thoracic vertebra, the first pair of ribs and their cartilages and the manubrium of the sternum. Usually, the main structures are those subclavian arteries, brachiocephalic trunks etc. They are above the arch of aorta.\nC. highest border: T3/4 VS jugular notch T2/3\nD. The left main bronchus runs inferior to the arch of aorta\nE. 1 left subclavian and 1 left common carotid artery; 1 brachiocephalic trunk branch into right subclavian and common carotid"
+    },
+    "15-16 MEDU2300 Final Q8": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "With regard to the cardiac conduction system, which of the following statements is correct?",
+      "options": {
+        "A": "SA node is located at the junction between IVC and right atrium",
+        "B": "Septomarginal band carries left conducting nerves",
+        "C": "AV bundle of his is located anterior to the membrane of the interventricular septum",
+        "D": "AV node located close to the opening of the coronary sinus",
+        "E": "AV node is located between the superior vena cava and auricle"
+      },
+      "answer": "D",
+      "explanation": "![](img/15-16_MEDU2300_Final_Q8_1775809537796.png)\n![](img/15-16_MEDU2300_Final_Q8_1775809544268.png)\n![](img/15-16_MEDU2300_Final_Q8_1775809553364.png)\n\nA. SA node lies in the myocardium at the upper end of the crista terminalis near the opening of the SVC in the right atrium\nB. Septomarginal band = moderator band = right bundle of conducting system → from right ventricular apex to the anterior papillary muscle\nC. AV node lies in the septal wall of right atrium, superior and medial to the opening of the coronary sinus in the right atrium\nD. AV node is located in the Koch’s triangle. One of the borders of the triangle is formed by the coronary sinus. AV node should be medial to the opening of the coronary sinus. These 2 links are important.\nE. This is for the SA node."
+    },
+    "15-16 MEDU2300 Final Q11": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following is featured in LV?",
+      "options": {
+        "A": "Mitral valve",
+        "B": "inter ventricular septum",
+        "C": "Septomarginal Trabecula (Moderator Band)",
+        "D": "Papillary muscle",
+        "E": "Tendinae cordae"
+      },
+      "answer": "A",
+      "explanation": "A. Obviously true\nB. For both left and right ventricles.\nC. ONLY in RIGHT ventricle\nD. On both left and right atria\nE. On all heart valves"
+    },
+    "16-17 MEDU2300 Test Q5": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following passes through the aortic hiatus of the diaphragm?",
+      "options": {
+        "A": "Aortic arch",
+        "B": "Internal thoracic vein",
+        "C": "Lumbar Splanchnic nerve",
+        "D": "Thoracic duct",
+        "E": "Vagus nerve"
+      },
+      "answer": "D",
+      "explanation": "The aortic hiatus has the aorta, thoracic duct, azygos vein and occasionally the greater splanchnic nerve.\nC passes through the muscle fibers of the diaphragm."
+    },
+    "16-17 MEDU2300 Test Q6": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "CT scan shows a tumor superior to the right root of lung. Which blood circulation will most likely be affected?",
+      "options": {
+        "A": "Azygos vein",
+        "B": "Right brachiocephalic vein",
+        "C": "Right pulmonary vein",
+        "D": "Right subclavian vein",
+        "E": "Superior vena cava"
+      },
+      "answer": "A",
+      "explanation": "![](img/16-17_MEDU2300_Test_Q6_1775809602709.png)\n\nNote that the azygos vein enters the thoracic cavity via the aortic hiatus and arches over the root of the right lung to the SVC.\nRefer to the diagram. E may be a possible answer if the tumor develops anteriorly."
+    },
+    "16-17 MEDU2300 Test Q9": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "With reference to the rotation of the foregut along the longitudinal axis, which is the orientation of the left vagus nerve in relation to the esophagus?",
+      "options": {
+        "A": "anterior to esophagus",
+        "B": "posterior to esophagus",
+        "C": "inside the oesophageal lumen",
+        "D": "on the left lateral side of esophagus",
+        "E": "on the right lateral side of esophagus"
+      },
+      "answer": "A",
+      "explanation": "Learn it from Paul Lai, \"Google it!\"\nJust kidding. This will be covered in the anatomy of the abdomen / GI embryology."
+    },
+    "16-17 MEDU2300 Final Q2": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following goes through esophageal hiatus?",
+      "options": {
+        "A": "Azygos vein",
+        "B": "Greater splanchnic nerves",
+        "C": "Phrenic nerve",
+        "D": "Thoracic duct",
+        "E": "Vagus Nerve"
+      },
+      "answer": "E",
+      "explanation": "One possible way to recite this can be: Vagus nerve = parasympathetic = related to GI = oesophageal hiatus\nFor your reference, C is wrong as the branch of the right phrenic nerve traverses the caval opening to supply the back of the liver. This is why inflammation of liver and gallbladder may be referred to the C3-C5 dermatome at the shoulder."
+    },
+    "16-17 MEDU2300 Final Q7": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "With regards to the main bronchi, which of the following statements is correct?",
+      "options": {
+        "A": "The right one is longer than the left one",
+        "B": "The right one forms a smaller angle when it enters the lung/when it branches from the trachea",
+        "C": "The left one is longer than the right one",
+        "D": "The right one lies in front of the esophagus",
+        "E": "The left and right are of equal length"
+      },
+      "answer": "C",
+      "explanation": "![](img/16-17_MEDU2300_Final_Q7_1775809638061.png)\n\nRight bronchus\n- has a larger diameter but shorter length.\n- is more vertical → food might fall into the right bronchus more easily.\n- enters the lungs at a higher level of T5 (while left bronchus enters left lung at T6)\nNote that the right one forms a larger angle while it enters the lung because it is more vertical while the hilum is horizontal."
+    },
+    "16-17 MEDU2300 Final Q11": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Esophageal opening on diaphragm",
+      "options": {
+        "A": "At T8 level",
+        "B": "Surrounded by a sling of fiber of right crus",
+        "C": "At central tendon",
+        "D": "Transmit branches of right gastric art.",
+        "E": "Transmit branches of right phrenic n."
+      },
+      "answer": "B",
+      "explanation": "(Refer to Lecture: [Organization of abdomen and pelvis] P.8)\nA. T8 → T10 level\nC. In muscular right crus\nD. Right gastric → left gastric artery (esophageal branches)\nE. phrenic → vagus (right phrenic nerve can be found at the venal caval opening)"
+    },
+    "16-17 MEDU2300 Test Q1": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "In case of injury or congenital defect of the interventricular septum, which of the following valves is most likely affected?",
+      "options": {
+        "A": "Pulmonary valve",
+        "B": "Aortic valve",
+        "C": "Mitral valve",
+        "D": "Tricuspid valve",
+        "E": "Valve of coronary sinus"
+      },
+      "answer": "D",
+      "explanation": "D. defect in ventricular septum — leakage of blood to RV due to higher pressure in LV — higher pressures in RV → Tricuspid regurgitation\nGoogle Sensei: https://www.msdmanuals.com/professional/pediatrics/congenital-cardiovascular-anomalies/ventricular-septal-defect-vsd"
+    },
+    "16-17 MEDU2300 Test Q3": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Posterior interventricular septum damage may be due to blockage of",
+      "options": {
+        "A": "posterior interventricular branch",
+        "B": "right marginal",
+        "C": "anterior interventricular artery",
+        "D": "left cirumflex",
+        "E": "coronary sinus"
+      },
+      "answer": "A",
+      "explanation": "The anterior ? of the IV septum is supplied by the anterior interventricular artery from the left coronary artery.\nThe posterior ? of the IV septum is supplied by the posterior interventricular artery from the right coronary artery."
+    },
+    "16-17 MEDU2300 Final Q8": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following loops around the aortic arch next to the ligamentum arteriosum?",
+      "options": {
+        "A": "Left sympathetic trunk",
+        "B": "Left vagus nerve",
+        "C": "Left recurrent laryngeal nerve",
+        "D": "Left greater splanchnic nerve",
+        "E": "Left phrenic nerve"
+      },
+      "answer": "C",
+      "explanation": "To be precise, the left recurrent laryngeal nerve loops around the aortic arch POSTERIOR to the ligamentum arteriosum.\nThe ligamentum arteriosum is a small ligament that attaches the aortic arch to the pulmonary artery. It has no special functions, just a remnant of the ductus arteriosus."
+    },
+    "16-17 MEDU2300 Final Q9": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Location of SA node at right atrium",
+      "options": {
+        "A": "Lower end of crista terminalis next to the inferior vena cava",
+        "B": "Medial to fossa ovalis",
+        "C": "Upper end of crista terminalis next to the superior vena cava"
+      },
+      "answer": "C",
+      "explanation": "Mature atrium is formed by rough primordial atrium with pectinate muscles, and the smooth sinus venarum formed by resorption of large veins. The division between them is the crista terminalis, which is a smooth muscular ridge acting as the origin of pectinate muscles. The SA node is at the superior end of crista terminalis next to SVC."
+    },
+    "16-17 MEDU2300 Final Q10": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Regarding the Conduction system, which is correct?",
+      "options": {
+        "A": "AV node is between right auricle and svc",
+        "B": "AV node is just above coronary sinus",
+        "C": "Bundle of his is anterior to interventricular septum",
+        "D": "Moderator band is in left atrium",
+        "E": "Moderator band carried left bundle fibres"
+      },
+      "answer": "B",
+      "explanation": "A is describing the position of the SA node. Bundle of His runs within the IV septum. Moderator band arises from IV septum to anterior papillary muscle of RV."
+    },
+    "17-18 MEDU2300 Test Q3": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following structure pass through the middle mediastinum",
+      "options": {
+        "A": "esophagus",
+        "B": "phrenic nerve",
+        "C": "azygos vein",
+        "D": "thoracic duct"
+      },
+      "answer": "B",
+      "explanation": "From Moore’s Essential Clinical Anatomy: The middle mediastinum coincides with the pericardium, containing the heart, ascending aorta, pulmonary trunk, SVC, arch of azygos vein, and main bronchi.\nMiddle mediastinum refers to the space occupied by the pericardium. Phrenic nerve runs on the anterior surface of fibrous pericardium and innervates it, then descends to the diaphragm. Therefore, the phrenic nerve traverses the middle mediastinum.\nFrom BRS Gross Anatomy: Middle mediastinum: - Lies between right and left pleural cavities - Contains the heart, pericardium, phrenic nerves, roots of great vessels (aorta, pulmonary arteries & veins, and vena cava), arch of azygos vein and main bronchi\nComment: If middle mediastinum = pericardium and contents of pericardial sac, phrenic nerve seems to make more sense since it is embedded in pericardium, so I would choose C (according to my understanding azygos vein is mainly in posterior mediastinum and enters SVC in superior mediastinum)\nIn Franky’s world: A: posterior mediastinum; C: posterior mediastinum; D: posterior mediastinum. But he didn’t mention whether phrenic nerve belongs to middle mediastinum (Lecture slide P.5)\n\n![](img/17-18_MEDU2300_Test_Q3_1775809752095.png)"
+    },
+    "17-18 MEDU2300 Test Q4": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following statements concerning physical examination of the heart is correct?",
+      "options": {
+        "A": "Apex beat is displaced medially in most patient with cardiac defect",
+        "B": "apex beat is found in the 5th intercostal space at the anterior axillary line",
+        "C": "malfunctioning of heart valve results in murmur",
+        "D": "mitral valve can be heard at lower left sternal border",
+        "E": "sound of pulmonary valve is projected on the right 2nd intercostal space"
+      },
+      "answer": "C",
+      "explanation": "A: shd be lateral/inferior but not medially\nB: mid-clavicular line\nD: mitral → tricuspid; mitral valve can be heard at 5th intercostal space at mid-clavicular line\nE: pulmonary valve can be auscultated at left sternal border of 2nd ics\n\n![](img/17-18_MEDU2300_Test_Q4_1775809843288.png)"
+    },
+    "17-18 MEDU2300 Final Q2": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "A 10 year old boy has difficulty in breathing after swallowing a peanut. Which is the most likely place the peanut lodged in?",
+      "options": {
+        "A": "left lower bronchus",
+        "B": "left main lobar bronchus",
+        "C": "right main bronchus",
+        "D": "right superior segmental bronchus"
+      },
+      "answer": "C",
+      "explanation": "Right main bronchus is shorter, wider and more vertical when compared to the left. This makes foreign bodies that enter through the trachea more likely to be lodged in this bronchus or the inferior lobar bronchus."
+    },
+    "17-18 MEDU2300 Final Q3": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "What is above the right lung hilum",
+      "options": {
+        "A": "arch of azygos vein",
+        "B": "right pulmonary artery",
+        "C": "Right pulmonary vein",
+        "D": "Right recurrent laryngeal nerve"
+      },
+      "answer": "A",
+      "explanation": "A: right above right lung hilum\nNote that the root of the lungs are about T5-T7 level."
+    },
+    "17-18 MEDU2300 Final Q4": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following structures pass through aortic hiatus of diaphragm",
+      "options": {
+        "A": "IVC",
+        "B": "Right phrenic nerve",
+        "C": "Sympathetic trunk",
+        "D": "thoracic duct",
+        "E": "Vagus nerve"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "17-18 MEDU2300 Test Q6": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Anatomy of lung and pleura",
+      "options": {
+        "A": "Cardiac notch is not present in left pleura",
+        "B": "Apex of the lung extends from the superior thoracic aperture",
+        "C": "Horizontal fissure meets the oblique fissure at the level of 6th rib",
+        "D": "The inferior border of the lung the meet the midclavicular line at the 8th rib",
+        "E": "The inferior border of the left pleura extends to the inferior thoracic aperture"
+      },
+      "answer": "B",
+      "explanation": "A is obviously wrong.\nB is correct as the apex of lungs extends beyond 1st ribs.\nHorizontal and oblique fissures in the right lung meet at 5th rib at mid-axillary line.\nInferior border of the lung meets the midclavicular line at the 6th rib instead.\nInferior limit of pleura never extends beyond the inferior aperture, which is bound by the diaphragm."
+    },
+    "17-18 MEDU2300 Test Q7": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following correctly describes the caval opening of the diaphragm?",
+      "options": {
+        "A": "It is narrowed by the stimulation of vagus nerve",
+        "B": "It circles the left phrenic nerve and inferior vena cava",
+        "C": "It is at the level of T10.",
+        "D": "It is found in the central tendon of the diaphragm",
+        "E": "It lies posterior to and to the left of the aortic orifice."
+      },
+      "answer": "D",
+      "explanation": "A is wrong as caval opening is only under control of diaphragm movements, for example its contraction during inspiration will enlarge the caval opening on central tendon, hence dilating IVC to facilitate venous return. You may say that it is dilated under stimulation of the phrenic nerve, or narrowed by the stimulation of the pneumotaxic centre in rostral pons (HUS2 Respiratory physiology).\nB is wrong as it should be the right phrenic nerve passing through the caval opening to reach the back of liver.\nC is wrong as it is at T8 level.\nD is correct.\nE is wrong as aortic hiatus is at the midline of posterior margin of diaphragm, while caval opening is on the right and anterior aspect of it as IVC is on the right of abdominal aorta below."
+    },
+    "17-18 MEDU2300 Test Q13": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "When standing, fluid in the pleural cavity will accumulate in which region?",
+      "options": {
+        "A": "Apex of lung",
+        "B": "Cardiac notch on left lung",
+        "C": "Cardiac impression",
+        "D": "Horizontal fissure",
+        "E": "Costodiaphragmatic recess"
+      },
+      "answer": "E",
+      "explanation": "E is the only correct answer as costodiaphragmatic recess is on the lateral and inferior corner of pleural cavity, which is unoccupied by the lungs during respiratory movements. Thoracentesis can be performed at 9th ICS at midaxillary line to access the costodiaphragmatic recess, draining pleural fluid for further investigations."
+    },
+    "18-19 MEDU2300 Test Q3": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Apart from esophagus, which of the following passes through esophageal hiatus?",
+      "options": {
+        "A": "Azygos vein",
+        "B": "Phrenic nerve",
+        "C": "Splanchnic nerve",
+        "D": "Thoracic duct",
+        "E": "Vagus nerve"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2300 Test Q4": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following nerves supply the costal parietal pleura?",
+      "options": {
+        "A": "Intercostal nerves",
+        "B": "Phrenic nerves",
+        "C": "Recurrent laryngeal nerves",
+        "D": "Splanchnic nerves",
+        "E": "Vagus nerves"
+      },
+      "answer": "A",
+      "explanation": "(Refers to small moore P.59)\nMuscular branches arise all along the course of the intercostal nerves to supply the intercostal, subcostal, transversus thoracis, levatores costarum, and serratus posterior muscles (Table 1.2) and sensory branches pass to the parietal pleura.\nRefer to BRS Gross Anatomy P. 58, The parietal pleura is innervated by the intercostal nerves (costal pleura and the peripheral portion of the diaphragmatic pleura), and the phrenic nerves (central portion of the diaphragmatic pleura and the mediastinal pleura).\nParietal pleura are sensitive to pain.\nDon’t be tricked by the phrenic nerve!"
+    },
+    "18-19 MEDU2300 Final Q1": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "surface anatomy: where can one locate the horizontal fissure of the right lung along the mid-axillary line?",
+      "options": {
+        "A": "Rib 3",
+        "B": "Rib 4",
+        "C": "Rib 5",
+        "D": "Rib 6",
+        "E": "Rib 7"
+      },
+      "answer": "C",
+      "explanation": "![](img/18-19_MEDU2300_Final_Q1_1775809926507.jpeg)\n![](img/18-19_MEDU2300_Final_Q1_1775809930636.png)\n\nAccording to the “Surface anatomy of Chest” lecture given by Dr. Calvin Ng, the horizontal fissure begins at the 4th rib at the sternal border and runs to the 5th rib at midaxillary line. You may also obtain similar facts from Gray’s anatomy.\nCourse of horizontal fissure (right lung): From 4th rib sternal border, to mid-axillary line at 5th rib level\nCourse of oblique fissure (both lungs): From spinous process of T3 to mid-axillary line at 5th rib level, to mid-clavicular line at 6th rib."
+    },
+    "18-19 MEDU2300 Test Q5": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following coronary artery branches is related to myocardial infarction in anterior interventricular septum?",
+      "options": {
+        "A": "LAD",
+        "B": "Left marginal",
+        "C": "LCX",
+        "D": "Right marginal",
+        "E": "PDA"
+      },
+      "answer": "A",
+      "explanation": "A. LAD = left anterior descending artery = anterior interventricular artery"
+    },
+    "18-19 MEDU2300 Test Q6": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "With regards to coronary conduction, which of the following is correct?",
+      "options": {
+        "A": "The bundle of His runs anterior to the septum",
+        "B": "The AV node is located at the junction between right atrium and SVC",
+        "C": "The AV node is located next to the opening of coronary sinus",
+        "D": "The septomarginal band is located at left ventricle",
+        "E": "?"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "18-19 MEDU2300 Final Q2": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Brachiocephalic trunk which vertebrae level?",
+      "options": {
+        "A": "T1",
+        "B": "T2",
+        "C": "T3",
+        "D": "T4",
+        "E": "T5"
+      },
+      "answer": "C",
+      "explanation": "![](img/18-19_MEDU2300_Final_Q2_1775809959622.png)\n\nInferior end and main bulk of aortic arch is at T4/T5 level behind sternal angle, while the top of arch (Superior border) can reach the T3/T4 level. Therefore, you may consider T3 as the level of origin of all 3 large arteries from aortic arch."
+    },
+    "18-19 MEDU2300 Final Q4": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which level does the azygos vein enter the superior vena cava?",
+      "options": {
+        "A": "T2",
+        "B": "T3",
+        "C": "T4",
+        "D": "T5",
+        "E": "T6"
+      },
+      "answer": "C",
+      "explanation": "Azygos vein arches over the hilum of the right lung to enter SVC, hence above the right main bronchus. Note that the right main bronchus enters the lung at T5 (Left is T6, as the left bronchus is longer and the right lung is being pushed above by the liver), so the azygos vein must course just above T5. T4 is the best answer here.\nExternal Reference: https://radiopaedia.org/articles/azygos-venous-system"
+    },
+    "19-20 MEDU2300 Test Q3": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "what nerve provides main motor innervation to the diaphragm:",
+      "options": {
+        "A": "Cervical sympathetic plexus and phrenic nerve",
+        "B": "Greater splanchnic nerves and phrenic nerves",
+        "C": "Lesser splanchnic nerves and phrenic nerves",
+        "D": "Lower intercostal nerves and phrenic nerves",
+        "E": "Phrenic nerves only"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q3": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following structures passes through the esophageal hiatus?",
+      "options": {
+        "A": "Azygos Vein",
+        "B": "Thoracic duct",
+        "C": "Inferior Vena Cava",
+        "D": "Vagus nerve",
+        "E": "right phrenic nerve"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q4": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "A tumor mass is found to be located in the vicinity of the cardiac notch. Which of the following structures would most likely have to be excised in the lung resection?",
+      "options": {
+        "A": "Lower (inferior) lobe of the right lung",
+        "B": "Upper (superior) lobe of the right lung",
+        "C": "Lower lobe of the left lung",
+        "D": "Upper lobe of the left lung",
+        "E": "Middle lobe of the right lung"
+      },
+      "answer": "D",
+      "explanation": "Note the following special features of the left lung:\n- Lingula\n  - Tongue-shaped portion of the upper lobe that corresponds to the middle lobe of the right lung\n- Cardiac notch\n  - A deep indentation of the anterior border of the superior lobe of left lung\n \n*Middle Lobe of right 全部消失變成 superior lobe in left！\nLook at the arrangement of the upper lobe of the left lung.\n\n![](img/19-20_MEDU2300_Final_Q4_1775810019755.png)"
+    },
+    "19-20 MEDU2300 Final Q5": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "A tumor located just superior to the root of the right lung may block or reduce blood flow in which of the following vessels?",
+      "options": {
+        "A": "Right pulmonary vein",
+        "B": "Azygos vein",
+        "C": "Right subclavian vein",
+        "D": "Right brachiocephalic vein",
+        "E": "Right internal thoracic vein"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q6": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "in Angina pectoris, radiated pain from inner surface of Left Arm is mediated through sensor fibres running in",
+      "options": {
+        "A": "1) Phrenic nerve",
+        "B": "2) Greater splanchnic nerve",
+        "C": "3) Sympathetic Trunk at T1-4",
+        "D": "4) recurrent laryngeal nerve and left vagus nerve",
+        "E": "5) sensory peripheral nerve at T1-T4 dermatomes"
+      },
+      "answer": "C",
+      "explanation": "No pain is sensed from E, just illusion"
+    },
+    "20-21 MEDU2300 Test Q3": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the nerve supply the costal parietal pleura",
+      "options": {
+        "A": "intercostal nerve",
+        "B": "Phrenic nerve",
+        "C": "Recurrent laryngeal nerves",
+        "D": "Splanchnic nerves",
+        "E": "Vagus Nerve"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Test Q4": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which statement is true about the right main bronchus",
+      "options": {
+        "A": "it branches to 2 lobar branches near the hilum",
+        "B": "it crosses the esophagus",
+        "C": "it is inferior to arch of azygos vein",
+        "D": "it is longer and more horizontal than left bronchus"
+      },
+      "answer": "C",
+      "explanation": "A. The right main bronchus branches into 3 lobar branches (superior, middle and inferior), while the left main bronchus only branches into 2 (upper and lower).\nB. Only the left main bronchus crosses anterior to the esophagus\nC. Refer to the first figure below (This is one of the MOST important / commonly asked landmarks in this block, should have known after going through that many questions.)\nD. The right main bronchus is shorter, wider and more vertical than the left bronchus.\n\n![](img/20-21_MEDU2300_Test_Q4_1775810089417.jpeg)"
+    },
+    "20-21 MEDU2300 Final Q3": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The hiatus on the central tendon on the diaphragm contains which of the following structures?",
+      "options": {
+        "A": "Aorta",
+        "B": "Oesophagus",
+        "C": "Right Phrenic Nerve",
+        "D": "Thoracic duct",
+        "E": "Vagus nerve (CN X)"
+      },
+      "answer": "C",
+      "explanation": "![](img/20-21_MEDU2300_Final_Q3_1775810105316.png)\n\nThis is hard though. Hiatus on central tendon refers to caval opening at T8 level, as aortic hiatus is at posterior end of diaphragm formed by median arcuate ligament, while esophageal hiatus is formed by right crus of diaphragm. It is the right phrenic nerve accompanying IVC to traverse the opening. A and D traverse through aortic hiatus, while B and E traverse through esophageal hiatus.\nWell, if you studied the previous questions well, your photographic memory should now tell you everything written in words here."
+    },
+    "20-21 MEDU2300 Test Q5": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following is correct?",
+      "options": {
+        "A": "The anterior interventricular artery is a major branch of left coronary artery",
+        "B": "???",
+        "C": "Both coronary arteries receive blood during systole(?)",
+        "D": "Most people have their posterior interventricular artery from left coronary artery",
+        "E": "The distance traveled before branching off by right coronary artery is shorter than that by left coronary artery"
+      },
+      "answer": "A",
+      "explanation": "A is clearly correct.\nC is wrong because during systole, the cusps of the aortic valve are pressed against the opening of coronary arteries and there is no blood entering them. You will also learn in HUF that systole of the heart compresses the coronary arteries and the flow could be temporarily stopped.\nD is obviously wrong, as the LAD is most likely originating from LCA.\nE is wrong as well, as LCA is much shorter than the right, given that it immediately branches into LCX and LAD."
+    },
+    "20-21 MEDU2300 Final Q5": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Blood clot blocks anterior interventricular artery, which of the following is affected?",
+      "options": {
+        "A": "Anterior surface of left ventricle",
+        "B": "Anterior surface of right ventricle",
+        "C": "Inferior part of interventricular septum"
+      },
+      "answer": "A",
+      "explanation": "Anterior surface of the right ventricle is supplied by the right marginal artery.\nInferior part of the interventricular septum can be supplied by the posterior interventricular artery.\nThe best choice here is A, because LAD comes from the left coronary artery."
+    },
+    "20-21 MEDU2300 Final Q6": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The atrioventricular groove or sulcus of the heart contains the:",
+      "options": {
+        "A": "Anterior interventricular artery",
+        "B": "left coronary artery",
+        "C": "marginal branch of the right coronary artery",
+        "D": "posterior interventricular artery",
+        "E": "Right coronary artery"
+      },
+      "answer": "E",
+      "explanation": "This is different from the interventricular groove.\nNote the course of the right coronary artery that travels to the right side of the heart almost horizontally."
+    },
+    "20-21 MEDU2300 Final Q7": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Hemiazygos vein, after going through the aortic hiatus, travels posterior to which of the following structures before joining with the azygos vein?",
+      "options": {
+        "A": "Inferior vena cava",
+        "B": "Right phrenic nerve",
+        "C": "Splanchnic nerve",
+        "D": "Thoracic duct",
+        "E": "Vagus nerve"
+      },
+      "answer": "D",
+      "explanation": "Such question shows how Maksim (@medbook.pro) describes thorax with 易學難精, basically there are too many details to study. To get the answer directly, refer to lecture notes P. 28, which the diagram explains everything (but you will never realize that this is also an important point to note for exams…)\nHemiazygos vein ascends on the left side of the aorta, of course irrelevant to IVC and right phrenic nerve in caval opening. Vagus nerve runs along the oesophagus and is not related to the hemiazygos vein at such a low position too (T7/T8 for hemiazygos vein to drain into azygos vein).\nThe remaining two choices are virtually impossible to imagine. From Netter, the sympathetic trunks are lateral to azygos and hemiazygos veins, so do the splanchnic nerves. However, there is still some dispute over the relation of the thoracic duct with the hemiazygos vein. But I can assure you that the hemiazygos vein crosses the thoracic duct as it runs right to meet the azygos vein. Franky’s slides and Netter say hemiazygos vein runs posterior to thoracic duct, while Moore says otherwise. Please trust Franky for the exam, as it is him setting the exam question.\nRevisit: Big Moore says the same as Franky, but not the same as Small Moore :o"
+    },
+    "21-22 MEDU2300 Test Q3": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following is true about the left main bronchus?",
+      "options": {
+        "A": "It branches into 3 lobar bronchi",
+        "B": "It is shorter and more vertical than right main bronchus",
+        "C": "It passes in front of the esophagus",
+        "D": "The arch of azygos vein is superior to it",
+        "E": "It travels in the superior mediastinum"
+      },
+      "answer": "C",
+      "explanation": "A is clearly wrong as the left lung only has 2 lobes.\nB is just the opposite.\nC is correct because the trachea is always anterior to the esophagus, while the oesophagus is slightly displaced to the left in later courses. Such a position is also one of the constriction sites of the esophagus.\nD is true for the right main bronchus, as azygos vein arches over the right hilum to drain into IVC anteriorly.\nE is wrong, by the time the trachea divides into left and right bronchi, it has already entered to middle mediastinum. Note that the division between superior and lower 3 mediastinal compartments is the transverse thoracic plane at sternal angle (T4/5 level), hence the main bronchi will not be in superior mediastinum anymore."
+    },
+    "21-22 MEDU2300 Test Q4": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following structure pass through the oesophageal hiatus?",
+      "options": {
+        "A": "Azygos vein",
+        "B": "Splanchnic nerve",
+        "C": "Phrenic nerve",
+        "D": "Vagus nerve",
+        "E": "Thoracic duct"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2300 Final Q3": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The aortic hiatus of the diaphragm transmits the following structures except:",
+      "options": {
+        "A": "Aorta",
+        "B": "Azygos vein",
+        "C": "Splanchnic nerves",
+        "D": "Thoracic duct",
+        "E": "Vagus nerve"
+      },
+      "answer": "E",
+      "explanation": "C could be correct, as splanchnic nerves do not traverse any openings according to Netter, but Franky’s slides say otherwise. I would prefer believing Franky.\nHowever, the vagus nerve must traverse oesophageal hiatus and must be correct. Just pick the vagus nerve next time you see this question. Sometimes studying too hard is an issue..."
+    },
+    "21-22 MEDU2300 Final Q4": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Inhaled foreign body is most likely to go to right lung. All statements can explain why except:",
+      "options": {
+        "A": "Right lung is larger and wider than left lung",
+        "B": "Right main bronchus enters lung root at T5",
+        "C": "Right main bronchus larger than left main bronchus",
+        "D": "Right main bronchus is more vertical then left main bronchus",
+        "E": "Right main bronchus is shorter than left main bronchus"
+      },
+      "answer": "A",
+      "explanation": "A is a correct claim. Right lung is larger (3 lobes), shorter and wider (Liver compresses from below), but this is irrelevant to entry of foreign objects to the lungs. B-E are all valid comparisons of left and right main bronchi. Just make sure you don’t mix up right and left bronchi with left or right lungs.\nC-E are all very valid reasons to support the situation, while B seems not. B is the reason why the right main bronchus is shorter and hence easier for an object to enter the right lung."
+    },
+    "21-22 MEDU2300 Test Q5": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following artery bypass the coronary sinus?",
+      "options": {
+        "A": "Anterior cardiac vein",
+        "B": "Small cardiac vein",
+        "C": "Middle cardiac vein",
+        "D": "Great cardiac vein",
+        "E": "Posterior cardiac vein"
+      },
+      "answer": "A",
+      "explanation": "E does not exist for your reference. Small cardiac vein runs along the right marginal artery and then RCA in the coronary sulcus. Middle cardiac vein runs along PDA, while the great cardiac vein runs along LAD and LCX. Anterior cardiac vein is the only exception draining minor blood from the right ventricle directly into the right atrium. (Alternative name is smallest cardiac vein)."
+    },
+    "21-22 MEDU2300 Test Q6": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following is true for thoracic duct?",
+      "options": {
+        "A": "It ascends to posterior mediastinum behind esophagus and to the left of the aorta",
+        "B": "It starts from cisterna chyli in the abdomen and terminates at the junction of right subclavian and internal jugular vein",
+        "C": "It drains the whole body except the right thorax, right upper limb, and right half of the head and neck",
+        "D": "It traverses the diaphragm through esophageal hiatus",
+        "E": "It joins the right jugular and subclavian trunk"
+      },
+      "answer": "C",
+      "explanation": "Thoracic duct ascends on the right of aorta, and the left of azygos vein. Thoracic duct indeed starts from cisterna chyli at L1/L2 level, but should end at junction of left subclavian and internal jugular veins. Thoracic duct traverses the aortic hiatus."
+    },
+    "21-22 MEDU2300 Final Q5": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Occlusion of anterior interventricular artery by blood clots is most likely to lead to infarction of",
+      "options": {
+        "A": "Anterior part of LV",
+        "B": "Anterior part of RV",
+        "C": "Inferior part of RV",
+        "D": "Left lateral part of heart",
+        "E": "Posterior part of interventricular septum"
+      },
+      "answer": "A",
+      "explanation": "A. Correct\nB. Right marginal artery\nC. Right marginal artery + Posterior interventricular artery\nD. Left circumflex artery\nE. Posterior interventricular artery"
+    },
+    "21-22 MEDU2300 Final Q6": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The following veins drain to the coronary sinus except",
+      "options": {
+        "A": "anterior cardiac vein",
+        "B": "great cardiac vein",
+        "C": "middle cardiac vein",
+        "D": "oblique vein of left atrium",
+        "E": "small cardiac vein"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "21-22 MEDU2300 Final Q7": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The heart receives sensory fibers from which of the following vertebral levels of sympathetic trunk",
+      "options": {
+        "A": "T1 – T3",
+        "B": "T1 – T4",
+        "C": "T2 – T4",
+        "D": "T2 – T5",
+        "E": "T3 – T7"
+      },
+      "answer": "B",
+      "explanation": "Always remember that T1 is involved or else there will not be referred pain over the inner surface of the left arm. This is because the medial cutaneous nerve of the arm arises from the T1 spinal segment. The dermatome of T2 is already in the chest and axilla."
+    },
+    "22-23 MEDU2300 Test Q3": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following is the most accurate description for the innervation of phrenic nerve?",
+      "options": {
+        "A": "Supply lungs",
+        "B": "Supply diaphragm",
+        "C": "Supply lungs and diaphragm",
+        "D": "Supply lungs and thoracic wall",
+        "E": "Supply diaphragm and pericardium"
+      },
+      "answer": "E",
+      "explanation": "Phrenic nerve supplies the motor action of diaphragm, and sensation over central tendon of diaphragm and pericardium. (This is a question that appeared in the formative assessments!)"
+    },
+    "22-23 MEDU2300 Test Q4": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "CT scan shows a tumour superior to the right root of lung. Which blood circulation will most likely be affected?",
+      "options": {
+        "A": "Azygos vein",
+        "B": "Right brachiocephalic vein",
+        "C": "Right pulmonary vein",
+        "D": "Right subclavian vein",
+        "E": "Superior vena cava"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "22-23 MEDU2300 Test Q20": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Where is the seromucous gland of the trachea located?",
+      "options": {
+        "A": "Adventitia",
+        "B": "Pseudostratified columnar ciliated epithelium",
+        "C": "Lamina propria",
+        "D": "Submucosa",
+        "E": "Loose connective tissue in mucosa"
+      },
+      "answer": "D",
+      "explanation": "This is like the position of glands in the esophagus and duodenum.\nNote that this is supposed to be a histology question."
+    },
+    "22-23 MEDU2300 Test Q5": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following branches of coronary arteries is most likely to be involved in myocardial infarction affecting the posterior aspect of IV septum?",
+      "options": {
+        "A": "Anterior interventricular artery",
+        "B": "Circumflex artery",
+        "C": "Left coronary artery",
+        "D": "Posterior interventricular artery",
+        "E": "Right marginal artery"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "22-23 MEDU2300 Test Q6": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "According to the cardiac conduction system, which of the following is correct?",
+      "options": {
+        "A": "Atrioventricular bundle (of His) normally runs anterior to the membranous interventricular septum.",
+        "B": "Atrioventricular node is located at the junction of the superior vena cava and right auricle.",
+        "C": "Atrioventricular node is located next to the opening of the coronary sinus.",
+        "D": "The septomarginal trabecula is located at the left ventricle.",
+        "E": "Septomarginal trabecula carries left conducting fibres."
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "FA MEDU2300 Thorax Q7": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which one of the following statements regarding the phrenic nerve is MOST ACCURATE?",
+      "options": {
+        "A": "It supplies mainly the lungs.",
+        "B": "It supplies mainly the pericardium.",
+        "C": "It supplies mainly the diaphragm.",
+        "D": "It supplies mainly the diaphragm and pericardium",
+        "E": "It supplies mainly the skin of the chest."
+      },
+      "answer": "D",
+      "explanation": "Phrenic nerve gives motor supply for the diaphragm, and sensory supply of the central portion of diaphragm and entire pericardium (fibrous & parietal)."
+    },
+    "FA MEDU2300 Thorax Q8": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which one of the following statements concerning the lung is CORRECT?",
+      "options": {
+        "A": "Lingula is the extension of the right superior lung lobe.",
+        "B": "Apex of the lung extends above the first rib.",
+        "C": "Horizontal and oblique fissures of the right lung usually meet at the midclavicular line.",
+        "D": "Phrenic nerve goes down to the diaphragm on the anterior surface of the lung.",
+        "E": "Horizontal fissure is a feature of the left lung."
+      },
+      "answer": "B",
+      "explanation": "Lingula is the analogue of the middle lobe growing in the superior lobe of the left lung. Horizontal and oblique fissure meet at the 5th ribs on the midaxillary line, instead of the midclavicular line. Phrenic nerve runs on the anterior aspect of lung hila, but not the surface, as it is traversing in anterior mediastinum to supply the pericardium."
+    },
+    "FA MEDU2300 Thorax Q9": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which one of the following structures transmits through the aortic hiatus?",
+      "options": {
+        "A": "Oesophagus",
+        "B": "Right phrenic nerve",
+        "C": "Inferior vena cava",
+        "D": "Thoracic duct",
+        "E": "Azygos vein"
+      },
+      "answer": "D",
+      "explanation": "The only viable answer is thoracic duct. A and E travels together through oesophageal hiatus, while B and C travels through caval opening."
+    },
+    "FA MEDU2300 Thorax Q10": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which one of the following structures is related to the mediastinal surface of the right lung?",
+      "options": {
+        "A": "Superior vena cava",
+        "B": "Arch of the aorta",
+        "C": "Internal thoracic artery",
+        "D": "Descending aorta",
+        "E": "Left ventricle"
+      },
+      "answer": "A",
+      "explanation": "This is just asking what is on the left of the right lung, and of course is SVC and right heart border. This is often asked in spot tests and you may find a similar question in the file."
+    },
+    "FA MEDU2300 Thorax Q11": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which one of the following pleurae is insensitive to pain?",
+      "options": {
+        "A": "Mediastinal pleura",
+        "B": "Costal pleura",
+        "C": "Parietal pleura",
+        "D": "Diaphragmatic pleura",
+        "E": "Visceral pleura"
+      },
+      "answer": "E",
+      "explanation": "Visceral pleura is innervated by ANS, which only sends vague visceral afferents to spinal cords as pain signal. On the contrary, parietal pleura (A+B+D) is innervated by intercostal nerves, which transmits sharp pain signals."
+    },
+    "FA MEDU2300 Thorax Q12": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "With reference to the trachea in the thoracic cavity, which one of the following statements is CORRECT?",
+      "options": {
+        "A": "It terminates at vertebral level T6.",
+        "B": "It is posterior to the oesophagus.",
+        "C": "It has the recurrent laryngeal nerve on its left but not right side.",
+        "D": "It is posterior to the left atrium.",
+        "E": "Its lower right side is in contact with the aortic arch."
+      },
+      "answer": "C",
+      "explanation": "Trachea bifurcates at the sternal angle, at the level of T4/T5 IV disc, which is already the level of aortic arch, above the entire heart. It is anterior to the oesophagus, and its lower left side is being arched over by the aortic arch. C is correct as right recurrent laryngeal nerve hooks around the right subclavian artery, which is beyond the thorax."
+    },
+    "FA MEDU2300 Thorax Q13": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following statements concerning the pericardium is CORRECT?",
+      "options": {
+        "A": "The visceral portion of the serous pericardium covers the heart only.",
+        "B": "The pericardium is supplied directly by internal thoracic arteries.",
+        "C": "The fibrous pericardium is a closed sac having two layers.",
+        "D": "The fibrous pericardium is innervated by phrenic nerves.",
+        "E": "The parietal portion of the serous pericardium covers the diaphragm."
+      },
+      "answer": "D",
+      "explanation": "Visceral portion of serous pericardium (Epicardium) also covers the root of great vessels.\nPericardium is supplied by the pericardiacophrenic artery from the internal thoracic artery.\nFibrous pericardium is just a fibrous sheath with no space within, but the serous pericardium is. It should be fibrous pericardium covering the diaphragm."
+    },
+    "FA MEDU2300 Thorax Q14": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following statements concerning the sinoatrial (SA) node is CORRECT?",
+      "options": {
+        "A": "It is receptive to sympathetic innervation only.",
+        "B": "It is located on the atrial wall near the tricuspid valve.",
+        "C": "It has an arterial supply arising from the right coronary artery.",
+        "D": "It lies near the entrance of the inferior vena cava to the heart.",
+        "E": "It generates an electrical signal that immediately causes the heart ventricles to contract."
+      },
+      "answer": "C",
+      "explanation": "SA node is near the opening of SVC, while the AV node is near the opening of the coronary sinus. C is correct as SA and AV nodes are in the right atrium, and there are nodal branches arising from RCA for them. E is wrong as the electrical signal has to pass through the internodal pathway, AV node, bundle of His, and Purkinje fibres to reach the cardiomyocytes in ventricles."
+    },
+    "FA MEDU2300 Thorax Q15": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "With the heart in its usual position in the body:",
+      "options": {
+        "A": "The ascending aorta lies anterior to the pulmonary trunk.",
+        "B": "The left ventricle forms most of the anterior surface.",
+        "C": "The base of the heart consists mainly of the right atrium.",
+        "D": "The left atrium can be seen on the anterior aspect.",
+        "E": "The right border is formed by the right atrium."
+      },
+      "answer": "E",
+      "explanation": "Ascending aorta is on the right of the pulmonary trunk. It is the right ventricle forming the most of the anterior surface. It is the left atrium forming the base, which can only be seen from the back. Right border is indeed formed by the right atrium, same in CXR. (Lmao better learn the heart borders in case it appears in the radiology spot exam.)"
+    },
+    "FA MEDU2300 Thorax Q16": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "At which of the following sites can the azygos vein be located?",
+      "options": {
+        "A": "Within the esophageal hiatus.",
+        "B": "Superior to the right lung root.",
+        "C": "On the posterior thoracic wall left to the vertebral column.",
+        "D": "Left to the thoracic aorta.",
+        "E": "Inferior to the right lung root."
+      },
+      "answer": "B",
+      "explanation": "Azygos vein ascends within the aortic hiatus after its origin in abdomen, then ascends on the right of vertebral column, and receives drainage from hemiazygos vein at T8 level, accessory hemiazygos vein at T7 level. Azygos vein then arches over the right pulmonary hilum to drain into SVC."
+    },
+    "FA MEDU2300 Thorax Q17": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "On the chest, closure of which one of the following valves can best be heard at the intersection of the fifth intercostal space and midclavicular line?",
+      "options": {
+        "A": "Mitral valve",
+        "B": "Aortic valve",
+        "C": "Tricuspid valve",
+        "D": "Semilunar valve",
+        "E": "Pulmonary valve"
+      },
+      "answer": "A",
+      "explanation": "![](img/FA_MEDU2300_Thorax_Q17_1775810348594.png)\n\nAortic valve can be auscultated at 2nd ICS, right sternal border;\nPulmonary valve is at 2nd ICS, left sternal border;\nMitral valve is at 5th ICS, left midclavicular line, while\nTricuspid valve is at 4th ICS, left sternal border."
+    },
+    "FA MEDU2300 Thorax Q18": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following has a close contact with the esophagus in the posterior mediastinum?",
+      "options": {
+        "A": "Left atrium",
+        "B": "Trachea",
+        "C": "Right main bronchus",
+        "D": "Aortic arch",
+        "E": "Thyroid gland"
+      },
+      "answer": "D",
+      "explanation": "Left atrium is the base of the heart, receiving 4 pulmonary veins from the hila. Recall that pulmonary veins are more anterior to the bronchus in the hilum, the left atrium is separated from the esophagus by the carina and bronchi.\nAlthough trachea runs just anterior to the esophagus for most of their courses since their division at the pharynx, it only traverses the superior mediastinum. Its bifurcation and two bronchi are in the middle mediastinum, together forming the anterior border of posterior mediastinum.\nC is wrong as it stays on the right and does not contact the esophagus slightly on the left of the midline.\nD is correct as the aortic arch runs posteriorly on the left of trachea and esophagus as it becomes the thoracic aorta.\nE is wrong as the thyroid gland is anterior to the thyroid and cricoid cartilages at C4-C6 levels (Not in posterior mediastinum), and separated from the esophagus by the trachea."
+    },
+    "FA MEDU2300 Thorax Q19": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The manubrium of the sternum is located in which of the following divisions of the mediastinum?",
+      "options": {
+        "A": "Superior",
+        "B": "Anterior",
+        "C": "Middle",
+        "D": "Posterior",
+        "E": "Inferior"
+      },
+      "answer": "A",
+      "explanation": "Note that the sternal angle is the division between the superficial mediastinum and the rest of the mediastinum. The manubrium must be above this transverse thoracic plane and be within the superficial mediastinum."
+    },
+    "FA MEDU2300 Thorax Q20": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "The left vagus nerve gives off a left recurrent laryngeal nerve when it ends its course at",
+      "options": {
+        "A": "Aortic arch",
+        "B": "Left pulmonary vein",
+        "C": "Left pulmonary artery",
+        "D": "Left subclavian vein",
+        "E": "Left main bronchus"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU2300 Thorax Q2": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Thorax",
+      "question": "Which of the following about the esophagus is correct?",
+      "options": {
+        "A": "The thoracic aorta is located to the right of the esophagus",
+        "B": "The left atrium is located posterior to the esophagus",
+        "C": "Middle esophageal constriction is located at T10",
+        "D": "At esophageal constriction sites, the mucosa is more likely to be injured by acids or caustic materials",
+        "E": "The origin of the upper esophageal constriction is above the pharynx"
+      },
+      "answer": "D",
+      "explanation": "Appreciate the location of constriction, relations of the esophagus to other structures, and the clinical significance of the constriction sites through this question. Seems like there are few, if not no, questions that are set on these concepts before.\nA. The thoracic aorta is located to the LEFT of the esophagus.\nB. The left atrium is located ANTERIOR to the esophagus.\nC. Middle esophageal constriction is also called thoracic constriction, located at the point where the left bronchus crosses the aortic arch inferiorly (to the left of the esophagus), which is at T4. T10 is the lower esophageal constriction, or the diaphragmatic constriction, which is also where the esophagus enters the diaphragm at the esophageal opening.\nD. Correct. This is one of the clinical significance of these constriction sites. Another important point to note is that the walls of these sites are more prone to be injured by sharp / pointed objects if swallowed.\nE. The origin of the upper esophageal constriction (pharyngo-esophageal constriction) is located BELOW the pharynx."
     }
   }
 }
