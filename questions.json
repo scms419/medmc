@@ -1433,16 +1433,32 @@
       },
       "MEDU2600 Molecular Medicine and Genetics": {
         "byYear": {
+          "2013-14": [
+            "13-14 MEDU2600 Test Q15",
+            "13-14 MEDU2600 Test Q16",
+            "13-14 MEDU2600 Test Q19",
+            "13-14 MEDU2600 Test Q23",
+            "13-14 MEDU2600 Test Q17",
+            "13-14 MEDU2600 Test Q20",
+            "13-14 MEDU2600 Test Q21",
+            "13-14 MEDU2600 Test Q22"
+          ],
           "2014-15": [
             "14-15 MEDU2600 Test Q7",
-            "14-15 MEDU2600 Test Q8"
+            "14-15 MEDU2600 Test Q8",
+            "14-15 MEDU2600 Test Q36"
           ],
           "2015-16": [
             "15-16 MEDU2600 Test Q45",
             "15-16 MEDU2600 Test Q46",
             "15-16 MEDU2600 Final Q27",
             "15-16 MEDU2600 Final Q17",
-            "15-16 MEDU2600 Test Q51"
+            "15-16 MEDU2600 Test Q51",
+            "15-16 MEDU2600 Final Q2",
+            "15-16 MEDU2600 Final Q28",
+            "15-16 MEDU2600 Test Q44",
+            "15-16 MEDU2600 Final Q8",
+            "15-16 MEDU2600 Final Q14"
           ],
           "2016-17": [
             "16-17 MEDU2600 Test Q45",
@@ -1458,7 +1474,14 @@
             "16-17 MEDU2600 Final Q16",
             "16-17 MEDU2600 Test Q60",
             "16-17 MEDU2600 Final Q9",
-            "16-17 MEDU2600 Test Q58"
+            "16-17 MEDU2600 Test Q58",
+            "16-17 MEDU2600 Final Q1",
+            "16-17 MEDU2600 Test Q42",
+            "16-17 MEDU2600 Test Q43",
+            "16-17 MEDU2600 Test Q44",
+            "16-17 MEDU2600 Final Q2",
+            "16-17 MEDU2600 Final Q3",
+            "16-17 MEDU2600 Final Q4"
           ],
           "2017-18": [
             "17-18 MEDU2600 Final Q5",
@@ -1470,7 +1493,16 @@
             "17-18 MEDU2600 Final Q4",
             "17-18 MEDU2600 Final Q8",
             "17-18 MEDU2600 Test Q48",
-            "17-18 MEDU2600 Final Q9"
+            "17-18 MEDU2600 Final Q9",
+            "17-18 MEDU2600 Test Q41",
+            "17-18 MEDU2600 Final Q1",
+            "17-18 MEDU2600 Test Q42",
+            "17-18 MEDU2600 Test Q43",
+            "17-18 MEDU2600 Final Q7",
+            "17-18 MEDU2600 Test Q44",
+            "17-18 MEDU2600 Final Q2",
+            "17-18 MEDU2600 Test Q45",
+            "17-18 MEDU2600 Final Q4"
           ],
           "2018-19": [
             "18-19 MEDU2600 Test Q50",
@@ -1483,7 +1515,12 @@
             "18-19 MEDU2600 Final Q4",
             "18-19 MEDU2600 Final Q8",
             "18-19 MEDU2600 Final Q9",
-            "18-19 MEDU2600 Final Q10"
+            "18-19 MEDU2600 Final Q10",
+            "18-19 MEDU2600 Test Q41",
+            "18-19 MEDU2600 Test Q42",
+            "18-19 MEDU2600 Final Q1",
+            "18-19 MEDU2600 Test Q43",
+            "18-19 MEDU2600 Final Q2"
           ],
           "2019-20": [
             "19-20 MEDU2600 Sem1 Q47",
@@ -1492,7 +1529,13 @@
             "19-20 MEDU2600 Final Q7",
             "19-20 MEDU2600 Final Q8",
             "19-20 MEDU2600 Final Q9",
-            "19-20 MEDU2600 Final Q10"
+            "19-20 MEDU2600 Final Q10",
+            "19-20 MEDU2600 Final Q1",
+            "19-20 MEDU2600 Sem1 Q42",
+            "19-20 MEDU2600 Sem1 Q43",
+            "19-20 MEDU2600 Final Q2",
+            "19-20 MEDU2600 Sem1 Q44",
+            "19-20 MEDU2600 Final Q4"
           ],
           "2020-21": [
             "20-21 MEDU2600 Sem1 Q45",
@@ -1507,7 +1550,12 @@
             "20-21 MEDU2600 Sem1 Q49",
             "20-21 MEDU2600 Final Q9",
             "20-21 MEDU2600 Sem1 Q50",
-            "20-21 MEDU2600 Final Q10"
+            "20-21 MEDU2600 Final Q10",
+            "20-21 MEDU2600 Sem1 Q41",
+            "20-21 MEDU2600 Sem1 Q42",
+            "20-21 MEDU2600 Final Q1",
+            "20-21 MEDU2600 Sem1 Q43",
+            "20-21 MEDU2600 Final Q2"
           ],
           "2021-22": [
             "21-22 MEDU2600 Test Q45",
@@ -1519,14 +1567,38 @@
             "21-22 MEDU2600 Final Q10",
             "21-22 MEDU2600 Test Q48",
             "21-22 MEDU2600 Test Q49",
-            "21-22 MEDU2600 Final Q7"
+            "21-22 MEDU2600 Final Q7",
+            "21-22 MEDU2600 Test Q42",
+            "21-22 MEDU2600 Final Q1",
+            "21-22 MEDU2600 Final Q2",
+            "21-22 MEDU2600 Final Q43",
+            "21-22 MEDU2600 Test Q44",
+            "21-22 MEDU2600 Final Q9"
           ],
           "2022-23": [
             "22-23 MEDU2600 Test Q46",
             "22-23 MEDU2600 Test Q47",
             "22-23 MEDU2600 Test Q48",
             "22-23 MEDU2600 Test Q49",
-            "22-23 MEDU2600 Test Q50"
+            "22-23 MEDU2600 Test Q50",
+            "22-23 MEDU2600 Test Q41",
+            "22-23 MEDU2600 Test Q42",
+            "22-23 MEDU2600 Test Q44",
+            "22-23 MEDU2600 Test Q45"
+          ],
+          "unclassified": [
+            "Extra MEDU2600 Cell Q1",
+            "Extra MEDU2600 Cell Q2",
+            "Extra MEDU2600 Cell Q3",
+            "Extra MEDU2600 Cell Q4",
+            "Extra MEDU2600 Cell Q5",
+            "Extra MEDU2600 Cell Q6",
+            "Extra MEDU2600 Cell Q7",
+            "Extra MEDU2600 Cell Q8",
+            "Extra MEDU2600 Cell Q9",
+            "Extra MEDU2600 Cell Q10",
+            "Extra MEDU2600 Cell Q11",
+            "Extra MEDU2600 Cell Q12"
           ]
         },
         "byTopic": {
@@ -1608,6 +1680,76 @@
             "21-22 MEDU2600 Final Q7",
             "22-23 MEDU2600 Test Q50",
             "16-17 MEDU2600 Test Q58"
+          ],
+          "Cell Biology": [
+            "13-14 MEDU2600 Test Q15",
+            "13-14 MEDU2600 Test Q16",
+            "13-14 MEDU2600 Test Q19",
+            "13-14 MEDU2600 Test Q23",
+            "14-15 MEDU2600 Test Q36",
+            "15-16 MEDU2600 Final Q2",
+            "15-16 MEDU2600 Final Q28",
+            "16-17 MEDU2600 Final Q1",
+            "16-17 MEDU2600 Test Q42",
+            "17-18 MEDU2600 Test Q41",
+            "17-18 MEDU2600 Final Q1",
+            "17-18 MEDU2600 Test Q42",
+            "18-19 MEDU2600 Test Q41",
+            "18-19 MEDU2600 Test Q42",
+            "18-19 MEDU2600 Final Q1",
+            "19-20 MEDU2600 Final Q1",
+            "19-20 MEDU2600 Sem1 Q42",
+            "20-21 MEDU2600 Sem1 Q41",
+            "20-21 MEDU2600 Sem1 Q42",
+            "20-21 MEDU2600 Final Q1",
+            "21-22 MEDU2600 Test Q42",
+            "21-22 MEDU2600 Final Q1",
+            "22-23 MEDU2600 Test Q41",
+            "22-23 MEDU2600 Test Q42",
+            "Extra MEDU2600 Cell Q1",
+            "Extra MEDU2600 Cell Q2",
+            "Extra MEDU2600 Cell Q3",
+            "Extra MEDU2600 Cell Q4",
+            "Extra MEDU2600 Cell Q5",
+            "13-14 MEDU2600 Test Q17",
+            "15-16 MEDU2600 Test Q44",
+            "16-17 MEDU2600 Test Q43",
+            "17-18 MEDU2600 Test Q43",
+            "17-18 MEDU2600 Final Q7",
+            "18-19 MEDU2600 Test Q43",
+            "18-19 MEDU2600 Final Q2",
+            "19-20 MEDU2600 Sem1 Q43",
+            "20-21 MEDU2600 Sem1 Q43",
+            "21-22 MEDU2600 Final Q2",
+            "Extra MEDU2600 Cell Q6",
+            "Extra MEDU2600 Cell Q7",
+            "13-14 MEDU2600 Test Q20",
+            "13-14 MEDU2600 Test Q21",
+            "13-14 MEDU2600 Test Q22",
+            "15-16 MEDU2600 Final Q8",
+            "16-17 MEDU2600 Test Q44",
+            "16-17 MEDU2600 Final Q2",
+            "17-18 MEDU2600 Test Q44",
+            "17-18 MEDU2600 Final Q2",
+            "19-20 MEDU2600 Final Q2",
+            "20-21 MEDU2600 Final Q2",
+            "21-22 MEDU2600 Final Q43",
+            "22-23 MEDU2600 Test Q44",
+            "Extra MEDU2600 Cell Q8",
+            "Extra MEDU2600 Cell Q9",
+            "Extra MEDU2600 Cell Q10",
+            "15-16 MEDU2600 Final Q14",
+            "16-17 MEDU2600 Final Q3",
+            "16-17 MEDU2600 Final Q4",
+            "17-18 MEDU2600 Test Q45",
+            "17-18 MEDU2600 Final Q4",
+            "19-20 MEDU2600 Sem1 Q44",
+            "19-20 MEDU2600 Final Q4",
+            "21-22 MEDU2600 Test Q44",
+            "21-22 MEDU2600 Final Q9",
+            "22-23 MEDU2600 Test Q45",
+            "Extra MEDU2600 Cell Q11",
+            "Extra MEDU2600 Cell Q12"
           ]
         }
       },
@@ -9243,12 +9385,12 @@
       "options": {
         "A": "Cutaneous blood vessels",
         "B": "Bronchial diameter",
-        "C": "emptying of urinary Bladder",
+        "C": "Emptying of urinary bladder",
         "D": "Salivary secretion",
-        "E": "sweat gland"
+        "E": "Sweat gland"
       },
       "answer": "C",
-      "explanation": "Detrusor muscles relax under beta-2 sympathetic stimulation, and contract under M3 parasympathetic stimulation.\nInternal sphincter muscle relaxes under alpha-1 sympathetic stimulation, and contracts under M3 parasympathetic stimulation."
+      "explanation": "Note that bronchial smooth muscles are sparsely innervated by sympathetic fibers. They rely on epinephrine from the circulation. Hence, B is not the answer. \n\nDetrusor muscles relax under beta-2 sympathetic stimulation, and contract under M3 parasympathetic stimulation.\nInternal sphincter muscle relaxes under alpha-1 sympathetic stimulation, and is pulled open passively when detrusor muscles contract."
     },
     "18-19 MEDU2400 Test Q25": {
       "year": "2018-19",
@@ -13304,7 +13446,7 @@
       "course": "MEDU2600 Molecular Medicine and Genetics",
       "question_number": 4,
       "level": "Year 2",
-      "topic": "Carbohydrate",
+      "topic": "Cell Biology",
       "question": "NADPH is used instead of NADH. Why?",
       "options": {
         "A": "NADPH can diffuse across mitochondrial membrane while NADH cannot",
@@ -13440,7 +13582,7 @@
       "course": "MEDU2600 Molecular Medicine and Genetics",
       "question_number": 4,
       "level": "Year 2",
-      "topic": "Carbohydrate",
+      "topic": "Cell Biology",
       "question": "Which is a reductive agent in metabolism:",
       "options": {
         "A": "AMP",
@@ -15879,7 +16021,7 @@
         "E": "Azygos vein"
       },
       "answer": "D",
-      "explanation": "The only viable answer is thoracic duct. A and E travels together through oesophageal hiatus, while B and C travels through caval opening."
+      "explanation": "Note that E is also an answer. \n\nA travels together through oesophageal hiatus, while B and C travels through caval opening."
     },
     "FA MEDU2300 Thorax Q10": {
       "year": "unclassified",
@@ -16084,6 +16226,1121 @@
       },
       "answer": "D",
       "explanation": "Appreciate the location of constriction, relations of the esophagus to other structures, and the clinical significance of the constriction sites through this question. Seems like there are few, if not no, questions that are set on these concepts before.\nA. The thoracic aorta is located to the LEFT of the esophagus.\nB. The left atrium is located ANTERIOR to the esophagus.\nC. Middle esophageal constriction is also called thoracic constriction, located at the point where the left bronchus crosses the aortic arch inferiorly (to the left of the esophagus), which is at T4. T10 is the lower esophageal constriction, or the diaphragmatic constriction, which is also where the esophagus enters the diaphragm at the esophageal opening.\nD. Correct. This is one of the clinical significance of these constriction sites. Another important point to note is that the walls of these sites are more prone to be injured by sharp / pointed objects if swallowed.\nE. The origin of the upper esophageal constriction (pharyngo-esophageal constriction) is located BELOW the pharynx."
+    },
+    "13-14 MEDU2600 Test Q15": {
+      "year": "2013-14",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following statements about CFTR is correct?",
+      "options": {
+        "A": "CFTR present in lung endothelial cells",
+        "B": "CFTR transports Na ions into the airway",
+        "C": "mutation of CFTR causes autosomal dominant diseases called cystic fibrosis",
+        "D": "Malfunction of CFTR leads to airway dehydration",
+        "E": "Malfunction of CFTR leads to excessive transport of Cl- to sweat causing salty sweat"
+      },
+      "answer": "D",
+      "explanation": "A endothelial → epithelial\nB transport Cl to airway\nC autosomal recessive\nD reduce Cl permeability → luminal dehydration → thick mucus secretions\nE decrease in overall reabsorption of NaCl → increase salt content in sweat\n\n![](img/13-14_MEDU2600_Test_Q15_1775830581400.png)\n![](img/13-14_MEDU2600_Test_Q15_1775830588555.png)"
+    },
+    "13-14 MEDU2600 Test Q16": {
+      "year": "2013-14",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Tight junction block what transport",
+      "options": {
+        "A": "Transcellular transport",
+        "B": "Paracellular transport",
+        "C": "Transcytosis",
+        "D": "Facilitated diffusion",
+        "E": "Simple diffusion"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "13-14 MEDU2600 Test Q19": {
+      "year": "2013-14",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "In which of the following the typical arrangement of a basement membrane is absent?",
+      "options": {
+        "A": "Epidermis of skin",
+        "B": "Alveolar epithelium of lungs",
+        "C": "Fat cells in connective tissue",
+        "D": "Hepatocytes in liver",
+        "E": "Glomerulus in kidney"
+      },
+      "answer": "D",
+      "explanation": "A, B, C and E are all wrong. D is correct as a defective basement membrane is necessary for free diffusion of substances from capillary into hepatocytes for metabolism and detoxification.\nPerisinusoidal space is composed of broken fragments of basement membrane and reticular fiber."
+    },
+    "13-14 MEDU2600 Test Q23": {
+      "year": "2013-14",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is true for intercalated disks?",
+      "options": {
+        "A": "Present in smooth muscle",
+        "B": "Desmosomes allow electrical communication between cells",
+        "C": "Fascia adherens hold adjacent cells together and prevent separation when muscle contracts",
+        "D": "Nucleus is adjacent to intercalated disks",
+        "E": "Thin fascia transmits pull to cell membrane"
+      },
+      "answer": "E",
+      "explanation": "Refer to the histology of muscular tissues taught by Prof. Alisa Shum last year.\nIntercalated disc is not present in smooth muscles but cardiac muscles (A is incorrect).\nIn cardiac muscles, intercalated discs contain gap junctions, desmosomes and fascia adherens.\nGap junctions allow spread of electrical signals between cardiac myocytes (since they allow small molecules to pass through). (Not desmosomes; B is incorrect)\nDesmosomes are present to pull the cardiac myocytes together (Not fascia adherens; C is incorrect).\nFascia adherens attach thin filaments to the membrane and transmit the pull. E is correct.\nThe location of the nucleus is not related to intercalated discs. D is incorrect."
+    },
+    "14-15 MEDU2600 Test Q36": {
+      "year": "2014-15",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Facilitated transport across the plasma membrane",
+      "options": {
+        "A": "is mediated by transporter protein that hydrolyses ATP",
+        "B": "is the mechanism by which steroid hormone passes through the plasma membrane",
+        "C": "occurs only down the electrochemical gradient of the substance",
+        "D": "can only transport small ions",
+        "E": "is required to maintain resting membrane potential of the cell"
+      },
+      "answer": "C",
+      "explanation": "A. Facilitated transport does not require ATP\nB. Steroid hormone enters the cell via simple diffusion since it is hydrophobic\nC. Correct\nD. Some larger molecules like glucose also uses facilitated transport (GLUT 2 in basolateral membrane)\nE. Leaky channels are involved instead."
+    },
+    "15-16 MEDU2600 Final Q2": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "The transport of glucose across the basolateral membrane of intestinal brush border cell is an example of:",
+      "options": {
+        "A": "Simple diffusion",
+        "B": "Facilitated diffusion",
+        "C": "Primary active transport",
+        "D": "Cotransport as antiport",
+        "E": "Cotransport as symport"
+      },
+      "answer": "B",
+      "explanation": "- Glucose would first enter the cell from the lumen via Na+/ Glucose cotransporter through SGLT-1\n- It would then enter the basolateral membrane via GLUT2, which is a carrier protein"
+    },
+    "15-16 MEDU2600 Final Q28": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Cell-cell communication mediated by gap junction includes:",
+      "options": {
+        "A": "Activation of protein synthesis",
+        "B": "Signaling molecules bind to receptors on cell membrane",
+        "C": "Neurotransmitters diffuse across synaptic cleft",
+        "D": "The diffusion of small molecules through membrane channels which join cytoplasm of adjacent cells",
+        "E": "The movement of ions through ligand gated channels"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q1": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Na+/glucose cotransporter in intestinal cells:",
+      "options": {
+        "A": "Transport sodium and glucose inward down its electrical/ concentration gradient respectively",
+        "B": "Transport sodium and glucose outward against its electrical/ concentration gradient respectively",
+        "C": "Glucose along gradient sodium against gradient",
+        "D": "Sodium inward along gradient glucose inward against gradient",
+        "E": "Sodium outward against gradient glucose inward along gradient"
+      },
+      "answer": "D",
+      "explanation": "SGLT 1 uses the concentration gradient of Na to transport glucose."
+    },
+    "16-17 MEDU2600 Test Q42": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which trans-epithelial pathway is regulated by tight junctions?",
+      "options": {
+        "A": "Transcellular",
+        "B": "Paracellular",
+        "C": "Simple diffusion",
+        "D": "Facilitated diffusion",
+        "E": "Transcytosis"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Test Q41": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Absorption of glucose through the brush border membrane of the intestine involves which of the following?",
+      "options": {
+        "A": "Antiport of Na and amino acid",
+        "B": "Facilitated diffusion",
+        "C": "Primary active transport",
+        "D": "Secondary active transport",
+        "E": "Simple diffusion"
+      },
+      "answer": "D",
+      "explanation": "BBM = Brush Border Membrane → facing the lumen\nSGLT1 at luminal side (Na+ Symport/Secondary Active Transport)\nv.s.\nGLUT2 at basolateral membrane (Facilitated Diffusion)\n\n![](img/17-18_MEDU2600_Test_Q41_1775830629320.png)"
+    },
+    "17-18 MEDU2600 Final Q1": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is the property of channel protein?",
+      "options": {
+        "A": "Active Transport",
+        "B": "Cotransport",
+        "C": "Simple diffusion",
+        "D": "Highly specific",
+        "E": "the rate of transport is lower than carrier protein"
+      },
+      "answer": "D",
+      "explanation": "It is important to know the similarities and differences between channel protein and carrier protein.\n[Specificity]\nChannel proteins transport specific molecules depending on their size, shape and charge. It is correct to say that it is highly specific. At the same time, to transport a particle through carrier proteins, that particle must bind onto the specific sites on carrier proteins. The specificity is highest.\n[Speed]\nAfter binding, a conformational change is required in carrier proteins to move the particles to the other side of the membrane. Yet, in channel proteins, this is not the case as the particles move directly through the channels. The rate of conduction in channel proteins (10^8 particles per second) is much higher than that of carrier proteins (10^4 particles per second). E is wrong!"
+    },
+    "17-18 MEDU2600 Test Q42": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following can function as a heterodimer?",
+      "options": {
+        "A": "cadherin",
+        "B": "connexin",
+        "C": "connexon",
+        "D": "occludin",
+        "E": "integrin"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Test Q41": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "How does glucose pass through the basolateral membrane?",
+      "options": {
+        "A": "By co-transport via symporter",
+        "B": "By co-transport via antiporter",
+        "C": "Facilitated diffusion",
+        "D": "Simple diffusion",
+        "E": "Primary active transport"
+      },
+      "answer": "C",
+      "explanation": "Reference: Previous Questions"
+    },
+    "18-19 MEDU2600 Test Q42": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Pemphigus is an autoimmune disease that have autoantibodies that attack:",
+      "options": {
+        "A": "Actin",
+        "B": "Keratin",
+        "C": "Cadherin",
+        "D": "Connexin",
+        "E": "Integrin"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q1": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Pemphigus is an autoimmune disease targeting on:",
+      "options": {
+        "A": "actin",
+        "B": "cadherin",
+        "C": "connexin",
+        "D": "integrin",
+        "E": "keratins"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q1": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "the transport of glucose across the basolateral membrane of intestinal brush border cells is an example of:",
+      "options": {
+        "A": "Co-transport by anti port",
+        "B": "Co-transport by symporter",
+        "C": "Simple diffusion",
+        "D": "Facilitated diffusion",
+        "E": "Primary active transport"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Sem1 Q42": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "In adherens junctions, cadherin proteins are linked to:",
+      "options": {
+        "A": "actin",
+        "B": "cadherin",
+        "C": "intermediate filaments",
+        "D": "keratin",
+        "E": "integrin"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q41": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following statement is correct?",
+      "options": {
+        "A": "F0F1 ATPase uses the energy obtained from ATP hydrolysis to transport H+ across the outer mitochondrial membrane",
+        "B": "Lysosomes are acidified by the vacuolar H+/K+ ATPase that pumps H+ into lysosomes",
+        "C": "P-glycoprotein can pump many types of drugs.",
+        "D": "Ca2+ pump can be phosphorylated and dephosphorylated (?"
+      },
+      "answer": "D",
+      "explanation": "A full version can be found below.\nAssuming this is a T/F question *4\nA is false: it forms ATP, not hydrolysis\nB: wrong cuz its just H+ ATPase\nC is partially true (Efflux pump for hydrophobic drugs)\nD Yes as it is a P-type ATPase"
+    },
+    "20-21 MEDU2600 Sem1 Q42": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "The components of a hemi-desmosome includes:",
+      "options": {
+        "A": "Actin",
+        "B": "Cadherin",
+        "C": "Connexin",
+        "D": "Integrin",
+        "E": "Tubulin"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q1": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Under what condition will the gap junctions close?",
+      "options": {
+        "A": "high intracellular chloride",
+        "B": "high intracellular potassium",
+        "C": "high sodium levels",
+        "D": "high intracellular Ca level",
+        "E": "high intracellular pH"
+      },
+      "answer": "D",
+      "explanation": "Gap junctions close in response to high Ca and H+, hence should be low pH for E."
+    },
+    "21-22 MEDU2600 Test Q42": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is correct about anchoring junctions of epidermis?",
+      "options": {
+        "A": "Actin filament and desmosomes",
+        "B": "Actin filament and hemidesmosomes",
+        "C": "Actin filament and tight junction",
+        "D": "Keratin filament and adheren junction",
+        "E": "Keratin filament and desmosomes"
+      },
+      "answer": "E",
+      "explanation": "Desmosome = Keratin (cytoskeleton) + Cytoplasmic Plaque + Cadherin\nAdheren junctions = Actin (cytoskeleton) + Adapter Protein + Cadherin\nHemidesmosomes = Keratin (cytoskeleton) + Cytoplasmic Plaque + Integrin\nTight junction is NOT an anchoring junction"
+    },
+    "21-22 MEDU2600 Final Q1": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Na+/Glucose transporter in the intestinal cells is a cotransporter that:",
+      "options": {
+        "A": "Moves glucose and Na+ inward down their concentration/electrochemical gradient respectively",
+        "B": "Moves glucose and Na+ outward against their concentration/electrochemical gradient respectively",
+        "C": "Moves glucose down its concentration gradient and Na+ up its electrochemical gradient",
+        "D": "Moves Na+ inward down its electrochemical gradient and glucose inward against concentration gradient",
+        "E": "Moves Na+ outward against its electrochemical gradient and glucose inward against concentration gradient"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "22-23 MEDU2600 Test Q41": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is true about primary active transporters?",
+      "options": {
+        "A": "F0F1 ATPase uses energy from ATP hydrolysis to transport H+ across outer mitochondrial membrane",
+        "B": "Lysosomes are acidified by vacuolar H+/K+ ATPase pumping H+ into them",
+        "C": "Na+/K+ ATPase maintains intracellular [Na+] and [K+] by pumping 3 Na+ in and 2K+ out of the cell",
+        "D": "P-glycoprotein has one ATP binding domain for hydrolysis of ATP and it exports a wide variety of drugs",
+        "E": "Transport of Ca2+ into sarcoplasmic reticulum involves phosphorylation and dephosphorylation of Ca2+ ATPase"
+      },
+      "answer": "E",
+      "explanation": "A. Wrong, as it uses the energy released by H+ movement across the inner mitochondrial membrane to drive ATP synthesis.\nB. Wrong, as it is just H+-ATPase.\nC. Wrong, as it should be 3 Na+ out and 2 K+ in. Understand that ICF has more K+ while ECF has more Na+, then you can comprehend the action of Na/K-ATPase as establishing the difference, so it will move 2 K+ in and 3 Na+\nD. Wrong, as ABC transporters like P-gp have 2 ATP-binding domains.\nE. Correct, as this is the characteristic of ATPase transporters. It is SERCA in this case."
+    },
+    "22-23 MEDU2600 Test Q42": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "In adherens junctions, adhesive proteins are always linked to:",
+      "options": {
+        "A": "Actin",
+        "B": "Actin microfilaments and tight junctions",
+        "C": "Cadherin",
+        "D": "Integrin",
+        "E": "Keratin"
+      },
+      "answer": "A",
+      "explanation": "Tight junctions are never involved in anchoring junctions."
+    },
+    "Extra MEDU2600 Cell Q1": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following about ABC Transporters is correct?",
+      "options": {
+        "A": "Its full name is ADP Binding Cassette Transporters.",
+        "B": "P-glycoprotein is effective in trapping hydrophobic drugs inside the cell.",
+        "C": "Each ABC Transporter contains two DNA-binding domains.",
+        "D": "CFTR is found in endothelial cells of the airway and skin.",
+        "E": "CFTR transports Cl- out of the cell to the mucus in the lungs."
+      },
+      "answer": "E",
+      "explanation": "Option A: ATP Binding Cassette transporter\nOption B: P-gp is responsible for the efflux of hydrophobic drugs\nOption C: Each ABC transporter contains two transmembrane domains and 2 ATP binding domains\nOption D: CFTR is found in epithelial cells of airways and skin\nOption E: CFTR is responsible for Cl- efflux to the mucus of lungs and reabsorption of Cl- in sweat to avoid salty sweat\n(Note: the original version of this question from seniors is \"transport Cl- out of the cell to the mucus in the lungs, and to the sweat on the skin\", which I believe is wrong.)"
+    },
+    "Extra MEDU2600 Cell Q2": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is a correct match between the type of ATPase and the example?",
+      "options": {
+        "A": "Na+/K+ ATPase is a V-type ATPase.",
+        "B": "H+/K+ ATPase is a P-type ATPase.",
+        "C": "H+ ATPase is a F-type ATPase.",
+        "D": "Ca2+ ATPase is a F-type ATPase.",
+        "E": "H+ pump in lysosomes is a F-type ATPase."
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Cell Q3": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "The paracellular diffusion in cerebral endothelial cells is mainly limited by",
+      "options": {
+        "A": "Tight junctions",
+        "B": "Adherens junctions",
+        "C": "Desmosomes",
+        "D": "Gap junctions",
+        "E": "Hemi-desmosomes"
+      },
+      "answer": "A",
+      "explanation": "Specifically the blood brain barrier."
+    },
+    "Extra MEDU2600 Cell Q4": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Under which of the following conditions would the gap junctions most likely be closed?",
+      "options": {
+        "A": "Decrease in pH and decrease in intracellular [Ca2+]",
+        "B": "Decrease in pH and increase in intracellular [Ca2+]",
+        "C": "Increase in pH and decrease in intracellular [Ca2+]",
+        "D": "Increase in pH and Increase in intracellular [Ca2+]",
+        "E": "It does not depend on pH nor intracellular [Ca2+]."
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Cell Q5": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Cataract formation is most likely to be caused by damage or mutation in",
+      "options": {
+        "A": "Tight junctions",
+        "B": "Adherens junctions",
+        "C": "Desmosomes",
+        "D": "Gap junctions",
+        "E": "Hemi-desmosomes"
+      },
+      "answer": "D",
+      "explanation": "Passage of nutrients & wastes through gap junctions allows the fiber cells to remain viable in the absence of a capillary network. Damages of gap junctions by UV & mutation lead to cataract formation."
+    },
+    "13-14 MEDU2600 Test Q17": {
+      "year": "2013-14",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following complex/molecule is an inhibitor of apoptotic pathway?",
+      "options": {
+        "A": "Bax/Bax",
+        "B": "Bcl2/Bax",
+        "C": "cytochrome c in cytosol",
+        "D": "Reactive oxygen species",
+        "E": "Caspase 9"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "15-16 MEDU2600 Test Q44": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "What is the mechanism of action of vincristine?",
+      "options": {
+        "A": "Inhibit the expression of anti apoptosis of Bcl-2, which causes cell arrest in G0/1 phase",
+        "B": "Death receptor bind to ligand receptor to trigger apoptosis",
+        "C": "Distort the structure of DNA duplex",
+        "D": "Form pores on mitochondrial membrane for release of cytochrome c",
+        "E": "Depolymerisation of microtubule, which causes cell arrest in G2/M phase"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Test Q43": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following concerning necrosis is correct?",
+      "options": {
+        "A": "It is an active process.",
+        "B": "It is initiated when the tumor necrosis factor (TNF) binds to its respective receptors on the cell surface.",
+        "C": "It involves the translocation of phosphatidylserine to the outer membrane.",
+        "D": "The cell swells and bursts.",
+        "E": "It is a sequential and controlled process."
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Test Q43": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "What occurs during apoptosis in the intrinsic pathway?",
+      "options": {
+        "A": "externalization of phosphatidylcholine",
+        "B": "internalization of phosphatidylserine",
+        "C": "mitochondrial DNA replication",
+        "D": "release of caspase 9",
+        "E": "release of cytochrome c"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q7": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "The primary cause of cell death after vascular occlusion is the lack of:",
+      "options": {
+        "A": "acetyl Co-A",
+        "B": "ADP",
+        "C": "NADH and lactate",
+        "D": "oxygen and ATP",
+        "E": "Pi"
+      },
+      "answer": "D",
+      "explanation": "vascular occlusion＝血管阻塞"
+    },
+    "18-19 MEDU2600 Test Q43": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following molecules or complexes inhibits the apoptotic pathway?",
+      "options": {
+        "A": "Bax/Bax",
+        "B": "Bcl-2/Bax",
+        "C": "Overproduction of reactive oxygen species",
+        "D": "Caspase-9",
+        "E": "Cytochrome c in the cytosol"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q2": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "In early apoptosis, what is the molecule facing outwards?",
+      "options": {
+        "A": "phosphatidylcholine",
+        "B": "phosphatidylethanolamine",
+        "C": "phosphatidylinositol",
+        "D": "phosphatidylserine",
+        "E": "sphingomyelin"
+      },
+      "answer": "D",
+      "explanation": "This is required for recognition by macrophages to phagocytose the apoptotic bodies for recycling of cellular contents. This is not because the body wants to salvage the cellular content, but instead to prevent leakage of proteins and DNA into plasma that will trigger immune response.\nIn fact, it is PS that is flipped outward, but most of the others are expressed on the outside of cells. Probably this question focuses on PS more."
+    },
+    "19-20 MEDU2600 Sem1 Q43": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following proteins create pores on the mitochondrial membrane for intrinsic apoptotic pathway?",
+      "options": {
+        "A": "Bcl2",
+        "B": "Bax",
+        "C": "Caspase 9",
+        "D": "Fas",
+        "E": "Cytochrome c"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q43": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the follow is true about a cell undergoing apoptosis",
+      "options": {
+        "A": "Externalisation of phosphatidylcholine",
+        "B": "Internalisation of phosphatidylserine",
+        "C": "Mitochondrial DNA replication",
+        "D": "Release of caspase 9 from mitochondria",
+        "E": "Release of cytochrome C from mitochondria"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q2": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is a characteristic of apoptosis?",
+      "options": {
+        "A": "Cell swelling",
+        "B": "DNA fragmentation",
+        "C": "Translocation of phosphatidylcholine to outer surface of cell membrane",
+        "D": "Translocation of phosphatidylserine to inner surface of cell membrane",
+        "E": "Triggering autoimmune response"
+      },
+      "answer": "B",
+      "explanation": "Apoptosis is initiated with the activation of p53 gene by severe DNA damage, such as DNA fragmentation."
+    },
+    "Extra MEDU2600 Cell Q6": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following does not occur in apoptosis?",
+      "options": {
+        "A": "Membrane blebbing",
+        "B": "Externalization of Phosphatidylserine",
+        "C": "Apoptotic bodies formation",
+        "D": "Swelling of cells",
+        "E": "DNA fragmentation"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Cell Q7": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is a correct comparison between the extrinsic and intrinsic pathway of apoptosis?",
+      "options": {
+        "A": "Death ligand binding occurs in the extrinsic pathway but not the intrinsic pathway.",
+        "B": "Both extrinsic and intrinsic pathways take place in the mitochondria.",
+        "C": "Release of cytochrome c from the nucleus is observed in both pathways.",
+        "D": "Bax creates pores on the mitochondria in the extrinsic but not intrinsic pathway.",
+        "E": "None of the above."
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "13-14 MEDU2600 Test Q20": {
+      "year": "2013-14",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "When b lymphocytes are activated in an immune action, what do they differentiate to?",
+      "options": {
+        "A": "Monocyte",
+        "B": "Mast cell",
+        "C": "Eosinophil",
+        "D": "Basophil",
+        "E": "Plasma cell"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "13-14 MEDU2600 Test Q21": {
+      "year": "2013-14",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following cell types are derived from blood monocytes except",
+      "options": {
+        "A": "Kupffer cell 4",
+        "B": "Mast cell",
+        "C": "Microglia",
+        "D": "Macrophage",
+        "E": "Osteoclast"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "13-14 MEDU2600 Test Q22": {
+      "year": "2013-14",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the below statements about regeneration of muscles is correct?",
+      "options": {
+        "A": "Cardiac muscles regenerate by pericytes",
+        "B": "Skeletal muscles grows by hypertrophy",
+        "C": "Smooth muscle regenerates by satellite cells",
+        "D": "Skeletal muscles grows by hyperplasia",
+        "E": "Cardiac muscles grows by hyperplasia"
+      },
+      "answer": "B",
+      "explanation": "Satellite cells are unipotent cells found in skeletal muscles.\nPericytes are found in blood vessel walls."
+    },
+    "15-16 MEDU2600 Final Q8": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following stem cells divide to most, but not all, types of cells in the body?",
+      "options": {
+        "A": "Bone marrow stem cells",
+        "B": "cord blood stem cells",
+        "C": "fertilised egg",
+        "D": "inner cell mass",
+        "E": "morula"
+      },
+      "answer": "D",
+      "explanation": "Morula is totipotent, so it divides into all cell types.\nInner cell mass is pluripotent, so it divides into most cell types by dividing into the 3 layers of the trilaminar disc (ectoderm, mesoderm and endoderm) first, but not forming placenta or the umbilical cord."
+    },
+    "16-17 MEDU2600 Test Q44": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following cells show similar differentiation potential with induced pluripotent cells?",
+      "options": {
+        "A": "Fibroblasts",
+        "B": "Muscle satellite cells",
+        "C": "Haematopoietic stem cells from bone marrow",
+        "D": "Intestinal stem cells",
+        "E": "Embryonic stem cells"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q2": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Intestinal stem cells are",
+      "options": {
+        "A": "Multipotent",
+        "B": "Induced-pluripotent",
+        "C": "Totipotent",
+        "D": "Pluripotent",
+        "E": "Unipotent"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Test Q44": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following are multipotent stem cells?",
+      "options": {
+        "A": "embryonic stem cells",
+        "B": "fibroblast",
+        "C": "hematopoietic stem cells in bone marrow",
+        "D": "muscle satellite",
+        "E": "neuron"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q2": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Where contains stem cells that can generate into different types of blood cells",
+      "options": {
+        "A": "In bone marrow",
+        "B": "In liver cells",
+        "C": "In lymphoid tissue",
+        "D": "In mesenchymal tissue",
+        "E": "In the spleen"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q2": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "which of the following cells share similar differentiation potential with induced pluripotent stem cells?",
+      "options": {
+        "A": "hematopoietic stem cells from bone marrow",
+        "B": "intestinal stem cells",
+        "C": "muscle satellite cells",
+        "D": "embryonic stem cells",
+        "E": "Fibroblasts"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q2": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is correct about the location of intestinal stem cells?",
+      "options": {
+        "A": "bone marrow",
+        "B": "connective tissue underlying gut epithelium",
+        "C": "in the inner cell mass",
+        "D": "under inner layer of intestine",
+        "E": "intestine crypts"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q43": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following will give pluripotent embryonic stem cell if cultured in a suitable medium?",
+      "options": {
+        "A": "Morula",
+        "B": "Inner cell mass",
+        "C": "Placental cells",
+        "D": "Cells in epiblast",
+        "E": "Embryo formed by somatic nuclear transplant"
+      },
+      "answer": "B",
+      "explanation": "A, C and E will give totipotent stem cells. D will only give multipotent stem cells as it cannot derive into structures derived from hypoblast and trophoblast.\nInner cell mass gives embryonic cell mass that is pluripotent (Refer to P. 9)"
+    },
+    "22-23 MEDU2600 Test Q44": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following stem cells is multipotent?",
+      "options": {
+        "A": "Embryonic stem cell",
+        "B": "Fibroblast",
+        "C": "Hematopoietic cells in bone marrow",
+        "D": "Muscle satellite cell",
+        "E": "Neuron"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Cell Q8": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is the best definition of a stem cell?",
+      "options": {
+        "A": "Being able to self-renew",
+        "B": "Not-specialized",
+        "C": "Will differentiate",
+        "D": "Either one of the above",
+        "E": "All of the above"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Cell Q9": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is a correct match between the type of stem cells and the example?",
+      "options": {
+        "A": "Totipotent: morula",
+        "B": "Totipotent: inner cell mass in blastocyst",
+        "C": "Pluripotent: Haematopoietic stem cells",
+        "D": "Multipotent: Satellite cells",
+        "E": "Unipotent: Intestinal stem cells"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Cell Q10": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following about Embryonic Stem Cells (ESC) or Induced Pluripotent Stem Cells (iPSC) in therapeutic use is correct?",
+      "options": {
+        "A": "iPSC but not ESC induces no immune rejection.",
+        "B": "ESC raises less ethical concerns than iPSC.",
+        "C": "iPSC but not ESC has risks for tumorigenesis.",
+        "D": "ESC but not iPSC has risks for tumorigenesis.",
+        "E": "iPSC but not ESC is pluripotent."
+      },
+      "answer": "A",
+      "explanation": "If you are only studying with the lecture, just remember that iPSC is better than ESC by all means."
+    },
+    "15-16 MEDU2600 Final Q14": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "the hydrolysis of phosphoenolpyruvate, a high energy phosphate compound, involved in synthesis of atp, the phenomenon is called:",
+      "options": {
+        "A": "uncoupling",
+        "B": "substrate level phosphorylation",
+        "C": "oxidative phosphorylation",
+        "D": "electron transport",
+        "E": "glycerol phosphate shuttle"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q3": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following phenomena best illustrates the regulation of protein activity by reversible covalent modification?",
+      "options": {
+        "A": "Coagulation factors in blood coagulation",
+        "B": "The fact that thermally denatured proteins can restore their biological activity by renaturation",
+        "C": "The process in which glycogen phosphorylase is activated when a phosphate group is added to its active site",
+        "D": "The process in which proline residues in collagen are hydroxylated post-translationally",
+        "E": "The way digestive enzymes are first synthesized by the pancreas then activated in the gut"
+      },
+      "answer": "C",
+      "explanation": "D is irreversible."
+    },
+    "17-18 MEDU2600 Test Q45": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Glucose → glucose 6 phosphate (free energy change -1.7kcal/mol)\nGlucose 6 phosphate → fructose 6 phosphate (free energy change -0.4kcal/mol)\nCalculate free energy glucose → fructose 6 phosphate",
+      "options": {
+        "A": "+2.1 kcal/mol",
+        "B": "+0.4 kcal/mil",
+        "C": "-2.1 kcal/mol",
+        "D": "-0.4 kcal/mol",
+        "E": "cannot be calculated due to enzymes changing free energy change"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Sem1 Q44": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Glucose + Pi → glucose 6 phosphate + h2o (+14.8 kJ/mol)\nATP+H2O —> ADP + Pi (-30.8 kJ/mol)\nWhat is the change in G in the equation in\nglucose + ATP —> ADP + glucose 6 phosphate",
+      "options": {
+        "A": "+14.5",
+        "B": "-16",
+        "C": "+16",
+        "D": "-45",
+        "E": "+45"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q4": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Biological oxidation. reduction reaction always involves",
+      "options": {
+        "A": "Direct participation of oxygen",
+        "B": "Mitochondria",
+        "C": "Transfer of hydrogens",
+        "D": "Formation of water",
+        "E": "Transfer of electrons"
+      },
+      "answer": "E",
+      "explanation": "This is secondary school level chemistry.\nRebecca is so kind"
+    },
+    "21-22 MEDU2600 Test Q44": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Given that the standard free energy ?G for the hydrolysis of ATP is -7.3 kcal/mol and for the hydrolysis of glucose 6-phosphate is -3.3 kcal/mol. Find the free energy ?G for the following coupled reaction:\nGlucose + ATP → glucose 6-phosphate + ADP",
+      "options": {
+        "A": "-10.6",
+        "B": "-7.3",
+        "C": "-4.0",
+        "D": "+4.0",
+        "E": "+10.6"
+      },
+      "answer": "C",
+      "explanation": "Hydrolysis of glucose 6-phosphate → Need to reverse the sign!"
+    },
+    "21-22 MEDU2600 Final Q9": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "Which of the following is a characteristic of a metabolic pathway?",
+      "options": {
+        "A": "Catabolic and anabolic pathways are completely reversible",
+        "B": "Catabolic and Anabolic pathways are controlled independently",
+        "C": "Enzymes are always activated through phosphorylation",
+        "D": "Enzymes are always inhibited through phosphorylation",
+        "E": "The first step is the committed step of metabolic pathway"
+      },
+      "answer": "B",
+      "explanation": "This question is rather interesting given its requirement of clear concepts. A is false as both pathways are irreversible, or else the metabolites will be flowing around without a clear direction. C and D are false as it depends on the structure of enzyme. E is seemingly true but actually false. I can give you two examples for this, and even if the statement becomes \"First irreversible step\", it is still false.\n\nThe first example is conversion of glucose into G6P. Although it is the first irreversible step in glycolysis, G6P can still be utilised in different pathways, e.g. glycogenesis, PPP, and it is not the first metabolite that can only proceed into glycolysis. It will be the conversion F6P into F-1,6-BP, as this is the next irreversible step giving metabolites that can only continue and complete the glycolytic reactions.\n\nAnother example is conversion of ribose 5-phosphate (R5P) into phosphoriboysl pyrophsphate (PRPP). Although it is the first step of de novo purine synthesis, it is also not the committed step. This is because PRPP can be also used in salvage reaction to produce purine nucleotides by HGPRT or APRT, or synthesis of OMP from orotate in de novo pyrimidine synthesis. The committed step here is formation of phosphoribosyl 1-amine from PRPP and glutamine."
+    },
+    "22-23 MEDU2600 Test Q45": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "NADPH is often used in reductive biosynthesis instead of NADH. Which of the following would represent the most likely explanation?",
+      "options": {
+        "A": "In most tissues, NADPH is produced in larger quantities than NADH from the anaerobic breakdown of glucose.",
+        "B": "NADPH can freely diffuse through the mitochondrial membrane while NADH cannot.",
+        "C": "NADPH has an extra phosphate group when compared with NADH, and this can be used to synthesise ATP.",
+        "D": "NADPH is a better reducing agent than NADH.",
+        "E": "The enzymes involved in reductive biosynthesis bind specifically to NADPH."
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Cell Q11": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "The table below shows the free energy of hydrolysis of some phosphorylated compounds. What is the free energy for the hydrolysis of creatine phosphate to creatinine with generation of one ATP from ADP?\n\n![](img/Extra_MEDU2600_Cell_Q11_1775831615207.png)",
+      "options": {},
+      "answer": "-12.6 kJ/mol",
+      "explanation": "-30.5 - (-43.5)"
+    },
+    "Extra MEDU2600 Cell Q12": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Cell Biology",
+      "question": "With reference to the table above. Generation of one mole of which of the following compounds from their respective hydrolyzed form requires the most free energy change?",
+      "options": {
+        "A": "Glucose 3-phosphate",
+        "B": "Glucose 6-phosphate",
+        "C": "ATP",
+        "D": "Phosphoenolpyruvate",
+        "E": "Cannot be determined"
+      },
+      "answer": "D",
+      "explanation": ""
     }
   }
 }
