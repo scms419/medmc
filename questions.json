@@ -1446,7 +1446,11 @@
           "2014-15": [
             "14-15 MEDU2600 Test Q7",
             "14-15 MEDU2600 Test Q8",
-            "14-15 MEDU2600 Test Q36"
+            "14-15 MEDU2600 Test Q36",
+            "14-15 MEDU2600 Test Q9",
+            "14-15 MEDU2600 Test Q62",
+            "14-15 MEDU2600 Test Q63",
+            "14-15 MEDU2600 Test Q10"
           ],
           "2015-16": [
             "15-16 MEDU2600 Test Q45",
@@ -1458,7 +1462,11 @@
             "15-16 MEDU2600 Final Q28",
             "15-16 MEDU2600 Test Q44",
             "15-16 MEDU2600 Final Q8",
-            "15-16 MEDU2600 Final Q14"
+            "15-16 MEDU2600 Final Q14",
+            "15-16 MEDU2600 Final Q30",
+            "15-16 MEDU2600 Final Q34",
+            "15-16 MEDU2600 Test Q52",
+            "15-16 MEDU2600 Final Q38"
           ],
           "2016-17": [
             "16-17 MEDU2600 Test Q45",
@@ -1481,7 +1489,16 @@
             "16-17 MEDU2600 Test Q44",
             "16-17 MEDU2600 Final Q2",
             "16-17 MEDU2600 Final Q3",
-            "16-17 MEDU2600 Final Q4"
+            "16-17 MEDU2600 Final Q4",
+            "16-17 MEDU2600 Test Q53",
+            "16-17 MEDU2600 Final Q11",
+            "16-17 MEDU2600 Final Q12",
+            "16-17 MEDU2600 Test Q54",
+            "16-17 MEDU2600 Final Q13",
+            "16-17 MEDU2600 Test Q52",
+            "16-17 MEDU2600 Test Q55",
+            "16-17 MEDU2600 Final Q14",
+            "16-17 MEDU2600 Final Q15"
           ],
           "2017-18": [
             "17-18 MEDU2600 Final Q5",
@@ -1502,7 +1519,18 @@
             "17-18 MEDU2600 Test Q44",
             "17-18 MEDU2600 Final Q2",
             "17-18 MEDU2600 Test Q45",
-            "17-18 MEDU2600 Final Q4"
+            "17-18 MEDU2600 Final Q4",
+            "17-18 MEDU2600 Test Q50",
+            "17-18 MEDU2600 Test Q51",
+            "17-18 MEDU2600 Test Q52",
+            "17-18 MEDU2600 Final Q10",
+            "17-18 MEDU2600 Final Q11",
+            "17-18 MEDU2600 Final Q12",
+            "17-18 MEDU2600 Test Q54",
+            "17-18 MEDU2600 Final Q13",
+            "17-18 MEDU2600 Final Q14",
+            "17-18 MEDU2600 Test Q53",
+            "17-18 MEDU2600 Final Q15"
           ],
           "2018-19": [
             "18-19 MEDU2600 Test Q50",
@@ -1520,7 +1548,18 @@
             "18-19 MEDU2600 Test Q42",
             "18-19 MEDU2600 Final Q1",
             "18-19 MEDU2600 Test Q43",
-            "18-19 MEDU2600 Final Q2"
+            "18-19 MEDU2600 Final Q2",
+            "18-19 MEDU2600 Test Q51",
+            "18-19 MEDU2600 Test Q52",
+            "18-19 MEDU2600 Final Q11",
+            "18-19 MEDU2600 Final Q12",
+            "18-19 MEDU2600 Test Q53",
+            "18-19 MEDU2600 Final Q13",
+            "18-19 MEDU2600 Final Q14",
+            "18-19 MEDU2600 Final Q16",
+            "18-19 MEDU2600 Test Q55",
+            "18-19 MEDU2600 Final Q15",
+            "18-19 MEDU2600 Test Q54"
           ],
           "2019-20": [
             "19-20 MEDU2600 Sem1 Q47",
@@ -1535,7 +1574,16 @@
             "19-20 MEDU2600 Sem1 Q43",
             "19-20 MEDU2600 Final Q2",
             "19-20 MEDU2600 Sem1 Q44",
-            "19-20 MEDU2600 Final Q4"
+            "19-20 MEDU2600 Final Q4",
+            "19-20 MEDU2600 Sem1 Q52",
+            "19-20 MEDU2600 Final Q11",
+            "19-20 MEDU2600 Final Q12",
+            "19-20 MEDU2600 Final Q13",
+            "19-20 MEDU2600 Final Q14",
+            "19-20 MEDU2600 Final Q17",
+            "19-20 MEDU2600 Final Q15",
+            "19-20 MEDU2600 Final Q16",
+            "19-20 MEDU2600 Sem1 Q55"
           ],
           "2020-21": [
             "20-21 MEDU2600 Sem1 Q45",
@@ -1555,7 +1603,15 @@
             "20-21 MEDU2600 Sem1 Q42",
             "20-21 MEDU2600 Final Q1",
             "20-21 MEDU2600 Sem1 Q43",
-            "20-21 MEDU2600 Final Q2"
+            "20-21 MEDU2600 Final Q2",
+            "20-21 MEDU2600 Sem1 Q51",
+            "20-21 MEDU2600 Sem1 Q52",
+            "20-21 MEDU2600 Sem1 Q53",
+            "20-21 MEDU2600 Final Q11",
+            "20-21 MEDU2600 Final Q16",
+            "20-21 MEDU2600 Sem1 Q54",
+            "20-21 MEDU2600 Sem1 Q55",
+            "20-21 MEDU2600 Final Q15"
           ],
           "2021-22": [
             "21-22 MEDU2600 Test Q45",
@@ -1573,7 +1629,18 @@
             "21-22 MEDU2600 Final Q2",
             "21-22 MEDU2600 Final Q43",
             "21-22 MEDU2600 Test Q44",
-            "21-22 MEDU2600 Final Q9"
+            "21-22 MEDU2600 Final Q9",
+            "21-22 MEDU2600 Test Q50",
+            "21-22 MEDU2600 Test Q51",
+            "21-22 MEDU2600 Final Q15",
+            "21-22 MEDU2600 Final Q11",
+            "21-22 MEDU2600 Test Q53",
+            "21-22 MEDU2600 Test Q55",
+            "21-22 MEDU2600 Final Q12",
+            "21-22 MEDU2600 Test Q52",
+            "21-22 MEDU2600 Final Q13",
+            "21-22 MEDU2600 Test Q54",
+            "21-22 MEDU2600 Final Q14"
           ],
           "2022-23": [
             "22-23 MEDU2600 Test Q46",
@@ -1584,7 +1651,11 @@
             "22-23 MEDU2600 Test Q41",
             "22-23 MEDU2600 Test Q42",
             "22-23 MEDU2600 Test Q44",
-            "22-23 MEDU2600 Test Q45"
+            "22-23 MEDU2600 Test Q45",
+            "22-23 MEDU2600 Test Q51",
+            "22-23 MEDU2600 Test Q54",
+            "22-23 MEDU2600 Test Q53",
+            "22-23 MEDU2600 Test Q55"
           ],
           "unclassified": [
             "Extra MEDU2600 Cell Q1",
@@ -1750,6 +1821,79 @@
             "22-23 MEDU2600 Test Q45",
             "Extra MEDU2600 Cell Q11",
             "Extra MEDU2600 Cell Q12"
+          ],
+          "Lipid": [
+            "14-15 MEDU2600 Test Q9",
+            "14-15 MEDU2600 Test Q62",
+            "14-15 MEDU2600 Test Q63",
+            "15-16 MEDU2600 Final Q30",
+            "16-17 MEDU2600 Test Q53",
+            "16-17 MEDU2600 Final Q11",
+            "16-17 MEDU2600 Final Q12",
+            "17-18 MEDU2600 Test Q50",
+            "17-18 MEDU2600 Test Q51",
+            "17-18 MEDU2600 Test Q52",
+            "17-18 MEDU2600 Final Q10",
+            "18-19 MEDU2600 Test Q51",
+            "18-19 MEDU2600 Test Q52",
+            "18-19 MEDU2600 Final Q11",
+            "18-19 MEDU2600 Final Q12",
+            "19-20 MEDU2600 Sem1 Q52",
+            "19-20 MEDU2600 Final Q11",
+            "19-20 MEDU2600 Final Q12",
+            "20-21 MEDU2600 Sem1 Q51",
+            "20-21 MEDU2600 Sem1 Q52",
+            "21-22 MEDU2600 Test Q50",
+            "21-22 MEDU2600 Test Q51",
+            "21-22 MEDU2600 Final Q15",
+            "21-22 MEDU2600 Final Q11",
+            "22-23 MEDU2600 Test Q51",
+            "22-23 MEDU2600 Test Q54",
+            "16-17 MEDU2600 Test Q54",
+            "16-17 MEDU2600 Final Q13",
+            "17-18 MEDU2600 Final Q11",
+            "17-18 MEDU2600 Final Q12",
+            "18-19 MEDU2600 Test Q53",
+            "18-19 MEDU2600 Final Q13",
+            "18-19 MEDU2600 Final Q14",
+            "19-20 MEDU2600 Final Q13",
+            "19-20 MEDU2600 Final Q14",
+            "19-20 MEDU2600 Final Q17",
+            "20-21 MEDU2600 Sem1 Q53",
+            "20-21 MEDU2600 Final Q11",
+            "20-21 MEDU2600 Final Q16",
+            "21-22 MEDU2600 Test Q53",
+            "21-22 MEDU2600 Test Q55",
+            "22-23 MEDU2600 Test Q53",
+            "15-16 MEDU2600 Final Q34",
+            "16-17 MEDU2600 Test Q52",
+            "16-17 MEDU2600 Test Q55",
+            "17-18 MEDU2600 Test Q54",
+            "17-18 MEDU2600 Final Q13",
+            "18-19 MEDU2600 Final Q16",
+            "19-20 MEDU2600 Final Q15",
+            "20-21 MEDU2600 Sem1 Q54",
+            "21-22 MEDU2600 Final Q12",
+            "14-15 MEDU2600 Test Q10",
+            "15-16 MEDU2600 Test Q52",
+            "15-16 MEDU2600 Final Q38",
+            "16-17 MEDU2600 Final Q14",
+            "17-18 MEDU2600 Final Q14",
+            "18-19 MEDU2600 Test Q55",
+            "18-19 MEDU2600 Final Q15",
+            "19-20 MEDU2600 Final Q16",
+            "20-21 MEDU2600 Sem1 Q55",
+            "20-21 MEDU2600 Final Q15",
+            "21-22 MEDU2600 Test Q52",
+            "21-22 MEDU2600 Final Q13",
+            "22-23 MEDU2600 Test Q55",
+            "16-17 MEDU2600 Final Q15",
+            "17-18 MEDU2600 Test Q53",
+            "17-18 MEDU2600 Final Q15",
+            "18-19 MEDU2600 Test Q54",
+            "19-20 MEDU2600 Sem1 Q55",
+            "21-22 MEDU2600 Test Q54",
+            "21-22 MEDU2600 Final Q14"
           ]
         }
       },
@@ -17340,6 +17484,1196 @@
         "E": "Cannot be determined"
       },
       "answer": "D",
+      "explanation": ""
+    },
+    "14-15 MEDU2600 Test Q9": {
+      "year": "2014-15",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following statements is correct?",
+      "options": {
+        "A": "Only steroid hormones are derived from cholesterol",
+        "B": "Platelet activating factor is not derived from acetyl CoA",
+        "C": "Platelet activating factor induces vasoconstriction, hypertension and inhibits platelet aggregation",
+        "D": "Plasmalogens are glycolipids which offer protection against oxidative stress",
+        "E": "Some phospholipids contain a carbohydrate group while other phospholipids contain an amino group in their molecules"
+      },
+      "answer": "E",
+      "explanation": "A: not ‘only’, as cholesterol can also be converted into bile or vitamin D\nB: The acyl ester on the C2 position of phosphatidylcholine is derived from acetyl-CoA (just remember it la…)\nC: Platelet activating factor → mediator of hypersensitivity and increase platelet aggregation\nD: Plasmalogens are phospholipids with glycerol backbones and not glycolipids (out of syllabus…)\nE. PIP2 contains inositol (sugar), while phosphatidylserine contains only serine (amino acid)"
+    },
+    "14-15 MEDU2600 Test Q62": {
+      "year": "2014-15",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 62,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following about steroid hormone receptors is correct?",
+      "options": {
+        "A": "increase in PRPP synthetase activity",
+        "B": "increase in glutathione reductase",
+        "C": "Increase in activity of glucose-6-phosphatase activity",
+        "D": "Decrease in activity of HGPRT",
+        "E": "Increase in activity of glutamine PRPP amidotransferase"
+      },
+      "answer": "C",
+      "explanation": "Steroid hormone = cortisol which increases blood [glucose]\nCortisol can be considered as a catabolic hormone, so A, D and E are all wrong as they are anabolic. B is not under any control besides availability of NADPH.\nHence answer is C (gluconeogenesis)\nRefer to P.18 of gluconeogenesis. It stimulates the use of glycerol for gluconeogenesis."
+    },
+    "14-15 MEDU2600 Test Q63": {
+      "year": "2014-15",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 63,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following is correct?",
+      "options": {
+        "A": "CDP-diacylglycerol is involved in the synthesis of sphingomyelin",
+        "B": "Androgens are synthesized from estrogens",
+        "C": "Cerebrosides and gangliosides are phospholipids",
+        "D": "Platelet Activating Factor is an ether phospholipid",
+        "E": "Phospholipids and glycolipids are the only lipids present in the plasma membrane"
+      },
+      "answer": "D",
+      "explanation": "A. Whatever CDP-DAG is, synthesis of sphingomyelin does not involve that. Sphingomyelin only contains a sphingosine backbone, 1 fatty acid chain, a choline molecule at the C2 position and a phosphate group.\nB. They are both sex hormones in our body, but it is estrogen that is formed from androgen via the aromatase reaction (FYR only)\nC. Cerebrosides are a group of glycosphingolipids (wiki). Gangliosides are examples of glycolipids.\nD. Correct. PAF and plasmalogens are both bioactive ether phospholipids.\nE. Cholesterol is also present in our cell membrane to maintain the fluidity and stabilize it. Sphingolipid is also present."
+    },
+    "15-16 MEDU2600 Final Q30": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which statement about sphingomyelin is correct?",
+      "options": {
+        "A": "Sphingomyelin is a complex compound / structure with no phosphate groups.",
+        "B": "Sphingomyelin increase in amniotic fluid during fetal lung maturation",
+        "C": "Sphingomyelin contain carbohydrate molecule",
+        "D": "Sphingomyelin found in high concentration in CNS",
+        "E": "Sphingomyelin does not contain glycerol"
+      },
+      "answer": "E",
+      "explanation": "Glycerol is found in glycerophospholipids. Sphingomyelin uses a sphingosine backbone instead.\nNote that sphingomyelin is the only sphingolipid that is considered as phospholipid, while others are all glycolipids.\nD: For gangliosides"
+    },
+    "16-17 MEDU2600 Test Q53": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following is correct?",
+      "options": {
+        "A": "Breakdown of TAG produces acetyl-CoA",
+        "B": "Fat produces 1.5 times as much energy as that of carbohydrate",
+        "C": "Lipolysis refers to breakdown of TAG only"
+      },
+      "answer": "A",
+      "explanation": "A: TAG breaks into glycerol and fatty acids. Fatty acids can undergo beta-oxidation to give acetyl-CoA\nC: breakdown of DAG, MAG, phospholipid etc."
+    },
+    "16-17 MEDU2600 Final Q11": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Acetyl CoA",
+      "options": {
+        "A": "Can give rise to malonyl CoA but not HMG CoA",
+        "B": "can only come from glycolysis and fatty acid oxidation",
+        "C": "Has 3 carbon atom",
+        "D": "Forms some but not all lipid",
+        "E": "Several acetyl CoA can combine to give a larger molecule"
+      },
+      "answer": "E",
+      "explanation": "A. HMG-CoA = aggregation of 3 acetyl CoA\nB. Acetyl-CoA can come from ketogenic amino acids\nC. Acetyl group of acetyl-CoA has 2 carbon atoms only, while coenzyme A itself has 21 carbon atoms. Be careful when you read the questions!\nD. All lipids can eventually be formed from acetyl-CoA\nE. HMG-CoA is an example already."
+    },
+    "16-17 MEDU2600 Final Q12": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following concerning triglycerides is correct?",
+      "options": {
+        "A": "Chylomicron contains more cholesterol than triglyceride",
+        "B": "On weight basis, Energy content of triglyceride is more than glycogen",
+        "C": "On weight basis, Oxygen content of triglyceride is more than glycogen",
+        "D": "Formation of 1 mole of TAG is from 1 mole of fatty acid and glycerol",
+        "E": "Degradation of triglyceride is inhibited by glucagon"
+      },
+      "answer": "B",
+      "explanation": "A. Chylomicron is TAG-rich. Only LDL has higher cholesterol content.\nB. Correct (100%). TAG has more C and H content to be completely oxidized into CO2 and H2O.\nC. The higher the oxygen content, the lower the energy density.\nD. For each TAG, 3 fatty acid chains are required. So, 3 moles of fatty acids is required.\nE. TAG degradation is stimulated by glucagon (& epinephrine) to restore blood glucose level at low energy levels."
+    },
+    "17-18 MEDU2600 Test Q50": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Glycerol-3-phosphate involved in TAG synthesis",
+      "options": {
+        "A": "It is active in fasting state",
+        "B": "It is primarily synthesized from amino acid in fed state",
+        "C": "It is from oxidation of DHAP",
+        "D": "It can be derived from glycerol directly",
+        "E": "Occurs in liver only"
+      },
+      "answer": "D",
+      "explanation": "A. It is less active in fasting state to prevent TAG synthesis from inadequate glucose → directed to gluconeogenesis\nB. It is synthesized from DHAP from glycolysis or glycerol in liver\nC. Reduction of DHAP (reducing agent: NADH)\nD. By glycerol kinase in the liver. Note that this enzyme is specifically found in the liver.\nE. TAG synthesis can take place in liver, adipose tissues or small intestines\nNote: option D is made up, not from official marking scheme"
+    },
+    "17-18 MEDU2600 Test Q51": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Difference of ABO antigen is just one carbohydrate. Antigen of A is:",
+      "options": {
+        "A": "Biotin",
+        "B": "Choline",
+        "C": "Ethanolamine",
+        "D": "Galactose",
+        "E": "N-acetylgalactosamine"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Test Q52": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Adipose tissue respond to the decrease in insulin/glucagon ratio",
+      "options": {
+        "A": "activate hormone-sensitive lipase",
+        "B": "phosphorylate a interconvertible enzyme",
+        "C": "increase pyruvate kinase",
+        "D": "increase glutamine",
+        "E": "induce deposition of fat"
+      },
+      "answer": "A",
+      "explanation": "A. lipase breaks down triglycerides to form glycerol for gluconeogenesis."
+    },
+    "17-18 MEDU2600 Final Q10": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "What is in B antigen",
+      "options": {
+        "A": "Biotin",
+        "B": "Choline",
+        "C": "Ethanloamine",
+        "D": "N acetyl galactosamine",
+        "E": "Galactose"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Test Q51": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "During TAG synthesis in adipose tissue",
+      "options": {
+        "A": "one fatty acyl coa on diacylglycerol form TAG by phosphatase",
+        "B": "two fatty acyl coa form lysophosphatidic acid",
+        "C": "three fatty acyl coa form lysophosphatidic acid",
+        "D": "dephosphorylation of phosphatidic acid to form diacylglycerol",
+        "E": "phosphorylation of glycerol forms glycerol-3-phosphate"
+      },
+      "answer": "D",
+      "explanation": "A. phosphatase → acyltransferase\nB. two → 1\nC. 3 → 1\nD. phosphatidic acid = DAG phosphate\nE. Adipocytes lack glycerol kinase so they cannot metabolize the glycerol produced during triacylglycerol degradation. (from wiki)"
+    },
+    "18-19 MEDU2600 Test Q52": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Leukotriene is an eicosanoid that:",
+      "options": {
+        "A": "Is generated in the cyclooxygenase pathway",
+        "B": "Is generated in the lipoxygenase pathway",
+        "C": "Is inhibited by aspirin",
+        "D": "Is involved in platelet aggregation",
+        "E": "Is involved in uterine smooth muscle contraction"
+      },
+      "answer": "B",
+      "explanation": "Please memorize this example in particular."
+    },
+    "18-19 MEDU2600 Final Q11": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Brown adipose tissue in infant is used as:",
+      "options": {
+        "A": "Iron-containing mitochondria",
+        "B": "Hypothermia",
+        "C": "20% of body weight",
+        "D": "protection of internal organs",
+        "E": "protection of UV"
+      },
+      "answer": "A",
+      "explanation": "A. Correct (Refer to P.17 of lecture notes directly). These mitochondria are for beta oxidation of fatty acids stored in TAG and generation of heat via UCP-1 as non-shivering thermogenesis. Note that the fat droplets in brown fat is much smaller than that in white fat to yield heat.\nB. It is used to AVOID hypothermia after birth\nC. Only 5% of body weight (on upper spine and shoulders)\nD. Not related to brown fat\nE. Not related"
+    },
+    "18-19 MEDU2600 Final Q12": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Pulmonary surfactant produced by alveolar cell type 2 contains…",
+      "options": {
+        "A": "Ganglioside",
+        "B": "Phosphatidylinositol",
+        "C": "Prostaglandin",
+        "D": "Silac acid",
+        "E": "Sphingomyelin"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Sem1 Q52": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Clearance of red blood cells, requires which expression,",
+      "options": {
+        "A": "lecithin on outer membrane",
+        "B": "N-galactosamine on outer membrane",
+        "C": "phosphatidylethanolamine on outer membrane",
+        "D": "phosphatidylserine on outer membrane",
+        "E": "nitroglycerine on outer membrane"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q11": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following molecules has a cyclic structure",
+      "options": {
+        "A": "Phosphatidic acid",
+        "B": "Sphingomyelin",
+        "C": "Triacylglycerols",
+        "D": "HMG-CoA",
+        "E": "Cholesterol"
+      },
+      "answer": "E",
+      "explanation": "Po Yeung emphasized this for millions of times since year 1. Just remember the 4 fused rings, 27 carbon."
+    },
+    "19-20 MEDU2600 Final Q12": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Leukotriene is an eicosanoid that",
+      "options": {
+        "A": "Is involved in platelet aggregation",
+        "B": "Is generated in lipoxygenase pathway",
+        "C": "Is inhibited by aspirin",
+        "D": "Is generated by cyclooxygenase pathway",
+        "E": "Is involved in uterine smooth muscle contraction"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q51": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Synthesis of triacylglycerol in adipose tissue,",
+      "options": {
+        "A": "adding 1 fatty acid to diacylglycerol to form a triacylglycerol by phosphatase",
+        "B": "adding 2 fatty acid to glycerol-3-phosphate to form the lysophosphatidic acid",
+        "C": "adding 3 fatty acid to glycerol-3-phosphate to form the lysophosphatidic acid",
+        "D": "dephosphorylation of phosphatidic acid to form diacylglycerol",
+        "E": "phosphorylation of glycerol to form glycerol-3-phosphate"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q52": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "ABO blood group B-antigen terminal group",
+      "options": {
+        "A": "Biotin",
+        "B": "Choline",
+        "C": "Ethanolamine",
+        "D": "Galactose",
+        "E": "N-acetylgalactosamine"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Test Q50": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following lipids contains acid?",
+      "options": {
+        "A": "Ceramide",
+        "B": "Triacylglycerol",
+        "C": "Ganglioside",
+        "D": "Globoside",
+        "E": "Sphingosine"
+      },
+      "answer": "C",
+      "explanation": "For simplicity, just refer to the first page of this document. The first 2 lectures are just about rote memorization, and you should recite as little as you could within our syllabus. Even if you understand all the following there won’t be extra marks. Just recite it, and pass it, and that’s it.\nGanglioside = Glycolipid + Sialic ACID\nYou will need the basic knowledge about glycolipids and sphingolipids before you can answer this question. We can begin with the formation of sphinganine from serine and palmitoyl CoA, and then into ceramide after receiving another acyl CoA group. Sphingosine refers to the part of ceramide excluding the foreign acyl CoA. TAG is too simple to be discussed here. Ganglioside and globoside are both sphingolipids originating from ceramide, but the difference lies in the oligosaccharide residues attached to the lipid. Attaching 1 sugar residue yields a cerebroside, while multiple residues yield a globoside. Ganglioside is further formed from globoside by attaching a sialic acid residue, hence is the only answer here. It is quite hard to know such detail at first glance, but the later lecture featuring various IEM of lipids should contain a figure illustrating various lipids and possible IEM. It is a good concept reminder for you to link up the function and structure of different lipids."
+    },
+    "21-22 MEDU2600 Test Q51": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following statements regarding lecithin is correct?",
+      "options": {
+        "A": "It carries a sphingosine backbone.",
+        "B": "It is involved in the phosphatidylinositol 4,5-bisphosphate pathway.",
+        "C": "It is synthesized by type I alveolar cells.",
+        "D": "It is the precursor of platelet activating factor.",
+        "E": "Its concentration is higher than sphingomyelin in early gestation."
+      },
+      "answer": "D",
+      "explanation": "You should know lecithin is not a single compound, but instead a mixture. However, the chief component is phosphatidylcholine, formed by attaching choline and phosphate groups onto a DAG.\nA. Phosphatidylcholine = Glycerophospholipids = Glycerol backbone\nB. Not involved.\nC. Surfactants are synthesized by type II alveolar cells.\nD. True. Recite this. (FYI: actually PAF is derived from ether analog of PC, instead of ordinary ester form, i.e. it is an alkyl group on C1 instead of an acyl group.)\nE. False. The L/S ratio is low in early gestation, indicating immature fetal lungs. You can link this with the fact that lecithin is one of the chief components in lung surfactant secreted after week 24, near the end of canalicular period (week 16-26)."
+    },
+    "21-22 MEDU2600 Final Q15": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Glycerol-3-phosphate for triacylglycerol synthesis:",
+      "options": {
+        "A": "bind directly to free FA to form lyso-phosphatidic acid",
+        "B": "is active in fasting state",
+        "C": "is derived primarily from amino acid in fed state",
+        "D": "is formed from reduction of DHAP",
+        "E": "occur only in liver"
+      },
+      "answer": "D",
+      "explanation": "A is clearly false as FA are always carried in the form of acyl CoA.\nB is false either as lipogenesis should be active in the fed state.\nC is possible but very inefficient, and there is no need to construct glycerol 3P from amino acids either, we can obtain it simply from DHAP or dietary TAG.\nD is correct as this is one method to obtain glycerol 3-phosphate. This is because NADH is consumed. Another method is direct phosphorylation of glycerol by glycerol kinase. However, this reaction is only possible in the liver. But if we consider using glycerol 3-phosphate for TAG synthesis, then it is possible everywhere."
+    },
+    "21-22 MEDU2600 Final Q11": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "The pulmonary surfactant produced by alveolar type 2 cell contain:",
+      "options": {
+        "A": "ganglioside",
+        "B": "phosphatidylinositol",
+        "C": "prostaglandin",
+        "D": "sialic acid",
+        "E": "Sphingomyelin"
+      },
+      "answer": "E",
+      "explanation": "Be careful although lecithin/phosphatidylcholine is the chief component, there is also some sphingomyelin. As a further elaboration, have you ever thought about why L and S are used as lung surfactants? Recall that L and S are just phosphocholine attached to DAG and ceramide backbones. You can observe that the alkyl backbone of them forms the hydrophobic tail, while the phosphocholine group forms the hydrophilic head. This is very much similar to the case of bile acids forming lipid droplets and micelles, but not for emulsification this time, but to reduce the surface tension of the water film on the surface of alveoli. The charged heads of the lipids repel each other to help spread the water film, instead of coalescing together as a water droplet, hence lowering the surface tension to prevent collapse of alveoli during expiration."
+    },
+    "22-23 MEDU2600 Test Q51": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Regarding TAG synthesis from glycerol 3-phosphate,",
+      "options": {
+        "A": "addition of a free fatty acid to glycerol 3-phosphate form lysophosphatidic acid",
+        "B": "TAG synthesis is active during fasting state",
+        "C": "glycerol 3-phosphate is derived from reduction of DHAP",
+        "D": "glycerol 3-phosphate is derived mostly from amino acids in fed state",
+        "E": "occurs only in liver"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "22-23 MEDU2600 Test Q54": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Adipose tissues respond to low insulin to glucagon ratio by:",
+      "options": {
+        "A": "Activating hormone-sensitive lipase",
+        "B": "Dephosphorylating interconvertible enzymes",
+        "C": "Increasing amount of pyruvate kinase",
+        "D": "Releasing glutamine",
+        "E": "Stimulating deposition of fat"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Test Q54": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following regarding serum lipoprotein is correct?",
+      "options": {
+        "A": "Low LDL-c/HDL-c ratio leads to atherosclerosis",
+        "B": "HDL has lowest protein content",
+        "C": "LDL has highest cholesterol content",
+        "D": "VLDL carries triglycerides only",
+        "E": "VLDL has the lowest density"
+      },
+      "answer": "C",
+      "explanation": "A. Atherosclerosis is caused by the deposition of fat in the tunica intima\nB. HDL has highest protein content\nC. Correct. LDL is the cholesterol carrier in our body\nD. VLDL carries a lot of things, but it is TAG-rich. Note that all lipoproteins carry all types of components, but they differ in the proportion.\nE. Chylomicrons has the lowest density"
+    },
+    "16-17 MEDU2600 Final Q13": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Rank the following lipoprotein from the highest density to the lowest density: (Separate the answers with \" > \")\nVLDL\nHDL\nLDL\nChylomicron\nIDL",
+      "options": {},
+      "answer": "HDL > LDL > IDL > VLDL > Chylomicron",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q11": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following lipoprotein contains the highest protein content?",
+      "options": {
+        "A": "Chylomicron",
+        "B": "HDL",
+        "C": "IDL",
+        "D": "LDL",
+        "E": "VLDL"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q12": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "In type I lipoproteinemia, which of the following is major elevation?",
+      "options": {
+        "A": "Chylomicron",
+        "B": "HDL",
+        "C": "IDL",
+        "D": "LDL",
+        "E": "VLDL"
+      },
+      "answer": "A",
+      "explanation": "Type I hyperlipoproteinemia = deficiency of lipoprotein lipase / apo-C\n→ Chylomicrons accumulate → TAG elevated\nAcute pancreatitis may occur."
+    },
+    "18-19 MEDU2600 Test Q53": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following has the highest TAG content?",
+      "options": {
+        "A": "Chylomicrons",
+        "B": "VLDL",
+        "C": "LDL",
+        "D": "IDL",
+        "E": "HDL"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q13": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which lipoprotein has the lowest density?",
+      "options": {
+        "A": "Chylomicron",
+        "B": "VLDL",
+        "C": "HDL",
+        "D": "IDL",
+        "E": "LDL"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q14": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Regarding cellular uptake of LDL,",
+      "options": {
+        "A": "LDL will be uptake into cell after binding to apo-C",
+        "B": "Clathrin binds to endoplasmic reticulum for uptake of LDL",
+        "C": "The LDL receptors are not recycled",
+        "D": "The LDL receptors are generated by Golgi apparatus and further packaged by endoplasmic reticulum",
+        "E": "The LDL receptors are generated when there are low levels of intracellular cholesterol"
+      },
+      "answer": "E",
+      "explanation": "A. apo-C → apo-B (LDL only contains apo-B)\nB. cytosolic side of the receptor\nC. Recycled (after formation of endosome and detachment of clathrin)\nD. Golgi apparatus and ER should be swapped :)\nE. LDL is high in cholesterol"
+    },
+    "19-20 MEDU2600 Final Q13": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which lipoprotein contains the high content of protein?",
+      "options": {
+        "A": "VLDL",
+        "B": "LDL",
+        "C": "Chylomicron",
+        "D": "IDL",
+        "E": "HDL"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q14": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "The major cause of type III hyperlipoproteinemia is due to the genetic mutation of:",
+      "options": {
+        "A": "apo A",
+        "B": "apo B",
+        "C": "apo C",
+        "D": "apo D",
+        "E": "apo E"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q17": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following would represent a major cause of familial hypercholesterolemia?",
+      "options": {
+        "A": "Defect of Apo C for the regulation of lipoprotein lipase activity",
+        "B": "Overproduction of Apo B and TAG",
+        "C": "Mutation of Apo E for clearance of VLDL and chylomicron remnants",
+        "D": "Mutation of LDL receptors for regulation of LDL level",
+        "E": "Defect of Apo A for the regulation of lecithin: acyltransferase"
+      },
+      "answer": "D",
+      "explanation": "Familial hypercholesterolemia = Type IIa = mutation of LDL receptors for regulation of LDL level\nA: Type I\nB: Type IV if apo-B100 is overproduced\nC: Type III\nE is wrong as Apo-A is activating LCAT for HDL metabolism, but it is not related to hypercholesterolemia, which is caused by malfunctioning of Apo-B."
+    },
+    "20-21 MEDU2600 Sem1 Q53": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following processes happens in the degradation of chylomicrons?",
+      "options": {
+        "A": "Apo-B of chylomicrons activates lipoprotein lipase that catalyzes the hydrolysis of TAG",
+        "B": "Apo-E of chylomicron remnant particles interacts with chylomicron remnant receptors",
+        "C": "Chylomicron particles interact with LDL, leading to LDL donation of Apo-C and Apo-E",
+        "D": "Exocytosis of chylomicron particles is subsequently hydrolysed within lysosomes",
+        "E": "Half-life of chylomicron particles lasts for a few days in a normal subject"
+      },
+      "answer": "B",
+      "explanation": "A. Apo-C-II activates lipoprotein lipase released by the endothelial cells\nB. Correct\nC. Chylomicron particles react with HDL\nD. Endocytosis of chylomicrons → Lysosome\nE. Half life of chylomicrons is about 15-20 minutes"
+    },
+    "20-21 MEDU2600 Final Q11": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following is true?",
+      "options": {
+        "A": "Cholesterol is fully absorbed into enterocytes for repackaging into chylomicrons.",
+        "B": "Glycerol produced in the intestinal lumen is used to synthesize triacylglycerol.",
+        "C": "Long-chain fatty acids are directly absorbed into the portal vein.",
+        "D": "Short- and medium-chain fatty acids are used to synthesize chylomicrons.",
+        "E": "A small portion of triacylglycerol is completely hydrolyzed to fatty acid and glycerol"
+      },
+      "answer": "E",
+      "explanation": "A. Only a small portion of cholesterol is packaged into chylomicrons.\nB. Enterocytes do not express glycerol kinase to produce glycerol 3-phosphate for TAG synthesis, and such reaction is only possible in the liver. TAG synthesis in the enterocyte has to begin with 2-MAG. Only short- and medium-chain FA can be absorbed directly through plasma membranes, and thus they will not be packaged into chylomicrons.\nC. They are broken down into 2-MAG and repackaged into TAG & chylomicrons\nD. They are directly absorbed into the portal vein\nE. This is true, but still a majority is digested into 2-MAG."
+    },
+    "20-21 MEDU2600 Final Q16": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following correctly describe the distinction between VLDL and chylomicrons? (Options modified)",
+      "options": {
+        "A": "Only chylomicron carry triglyceride to adipocytes",
+        "B": "Only chylomicron is synthesized in liver",
+        "C": "Only chylomicron carry cholesterol ester and phospholipid",
+        "D": "Only VLDL is produced in prolonged starvation",
+        "E": "VLDL has a lower triglyceride percentage than chylomicron"
+      },
+      "answer": "E",
+      "explanation": "A. Each lipoprotein contains all types of lipids and protein. It is just a matter of proportion.\nB. VLDL and HDL are synthesized in the liver\nC. Each lipoprotein contains all types of lipids and protein. It is just a matter of proportion.\nD. VLDL is produced only in fed state, so as to convert excess acetyl-CoA into TAG, then store TAG in adipocytes.\nE. Density of lipoprotein correlates with the TAG content. As chylomicron has the lowest density, it has the highest TAG content."
+    },
+    "21-22 MEDU2600 Test Q53": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following lipoproteins are the carrier of triacylglycerol in blood?",
+      "options": {
+        "A": "Chylomicron and IDL",
+        "B": "Chylomicron and LDL",
+        "C": "Chylomicron and VLDL",
+        "D": "HDL and IDL",
+        "E": "HDL and LDL"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Test Q55": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following is correct about lipoprotein lipase?",
+      "options": {
+        "A": "Activated by apoprotein A",
+        "B": "It involves in reverse cholesterol transport",
+        "C": "It is not present in liver",
+        "D": "Secreted by vascular endothelial cell"
+      },
+      "answer": "D",
+      "explanation": "A. Apo-C activates lipoprotein lipase, and this is why defective apo-C leads to type Ib hyperlipoproteinemia.\nB. Lipoprotein lipase is not related to reverse cholesterol transport by HDL. It should be hepatic lipase converting lipid-rich HDL-2 to protein-rich HDL-3 to be related.\nC. LPL is still present in the liver as there are still capillaries within the liver.\nD. True."
+    },
+    "22-23 MEDU2600 Test Q53": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "In the cellular processes of LDL,",
+      "options": {
+        "A": "The LDL-receptor complex will undergo endocytosis after binding with apo-C on LDL.",
+        "B": "LDL receptors are coated with clathrin protein in endoplasmic reticulum",
+        "C": "LDL receptors are generated by Golgi apparatus and further packaged by endoplasmic reticulum",
+        "D": "LDL receptors are not recycled back",
+        "E": "LDL receptor synthesis is activated by low intracellular cholesterol level"
+      },
+      "answer": "E",
+      "explanation": "A. Should be binding to apo-B100 on LDL.\nB. The modification of LDL receptors is done in the Golgi apparatus.\nC. LDL receptors are generated by ER and packaged by Golgi apparatus. (i.e. opposite of the statement)\nD. LDL receptors are recycled after receptor-mediated endocytosis.\nE. E is correct as low cholesterol reduces the transcriptionally repressive effects of SREBP on LDL receptors. As explained before, this is an attempt of the liver to scavenge more plasma LDL and cholesterol to refill the hepatic cholesterol storage. In short, the reduction in plasma cholesterol is the stimulus for LDL receptor synthesis."
+    },
+    "15-16 MEDU2600 Final Q34": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following about ketone bodies is correct?",
+      "options": {
+        "A": "ketone bodies are formed from the oxidation of HMG CoA",
+        "B": "All ketone bodies are volatile and can be detected in the breath",
+        "C": "the biosynthetic pathways of cholesterol and ketone bodies are identical at some point",
+        "D": "the major site for production of ketone bodies is in the brain"
+      },
+      "answer": "C",
+      "explanation": "B: Ketone bodies have a characteristic smell, which can easily be detected in the breath of persons in ketosis and ketoacidosis. It is often described as fruity or like nail polish remover (which usually contains acetone or ethyl acetate).(Source: wiki https://en.wikipedia.org/wiki/Ketone_bodies)\nB. reference value from wikipedia: melting point of beta-hydroxybutyrate = 44-46??, so is a solid at rm. temp.\nC. Both pathways begin by condensation of acetyl-CoA catalyzed by HMG-CoA synthase.\nD. Brain is one of the sites that can use ketone bodies as a substitute for glucose as an energy source. It is the liver that produces ketone bodies."
+    },
+    "16-17 MEDU2600 Test Q52": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following can be derived from malonyl coA?",
+      "options": {
+        "A": "Ketone bodies",
+        "B": "Cholesterol",
+        "C": "Fatty acids",
+        "D": "Glycogen",
+        "E": "Glycerol"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Test Q55": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following statements is correct about ketone bodies?",
+      "options": {
+        "A": "It can be synthesized from the oxidation of HMG CoA",
+        "B": "All ketone bodies are volatile and can be smelt from breath",
+        "C": "It has the same metabolic pathway as cholesterol at some point",
+        "D": "Brain is the main site for producing ketone bodies"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Test Q54": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "What happens if there is a problem with carnitine acyltransferase I?",
+      "options": {
+        "A": "Carnitine can't be synthesized",
+        "B": "Cytosolic fatty acids chain can't attach to carnitine",
+        "C": "Fatty acids-carnitine complex can't be transported through mitochondrial membrane",
+        "D": "Fatty acids can't detach from carnitine"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q13": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "The liver is deficient in which enzyme, which prevents it from entering an endless cycle of synthesizing and metabolizing ketone bodies?",
+      "options": {
+        "A": "Beta-hydroxybutyrate dehydrogenase",
+        "B": "Beta-keto-acyl CoA transferase",
+        "C": "Acetyl-CoA carboxylase",
+        "D": "HMG coA synthase",
+        "E": "thiolase"
+      },
+      "answer": "B",
+      "explanation": "Note: Option C is a made-up option."
+    },
+    "18-19 MEDU2600 Final Q16": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "What is the consequence of the deficiency of carnitine acyltransferase I?",
+      "options": {
+        "A": "Cytosolic fatty acid chains cannot be attached to carnitine.",
+        "B": "Fatty acyl carnitine cannot be transported within the intermembrane space.",
+        "C": "Carnitine is unable to be detached from fatty acid chains.",
+        "D": "There is a defect in the biosynthesis of carnitine.",
+        "E": "There is a defect in the desaturation of fatty acids."
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q15": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following enzyme is involved in synthesis of ketone?",
+      "options": {
+        "A": "HMG-CoA lyase",
+        "B": "HMG-CoA reductase",
+        "C": "Hormone sensitive lipase",
+        "D": "Desmolase",
+        "E": "Acetyl-CoA carboxylase"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q54": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Process of fatty acid desaturation",
+      "options": {
+        "A": "NADH is reduced",
+        "B": "O2 is not used",
+        "C": "O2 oxidized to water",
+        "D": "C=C desaturation occurs in Golgi complex",
+        "E": "C16 palmitic acid is the main precursor"
+      },
+      "answer": "E",
+      "explanation": "A. NADH can never be reduced again in our syllabus (i.e. is oxidized to form NAD+)\nB Oxygen is used\nC Oxygen is reduced\nD The process takes place in the endoplasmic reticulum"
+    },
+    "21-22 MEDU2600 Final Q12": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following statements about desaturation of fatty acid is correct?",
+      "options": {
+        "A": "Takes place in cytosol",
+        "B": "One mole of NAD+ is reduced to 1 mole of NADH by dehydrogenase",
+        "C": "One mole of O2 is reduced to 2 moles of H2O by desaturase",
+        "D": "Our body can generate C=C double bond on fatty acid chain beyond C12 position",
+        "E": "Major precursor of fatty acid desaturase is stearate"
+      },
+      "answer": "C",
+      "explanation": "This is quite hard though.\nA. Desaturation takes place at a smooth ER.\nB. The first step is oxidation of fatty acid (Removal of H) and cytochrome b5, by molecular oxygen, catalyzed by fatty acyl CoA desaturase. Oxidised cytochrome b5 is then regenerated by consuming NADH, catalyzed by cytochrome b5 reductase. As oxygen is reduced in this reaction, of course water is formed.\nC. Refer to B.\nD. Beyond C9 position.\nE. The main precursor is palmitate which is the fresh product of FA synthesis. Stearate is a saturated 18-C fatty acid, which is only formed after elongation of palmitate in sER. B and C require some knowledge in reaction to answer, and you can only recall it. The first step is oxidation of fatty acid (Removal of H) and cytochrome b5, by molecular oxygen, catalyzed by fatty acyl CoA desaturase. Oxidised cytochrome b5 is then regenerated by consuming NADH, catalyzed by cytochrome b5 reductase. As oxygen is reduced in this reaction, of course water is formed.\nTo remember that slide easier, take note of the following:\n- The side with NADH begins first (NADH oxidized to NAD+)\n- FAD+ → FADH drives Fe3+ → Fe2+ (FADH reduces Fe3+) (F to F)\n- Cytochrome b5 reductase\n- Fatty acyl CoA desaturase"
+    },
+    "14-15 MEDU2600 Test Q10": {
+      "year": "2014-15",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following statements is INCORRECT?",
+      "options": {
+        "A": "Cholesterol biosynthesis is regulated by dietary cholesterol",
+        "B": "Cholesterol is the precursor of vitamin D, bile salts and all steroid hormones.",
+        "C": "Decarboxylation reactions are involved in the biosynthesis of cholesterol",
+        "D": "Cholesterol is carried in blood by VLDL and LDL only",
+        "E": "Bile salts are made from cholesterol"
+      },
+      "answer": "D",
+      "explanation": "A. Dietary reduction in cholesterol can lead to a drop in 15% of cholesterol level in our body (but can you remember why only 15%?)\nB. Correct\nC. In stage 4 of cholesterol synthesis, C-30 lanosterol undergoes decarboxylation and reduction to form cholesterol\nD. ALL lipoprotein carry a certain amount of cholesterol, but the proportion is different\nE. Correct"
+    },
+    "15-16 MEDU2600 Test Q52": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following is correct?",
+      "options": {
+        "A": "statin are HMG-CoA inhibitor",
+        "B": "all statin are structurally similar to HMG-CoA",
+        "C": "at least one statin can lower serum triglycerides and LDL level while increase HDL level",
+        "D": "statin lower cholesterol synthesis and increase cholesterol degradation"
+      },
+      "answer": "C",
+      "explanation": "A. HMG CoA reductase inhibitor\nB. Refer to the following structures. Only a part of stain is structurally similar to HMG-CoA so as to block the active sites of HMG-CoA reductase\n    * Statin\n![](img/15-16_MEDU2600_Test_Q52_1776083553927.png)\n    * HMG-CoA\n![](img/15-16_MEDU2600_Test_Q52_1776083578365.png)\nC. Decreased hepatic cholesterol synthesis will upregulate synthesis of LDL receptors, as there is a need to utilize more plasma cholesterol to maintain hepatic pool of cholesterol for biosynthesis, so plasma TAG and LDL decrease. Some statins can also raise HDL via other mechanisms, but are not as significant as niacin or fibrates.\nD. Our body never degrades cholesterol. The only way to remove excess cholesterol is to excrete them in the form of bile acids in feces.\n\n![](img/15-16_MEDU2600_Test_Q52_1776083602305.png)"
+    },
+    "15-16 MEDU2600 Final Q38": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which statement is correct? (Options modified)",
+      "options": {
+        "A": "cholesterol has four member of six ring",
+        "B": "Cholesterol does not have a hydrophilic group",
+        "C": "Meviolin (statin) is structural similar to cholesterol",
+        "D": "Cholesterol is precursor of vitamin D and all steroid hormone",
+        "E": "Cholesterol and fatty acids have shared pathway"
+      },
+      "answer": "D",
+      "explanation": "A: 4 ring (4 member of 6 ring = 6x6x4 carbons)\nB: It has an -OH group in cholesterOL\nC: HMG CoA competitive inhibitor → structurally similar to HMG-CoA\nD: Correct\nE: Original option \"Cholesterol and ketones have shared pathway\" is correct\nIn stage 1 of cholesterol synthesis, 2 acetyl-CoA condenses to form acetoacetyl-CoA (catalyzed by thiolase). Another acetyl-CoA joins to form HMG-CoA (catalyzed by HMG-CoA synthase). By HMG-CoA reductase, HMG-CoA is finally converted into mevalonate. The use of thiolase and HMG-CoA synthase is the shared pathway with ketogenesis."
+    },
+    "16-17 MEDU2600 Final Q14": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following directly inhibits the synthesis of HMG CoA reductase?",
+      "options": {
+        "A": "Cholesterol",
+        "B": "HMG CoA",
+        "C": "Ketone bodies",
+        "D": "Steroid Hormones",
+        "E": "Vitamin D"
+      },
+      "answer": "A",
+      "explanation": "Pay attention to the question as it is not asking for “HMG-CoA reductase inhibitor”, which is statin. Instead, it is asking for the inhibitors of HMG-CoA reductase SYNTHESIS. Cholesterol and glucagon can do this and regulate the first step of cholesterol synthesis.\nOn the other hand, insulin and an increased amount of HMG-CoA may stimulate the synthesis of HMG-CoA reductase."
+    },
+    "17-18 MEDU2600 Final Q14": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which following is the best statement for cholestyramine to lower the level of cholesterol",
+      "options": {
+        "A": "HMG coA synthase",
+        "B": "Decrease the enterohepatic circulation of bile acids",
+        "C": "Resin is Negative charge binding to the bile acids"
+      },
+      "answer": "B",
+      "explanation": "C. Cholestyramine is a positively charged resin that binds onto the negatively charged bile acids."
+    },
+    "18-19 MEDU2600 Test Q55": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following directly inhibits HMG-CoA reductase?",
+      "options": {
+        "A": "Cholesterol",
+        "B": "HMG-CoA",
+        "C": "Steroid hormone",
+        "D": "Biotin",
+        "E": "Vitamin D"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q15": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "What is the mechanism of statin in the treatment of hypercholesterolemia?",
+      "options": {
+        "A": "Statin inhibits cytosolic HMG-CoA synthase",
+        "B": "Statin prevents uptake of bile acid at distal ileum",
+        "C": "Statin inhibits the trans-methylglutaconate shunt",
+        "D": "Statin carries positively charged resin that binds onto negatively charged bile acids",
+        "E": "Statin inhibits HMG-CoA reductase"
+      },
+      "answer": "E",
+      "explanation": "A. ??Thiolase and HMG-CoA synthase are in the mitochondrial matrix, while HMG-CoA reductase is bound to sER membrane. Even if A becomes HMG-CoA reductase, it is still a wrong statement. The rest of cholesterol synthesis is in cytosol.\nE. HMG-CoA reductase catalyzes the rate-limiting step of cholesterol biosynthesis. This reaction is irreversible.\nHypercholesterolemia = high cholesterol in blood.\nHMG-CoA synthase is also an enzyme that catalyzes the biosynthesis of cholesterol.\nNote: Option B, C and D are made up options. B & D are descriptions for cholestyramine. Trans-methylglutaconate shunt is used for the recycling of HMG-CoA into acetyl-CoA."
+    },
+    "19-20 MEDU2600 Final Q16": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following is true about cholesterol synthesis?",
+      "options": {
+        "A": "It involves formation and cyclization of squalene.",
+        "B": "Glucagon activates HMG-CoA reductase",
+        "C": "HMG-CoA synthase is the rate-determining enzyme",
+        "D": "Mitochondria HMG-CoA synthase is extremely active during cholesterol synthesis",
+        "E": "It involves the formation of 5C-compound mevalonate"
+      },
+      "answer": "A",
+      "explanation": "A: Lanosterol is formed after cyclization of squalene.\nB: Glucagon inhibits HMG-CoA reductase so that resources are used for gluconeogenesis more\nC: HMG CoA reductase is the rate-limiting enzyme instead\nD: mitochondrial HMG CoA synthase → active for ketogenesis, starving, fasting; cytosolic HMG CoA synthase → active for cholesterol synthesis, in fed state\nE: 6C"
+    },
+    "20-21 MEDU2600 Sem1 Q55": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "How does statin class enzyme lower plasma cholesterol?",
+      "options": {
+        "A": "Decrease cholesterol absorption in intestine",
+        "B": "Increase Apo-b100 synthesis",
+        "C": "Increase the conversion of cholesterol to bile acids",
+        "D": "inhibit rate limiting step of cholesterol synthesis"
+      },
+      "answer": "D",
+      "explanation": "HMG CoA reductase is inhibited, which slows the production of mevalonate in cholesterol biosynthesis."
+    },
+    "20-21 MEDU2600 Final Q15": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following are the mechanism of action of of cholestyramine in treatment of hypercholesterolemia:",
+      "options": {
+        "A": "Activate synthesis of bile acid",
+        "B": "Activate synthesis of steroid hormone",
+        "C": "Activate the hormonal action of CCK and secretin",
+        "D": "Activate reabsorption of bile acid in ileum",
+        "E": "Inhibit HMG CoA reductase"
+      },
+      "answer": "A",
+      "explanation": "Cholestyramine does more than reduce enterohepatic circulation of bile acids. Bile acids can inhibit 7α-hydroxylase, hence reducing the production of bile acids as a negative feedback. As bile acids are lost in feces, the inhibition of 7α-hydroxylase is removed and more cholesterol is consumed to replenish the pool of bile acids. This is an indirect pathway of cholesterol-lowering effect of cholestyramine, make sure you don't miss it."
+    },
+    "21-22 MEDU2600 Test Q52": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "During cholesterol synthesis,",
+      "options": {
+        "A": "Coenzyme NADPH acts as an electron donor.",
+        "B": "HMG-CoA reductase catalyzes the condensation of acetyl-CoA.",
+        "C": "HMG-CoA synthase catalyzes the formation of mevalonate from HMG-CoA.",
+        "D": "The liver synthesizes all cholesterol for our body needs.",
+        "E": "30-carbon squalene forms four carbon fused rings with squalene synthase."
+      },
+      "answer": "A",
+      "explanation": "A is always right.\nB and C should be the other way round.\nD is clearly false, as there is some portion (10-15%) of cholesterol being absorbed from diet.\nE is false as squalene is not yet a cyclic structure."
+    },
+    "21-22 MEDU2600 Final Q13": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following compounds directly inhibits synthesis of HMG-CoA reductase?",
+      "options": {
+        "A": "Cholesterol",
+        "B": "HMG-CoA",
+        "C": "Ketone bodies",
+        "D": "Steroid hormones",
+        "E": "Vitamin D"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "22-23 MEDU2600 Test Q55": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following compounds directly inhibits synthesis of HMG-CoA reductase?",
+      "options": {
+        "A": "Cholesterol",
+        "B": "HMG-CoA",
+        "C": "Ketone bodies",
+        "D": "Steroid hormones",
+        "E": "Vitamin D"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q15": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the statements is true about Gaucher's disease patients?",
+      "options": {
+        "A": "The patients have hypercholesterolemia",
+        "B": "The patients have elevated white blood cell concentrations.",
+        "C": "The patients have reduced blood clotting times.",
+        "D": "The Gaucher's cells appear in bone marrow due to the accumulation of lipids."
+      },
+      "answer": "D",
+      "explanation": "Option D: Gaucher’s cells appear in bone marrow, spleen and liver; due to accumulation of glucocerebroside (glycolipid)\nThe Gaucher cell results from the accumulation of excessive glucocerebroside in cells of the monocyte-macrophage system\nhttps://pubmed.ncbi.nlm.nih.gov/7122633/\nGaucher cells most often accumulate in the spleen, liver, and bone marrow.\nhttps://www.gaucher.org.uk/about_gaucher"
+    },
+    "17-18 MEDU2600 Test Q53": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following is the mechanism of cholestyramine for treatment of hypercholesterolemia?",
+      "options": {
+        "A": "Activate biosynthesis of bile acid directly",
+        "B": "Activate biosynthesis of steroid hormone directly",
+        "C": "Increase secretion of CCK and secretin",
+        "D": "Inhibit absorption of bile acid in distal GI lumen",
+        "E": "HMG-CoA reductase"
+      },
+      "answer": "D",
+      "explanation": "Cholestyramine carries positively charged resin that binds onto negatively charged bile acid. The bile acid fails to be absorbed at distal ileum. Liver will have to utilize circulating cholesterol for new bile acid synthesis. Since more bile is lost and more cholesterol is used by the liver, cholesterol levels drop."
+    },
+    "17-18 MEDU2600 Final Q15": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "tangier disease mutation",
+      "options": {
+        "A": "Abca1 transporter, low hdl",
+        "B": "Leptin recptor",
+        "C": "Hexoamidase a",
+        "D": "Sphingomyelinase",
+        "E": "Glucocerebrosidase"
+      },
+      "answer": "A",
+      "explanation": "A. Cholesterol in peripheral cells cannot be uptook by HDL molecules. This may impair cellular functions and lead to symptoms such as neuropathy and orange-coloured tonsils.\nB. Leptin is a hormone that is released in proportion to the number of adipocytes to generate a sense of fullness (reduce appetite). Usually, in obese patients, they have a high level of circulating leptin, but the response to the hormone is limited.\nC. Hexoamidase A deficiency is related to Tay-Sach’s disease. Hydrolysis of GM2 fails, so that it accumulates in cells. Symptoms include a cherry-red spot on the retina, as well as loss of motor function in newborns.\nD. Sphingomyelinase deficiency is related to Niemann-pick disease. Sphingomyelin cannot be broken down into phosphocholine and ceramide. Symptoms include neurodegeneration, hepatomegaly and splenomegaly.\nE. Glucocerebrosidase deficiency is related to Gaucher’s disease, which fails to break glucocerebroside down into glucose and cerebroside. Symptoms include hepatomegaly, splenomegaly, accumulation of glucocerebroside in bone marrow and pancytopenia."
+    },
+    "18-19 MEDU2600 Test Q54": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Which of the following has a lower concentration in diabetic ketoacidosis?",
+      "options": {
+        "A": "Epinephrine in blood",
+        "B": "Glucagon in blood",
+        "C": "Insulin in blood",
+        "D": "Ketone bodies in blood",
+        "E": "Ketone bodies in urine"
+      },
+      "answer": "C",
+      "explanation": "Diabetic ketoacidosis occurs mostly in patients with type 1 DM, so insulin level is low in these patients."
+    },
+    "19-20 MEDU2600 Sem1 Q55": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "In which condition is there a major lysosomal mutation of gluco-cerebrosidase?",
+      "options": {
+        "A": "Gaucher's Disease",
+        "B": "Niemann- Pick Disease",
+        "C": "Obesity",
+        "D": "Tangier's Disease",
+        "E": "Tay Sachs Disease"
+      },
+      "answer": "A",
+      "explanation": "Niemann-Pick disease: Deficiency in sphingomyelinase\nObesity: Elevated levels of leptin while resistance is developed against it\nTangier’s disease: ABCA1 transporter deficiency → Reduced HDL synthesis → Elevated levels of cholesterol in blood (Orange enlarged tonsils)\nTay-Sachs disease: Deficiency in hexosaminidase A → Reduced breakdown of GM2 in gangliosides → lost of motor function (in infants) + Cherry-red spot in eyes (embolism)"
+    },
+    "21-22 MEDU2600 Test Q54": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "Leptin is an adipocytic hormone which",
+      "options": {
+        "A": "Acts on our hypothalamic neurons to increase appetite",
+        "B": "Counteract the effect of peptide YY on gastric emptying",
+        "C": "Can cross the blood brain barrier",
+        "D": "Its secretion exhibits diurnal variation",
+        "E": "Leptin is inversely proportional to fat"
+      },
+      "answer": "C",
+      "explanation": "Leptin is secreted by adipose tissues, which acts on hypothalamus to reduce appetite and produce satiety. At least you should discard A and E first. CCK and peptide YY inhibit gastric emptying after meal and also causes satiety at the hypothalamus. Hence, these two hormones are synergistic with leptin in terms of producing satiety. However, leptin will not affect gastric emptying. Leptin can cross the blood brain barrier at circumventricular organs of the hypothalamus, which is necessary for it to act on hypothalamic nuclei to cause satiety. Leptin also exhibits diurnal variation as its secretion is highest during midnight sleep and lowest at the morning. So I will say both C and D are correct, and I am not sure which answer is preferred by Dr. Po Yeung! There is one point you can consider, as the lecture says that leptin is responsible for long-term regulation and seems to emphasize that the level of leptin is mainly determined by size of adipose tissues, instead of daily circadian rhythm. So, you may want to consider C as a better answer."
+    },
+    "21-22 MEDU2600 Final Q14": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Lipid",
+      "question": "The genetic mutation in lysosomal enzyme gluco-cerebrosidase is the major cause of:",
+      "options": {
+        "A": "Gaucher's Disease",
+        "B": "Niemann-Pick Disease",
+        "C": "Obesity",
+        "D": "Tangier Disease",
+        "E": "Tay-Sachs Disease"
+      },
+      "answer": "A",
       "explanation": ""
     }
   }
