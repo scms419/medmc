@@ -1450,7 +1450,8 @@
             "14-15 MEDU2600 Test Q9",
             "14-15 MEDU2600 Test Q62",
             "14-15 MEDU2600 Test Q63",
-            "14-15 MEDU2600 Test Q10"
+            "14-15 MEDU2600 Test Q10",
+            "14-15 MEDU2600 Final Q48"
           ],
           "2015-16": [
             "15-16 MEDU2600 Test Q45",
@@ -1466,7 +1467,9 @@
             "15-16 MEDU2600 Final Q30",
             "15-16 MEDU2600 Final Q34",
             "15-16 MEDU2600 Test Q52",
-            "15-16 MEDU2600 Final Q38"
+            "15-16 MEDU2600 Final Q38",
+            "15-16 MEDU2600 Final Q41",
+            "15-16 MEDU2600 Final Q52"
           ],
           "2016-17": [
             "16-17 MEDU2600 Test Q45",
@@ -1498,7 +1501,12 @@
             "16-17 MEDU2600 Test Q52",
             "16-17 MEDU2600 Test Q55",
             "16-17 MEDU2600 Final Q14",
-            "16-17 MEDU2600 Final Q15"
+            "16-17 MEDU2600 Final Q15",
+            "16-17 MEDU2600 Test Q56",
+            "16-17 MEDU2600 Test Q59",
+            "16-17 MEDU2600 Final Q18",
+            "16-17 MEDU2600 Test Q57",
+            "16-17 MEDU2600 Final Q19"
           ],
           "2017-18": [
             "17-18 MEDU2600 Final Q5",
@@ -1530,7 +1538,14 @@
             "17-18 MEDU2600 Final Q13",
             "17-18 MEDU2600 Final Q14",
             "17-18 MEDU2600 Test Q53",
-            "17-18 MEDU2600 Final Q15"
+            "17-18 MEDU2600 Final Q15",
+            "17-18 MEDU2600 Final Q17",
+            "17-18 MEDU2600 Final Q56",
+            "17-18 MEDU2600 Test Q57",
+            "17-18 MEDU2600 Test Q55",
+            "17-18 MEDU2600 Final Q18",
+            "17-18 MEDU2600 Test Q58",
+            "17-18 MEDU2600 Final Q19"
           ],
           "2018-19": [
             "18-19 MEDU2600 Test Q50",
@@ -1559,7 +1574,14 @@
             "18-19 MEDU2600 Final Q16",
             "18-19 MEDU2600 Test Q55",
             "18-19 MEDU2600 Final Q15",
-            "18-19 MEDU2600 Test Q54"
+            "18-19 MEDU2600 Test Q54",
+            "18-19 MEDU2600 Test Q56",
+            "18-19 MEDU2600 Final Q17",
+            "18-19 MEDU2600 Final Q20",
+            "18-19 MEDU2600 Test Q57",
+            "18-19 MEDU2600 Final Q18",
+            "18-19 MEDU2600 Test Q58",
+            "18-19 MEDU2600 Final Q19"
           ],
           "2019-20": [
             "19-20 MEDU2600 Sem1 Q47",
@@ -1583,7 +1605,10 @@
             "19-20 MEDU2600 Final Q17",
             "19-20 MEDU2600 Final Q15",
             "19-20 MEDU2600 Final Q16",
-            "19-20 MEDU2600 Sem1 Q55"
+            "19-20 MEDU2600 Sem1 Q55",
+            "19-20 MEDU2600 Final Q18",
+            "19-20 MEDU2600 Final Q19",
+            "19-20 MEDU2600 Final Q20"
           ],
           "2020-21": [
             "20-21 MEDU2600 Sem1 Q45",
@@ -1611,7 +1636,13 @@
             "20-21 MEDU2600 Final Q16",
             "20-21 MEDU2600 Sem1 Q54",
             "20-21 MEDU2600 Sem1 Q55",
-            "20-21 MEDU2600 Final Q15"
+            "20-21 MEDU2600 Final Q15",
+            "20-21 MEDU2600 Sem1 Q56",
+            "20-21 MEDU2600 Sem1 Q57",
+            "20-21 MEDU2600 Final Q17",
+            "20-21 MEDU2600 Sem1 Q58",
+            "20-21 MEDU2600 Final Q18",
+            "20-21 MEDU2600 Final Q19"
           ],
           "2021-22": [
             "21-22 MEDU2600 Test Q45",
@@ -1640,7 +1671,14 @@
             "21-22 MEDU2600 Test Q52",
             "21-22 MEDU2600 Final Q13",
             "21-22 MEDU2600 Test Q54",
-            "21-22 MEDU2600 Final Q14"
+            "21-22 MEDU2600 Final Q14",
+            "21-22 MEDU2600 Test Q56",
+            "21-22 MEDU2600 Final Q19",
+            "21-22 MEDU2600 Test Q57",
+            "21-22 MEDU2600 Final Q16",
+            "21-22 MEDU2600 Final Q17",
+            "21-22 MEDU2600 Test Q58",
+            "21-22 MEDU2600 Final Q18"
           ],
           "2022-23": [
             "22-23 MEDU2600 Test Q46",
@@ -1655,7 +1693,10 @@
             "22-23 MEDU2600 Test Q51",
             "22-23 MEDU2600 Test Q54",
             "22-23 MEDU2600 Test Q53",
-            "22-23 MEDU2600 Test Q55"
+            "22-23 MEDU2600 Test Q55",
+            "22-23 MEDU2600 Test Q56",
+            "22-23 MEDU2600 Test Q57",
+            "22-23 MEDU2600 Test Q58"
           ],
           "unclassified": [
             "Extra MEDU2600 Cell Q1",
@@ -1669,7 +1710,20 @@
             "Extra MEDU2600 Cell Q9",
             "Extra MEDU2600 Cell Q10",
             "Extra MEDU2600 Cell Q11",
-            "Extra MEDU2600 Cell Q12"
+            "Extra MEDU2600 Cell Q12",
+            "Extra MEDU2600 Nitrogen Q1",
+            "Extra MEDU2600 Nitrogen Q2",
+            "Extra MEDU2600 Nitrogen Q3",
+            "Extra MEDU2600 Nitrogen Q4",
+            "Extra MEDU2600 Nitrogen Q5",
+            "Extra MEDU2600 Nitrogen Q6",
+            "Extra MEDU2600 Nitrogen Q7",
+            "Extra MEDU2600 Nitrogen Q8",
+            "Extra MEDU2600 Nitrogen Q9",
+            "Extra MEDU2600 Nitrogen Q10",
+            "Extra MEDU2600 Nitrogen Q11",
+            "Extra MEDU2600 Nitrogen Q12",
+            "Extra MEDU2600 Nitrogen Q13"
           ]
         },
         "byTopic": {
@@ -1894,6 +1948,62 @@
             "19-20 MEDU2600 Sem1 Q55",
             "21-22 MEDU2600 Test Q54",
             "21-22 MEDU2600 Final Q14"
+          ],
+          "Nitrogen": [
+            "17-18 MEDU2600 Final Q17",
+            "17-18 MEDU2600 Final Q56",
+            "18-19 MEDU2600 Test Q56",
+            "18-19 MEDU2600 Final Q17",
+            "18-19 MEDU2600 Final Q20",
+            "19-20 MEDU2600 Final Q18",
+            "20-21 MEDU2600 Sem1 Q56",
+            "20-21 MEDU2600 Sem1 Q57",
+            "20-21 MEDU2600 Final Q17",
+            "21-22 MEDU2600 Test Q56",
+            "21-22 MEDU2600 Final Q19",
+            "22-23 MEDU2600 Test Q56",
+            "Extra MEDU2600 Nitrogen Q1",
+            "Extra MEDU2600 Nitrogen Q2",
+            "Extra MEDU2600 Nitrogen Q3",
+            "15-16 MEDU2600 Final Q41",
+            "16-17 MEDU2600 Test Q56",
+            "17-18 MEDU2600 Test Q57",
+            "18-19 MEDU2600 Test Q57",
+            "19-20 MEDU2600 Final Q19",
+            "19-20 MEDU2600 Final Q20",
+            "21-22 MEDU2600 Test Q57",
+            "21-22 MEDU2600 Final Q16",
+            "22-23 MEDU2600 Test Q57",
+            "Extra MEDU2600 Nitrogen Q4",
+            "Extra MEDU2600 Nitrogen Q5",
+            "Extra MEDU2600 Nitrogen Q6",
+            "14-15 MEDU2600 Final Q48",
+            "15-16 MEDU2600 Final Q52",
+            "16-17 MEDU2600 Test Q59",
+            "16-17 MEDU2600 Final Q18",
+            "17-18 MEDU2600 Test Q55",
+            "17-18 MEDU2600 Final Q18",
+            "18-19 MEDU2600 Final Q18",
+            "20-21 MEDU2600 Sem1 Q58",
+            "20-21 MEDU2600 Final Q18",
+            "21-22 MEDU2600 Final Q17",
+            "22-23 MEDU2600 Test Q58",
+            "Extra MEDU2600 Nitrogen Q7",
+            "Extra MEDU2600 Nitrogen Q8",
+            "Extra MEDU2600 Nitrogen Q9",
+            "16-17 MEDU2600 Test Q57",
+            "16-17 MEDU2600 Final Q19",
+            "17-18 MEDU2600 Test Q58",
+            "17-18 MEDU2600 Final Q19",
+            "18-19 MEDU2600 Test Q58",
+            "18-19 MEDU2600 Final Q19",
+            "20-21 MEDU2600 Final Q19",
+            "21-22 MEDU2600 Test Q58",
+            "21-22 MEDU2600 Final Q18",
+            "Extra MEDU2600 Nitrogen Q10",
+            "Extra MEDU2600 Nitrogen Q11",
+            "Extra MEDU2600 Nitrogen Q12",
+            "Extra MEDU2600 Nitrogen Q13"
           ]
         }
       },
@@ -18675,6 +18785,924 @@
       },
       "answer": "A",
       "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q17": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "In what way is ammonia transported in the blood",
+      "options": {
+        "A": "Arginine",
+        "B": "Urea",
+        "C": "ATP",
+        "D": "Glutamine",
+        "E": "Glycine"
+      },
+      "answer": "D",
+      "explanation": "Note that most peripheral tissues break down amino acids via transamination, deamination and formation of glutamine to transport the ammonium ions to the liver. The ammonium ion would be released to join the urea cycle afterwards.\nGlucose-alanine pathway is also possible.\nUrea is transported from the liver to the kidneys for excretion only. It is not the best answer."
+    },
+    "17-18 MEDU2600 Final Q56": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Some amino acid can increase blood glucose level because",
+      "options": {
+        "A": "They are essential amino acid",
+        "B": "They can be oxidized via TCA cycle",
+        "C": "They can undergo transamination",
+        "D": "Their carbon chain can be converted into acetyl CoA",
+        "E": "Their carbon skeleton can be converted into TCA cycle intermediate"
+      },
+      "answer": "E",
+      "explanation": "Some glucogenic amino acids can be converted into TCA cycle intermediates.\nOnly aspartate and alanine can undergo transamination. C is not correct."
+    },
+    "18-19 MEDU2600 Test Q56": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following is a coenzyme for transamination?",
+      "options": {
+        "A": "Folic acid",
+        "B": "NAD+",
+        "C": "Vitamin B6",
+        "D": "Vitamin B12",
+        "E": "Biotin"
+      },
+      "answer": "C",
+      "explanation": "Appreciate the functions of the other coenzymes:\nA. Can be converted into FH4\nB. Used in glycolysis, TCA cycle etc.\nC. Correct. For transamination\nD. May cause pernicious anemia in case of deficiency\nE. Used in gluconeogenesis, malonyl CoA synthesis and formation of succinyl-CoA from propionyl-CoA"
+    },
+    "18-19 MEDU2600 Final Q17": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following amino acid is used to synthesize the porphyrin ring in heme group",
+      "options": {
+        "A": "Histidine",
+        "B": "Glutamate",
+        "C": "Glycine",
+        "D": "Tryptophan",
+        "E": "Tyrosine"
+      },
+      "answer": "C",
+      "explanation": "Glycine + Succinyl-CoA → Porphyrin\nPorphyrin → Heme\nHeme + Globin → Hemoglobin\n*Study this question for carbohydrate metabolism, nitrogen metabolism and GI physiology!"
+    },
+    "18-19 MEDU2600 Final Q20": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Catecholamine is synthesized from",
+      "options": {
+        "A": "Alanine",
+        "B": "Histidine",
+        "C": "Serine",
+        "D": "Threonine",
+        "E": "Tyrosine"
+      },
+      "answer": "E",
+      "explanation": "Tyrosine can be used to synthesize epinephrine, norepinephrine, dopamine etc."
+    },
+    "19-20 MEDU2600 Final Q18": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Dopamine is a neurohormone in the brain. Its precursor is:",
+      "options": {
+        "A": "asparaginase",
+        "B": "tyrosine",
+        "C": "lysine",
+        "D": "tryptophan",
+        "E": "histidine"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q56": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following is a function of glutathione?",
+      "options": {
+        "A": "It helps to remove reactive oxygen species catalyzed by glutathione peroxidase",
+        "B": "It helps transport amino acids from cytosol to intestinal lumen",
+        "C": "It is involved in the transport of fatty acids",
+        "D": "It plays a role in the synthesis of NADPH",
+        "E": "It protects erythrocytes by oxidizing H2O2"
+      },
+      "answer": "A",
+      "explanation": "B from lumen to cytosol\nC amino acids\nD G6PD\nE oxidizing → reducing"
+    },
+    "20-21 MEDU2600 Sem1 Q57": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "What are the respective products for the aminotransferase-catalyzed reactions with substrate pyruvate and glutamate?",
+      "options": {
+        "A": "Alanine and a-ketoglutarate",
+        "B": "Alanine and OAA",
+        "C": "Aspartate and a-ketoglutarate",
+        "D": "Aspartate and OAA",
+        "E": "OAA and a-ketoglutarate"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q17": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following statements correctly describes glutathione?",
+      "options": {
+        "A": "It assists in the transportation of fatty acids from the intestinal lumen into the cytosol of enterocytes.",
+        "B": "It contains glutamine.",
+        "C": "it removes hydrogen peroxide.",
+        "D": "It is a dipeptide.",
+        "E": "It is an oxidant."
+      },
+      "answer": "C",
+      "explanation": "A. Assists amino acids\nB. Contains glycine, cysteine and glutamate\nC. Correct\nD. Tripeptide\nE. Anti-oxidant"
+    },
+    "21-22 MEDU2600 Test Q56": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following is correct about glutathione?",
+      "options": {
+        "A": "Moves fatty acid from lumen to cytosol of enterocytes",
+        "B": "It contains glutamine",
+        "C": "Reduces hydrogen peroxide",
+        "D": "Is a dipeptide",
+        "E": "Is an oxidant"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q19": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following amino acid is involved as a precursor in the biosynthesis of porphyrins?",
+      "options": {
+        "A": "Histamine",
+        "B": "Glutamate",
+        "C": "Glycine",
+        "D": "Tryptophan",
+        "E": "Tyrosine"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "22-23 MEDU2600 Test Q56": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Certain amino acids can increase the blood glucose concentration because:",
+      "options": {
+        "A": "They are essential amino acid",
+        "B": "They can be oxidized via TCA cycle",
+        "C": "They can undergo transamination",
+        "D": "Their carbon chain can be converted to Acetyl-CoA",
+        "E": "Their carbon skeleton can be converted to TCA cycle intermediates"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Nitrogen Q1": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following is a precursor of neurotransmitters?",
+      "options": {
+        "A": "Alanine",
+        "B": "Tryptophan",
+        "C": "Histidine",
+        "D": "Serine",
+        "E": "Glycine"
+      },
+      "answer": "B",
+      "explanation": "Tryptophan can be used to synthesize serotonin and melatonin."
+    },
+    "Extra MEDU2600 Nitrogen Q2": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "When proteins are converted to alanine in muscle…",
+      "options": {
+        "A": "two transamination reactions occurs",
+        "B": "oxidative deamination occurs",
+        "C": "the process involves the glutaminase",
+        "D": "the process is irreversible",
+        "E": "alpha-ketoglutarate is used as a substrate to generate alanine"
+      },
+      "answer": "A",
+      "explanation": "A. When muscle protein breaks down, they give amino acids. These amino acids undergo a transamination reaction by reacting with a-ketoglutarate to form glutamate. Glutamate is formed here. Pyruvate will react with the glutamate formed and give alanine. This is the second transamination reaction. (Please refer to lecture notes P. 29)\nB. other tissues\nC. in liver\nD. reversible\nE. it is the product"
+    },
+    "Extra MEDU2600 Nitrogen Q3": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following is NOT the function of amino acids?",
+      "options": {
+        "A": "synthesis of phospholipids",
+        "B": "to form glutathione to transport amino acid from cytosol to lumen",
+        "C": "synthesis of melanin",
+        "D": "nucleotide formation",
+        "E": "being a precursor of thyroxine"
+      },
+      "answer": "B",
+      "explanation": "B from lumen to cytosol"
+    },
+    "15-16 MEDU2600 Final Q41": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the reactions of the urea cycle take place in the mitochondria?",
+      "options": {
+        "A": "asparaginase",
+        "B": "CPS II",
+        "C": "argininosuccinate synthetase",
+        "D": "OCT",
+        "E": "arginase"
+      },
+      "answer": "D",
+      "explanation": "OCT = Ornithine Transcarbamoylase\nNote that citrulline is transported out to the cytosol to continue the reaction with aspartate, while the first 2 steps of the urea cycle take place in the mitochondria."
+    },
+    "16-17 MEDU2600 Test Q56": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Nitrogen in urea is directly derived from which of the following compounds?",
+      "options": {
+        "A": "Ornithine and carbamoyl phosphate",
+        "B": "Ornithine and aspartate",
+        "C": "Ornithine and alanine",
+        "D": "Carbamoyl phosphate and aspartate",
+        "E": "Carbamoyl phosphate and alanine"
+      },
+      "answer": "D",
+      "explanation": "Recall how carbamoyl phosphate is formed.\nHCO3- + NH4+ → carbamoyl phosphate\nThe NH4+ comes from the deamination reaction of glutamine in the liver."
+    },
+    "17-18 MEDU2600 Test Q57": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "A 2-years old girl was sent into the Accident and Emergency Unit with vomiting and convulsion. In her blood sample, there is an elevated level of arginine and ammonia. Which of the following enzyme is most probably defective?",
+      "options": {
+        "A": "Arginase",
+        "B": "Argininosuccinate synthetase",
+        "C": "Argininosuccinate lyase",
+        "D": "Ornithine Transcarbamoylase",
+        "E": "CPS I"
+      },
+      "answer": "A",
+      "explanation": "This is referred to as hyperargininemia.\nA warm reminder: make sure that you remember that the enzyme that FOLLOWS the substrate that has elevated levels is defective, not the one before."
+    },
+    "18-19 MEDU2600 Test Q57": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following is elevated in Type II Hyperammonemia?",
+      "options": {
+        "A": "Citrulline",
+        "B": "Arginosuccinate",
+        "C": "Guanine",
+        "D": "Arginine",
+        "E": "Uracil"
+      },
+      "answer": "E",
+      "explanation": "Uracil is a type of pyrimidine.\nIn hyperammonemia II, ornithine transcarbamoylase is defective. The level of carbamoyl phosphate is elevated, which will be used to undergo the de novo synthesis pathway of pyrimidines by reacting with aspartate and form orotate."
+    },
+    "19-20 MEDU2600 Final Q19": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "The level of which of the following would increase in patient with hyperammonemia II",
+      "options": {
+        "A": "plasmic guanine",
+        "B": "urine uracil",
+        "C": "plasmic citrulline",
+        "D": "plasmic arginine",
+        "E": "urine argininosuccinate"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q20": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "The nitrogens in urea are derived directly from which of the following compounds?",
+      "options": {
+        "A": "Carbamoyl phosphate and glutamine",
+        "B": "Ornithine and carbamoyl phosphate",
+        "C": "Ornithine and aspartate",
+        "D": "Ornithine and glutamate",
+        "E": "Carbamoyl phosphate and aspartate"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Test Q57": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following is elevated in plasma in an individual with carbamoyl phosphate synthetase I deficiency?",
+      "options": {
+        "A": "Ammonia",
+        "B": "Citrulline",
+        "C": "Arginine",
+        "D": "Argininosuccinate",
+        "E": "Pyrimidine nucleotides"
+      },
+      "answer": "A",
+      "explanation": "Basically, ammonia will be elevated in ALL urea cycle disorders. Make sure you know why ammonia is neurotoxic.\nBe careful, there is no CP produced for excess synthesis of pyrimidine nucleotides, so there will only be increased ammonia level."
+    },
+    "21-22 MEDU2600 Final Q16": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following enzymes in the urea cycle catalyze reactions in mitochondria?",
+      "options": {
+        "A": "arginase",
+        "B": "argininosuccinate synthetase",
+        "C": "asparaginase",
+        "D": "carbamoyl synthetase II",
+        "E": "ornithine transcarbamoylase"
+      },
+      "answer": "E",
+      "explanation": "Remember that only the first two steps of the urea cycle occur in mitochondria. Afterwards, citrulline:ornithine exchanger will pump out citrulline into cytosol, in exchange of ornithine formed from arginase reaction into mitochondrial matrix."
+    },
+    "22-23 MEDU2600 Test Q57": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Citrullinemia is due to the deficiency of:",
+      "options": {
+        "A": "Arginase",
+        "B": "Argininosuccinase",
+        "C": "Argininosuccinate synthetase",
+        "D": "CPS1",
+        "E": "Ornithine transcarbamoylase"
+      },
+      "answer": "C",
+      "explanation": "Argininosuccinate synthetase catalyzes the conversion of citrulline and aspartate into argininosuccinate."
+    },
+    "Extra MEDU2600 Nitrogen Q4": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Urea cycle and TCA cycle are closely associated. What of the following statements is CORRECT?",
+      "options": {
+        "A": "Fumarate generated from the breakdown reaction catalyzed by argininosuccinate lyase enters the TCA cycle directly",
+        "B": "Both cycles involves reactions that occur in the mitochondrial matrix",
+        "C": "glutamate is deaminated to alpha-ketoglutarate, which is the precursor of urea cycle",
+        "D": "Urea cycle do not require ATP supply",
+        "E": "alpha-ketoglutarate can be reduced to be succinyl-CoA in TCA cycle"
+      },
+      "answer": "B",
+      "explanation": "A converted to malate first (IMPORTANT)\nB correct\nC ammonia and bicarbonate ion are the precursors\nD urea requires ATP supply (E.g. carbamoyl phosphate synthetase I, argininosuccinate synthetase)\nE oxidised"
+    },
+    "Extra MEDU2600 Nitrogen Q5": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following enzymes can be used to treat childhood acute lymphocytic leukemia?",
+      "options": {
+        "A": "aginase",
+        "B": "argininosuccinate synthethase",
+        "C": "argininosuccinate lyase",
+        "D": "asparginase",
+        "E": "OCT"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Nitrogen Q6": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "What consequences could urea cycle disorders bring about ?\n\nI inhibition of transmission of nerve signals\nII brain swelling\nIII lethargy\nIV jaundice",
+      "options": {
+        "A": "I, II",
+        "B": "I, II, III",
+        "C": "I, II, III, IV",
+        "D": "II, III",
+        "E": "II, III, IV"
+      },
+      "answer": "B",
+      "explanation": "Higher [NH3] > shift to glutamate side > more glutamate irreversibly converted to glutamine > less glutamate > Less neurotransmitters (GABA)"
+    },
+    "14-15 MEDU2600 Final Q48": {
+      "year": "2014-15",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "What enzyme deficiency can be the cause of gout?",
+      "options": {
+        "A": "PRPP synthetase",
+        "B": "carbonyl phosphate synthetase I",
+        "C": "carbonyl phosphate synthetase II",
+        "D": "Glucose 6 phosphatase",
+        "E": "Glutathione reductase"
+      },
+      "answer": "D",
+      "explanation": "There are 4 possible enzyme defects that may lead to hyperammonemia, which may further lead to gout:\n1. PRPP synthetase\n2. HGPRT\n3. Glutathione reductase\n4. Glucose 6-phosphatase"
+    },
+    "15-16 MEDU2600 Final Q52": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which is observed in hyperammonemia type II?",
+      "options": {
+        "A": "high plasma citrulline",
+        "B": "High urine uracil",
+        "C": "High plasma arginine",
+        "D": "High urine argininosuccinate",
+        "E": "High plasma guanine"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Test Q59": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following enzyme deficiencies can cause gout?",
+      "options": {
+        "A": "PRPP synthetase",
+        "B": "Glucose-6-phosphatase",
+        "C": "Glutamine-PRPP amidotransferase",
+        "D": "Glucose-6-phosphate dehydrogenase",
+        "E": "Guanine deaminase"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q18": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "What is the first purine formed in purine de novo synthesis?",
+      "options": {
+        "A": "GMP",
+        "B": "CMP",
+        "C": "AMP",
+        "D": "IMP",
+        "E": "OMP"
+      },
+      "answer": "D",
+      "explanation": "The 3 steps involved in purine de novo synthesis are:\n1. Ribose 5-phosphate → PRPP\n2. PRPP → IMP\n3. IMP → AMP/ GMP"
+    },
+    "17-18 MEDU2600 Test Q55": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following is true about the regulation of purine biosynthesis?",
+      "options": {
+        "A": "AMP is a substrate in PRPP synthesis",
+        "B": "GMP is a substrate in CTP synthesis",
+        "C": "GMP is a substrate in PRPP synthesis",
+        "D": "GTP is a substrate in AMP synthesis",
+        "E": "IMP is a substrate in PRPP synthesis"
+      },
+      "answer": "D",
+      "explanation": "This is an illustration of reciprocal inhibition."
+    },
+    "17-18 MEDU2600 Final Q18": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following about Xanthine is true?",
+      "options": {
+        "A": "It binds with allopurinol by covalent bond",
+        "B": "it is a direct precursor of guanine",
+        "C": "It is a substrate rather than a product of xanthine oxidase",
+        "D": "It oxidizes to form hypoxanthine",
+        "E": "It Oxidizes to form uric acid"
+      },
+      "answer": "E",
+      "explanation": "Allopurinol is a suicidal inhibitor that competes for xanthine oxidase with hypoxanthine. It is structurally similar to xanthine and hypoxanthine.\nNote that xanthine oxidase is able to catalyze 2 different reactions!\n1. Hypoxanthine → Xanthine (oxidation)\n2. Xanthine → Uric Acid (oxidation)\nThus, it can be a substrate as well as a product of xanthine oxidase. (C is wrong!)"
+    },
+    "18-19 MEDU2600 Final Q18": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "If allopurinol was given to a patient with gout, which purines will be found in his/her urine?",
+      "options": {
+        "A": "Xanthine and hypoxanthine",
+        "B": "Xanthine and guanine",
+        "C": "Xanthine and adenine",
+        "D": "Guanine and adenine",
+        "E": "Guanine and hypoxanthine"
+      },
+      "answer": "A",
+      "explanation": "Note that allopurinol has a similar structure to hypoxanthine and xanthine, so that it binds permanently with xanthine oxidase to form oxypurinol (bind tightly with the enzyme) instead of forming uric acid that forms crystals in joints.\nGuanine is not found as it is converted to xanthine. This reaction is not inhibited by allopurinol."
+    },
+    "20-21 MEDU2600 Sem1 Q58": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Use of allopurinol in treatment of gout leads to elevated levels of what in urine?",
+      "options": {
+        "A": "adenine and guanine",
+        "B": "hypoxanthine and guanine",
+        "C": "hypoxanthine and xanthine",
+        "D": "urate and guanine",
+        "E": "urate and xanthine"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q18": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following statements correctly describes xanthine?",
+      "options": {
+        "A": "It covalently bonds to allopurinol.",
+        "B": "It is a direct precursor of guanine.",
+        "C": "It is a substrate, rather than a product, of xanthine oxidase.",
+        "D": "It is oxidized to give hypoxanthine.",
+        "E": "It is oxidized to give uric acid."
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q17": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "The pathways for the synthesis of pyrimidines and urea both required:",
+      "options": {
+        "A": "Acetate.",
+        "B": "Carbamoyl phosphate.",
+        "C": "Pyruvate.",
+        "D": "Tetrahydrofolate.",
+        "E": "Vitamin B12."
+      },
+      "answer": "B",
+      "explanation": "However, keep in mind they occur in different places. CP in urea cycle is formed within the mitochondrial matrix by mitochondrial CPS I, using ammonia/ammonium and bicarbonate as substrates. On the contrary, CP in pyrimidine synthesis is formed in cytosol by cytosolic CPS II, using glutamine and bicarbonate as substrates. This is because CPS II also has active sites for hydrolysis of glutamine into glutamate and ammonium, which is immediately reacted with bicarbonate and ATP."
+    },
+    "22-23 MEDU2600 Test Q58": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Gout is caused by reduced activity of:",
+      "options": {
+        "A": "Glutamine phosphoribosyl amidotransferase",
+        "B": "Glucose 6-phosphatase",
+        "C": "G6PD",
+        "D": "PRPP synthetase",
+        "E": "Purine nucleoside phosphorylase"
+      },
+      "answer": "B",
+      "explanation": "A catalyzes the rate-limiting step of de novo purine synthesis. Its underactivity will thus reduce purine degradation and prevent gout. E catalyzes the conversion of purine nucleoside (Purine + ribose) into free purine base and ribose 1-phosphate. Its underactivity will then impair the degradation of purine nucleotides into purine base, hence less of them will be converted into xanthine and uric acid. Remember that xanthine oxidase can only act on free bases like guanine and hypoxanthine."
+    },
+    "Extra MEDU2600 Nitrogen Q7": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following amino acids are involved in producing the first purine in de novo synthesis of purine nucleotides?\nI glycine\nII glutamine\nIII aspartate\nIV tyrosine",
+      "options": {
+        "A": "I, II",
+        "B": "I, III",
+        "C": "I, II, III",
+        "D": "II, IV",
+        "E": "I, II, IV"
+      },
+      "answer": "C",
+      "explanation": "First purine formed = inosinate (IMP)"
+    },
+    "Extra MEDU2600 Nitrogen Q8": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following are correct concerning the use of allopurinol in treatment of gout?",
+      "options": {
+        "A": "It is structurally similar to guanine and hypoxanthine",
+        "B": "It can inhibit xanthine oxidation",
+        "C": "It can be recycled for continuous inhibition",
+        "D": "It can disrupt the structures of Uric acid",
+        "E": "It can increase excretion of uric acid through urine"
+      },
+      "answer": "B",
+      "explanation": "A xanthine and hypoxanthine\nB Correct\nC suicidal inhibitor: irreversibly bind with xanthine to form oxypurinol\nD cannot\nE It reduces the production of uric acid"
+    },
+    "Extra MEDU2600 Nitrogen Q9": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "...… could elevate the plasma uric acid level.",
+      "options": {
+        "A": "Antidiuretics",
+        "B": "Deficiency in glutathione reductase",
+        "C": "Binge-eating of potato chips",
+        "D": "Deficiency of glucose 6-phosphate dehydrogenase",
+        "E": "Deficiency of Hypoxanthine-guanine phosphoribosyl transferase (HGPRT)"
+      },
+      "answer": "E",
+      "explanation": "A should be “diuretics” > increase water excretion > increase [UA]\nB should be “hyperactive glutathione reductase” > reduced more glutathione and more NADPH consumed > PPP to generate NADPH > more ribose 5-phosphate > more PRPP > increase [UA]\nC should be “binge-eating of purine-rich food” (meat, internal organs, seafood)\nD X G6PD > X PPP > X ribose 5-phosphate > X PRPP > decrease [UA]\nE X HGPRT > X salvage pathways > PRPP accumulation > purine degradation > increase [UA]"
+    },
+    "16-17 MEDU2600 Test Q57": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Patient has elevated phenylalanine and phenylpyruvate, which enzyme is defective?",
+      "options": {
+        "A": "Phenylalanine dehydrogenase",
+        "B": "Phenylalanine oxidase",
+        "C": "Dihydropteridine reductase",
+        "D": "Tyrosine kinase",
+        "E": "Tetrahydrofolate oxidase"
+      },
+      "answer": "C",
+      "explanation": "For phenylketonuria (PKU), either phenylalanine hydroxylase or dihydropteridine reductase is deficient."
+    },
+    "16-17 MEDU2600 Final Q19": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "A baby was diagnosed with PKU. Which of the amino acid supplements can prevent a negative nitrogen balance?",
+      "options": {
+        "A": "Serine",
+        "B": "Glycine",
+        "C": "Tyrosine",
+        "D": "Cysteine",
+        "E": "Alanine"
+      },
+      "answer": "C",
+      "explanation": "Note: Option E is a made-up option."
+    },
+    "17-18 MEDU2600 Test Q58": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which enzyme cause defect of metabolism of phenylalanine",
+      "options": {
+        "A": "dihydropyridine reductase",
+        "B": "Dihydropteridine oxidase",
+        "C": "phenylalanine dehydrogenase",
+        "D": "phenylalanine hydroxylase",
+        "E": "phenylalanine hydrase"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q19": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "A patient with milky white skin, white hair and red iris. Which enzyme is in deficiency?",
+      "options": {
+        "A": "Asparaginase",
+        "B": "Arginase",
+        "C": "Phenylalanine hydroxylase",
+        "D": "Dihydropteridine reductase",
+        "E": "Tyrosinase"
+      },
+      "answer": "E",
+      "explanation": "Note: Option D is a made-up option."
+    },
+    "18-19 MEDU2600 Test Q58": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "A female infant is found to have high phenylalanine in the blood, which of the following enzyme is defective?",
+      "options": {
+        "A": "Dihydropteridine reductase",
+        "B": "Phenylalanine dehydrogenase",
+        "C": "Phenylalanine oxidase",
+        "D": "Tetrahydrofolate reductase",
+        "E": "Phenylalanine reductase"
+      },
+      "answer": "A",
+      "explanation": "Note: Option E is a made-up option."
+    },
+    "18-19 MEDU2600 Final Q19": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "For patient with PKU, there will be",
+      "options": {
+        "A": "increase in tyrosine in urine",
+        "B": "hypo-pigmentation",
+        "C": "increase in production of catecholamines",
+        "D": "decrease phenylalanine concentration in blood",
+        "E": "self mutilation"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q19": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Phenylketonuria is a genetic defect caused by the deficiency of:",
+      "options": {
+        "A": "Dihydropteridine dehydrogenase",
+        "B": "Dihydropteridine oxidase",
+        "C": "Phenylalanine dehydrogenase",
+        "D": "Phenylalanine hydroxylase",
+        "E": "Tetrahydropteridine reductase"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Test Q58": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following metabolic pathways is impaired in an affected individual of Lesch-Nyhan Syndrome?",
+      "options": {
+        "A": "Urea cycle",
+        "B": "Purine salvage pathway",
+        "C": "Pyrimidine salvage pathway",
+        "D": "Purine de novo synthesis",
+        "E": "Pyrimidine de novo synthesis"
+      },
+      "answer": "B",
+      "explanation": "Lesch-Nyhan syndrome features nearly complete deficiency of HGPRT, such that the purine salvage pathway is completely abolished and causes accumulation of urate."
+    },
+    "21-22 MEDU2600 Final Q18": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "A newborn infant has elevated levels of phenylalanine and phenylpyruvate in her blood. Which of the following enzymes might be deficient in this baby?",
+      "options": {
+        "A": "Dihydropteridine reductase",
+        "B": "Phenylalanine dehydrogenase",
+        "C": "Phenylalanine oxidase",
+        "D": "Tetrahydrofolate synthase",
+        "E": "Tyrosine hydroxylase"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Nitrogen Q10": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following dietary advice should NOT be taken into consideration for a patient with deficiency in phenylalanine hydroxylase?",
+      "options": {
+        "A": "take supplement tyrosine",
+        "B": "take low phenylalanine diet",
+        "C": "supplement diet with L-DOPA & 5-hydroxy-tryptophan",
+        "D": "avoid drinking soft drinks",
+        "E": "addition of biopterin (BH4) to diet"
+      },
+      "answer": "E",
+      "explanation": "Only for patients with dihydropteridine reductase deficiency"
+    },
+    "Extra MEDU2600 Nitrogen Q11": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following could be the adverse consequences for Hartnup’s disease ?",
+      "options": {
+        "A": "self-mutilation",
+        "B": "hypopigmentation",
+        "C": "mousey odour given out from urine",
+        "D": "reduced production of ribose 5-phosphate for nucleotide synthesis",
+        "E": "hyperuricemia due to increased oxidative deamination of glutamate"
+      },
+      "answer": "D",
+      "explanation": "A LNS\nB Albinism and PKU\nC PKU\nD less tryptophan > less niacin > less NADP > less ribose 5-P from PPP\nE less tryptophan > less niacin > less NAD (oxidising agent of glutamate in oxidative deamination) > \"decreased\""
+    },
+    "Extra MEDU2600 Nitrogen Q12": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which of the following statements are correct about tyrosine?\nI It is both glucogenic and ketogenic\nII It could be a precursor of neurotransmitters\nIII It could be a precursor of phospholipids\nIV It could be converted to become Triiodothyronine, a thyroid hormone",
+      "options": {
+        "A": "I II",
+        "B": "II IV",
+        "C": "II III",
+        "D": "I II IV",
+        "E": "all of the above"
+      },
+      "answer": "D",
+      "explanation": "I Tyrosine (and phenylalanine) can be converted into fumarate or acetoacetate, which are either intermediates for gluconeogenesis or ketogenesis\nII Tyrosine can be used for synthesis of serotonin or melatonin\nIII serine\nIV Correct"
+    },
+    "Extra MEDU2600 Nitrogen Q13": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Nitrogen",
+      "question": "Which if the following metabolic pathways take place in both cytosol and mitochondria?",
+      "options": {
+        "A": "Glycolysis and TCA",
+        "B": "Glycolysis and PPP",
+        "C": "Urea cycle and TCA",
+        "D": "Urea cycle and gluconeogenesis",
+        "E": "Urea cycle and PPP"
+      },
+      "answer": "D",
+      "explanation": "Note that pyruvate carboxylase is found only in the mitochondria of the liver."
     }
   }
 }
