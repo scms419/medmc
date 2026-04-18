@@ -2009,6 +2009,21 @@
       },
       "MEDU2300 Human Structure I": {
         "byYear": {
+          "2013-14": [
+            "13-14 MEDU2300 Test Q1",
+            "13-14 MEDU2300 Test Q4",
+            "13-14 MEDU2300 Test Q6",
+            "13-14 MEDU2300 Test Q3",
+            "13-14 MEDU2300 Test Q5",
+            "13-14 MEDU2300 Test Q10"
+          ],
+          "2014-15": [
+            "14-15 MEDU2300 Test Q3",
+            "14-15 MEDU2300 Test Q5",
+            "14-15 MEDU2300 Test Q15",
+            "14-15 MEDU2300 Test Q4",
+            "14-15 MEDU2300 Test Q13"
+          ],
           "2015-16": [
             "15-16 MEDU2300 Test Q2",
             "15-16 MEDU2300 Test Q9",
@@ -2024,7 +2039,16 @@
             "15-16 MEDU2300 Final Q4",
             "15-16 MEDU2300 Final Q7",
             "15-16 MEDU2300 Final Q8",
-            "15-16 MEDU2300 Final Q11"
+            "15-16 MEDU2300 Final Q11",
+            "15-16 MEDU2300 Test Q19",
+            "15-16 MEDU2300 Test Q18",
+            "15-16 MEDU2300 Final Q12",
+            "15-16 MEDU2300 Final Q14",
+            "15-16 MEDU2300 Test Q1",
+            "15-16 MEDU2300 Test Q3",
+            "15-16 MEDU2300 Test Q5",
+            "15-16 MEDU2300 Final Q15",
+            "15-16 MEDU2300 Final Q31"
           ],
           "2016-17": [
             "16-17 MEDU2300 Test Q2",
@@ -2043,7 +2067,19 @@
             "16-17 MEDU2300 Test Q3",
             "16-17 MEDU2300 Final Q8",
             "16-17 MEDU2300 Final Q9",
-            "16-17 MEDU2300 Final Q10"
+            "16-17 MEDU2300 Final Q10",
+            "16-17 MEDU2300 Test Q7",
+            "16-17 MEDU2300 Final Q14",
+            "16-17 MEDU2300 Final Q13",
+            "16-17 MEDU2300 Final Q16",
+            "16-17 MEDU2300 Test Q8",
+            "16-17 MEDU2300 Test Q9",
+            "16-17 MEDU2300 Test Q10",
+            "16-17 MEDU2300 Test Q11",
+            "16-17 MEDU2300 Final Q12",
+            "16-17 MEDU2300 Final Q15",
+            "16-17 MEDU2300 Final Q17",
+            "16-17 MEDU2300 Final Q18"
           ],
           "2017-18": [
             "17-18 MEDU2300 Test Q1",
@@ -2056,7 +2092,17 @@
             "17-18 MEDU2300 Final Q4",
             "17-18 MEDU2300 Test Q6",
             "17-18 MEDU2300 Test Q7",
-            "17-18 MEDU2300 Test Q13"
+            "17-18 MEDU2300 Test Q13",
+            "17-18 MEDU2300 Test Q20",
+            "17-18 MEDU2300 Final Q11",
+            "17-18 MEDU2300 Final Q17",
+            "17-18 MEDU2300 Final Q32",
+            "17-18 MEDU2300 Test Q8",
+            "17-18 MEDU2300 Final Q9",
+            "17-18 MEDU2300 Test Q12",
+            "17-18 MEDU2300 Test Q10",
+            "17-18 MEDU2300 Test Q11",
+            "17-18 MEDU2300 Test Q19"
           ],
           "2018-19": [
             "18-19 MEDU2300 Test Q1",
@@ -2067,7 +2113,14 @@
             "18-19 MEDU2300 Test Q5",
             "18-19 MEDU2300 Test Q6",
             "18-19 MEDU2300 Final Q2",
-            "18-19 MEDU2300 Final Q4"
+            "18-19 MEDU2300 Final Q4",
+            "18-19 MEDU2300 Final Q9",
+            "18-19 MEDU2300 Final Q10",
+            "18-19 MEDU2300 Test Q8",
+            "18-19 MEDU2300 Test Q9",
+            "18-19 MEDU2300 Test Q10",
+            "18-19 MEDU2300 Test Q11",
+            "18-19 MEDU2300 Final Q12"
           ],
           "2019-20": [
             "19-20 MEDU2300 Test Q1",
@@ -2077,7 +2130,14 @@
             "19-20 MEDU2300 Final Q3",
             "19-20 MEDU2300 Final Q4",
             "19-20 MEDU2300 Final Q5",
-            "19-20 MEDU2300 Final Q6"
+            "19-20 MEDU2300 Final Q6",
+            "19-20 MEDU2300 Final Q9",
+            "19-20 MEDU2300 Final Q8",
+            "19-20 MEDU2300 Final Q7",
+            "19-20 MEDU2300 Final Q12",
+            "19-20 MEDU2300 Final Q13",
+            "19-20 MEDU2300 Final Q14",
+            "19-20 MEDU2300 Final Q17"
           ],
           "2020-21": [
             "20-21 MEDU2300 Test Q1",
@@ -2090,7 +2150,12 @@
             "20-21 MEDU2300 Test Q5",
             "20-21 MEDU2300 Final Q5",
             "20-21 MEDU2300 Final Q6",
-            "20-21 MEDU2300 Final Q7"
+            "20-21 MEDU2300 Final Q7",
+            "20-21 MEDU2300 Final Q9",
+            "20-21 MEDU2300 Sem1 Q8",
+            "20-21 MEDU2300 Final Q11",
+            "20-21 MEDU2300 Sem1 Q9",
+            "20-21 MEDU2300 Sem1 Q7"
           ],
           "2021-22": [
             "21-22 MEDU2300 Test Q1",
@@ -2105,7 +2170,21 @@
             "21-22 MEDU2300 Test Q6",
             "21-22 MEDU2300 Final Q5",
             "21-22 MEDU2300 Final Q6",
-            "21-22 MEDU2300 Final Q7"
+            "21-22 MEDU2300 Final Q7",
+            "21-22 MEDU2300 Final Q8",
+            "21-22 MEDU2300 Final Q9",
+            "21-22 MEDU2300 Final Q17",
+            "21-22 MEDU2300 Test Q8",
+            "21-22 MEDU2300 Final Q19",
+            "21-22 MEDU2300 Final Q16",
+            "21-22 MEDU2300 Final Q18",
+            "21-22 MEDU2300 Test Q7",
+            "21-22 MEDU2300 Test Q10",
+            "21-22 MEDU2300 Test Q11",
+            "21-22 MEDU2300 Final Q10",
+            "21-22 MEDU2300 Final Q13",
+            "21-22 MEDU2300 Final Q14",
+            "21-22 MEDU2300 Final Q15"
           ],
           "2022-23": [
             "22-23 MEDU2300 Test Q1",
@@ -2114,7 +2193,13 @@
             "22-23 MEDU2300 Test Q4",
             "22-23 MEDU2300 Test Q20",
             "22-23 MEDU2300 Test Q5",
-            "22-23 MEDU2300 Test Q6"
+            "22-23 MEDU2300 Test Q6",
+            "22-23 MEDU2300 Test Q7",
+            "22-23 MEDU2300 Test Q11",
+            "22-23 MEDU2300 Test Q9",
+            "22-23 MEDU2300 Test Q8",
+            "22-23 MEDU2300 Test Q10",
+            "22-23 MEDU2300 Test Q13"
           ],
           "unclassified": [
             "FA MEDU2300 Thorax Q1",
@@ -2138,10 +2223,107 @@
             "FA MEDU2300 Thorax Q18",
             "FA MEDU2300 Thorax Q19",
             "FA MEDU2300 Thorax Q20",
-            "Extra MEDU2300 Thorax Q2"
+            "Extra MEDU2300 Thorax Q2",
+            "Extra MEDU2300 Abdomen Q1",
+            "Extra MEDU2300 Abdomen Q2",
+            "Extra MEDU2300 Abdomen Q3",
+            "Extra MEDU2300 Abdomen Q4",
+            "Extra MEDU2300 Abdomen Q5",
+            "Extra MEDU2300 Abdomen Q6",
+            "Extra MEDU2300 Abdomen Q7"
           ]
         },
         "byTopic": {
+          "Abdomen": [
+            "13-14 MEDU2300 Test Q1",
+            "14-15 MEDU2300 Test Q3",
+            "14-15 MEDU2300 Test Q5",
+            "15-16 MEDU2300 Test Q19",
+            "17-18 MEDU2300 Test Q20",
+            "17-18 MEDU2300 Final Q11",
+            "17-18 MEDU2300 Final Q17",
+            "17-18 MEDU2300 Final Q32",
+            "Extra MEDU2300 Abdomen Q1",
+            "20-21 MEDU2300 Final Q9",
+            "21-22 MEDU2300 Final Q8",
+            "21-22 MEDU2300 Final Q9",
+            "21-22 MEDU2300 Final Q17",
+            "22-23 MEDU2300 Test Q7",
+            "13-14 MEDU2300 Test Q4",
+            "14-15 MEDU2300 Test Q15",
+            "15-16 MEDU2300 Test Q18",
+            "15-16 MEDU2300 Final Q12",
+            "16-17 MEDU2300 Test Q7",
+            "19-20 MEDU2300 Final Q9",
+            "22-23 MEDU2300 Test Q11",
+            "Extra MEDU2300 Abdomen Q2",
+            "13-14 MEDU2300 Test Q6",
+            "15-16 MEDU2300 Final Q14",
+            "16-17 MEDU2300 Final Q14",
+            "17-18 MEDU2300 Test Q8",
+            "17-18 MEDU2300 Final Q9",
+            "18-19 MEDU2300 Final Q9",
+            "18-19 MEDU2300 Final Q10",
+            "19-20 MEDU2300 Final Q8",
+            "20-21 MEDU2300 Sem1 Q8",
+            "20-21 MEDU2300 Final Q11",
+            "21-22 MEDU2300 Test Q8",
+            "21-22 MEDU2300 Final Q19",
+            "22-23 MEDU2300 Test Q9",
+            "13-14 MEDU2300 Test Q3",
+            "16-17 MEDU2300 Final Q13",
+            "16-17 MEDU2300 Final Q16",
+            "17-18 MEDU2300 Test Q12",
+            "18-19 MEDU2300 Test Q8",
+            "18-19 MEDU2300 Test Q9",
+            "19-20 MEDU2300 Final Q7",
+            "20-21 MEDU2300 Sem1 Q9",
+            "21-22 MEDU2300 Final Q16",
+            "21-22 MEDU2300 Final Q18",
+            "22-23 MEDU2300 Test Q8",
+            "Extra MEDU2300 Abdomen Q3",
+            "Extra MEDU2300 Abdomen Q4",
+            "13-14 MEDU2300 Test Q5",
+            "13-14 MEDU2300 Test Q10",
+            "14-15 MEDU2300 Test Q4",
+            "14-15 MEDU2300 Test Q13",
+            "15-16 MEDU2300 Test Q1",
+            "15-16 MEDU2300 Test Q3",
+            "15-16 MEDU2300 Test Q5",
+            "15-16 MEDU2300 Final Q15",
+            "15-16 MEDU2300 Final Q31",
+            "16-17 MEDU2300 Test Q8",
+            "16-17 MEDU2300 Test Q9",
+            "16-17 MEDU2300 Test Q10",
+            "16-17 MEDU2300 Test Q11",
+            "16-17 MEDU2300 Final Q12",
+            "16-17 MEDU2300 Final Q15",
+            "16-17 MEDU2300 Final Q17",
+            "16-17 MEDU2300 Final Q18",
+            "17-18 MEDU2300 Test Q10",
+            "17-18 MEDU2300 Test Q11",
+            "17-18 MEDU2300 Test Q19",
+            "18-19 MEDU2300 Test Q10",
+            "18-19 MEDU2300 Test Q11",
+            "18-19 MEDU2300 Final Q12",
+            "19-20 MEDU2300 Final Q12",
+            "19-20 MEDU2300 Final Q13",
+            "19-20 MEDU2300 Final Q14",
+            "19-20 MEDU2300 Final Q17",
+            "20-21 MEDU2300 Sem1 Q7",
+            "21-22 MEDU2300 Test Q7",
+            "21-22 MEDU2300 Test Q10",
+            "21-22 MEDU2300 Test Q11",
+            "21-22 MEDU2300 Final Q10",
+            "21-22 MEDU2300 Final Q13",
+            "21-22 MEDU2300 Final Q14",
+            "21-22 MEDU2300 Final Q15",
+            "22-23 MEDU2300 Test Q10",
+            "22-23 MEDU2300 Test Q13",
+            "Extra MEDU2300 Abdomen Q5",
+            "Extra MEDU2300 Abdomen Q6",
+            "Extra MEDU2300 Abdomen Q7"
+          ],
           "Thorax": [
             "15-16 MEDU2300 Test Q2",
             "15-16 MEDU2300 Test Q9",
@@ -15389,17 +15571,17 @@
       "course": "MEDU2300 Human Structure I",
       "question_number": 9,
       "level": "Year 2",
-      "topic": "Thorax",
+      "topic": "Abdomen",
       "question": "With reference to the rotation of the foregut along the longitudinal axis, which is the orientation of the left vagus nerve in relation to the esophagus?",
       "options": {
         "A": "anterior to esophagus",
         "B": "posterior to esophagus",
-        "C": "inside the oesophageal lumen",
+        "C": "inside the esophageal lumen",
         "D": "on the left lateral side of esophagus",
         "E": "on the right lateral side of esophagus"
       },
       "answer": "A",
-      "explanation": "Learn it from Paul Lai, \"Google it!\"\nJust kidding. This will be covered in the anatomy of the abdomen / GI embryology."
+      "explanation": ""
     },
     "16-17 MEDU2300 Final Q2": {
       "year": "2016-17",
@@ -19703,6 +19885,1469 @@
       },
       "answer": "D",
       "explanation": "Note that pyruvate carboxylase is found only in the mitochondria of the liver."
+    },
+    "13-14 MEDU2300 Test Q1": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following structure(s) does/do cross the transpyloric plane?",
+      "options": {
+        "A": "Coeliac trunk",
+        "B": "Hila of the kidneys",
+        "C": "Superior mesenteric artery",
+        "D": "Duodenum",
+        "E": "Crura of the diaphragm"
+      },
+      "answer": "B",
+      "explanation": "Due to the wording “does/do” I think this might be a genuine “multiple-choice” question. It seems that only A is not present on the transpyloric plane. (You may argue that SMA and duodenum do not “cross” the transpyloric plane though)\n\nTranspyloric plane can be determined by finding the midpoint between the jugular notch and pubic tubercle, or the midpoint between xiphoid process and umbilicus.\n\nL1: Transpyloric plane\nL3: Subcostal plane\nL4: Supracristal plane\nL5: Intertubercular plane (pass through iliac tubercle)"
+    },
+    "14-15 MEDU2300 Test Q3": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "What is the level of the celiac trunk?",
+      "options": {
+        "A": "T10",
+        "B": "T11",
+        "C": "T12",
+        "D": "L1/L2",
+        "E": "L3"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "14-15 MEDU2300 Test Q5": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "In a transverse CT showing the lung bases, which of the following cannot be seen?",
+      "options": {
+        "A": "stomach",
+        "B": "transverse colon",
+        "C": "liver",
+        "D": "crus of diaphragm"
+      },
+      "answer": "B",
+      "explanation": "Base of lung refers to the 6-8-10 rule, that is,\n- 6th rib at midclavicular line,\n- 8th rib at midaxillary line, and\n- T10 at the back.\nLiver and stomach are immediately below the right and left hemidiaphragms and can should be seen in the CT. Transverse colon is too low to be seen in this setting.\n\n![](img/14-15_MEDU2300_Test_Q5_1776526271271.png)"
+    },
+    "15-16 MEDU2300 Test Q19": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following statements concerning the abdominal contents is INCORRECT?",
+      "options": {
+        "A": "The inferior mesenteric artery is referred to as the artery of the midgut.",
+        "B": "The first part of the duodenum is not retroperitoneal.",
+        "C": "The tail of the pancreas has a relationship to the spleen.",
+        "D": "Fatty tags on the surface of the large intestine are referred to as appendices epiploicae.",
+        "E": "The splenic artery arises from the celiac trunk."
+      },
+      "answer": "A",
+      "explanation": "IMA supplies the hindgut.\nOnly the first 1/8 and last 1/8 of the duodenum is intraperitoneal, while the remaining parts are retroperitoneal and are fixed to the posterior abdominal wall."
+    },
+    "17-18 MEDU2300 Test Q20": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the development of the gut is correct? (Choose all that apply, separate the answer with a single comma followed by a space character)\n\nA. Esophagus partially supplied by the superior mesenteric artery\nB. Pancreas partially derived from hindgut\nC. Ascending colon derived from midgut\nD. Appendix derived from midgut\nE. Derivatives of the midgut supplied by superior mesenteric artery and its branches",
+      "options": {},
+      "answer": "C, D, E",
+      "explanation": "A. Left gastric artery from celiac trunk\nB. Pancreas develops from foregut"
+    },
+    "17-18 MEDU2300 Final Q11": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is correct about the superior mesenteric artery?",
+      "options": {
+        "A": "Behind first part of duodenum",
+        "B": "Anterior to left renal vein",
+        "C": "Above splenic vein",
+        "D": "Located to the right of superior mesenteric vein",
+        "E": "Supply small intestine only"
+      },
+      "answer": "B",
+      "explanation": "[VERY IMPORTANT!]\nA. behind the neck of pancreas\nB-C. SMA arises anterior to abdominal aorta; IVC to the right of abdominal aorta; so left renal vein cross anterior to aorta and posterior to SMA; SMA crosses below splenic, above left renal vein; crosses posterior to splenic, anterior to left renal veins"
+    },
+    "17-18 MEDU2300 Final Q17": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following best describes the anatomy of the abdominal aorta?",
+      "options": {
+        "A": "The aorta bifurcates into left and right external iliac arteries.",
+        "B": "The aorta is related to the anterior aspect of the thoracic vertebrae.",
+        "C": "The aorta is on the right of the inferior vena cava.",
+        "D": "The aorta is over the right of the midline in the abdomen.",
+        "E": "The aorta bifurcates at the level of the fourth lumbar vertebra."
+      },
+      "answer": "E",
+      "explanation": "A. common iliac arteries\nB. to the left of thoracic vertebrae\nC. to the left\nD. exactly on the midline, anterior to lumbar vertebrae"
+    },
+    "17-18 MEDU2300 Final Q32": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "To collect cerebrospinal fluid, which puncture should be made best?",
+      "options": {
+        "A": "C6/C7",
+        "B": "L1/L2",
+        "C": "L4/L5",
+        "D": "S1/S2",
+        "E": "S4/S5"
+      },
+      "answer": "C",
+      "explanation": "Refer to P.19 of [Surface anatomy of abdomen]\nThe most common way is using the lumbar puncture.\nAt the L4/L5 level (supracristal plane), we can insert a needle to collect CSF.\nThis is a good spot since the highest point of the iliac crest can be located easily.\nThat is also a site for anesthesia for surgery of the lower body."
+    },
+    "Extra MEDU2300 Abdomen Q1": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following structure cannot be found in the transpyloric plane?",
+      "options": {
+        "A": "Hilum of left kidney",
+        "B": "Pylorus of stomach",
+        "C": "Cisterna chyli",
+        "D": "Hilum of spleen",
+        "E": "Origin of celiac trunk"
+      },
+      "answer": "E",
+      "explanation": "Celiac trunk is located at the T12 vertebrae.\nCisterna chyli can be found on L1 / L2."
+    },
+    "20-21 MEDU2300 Final Q9": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Gastrointestinal embryonic development, what is true",
+      "options": {
+        "A": "Midgut rotation first 90 degree at week 6",
+        "B": "Midgut rotation completes at week 16"
+      },
+      "answer": "A",
+      "explanation": "A is correct. B is wrong as midgut rotation, herniation and return of cavity occur within week 6-12."
+    },
+    "21-22 MEDU2300 Final Q8": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "The abdominal aorta:",
+      "options": {
+        "A": "Bifurcates at the level of the 2nd lumbar vertebral body",
+        "B": "Gives off branches supplying the gut from its lateral aspect",
+        "C": "Gives rise to the celiac trunk at the level of the 12th thoracic vertebral body",
+        "D": "Has a longer course than the inferior vena cava in the abdomen",
+        "E": "Passes into the abdomen behind the diaphragm at the level of the 10th thoracic vertebra"
+      },
+      "answer": "C",
+      "explanation": "A is wrong as abdominal aorta bifurcates at L4 level.\nB is wrong as visceral branches supplying the gut (Celiac trunk, SMA, IMA) all arise at the midline of aorta.\nC is correct.\nD is wrong as the abdominal aorta enters the abdominal cavity via the aortic hiatus at T12, so its course in the abdomen spans between T12 to L4. On the other hand, IVC bifurcates at L5 level, and enters abdomen via the caval opening at T8, so its course spans between T8 to L4, which is 5 vertebral levels longer than aorta.\nE is wrong as T10 is the level of oesophageal hiatus for esophagus and vagus nerve."
+    },
+    "21-22 MEDU2300 Final Q9": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following veins runs anterior to the abdominal aorta and forms an almost right angle with it?",
+      "options": {
+        "A": "Left Renal Vein",
+        "B": "Left testicular vein",
+        "C": "Right renal vein",
+        "D": "Right Suprarenal vein",
+        "E": "Superior mesenteric vein"
+      },
+      "answer": "A",
+      "explanation": "Both renal veins and right suprarenal vein run perpendicularly to abdominal aorta. However, only the left renal vein runs anterior to the abdominal aorta. Left adrenal and testicular veins, and SMV run parallel to abdominal aorta. Another possible answer for this question would be splenic vein, but of course, it is even more anterior to left renal vein."
+    },
+    "21-22 MEDU2300 Final Q17": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "The oesophageal hiatus in the diaphragm:",
+      "options": {
+        "A": "is located at the 8th thoracic vertebral level",
+        "B": "is surrounded by a sling of fibres from the right crus",
+        "C": "lies in the central tendon",
+        "D": "transmits branches of the right gastric artery",
+        "E": "transmits the right phrenic nerve"
+      },
+      "answer": "B",
+      "explanation": "A should be T10. B is correct, so C is wrong. D should be left gastric vessels. E should be through the caval opening at T8."
+    },
+    "22-23 MEDU2300 Test Q7": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which one of these statements about the transpyloric plane is correct?",
+      "options": {
+        "A": "It passes through the level of the body of 2nd lumbar vertebrae",
+        "B": "It is halfway between suprasternal notch and symphysis pubis",
+        "C": "It passes through the fundus of stomach",
+        "D": "It passes through the neck of gallbladder",
+        "E": "It passes through the tips of 11th costal cartilages on two sides"
+      },
+      "answer": "B",
+      "explanation": "A is wrong as the transpyloric plane is at L1 level.\nB is correct, remember that suprasternal notch is another name for jugular notch.\nC is wrong as it passes through the pylorus of the stomach, hence it is called trans-pyloric.\nD is wrong as it passes through the fundus of gallbladder. There is no special landmarks for the neck of the gallbladder.\nE is wrong as there is no 11th costal cartilage, and it passes through the inferior border of 9th costal cartilages instead.\nNeck of pancreas, origin of SMA and drainage of SMV into portal vein, hila of kidneys, and also cisterna chyli can also be found in this plane."
+    },
+    "13-14 MEDU2300 Test Q4": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following does not form the border of epiploic foramen?",
+      "options": {
+        "A": "First part of duodenum",
+        "B": "Quadrate lobe of liver",
+        "C": "Inferior Vena Cava",
+        "D": "Free edge of lesser omentum",
+        "E": "Portal vein"
+      },
+      "answer": "B",
+      "explanation": "A form inferior border;\nB caudate lobe of liver\nC form posterior border;\nD = hepatoduodenal ligament form anterior border;\nE form anterior border (contained in hepatoduodenal ligament)\nQuadrate → caudate lobe (superior border)"
+    },
+    "14-15 MEDU2300 Test Q15": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "The boundaries of the omental (epiploic) foramen are formed by the following structures, EXCEPT:",
+      "options": {
+        "A": "First part of the duodenum",
+        "B": "Quadrate lobe of the liver",
+        "C": "Portal vein",
+        "D": "Inferior vena cava",
+        "E": "Free edge of the lesser omentum"
+      },
+      "answer": "B",
+      "explanation": "Should be the caudate lobe"
+    },
+    "15-16 MEDU2300 Test Q18": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following statements about the greater omentum is correct?",
+      "options": {
+        "A": "It lies directly underneath the anterior abdominal wall but in front of the transverse colon",
+        "B": "It forms the anterior wall of the greater sac.",
+        "C": "It receives its blood supply from the left and right gastroepiploic arteries.",
+        "D": "It is attached to the lesser curvature of the stomach.",
+        "E": "It is suspended from the third part of the duodenum."
+      },
+      "answer": "C",
+      "explanation": "Apparently greater omentum is not anterior to transverse colon, as it is the inferior insertion of greater omenum. It just appears to be covering the anterior aspect of transverse colon in situ. (But Paul Lai’s notes said it is anterior…)\nRefer to 2223 Test for a better question, probably this is just an error in reciting the question.\nWall of greater sac should be anterior abdominal wall. Greater omemtum is attached to greater curvature of stomach and proximal (1st) part of duodenum, not the third. C is correct as both gastro-epiploic arteries anastomsose along the greater curvature and greater omentum. D is very wrong as it should be lesser omentum attaching to the lesser curvature.\nAdditionally, there are two arteries and accompanying veins, the right and left gastro-omental vessels, between this double-layered peritoneal apron just inferior to the greater curvature of the stomach. (Gray’s Anatomy)\n\nA. I would say from skin to parietal peritoneum = anterior abdominal wall (including abdominal muscles)...though A just doesn’t feel right\n\n![](img/15-16_MEDU2300_Test_Q18_1776526546504.png)"
+    },
+    "15-16 MEDU2300 Final Q12": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following regarding the formation of the lesser sac is correct?",
+      "options": {
+        "A": "It is initially at the right side, then it rotates to the left",
+        "B": "with the rotation of stomach the lesser sac is formed behind the stomach",
+        "C": "the lesser sac is formed is a closed sac at embryonic stage and is ruptured after birth",
+        "D": "The rotation of the stomach is not related to the formation of lesser sac",
+        "E": "the greater sac is formed as a closed sac in the embryonic stage, and is opened before birth"
+      },
+      "answer": "B",
+      "explanation": "When the liver moves towards the right, it pulls the ventral mesogastrium, so that the stomach rotates 90 degrees clockwise along the ventral-dorsal axis. When the dorsal mesogastrium lengthens and twists, the lesser sac is formed.\n\nA is wrong, as the longitudinal rotation of the stomach moves the space on the right mesogastrium towards the back of the stomach, not the left.\nB is thus correct.\nC is formed as an open sac throughout the development, as the embryoglocal lesser sac can communicate with greater sac beyond the free border of ventral mesogastrium, which attaches the liver to the stomach. Further development of the abdominal viscera makes the ventral mesogastrium into the lesser omentum, which is the anterior border of the foramen of Winslow for entering the lesser sac later. D is obviously wrong. E is wrong as said before, the two sacs are always continuous."
+    },
+    "16-17 MEDU2300 Test Q7": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is a better description of the peritoneum?",
+      "options": {
+        "A": "Thick cutaneous membrane",
+        "B": "Thick mucous membrane",
+        "C": "Thin muscular membrane",
+        "D": "Thin serous membrane",
+        "E": "Thin synovial membrane"
+      },
+      "answer": "D",
+      "explanation": "https://en.wikipedia.org/wiki/Peritoneum (Mentioned in lecture notes or Moore)"
+    },
+    "19-20 MEDU2300 Final Q9": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A 60 year old man admitted to emergency with severe abdominal pain. Upon examination it is revealed that there is guarding(?) and rigidity of the abdominal wall. In CT scan a thrombus can be seen in the branch of SMA supplying the ileum. Which of the layers of peritoneum has to be accessed to reach the blood vessels?",
+      "options": {
+        "A": "greater and lesser omentum",
+        "B": "greater omentum and transverse mesocolon",
+        "C": "parietal peritoneum and mesentery",
+        "D": "parietal peritoneum and greater omentum",
+        "E": "Lesser omentum and gastrosplenic ligament"
+      },
+      "answer": "C",
+      "explanation": "![](img/19-20_MEDU2300_Final_Q9_1776526566801.png)\n\nGreater omentum → 可以揭起\nNote that blood vessels of the small intestine are located within the mesentery. (Recall that from your dissection class, that you need to spread the peritoneum in order to see the tiny vessels inside)\n\nGuarding means tonic contraction of abdominal muscles out of pain upon touching, and in this case, the pain is caused by ischemic necrosis of the ileum. SMA enters the root of mesentery and runs within the mesentery to supply the midgut suspended by it (Jejunum to ileocolic junction). Except the mesentery wrapping the ileum, the surgeon still needs to open the anterior abdominal wall to expose the ileum, which then contains the parietal peritoneum, extraperitoneal fat, transversalis fascia, and different muscles (Vary with the site of incision)."
+    },
+    "22-23 MEDU2300 Test Q11": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following regarding the greater omentum is correct?",
+      "options": {
+        "A": "It is behind the anterior abdominal wall but posterior to the transverse colon",
+        "B": "It forms the anterior wall of the greater sac",
+        "C": "It is supplied by the right and left gastro-epiploic arteries",
+        "D": "It originates from the 3rd part of duodenum",
+        "E": "It originates from lesser curvature of stomach"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU2300 Abdomen Q2": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the peritoneum is correct?",
+      "options": {
+        "A": "Parietal and visceral layer of the peritoneum is innervated by ANS only.",
+        "B": "Pancreas is a complete retroperitoneal organ.",
+        "C": "Urinary bladder is a complete infraperitoneal organ.",
+        "D": "It is a mucous membrane.",
+        "E": "It is formed by greater sac and lesser sac."
+      },
+      "answer": "C",
+      "explanation": "A. parietal layer by somatic nerve\nB. tail → intraperitoneal\nC. infraperitoneal = below intraperitoneal space\nD. mucous → serous (Mucous cells produce mucus, which doesn't stain very darkly, so the mucous cells look almost clear on these images and on slides. Serous cells produce a watery secretion that contains a lot of proteins.)\nE. wrong lol sac cannot form a membrane"
+    },
+    "13-14 MEDU2300 Test Q6": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about rectus abdominis is false?",
+      "options": {
+        "A": "Its course is from pubic symphysis to costal cartilage",
+        "B": "It flexes lumbar spine",
+        "C": "It assists forced expiration",
+        "D": "The inferior epigastric artery ascends in the anterior surface of it",
+        "E": "A part of it is in direct contact with the transversalis fascia"
+      },
+      "answer": "D",
+      "explanation": "A. have 2 heads, from pubic crest/symphysis to 5-7 costal cartilages & xiphoid process\nB. It flexes the vertebral column\nC. true\nD. Below the arcuate line, the inferior epigastric vessels pierce the transversalis fascia on each side of the rectus sheath and enter the rectus abdominis muscle. The artery then runs within the rectus sheath, between the transversalis fascia and the posterior wall of the rectus abdominis. ? not directly on the surface on it\nhttps://www.kenhub.com/en/library/anatomy/inferior-epigastric-artery\nE. Yes below arcuate line"
+    },
+    "15-16 MEDU2300 Final Q14": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the rectus sheath is correct?",
+      "options": {
+        "A": "Rectus sheath is formed on the tendinous intersection of rectus abdominis anteriorly and posteriorly",
+        "B": "It is formed by transversalis fascia",
+        "C": "It is formed by aponeuroses of 3 flat abdominal wall muscles",
+        "D": "It is formed by fascia of the rectus abdominis",
+        "E": "The rectus abdominis is completely enclosed by the rectus sheath"
+      },
+      "answer": "C",
+      "explanation": "A, E. not the case if below arcuate line\n\nRectus sheath refers to the fascial sheath wrapping the rectus abdominis, with different composition at anterior and posterior sides of the rectus. For levels above the arcuate line, anterior sheath is formed by the EO aponeurosis and anterior lamina of IO aponeurosis, while the posterior is formed by posterior lamina of IO aponeurosis and TA aponeurosis. For level below the arcuate line, all three layers of aponeuroses form the anterior sheath, and there is no posterior sheath such that posterior surface of rectus contacts the transversalis fascia directly. Rectus sheath spans across linea semilunaris on both sides and fuses together along linea alba. As extra information, arcuate line is between superior 3 parts and inferior 1 part of msucles (Separated by intertendinous intersections). It is the where the inferior epigastric vessels enter the rectus sheath and ascend at the back of rectus adbominis, eventually anastmosing with the superior epigastric vessels (Terminal branch of internal thoracic artery).\n\n![](img/15-16_MEDU2300_Final_Q14_1776526588801.png)"
+    },
+    "16-17 MEDU2300 Final Q14": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about rectus sheath is most likely correct?",
+      "options": {
+        "A": "The anterior layer above the costal margin is formed by the aponeurosis of the internal oblique muscle.",
+        "B": "The anterior layer above the public symphysis is formed by the aponeuroses of external oblique, internal oblique and transversus abdominis muscles.",
+        "C": "The posterior layer above the costal margin is formed by the aponeurosis of the transversus abdominis muscle",
+        "D": "The posterior layer above the pubic symphysis is formed by the aponeurosis of the internal oblique muscle",
+        "E": "the superior epigastric artery supplies it"
+      },
+      "answer": "E",
+      "explanation": "A. Anterior layer above costal margin should be external and internal oblique; Posterior layer should be formed by 5th-7th costal cartilage\nB. correct if ‘right’ is added before ‘above’\nE. The superior epigastric artery, the direct continuation of the internal thoracic artery, enters the rectus sheath superiorly through its posterior layer (Fig. 2.5C), supplies the upper part of the rectus abdominis, and anastomoses with the inferior epigastric artery. (small moore)"
+    },
+    "17-18 MEDU2300 Test Q8": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following statements regarding rectus sheath is correct?",
+      "options": {
+        "A": "It encloses the rectus abdominis muscle completely",
+        "B": "It is attached to tendinous intersections inferiorly and posteriorly",
+        "C": "It is formed by aponeuroses of three flat abdominal muscles",
+        "D": "It is formed by transversalis fascia"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "17-18 MEDU2300 Final Q9": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about rectus sheath is most likely correct?",
+      "options": {
+        "A": "The anterior layer above the costal margin is formed by the aponeurosis of the internal oblique muscle.",
+        "B": "The anterior layer above the public symphysis is formed by the aponeuroses of external oblique, internal oblique and transversus abdominis muscles.",
+        "C": "The posterior layer above the costal margin is formed by the aponeurosis of the transversus abdominis muscle",
+        "D": "The posterior layer above the pubic symphysis is formed by The aponeurosis of the internal oblique muscle",
+        "E": "the superior epigastric artery supplies it"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2300 Final Q9": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Anterolateral abdominal wall innervated mostly by which nerve?",
+      "options": {
+        "A": "Dorsal rami of lower 6 thoracic nerves",
+        "B": "Obturator nerve",
+        "C": "Thoracic splanchnic nerve",
+        "D": "Vagus nerve",
+        "E": "Ventral rami of lower thoracic 6 nerve"
+      },
+      "answer": "E",
+      "explanation": "E refers to thoraco-abdominal nerves (T7-T11) and the subcostal nerve (T12).\nA is wrong as dorsal rami of spinal nerves in general only supply the deep back muscles and sensation over the back.\nB is wrong as it supplies the medial compartment of the thigh, which are mainly hip adductors.\nC is wrong as thoracic splanchnic nerves arise from the lateral horn of T1-T12 spinal segments to provide SNS innervation to abdominal viscera.\nD is wrong as the vagus nerve only provides PSNS innervation to abdominal viscera.\nC and D together represent the ANS supply to the foregut and midgut. Vagus nerve also supplies laryngeal and pharyngeal muscles which are involved in phonation and swallowing. (Well these two functions are so different as fibres for viscera and muscles are different. You will learn in MED3 Neuroanatomy)."
+    },
+    "18-19 MEDU2300 Final Q10": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Conjoint tendon inserts into pubic crest and",
+      "options": {
+        "A": "Asis",
+        "B": "Iliac tubercle",
+        "C": "Pectineal line",
+        "D": "Inguinal ligament",
+        "E": "Pubic symphysis"
+      },
+      "answer": "C",
+      "explanation": "Conjoint tendon is the combined tendon of IO and TA. It inserts to the pubic crest and pectineal line just lateral to it. Conjoint tendon arches over the inguinal canal and forms the roof of the middle 1/3 of the inguinal canal. The contraction of IO and TA during heavy straining, e.g. squatting, can help pull the conjoint tendon down to compress and close the inguinal canal, hence preventing indirect inguinal hernia."
+    },
+    "19-20 MEDU2300 Final Q8": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "27 yr old woman needs to do surgery and the surgeon needs to have an incision to separate the left rectus sheath and right rectus sheath of the patient, where should it be?",
+      "options": {
+        "A": "linea alba",
+        "B": "arcuate line",
+        "C": "tendinous intersection",
+        "D": "linea semilunaris"
+      },
+      "answer": "A",
+      "explanation": "Left and right rectus sheaths fuse at the linea alba on the midline, so it is the site of incision to separate the two sheaths. It is also the incision site for accessing abdominal cavity as its tendinous nature (Not soft tissues) can minimize the bleeding involved while opening the anterior abdominal wall."
+    },
+    "20-21 MEDU2300 Sem1 Q8": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "nerve supply to anterolateral abdominal muscle",
+      "options": {
+        "A": "Anterior rami of lower 6 thoracic nerve",
+        "B": "Obturator nerve",
+        "C": "Vagus nerve",
+        "D": "Posterior rami of lower 6 thoracic nerve",
+        "E": "Splanchnic nerve"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Final Q11": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "The skin of the umbilicus is supplied by which of the following spinal nerves?",
+      "options": {
+        "A": "L1",
+        "B": "L2",
+        "C": "T10",
+        "D": "T12",
+        "E": "T7"
+      },
+      "answer": "C",
+      "explanation": "You can forget most of the details but never this one, as it represents the site of referred pain from acute appendicitis."
+    },
+    "21-22 MEDU2300 Test Q8": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "What is the nerve supply to anterolateral abdominal muscles?",
+      "options": {
+        "A": "Anterior rami of lower 6 thoracic nerve",
+        "B": "Obturator nerve",
+        "C": "Vagus nerve",
+        "D": "Posterior rami of lower 6 thoracic nerve",
+        "E": "Splanchnic nerve"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "21-22 MEDU2300 Final Q19": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following description about rectus sheath is correct?",
+      "options": {
+        "A": "Anterior layer above umbilicus is formed by external oblique aponeurosis",
+        "B": "Anterior layer immediately above the pubic symphysis is formed by fusion of external oblique aponeurosis, internal oblique aponeurosis and transversus abdominis",
+        "C": "Ilioinguinal nerve supplies rectus abdominis",
+        "D": "Posterior layer at level of umbilicus is formed by internal oblique aponeurosis",
+        "E": "Posterior layer immediately above pubic symphysis in formed by aponeurosis of transversus abdominis muscle"
+      },
+      "answer": "B",
+      "explanation": "This time with the word \"Immediately above\", B is finally a valid statement."
+    },
+    "22-23 MEDU2300 Test Q9": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which tissue is directly posterior to the rectus abdominis below arcuate line?",
+      "options": {
+        "A": "Aponeurosis of external oblique",
+        "B": "Aponeurosis of internal oblique",
+        "C": "Aponeurosis of transversus abdominis",
+        "D": "Colles’ fascia",
+        "E": "Transversalis fascia"
+      },
+      "answer": "E",
+      "explanation": "There is no rectus sheath below the arcuate line, and it is the transversalis fascia that is on the back of the rectus abdominis. If the question is above, then it is the posterior layer of the rectus formed by posterior lamina of IO aponeurosis and TA aponeurosis. If the layer is even higher than the costal margin, then it is 5th – 7th costal cartilages."
+    },
+    "13-14 MEDU2300 Test Q3": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following concerning the inguinal canal is false?",
+      "options": {
+        "A": "The superficial ring is reinforced by conjoint tendon",
+        "B": "It provides a passage for L1 nerve for both male and female",
+        "C": "Inferior epigastric artery is lateral to deep inguinal ring",
+        "D": "The floor is formed by the inguinal ligament",
+        "E": "The inguinal sac is superior to the pubic tubercle"
+      },
+      "answer": "C",
+      "explanation": "A Conjoint tendon in posterior wall VS superficial inguinal ring in anterior side → Posterior wall strongest part lies over the weakest point of anterior wall\nB L1 nerves pierce through the internal oblique, but not through the deep inguinal ring.\nC lateral → medial\nD floor = inguinal ligament + lacunar ligament\nE inguinal sac is the bulge of inguinal hernia from superficial inguinal ring. It should be on the superior and medial side of the pubic tubercle (vs femoral hernia: below & lateral to pubic tubercle)"
+    },
+    "16-17 MEDU2300 Final Q13": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following nerve passing through superficial inguinal opening will be endangered when a surgeon attempts to open up the inguinal canal to deal with an indirect inguinal hernia?",
+      "options": {
+        "A": "Femoral branch of iliofemoral nerve",
+        "B": "Iliohypogastric nerve",
+        "C": "Ilioinguinal nerve",
+        "D": "Obturator Nerve",
+        "E": "Subcostal nerve"
+      },
+      "answer": "C",
+      "explanation": "A. Femoral branch of the genitofemoral nerve runs along the femoral artery in the lateral compartment of femoral sheath. (NAVEL)\nB. Iliohypogastric nerve does not traverse any opening.\nC. The ilioinguinal nerve passes through the inguinal canal through the superficial inguinal ring (not the deep inguinal ring).\nD. The obturator nerve traverses the obturator canal.\nE. The subcostal nerve traverses the lateral arcuate ligament.\nAlso note that the anterior rami of L1 (precursor of B & C), traverses through the medial arcuate ligament."
+    },
+    "16-17 MEDU2300 Final Q16": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "What is correct about the inguinal canal?",
+      "options": {
+        "A": "Indirect inguinal hernia does not pass through inguinal canal",
+        "B": "Genital branch of genitofemoral nerve supplies muscle of penis",
+        "C": "Inguinal ligament formed by ASIS and pubic symphysis",
+        "D": "Inguinal triangle is area which is the weakest in the anterior abdominal wall",
+        "E": "Rectus abdominis forms medial border of superficial inguinal ring"
+      },
+      "answer": "D",
+      "explanation": "Note: This is actually covered in his lectures.\nA It passes! At the deep inguinal ring.\nB Genital branch of the genitofemoral nerve – supplies the cremaster muscle and anterior scrotal skin in males, and the skin of the mons pubis and labia majora in females. (Source: https://teachmeanatomy.info/abdomen/areas/inguinal-canal/)\nC ASIS and pubic tubercle\nD: Inguinal triangle is formed between rectus abdominis (Medial), iliopubic tract (Inferior), and the inferior epigastric vessels (Lateral). At the anterior aspect, the inguinal triangle contains the superficial inguinal ring (Triangular defect of EO aponeurosis), which is the weakest point of the anterior wall. Hence, abdominal content could herniate through the inguinal triangle to cause direct inguinal hernia.\nhttps://teachmeanatomy.info/abdomen/areas/inguinal-triangle/\nE The rectus abdominis only forms the medial border of the inguinal triangle. The medial border of the superficial ring is formed by the external oblique aponeurosis.\n\n![](img/16-17_MEDU2300_Final_Q16_1776529468577.png)"
+    },
+    "17-18 MEDU2300 Test Q12": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A surgeon is repairing a inguinal hernia. Which nerve is susceptible to injury?",
+      "options": {
+        "A": "obturator nerve",
+        "B": "ilioinguinal nerve",
+        "C": "genital branch of genitofemoral nerve",
+        "D": "iliohypogastric nerve",
+        "E": "subcostal nerve"
+      },
+      "answer": "B",
+      "explanation": "You may argue for this question, as genital branch of the genitofemoral nerve is also traversing the inguinal canal. However, the answer is still ilioinguinal nerve. The key difference is still that ilioinguinal nerve does not traverse the deep ring, and only traverses the distal portion of the canal without being a component of spermatic cord, but instead an individual isolated nerve. This makes it more prone to injury compared to the genital branch of genitofemoral nerve, which is enclosed by transversalis fascia (Internal spermatic fascia) to become inside the spermatic cord."
+    },
+    "18-19 MEDU2300 Test Q8": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "With regards to inguinal canal, which of the following is correct?",
+      "options": {
+        "A": "Indirect inguinal hernia enters inguinal triangle",
+        "B": "Deep inguinal ring forms from transversalis fascia",
+        "C": "Iliohypogastric nerve enters spermatic cord",
+        "D": "Deep ring lies above the junction of lateral third and medial two thirds",
+        "E": "transversus abdominis forms spermatic cord"
+      },
+      "answer": "B",
+      "explanation": "A. Direct inguinal hernia enters inguinal triangle\nB. Deep inguinal ring is actually a defect of the transversalis fascia\nC. Ilioinguinal nerve enters spermatic cord\nD. Deep ring lies above the mid-point of the pubic symphysis and ASIS (midpoint of inguinal ligament)\nE. internal oblique muscle forms spermatic cord"
+    },
+    "18-19 MEDU2300 Test Q9": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Posterior wall of inguinal canal",
+      "options": {
+        "A": "conjoint tendon",
+        "B": "external oblique muscle",
+        "C": "internal oblique muscle",
+        "D": "lacunar ligament",
+        "E": "transversus abdominis"
+      },
+      "answer": "A",
+      "explanation": "Anterior wall: intercrural fibres from aponeurosis of external oblique"
+    },
+    "19-20 MEDU2300 Final Q7": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A 70-year-old man is admitted to the surgery department with groin pain through emergency admission. Examination reveals that the patient has an irreducible indirect inguinal hernia. Which of the following nerves is compressed by the herniating structure in the inguinal canal?",
+      "options": {
+        "A": "Ilioinguinal",
+        "B": "Lateral femoral cutaneous",
+        "C": "Subcostal",
+        "D": "Pudendal",
+        "E": "Iliohypogastric"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Sem1 Q9": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Posterior wall of inguinal canal?",
+      "options": {
+        "A": "External oblique aponeurosis and internal oblique aponeurosis",
+        "B": "External oblique aponeurosis and lacunar ligament",
+        "C": "Inguinal ring and pubic tubercle",
+        "D": "Transversalis fascia and conjoint tendon",
+        "E": "Transversus abdominis and internal oblique aponeurosis"
+      },
+      "answer": "D",
+      "explanation": "D is a more accurate description of components of the posterior wall of the inguinal canal compared with previous questions. Transversalis fascia forms the posterior wall of the entire inguinal canal as it extends from the deep inguinal ring. However, in medial 1/3 of the canal, the conjoint tendon (IO and TA tendons) reinforce the posterior wall at the point of superficial inguinal ring. Hence, it is possible to block the superficial inguinal ring during exertion of abdominal muscles and rise in intra-abdominal pressure, preventing manifestation of indirect inguinal hernia."
+    },
+    "21-22 MEDU2300 Final Q16": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "In relation to the inguinal canal, which of the following is correct?",
+      "options": {
+        "A": "An indirect inguinal hernia bulges into the inguinal triangle, posterior to the canal and medial to the inferior epigastric artery",
+        "B": "The deep inguinal ring is formed by an opening in the transversalis fascia",
+        "C": "The deep inguinal ring lies 1 cm above and at the junction of the lateral third and medial twothirds of the inguinal ligament",
+        "D": "the inguinal canal contains the iliohypogastric nerve",
+        "E": "The inguinal canal contains the spermatic cord that has two fascial layers and eight different contents"
+      },
+      "answer": "B",
+      "explanation": "A. It should be a direct inguinal hernia that bulges into the inguinal triangle, as the herniated sac protrudes from the abdominal wall \"Directly\", instead of via the inguinal canal.\nB. Correct.\nC. The deep ring located at the midpoint of the inguinal ligament.\nD. It should be an ilioinguinal nerve, which just traverses the distal half of the canal. From the 3-3-3-3-3 rule described by Prof. Lai, there should be at least 11 contents in spermatic cord, i.e. 3 arteries, 3 veins, 2 nerves (Ilioinguinal nerve not inside), ductus deferens, vestige of processus vaginalis, and lymphatics. Spermatic cord also has 3 fascial layers: External spermatic fascia (EO aponeurosis), cremasteric fascia (IO), internal spermatic fascia (Transversalis fascia)."
+    },
+    "21-22 MEDU2300 Final Q18": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "An old man is admitted to the surgery department with groin pain. Physical examination reveals that the patient has an irreducible indirect inguinal hernia. Which of the following nerves is compressed by the herniating structure in the inguinal canal?",
+      "options": {
+        "A": "Iliohypogastric",
+        "B": "Ilioinguinal",
+        "C": "Lateral femoral cutaneous",
+        "D": "Obturator",
+        "E": "Pudendal"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "22-23 MEDU2300 Test Q8": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following nerves at the superficial inguinal ring is prone to injury when performing surgery to open the inguinal canal?",
+      "options": {
+        "A": "Femoral branch of genitofemoral nerve",
+        "B": "Iliohypogastric nerve",
+        "C": "Ilioinguinal nerve",
+        "D": "Obturator nerve",
+        "E": "Subcostal nerve"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU2300 Abdomen Q3": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the inguinal canal is incorrect?",
+      "options": {
+        "A": "Both indirect and direct inguinal hernia is medial to inferior epigastric artery.",
+        "B": "Inguinal ligament forms the inferior border of Hesselbach’s Triangle.",
+        "C": "Deep inguinal ring is an oval shape opening on the transversalis fascia.",
+        "D": "Lacunar ligament forms part of the inferior wall of inguinal canal",
+        "E": "Spermatic cord exits through superficial inguinal ring."
+      },
+      "answer": "A",
+      "explanation": "A. indirect inguinal hernia is lateral to inferior epigastric artery; direct hernia: medial\n\n![](img/Extra_MEDU2300_Abdomen_Q3_1776529506761.png)"
+    },
+    "Extra MEDU2300 Abdomen Q4": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is correct?",
+      "options": {
+        "A": "Deep inguinal ring is located at the mid-inguinal point",
+        "B": "Femoral artery is found below the midpoint of the inguinal ligament",
+        "C": "McBurney’s point is located at ? of the distance from the right anterior superior iliac spine and the pubic tubercle",
+        "D": "Base of the appendix can be found at McBurney’s point",
+        "E": "Femoral nerve can be found underneath the mid-inguinal point"
+      },
+      "answer": "D",
+      "explanation": "Refer to the diagram below.\nA. Deep inguinal ring is located at the midpoint of the inguinal ligament\nB. Femoral NERVE is found below the midpoint of the inguinal ligament\nC. McBurney’s point is located at ? of the distance from the right anterior superior iliac spine and the UMBILICUS\nD. Correct\nE. Femoral nerve can be found underneath the midpoint of the inguinal ligament\nNotice the difference between McBurney’s point, mid-inguinal point, and midpoint of inguinal ligament.\n\n![](img/Extra_MEDU2300_Abdomen_Q4_1776529518842.png)"
+    },
+    "13-14 MEDU2300 Test Q5": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is true about duodenum?",
+      "options": {
+        "A": "IMV passes adjacent to DJ flexure",
+        "B": "SMA passes posterior to inferior duodenum",
+        "C": "Common bile duct and pancreatic duct open separately to duodenum",
+        "D": "Superior duodenum go upward and anteriorly",
+        "E": "The whole duodenum is retroperitoneal"
+      },
+      "answer": "A",
+      "explanation": "A it is true left to DJ flexure has IMV going up\nB posterior → anterior\nC same part (duodenal papilla)\nD anteriorly → posteriorly\nE first part intraperitoneal\n(The pancreas and SMA relation appears not to be very accurate, as a tumor at the neck of the pancreas should compress onto the SMA.)\n\n![](img/13-14_MEDU2300_Test_Q5_1776529535004.png)"
+    },
+    "13-14 MEDU2300 Test Q10": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A 60-year-old man reports 24-hr history of pain in right iliac fossa. Which of the following is the most accurate description of pain for the diagnosis of acute appendicitis?",
+      "options": {
+        "A": "Begin and remain at right iliac fossa",
+        "B": "Begins at rectal region and then to right iliac fossa",
+        "C": "Begins at umbilical region and then to right iliac fossa",
+        "D": "Begins at back and then to right iliac fossa"
+      },
+      "answer": "C",
+      "explanation": "Note: Please do not refer to this question. There are more complete versions at a lower part of this question bank. Explanation is provided elsewhere."
+    },
+    "14-15 MEDU2300 Test Q4": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Perforation of the posterior stomach wall will lead to the accumulation of fluid in which site?",
+      "options": {
+        "A": "costodiaphragmatic recess",
+        "B": "pelvic cavity",
+        "C": "lesser sac"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "14-15 MEDU2300 Test Q13": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following best describes the relations of the duodenum?",
+      "options": {
+        "A": "The inferior mesenteric vein lies adjacent to the duodenojejunal flexure",
+        "B": "The whole organ is a retroperitoneal structure.",
+        "C": "The superior mesenteric artery lies behind the third part of duodenum",
+        "D": "The bile duct and pancreatic duct merge and open in the anterior wall of the duodenum",
+        "E": "The first part of the duodenum runs upward and forward"
+      },
+      "answer": "A",
+      "explanation": "A. Correct\nB. 1st inch is not\nC. in front of\nD. lateral wall\nE. mostly horizontal (the first part is also called superior)"
+    },
+    "15-16 MEDU2300 Test Q1": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following statements is true for duodenum?",
+      "options": {
+        "A": "the entire organ is retroperitoneal",
+        "B": "The first part of it runs forward and upward",
+        "C": "the opening to the bile duct is anterolateral to duodenal wall",
+        "D": "SMA is adjacent to the duodenojejunal flexure"
+      },
+      "answer": "D",
+      "explanation": "A. Part of it is intraperitoneal (1st part)\nB. Mostly horizontal (superior part of duodenum)\nC. Posteromedial. Refer to Paul Lai’s notes P.32. Paul Lai is not really that bad as you can mostly find the answers of strange options (particularly relations of organs) in his lecture notes. Only a minority of questions need you to really google. Note that the duodenojejunal flexure is located at L2, 2-3 cm left to midline.\n\n![](img/15-16_MEDU2300_Test_Q1_1776529552863.png)"
+    },
+    "15-16 MEDU2300 Test Q3": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is NOT supplied by SMA?",
+      "options": {
+        "A": "3rd part of duodenum",
+        "B": "head of pancreas",
+        "C": "Right colic flexure",
+        "D": "transverse colon",
+        "E": "Left colic flexure"
+      },
+      "answer": "E",
+      "explanation": "Head of pancreas → receive dual supply from celiac trunk and SMA\nLeft colic flexure is a part of the hindgut"
+    },
+    "15-16 MEDU2300 Test Q5": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Tumor in stomach. using axial ct scan where might it spread to",
+      "options": {
+        "A": "pancreas",
+        "B": "left kidney",
+        "C": "right kidney",
+        "D": "Cecum",
+        "E": "spine"
+      },
+      "answer": "A",
+      "explanation": "Pancreas is an organ located in the lesser sac. Note the close proximity of the stomach to the lesser sac. Very likely, a tumor may spread to the pancreas.\nNote that the tough renal fascia (anterior layer) blocks the spread of cancer into the kidneys and spine."
+    },
+    "15-16 MEDU2300 Final Q15": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is true about the sigmoid colon?",
+      "options": {
+        "A": "It has a mesentery",
+        "B": "It originates from distal part of midgut",
+        "C": "Receive parasympathetic innervation from vagus nerve",
+        "D": "Its vein drains into a branch of middle colic vein",
+        "E": "It is fairly constant in length"
+      },
+      "answer": "A",
+      "explanation": "A. It is intraperitoneal, and has sigmoid mesocolon\nB. Hindgut\nC. From pelvic splanchnic nerves (S2-S4)\nD. sigmoid vein to IMV, colic vein to SMV\nE. intraperitoneal, so not constant"
+    },
+    "15-16 MEDU2300 Final Q31": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A tumor anterior to IVC above umbilicus level will press on which structure",
+      "options": {
+        "A": "Right third of lumbar artery",
+        "B": "Left renal vein",
+        "C": "Cisterna chyli",
+        "D": "Third part of duodenum",
+        "E": "Sympathetic trunk"
+      },
+      "answer": "D",
+      "explanation": "A: posterior to IVC\nB: refer to the diagram below → posterior to IVC\n![](img/15-16_MEDU2300_Final_Q31_1776529646747.png)\n![](img/15-16_MEDU2300_Final_Q31_1776529654214.png)\nC: posterior to IVC\nE: posterior to IVC"
+    },
+    "16-17 MEDU2300 Test Q8": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following arteries supplies the greater omentum near the fundus of the stomach?",
+      "options": {
+        "A": "Left gastric artery",
+        "B": "Right gastric artery",
+        "C": "Left gastroepiploic artery",
+        "D": "Right gastroepiploic artery",
+        "E": "Short gastric artery"
+      },
+      "answer": "C",
+      "explanation": "E. short gastric supplies the fundus but not the omentum (be very cautious about the question wordings!)\nApproaching the spleen, the splenic artery gives off short gastric arteries, which pass through the gastro-splenic ligament to supply the fundus of the stomach.[1]"
+    },
+    "16-17 MEDU2300 Test Q10": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which branch of artery comes from superior mesenteric artery to supply the pancreas",
+      "options": {
+        "A": "Inferior pancreaticoduodenal artery",
+        "B": "Superior pancreaticoduodenal artery",
+        "C": "Gastroduodenal artery",
+        "D": "Right gastric artery",
+        "E": "Left gastroepiploic artery"
+      },
+      "answer": "A",
+      "explanation": "Superior (anterior & posterior) pancreaticoduodenal arteries come from the GDA (celiac trunk)\nInferior pancreaticoduodenal arteries come from the SMA\nSome arteries from the splenic arteries also supply the pancreas"
+    },
+    "16-17 MEDU2300 Test Q11": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "If there is cancer arising from sigmoid colon, what will be the structure involved in the early spread of cancer?",
+      "options": {
+        "A": "Inferior mesenteric lymph node",
+        "B": "Mediastinal lymph node",
+        "C": "Superior mesenteric lymph node",
+        "D": "The liver",
+        "E": "The lung"
+      },
+      "answer": "A",
+      "explanation": "Follow the path of the arteries. Lymph follows arterial supply towards lymph nodes around the aorta, instead of veins."
+    },
+    "16-17 MEDU2300 Final Q12": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "The coeliac trunk",
+      "options": {
+        "A": "Arise at T10",
+        "B": "give rise to posterior pancreaticoduodenal artery",
+        "C": "is the artery of foregut",
+        "D": "Lies behind hepatoduodenal ligament",
+        "E": "Supply whole esophagus"
+      },
+      "answer": "C",
+      "explanation": "A. coeliac trunk arise at T12\nB. only true for superior posterior PDA; inferior posterior PDA is originated from SMA (PDA = Posterior descending artery)\nE. Not correct as it only supplies the inferior (Abdominal) portion of esophagus. It also receives branches from the inferior thyroid artery and thoracic aorta throughout its course in thorax."
+    },
+    "16-17 MEDU2300 Final Q15": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A patient has pain in the right iliac fossa. Which description is consistent with acute appendicitis?",
+      "options": {
+        "A": "Pain begins in the lower back region and spreads to right iliac fossa",
+        "B": "Pain begins in the umbilical region and spreads to right iliac fossa",
+        "C": "Pain begins in right rectal region and spreads to the right iliac fossa",
+        "D": "Pain begins in (forgot) and spreads to the right iliac fossa.",
+        "E": "Pain begins in the right iliac fossa and remains in the right iliac fossa"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2300 Final Q17": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Correct description regarding appendix",
+      "options": {
+        "A": "No lymphoid tissue on it",
+        "B": "Has a mesentery",
+        "C": "From anterior surface of caecum",
+        "D": "Supplied by right colic artery",
+        "E": "It's root not related to teniae coli"
+      },
+      "answer": "B",
+      "explanation": "A: Lots of (if not then cannot have inflammation) Refer to GI Physiology\nB. Appendix is intraperitoneal. The mesoappendix is the portion of mesentery that connects the ileum to the appendix.\nC: can be anterior, but not always/common! (Refer to lecture notes on the different anatomical variations)\nD: ileocolic artery\nE: consistent with teniae coli\nMay refer to: http://www.cuhk.edu.hk/culive/CExam/appendix.html"
+    },
+    "16-17 MEDU2300 Final Q18": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Where would blood be collected after rupture of the posterior stomach wall?",
+      "options": {
+        "A": "Left paracolic gutter",
+        "B": "Sub-phrenic recess",
+        "C": "Pelvic cavity",
+        "D": "Lesser sac",
+        "E": "Potential space between liver and diaphragm"
+      },
+      "answer": "D",
+      "explanation": "No matter what the issue is, as long as we are talking about the posterior stomach wall, the problem lies with the lesser sac."
+    },
+    "17-18 MEDU2300 Test Q10": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A gastric ulcer perforates the posterior wall. where will most likely be found?",
+      "options": {
+        "A": "Paracolic gutter left",
+        "B": "anterior subphrenic space",
+        "C": "posterior subphrenic space",
+        "D": "lesser sac",
+        "E": "rectovesical pouch"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "17-18 MEDU2300 Test Q11": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A surgeon is operating on the right colic flexure, but he finds it difficult to separate it from an organ superior to it. Which organ is it likely to be?",
+      "options": {
+        "A": "Ileum",
+        "B": "Liver",
+        "C": "Stomach",
+        "D": "Spleen",
+        "E": "Pancreas"
+      },
+      "answer": "B",
+      "explanation": "Otherwise, the right colic flexure will not be called the hepatic flexure."
+    },
+    "17-18 MEDU2300 Test Q19": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is correct about the rotation of the stomach in embryonic development?",
+      "options": {
+        "A": "Clockwise rotation on the longitudinal axis when viewed from the caudal position.",
+        "B": "Clockwise rotation on the ventro-dorsal axis when viewed from the front.",
+        "C": "Clockwise rotation on the ventro-dorsal axis when viewed from the back.",
+        "D": "Anti-clockwise rotation on the longitudinal axis when viewed from the cranial position.",
+        "E": "Anti-clockwise rotation along the superior mesenteric artery when viewed from the front."
+      },
+      "answer": "B",
+      "explanation": "A. cranial position\nC. refer to (B)\nD. same as (A)\nE. rotation of SMA is about midgut; stomach is derived from foregut"
+    },
+    "18-19 MEDU2300 Test Q10": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Abdominal aorta?",
+      "options": {
+        "A": "Biurficate at L2",
+        "B": "Coeliac artery (=celiac trunk) at T12",
+        "C": "Bifurcation at L3",
+        "D": "Celiac trunk comes out at L1 near the umbilicus and right to it???",
+        "E": "...... T10"
+      },
+      "answer": "B",
+      "explanation": "abdominal aorta bifurcation at L4"
+    },
+    "18-19 MEDU2300 Test Q11": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A cancer of sigmoid colon will spread to which of the following lymph nodes?",
+      "options": {
+        "A": "superior mesenteric LN",
+        "B": "sigmoid LN",
+        "C": "inferior mesenteric LN",
+        "D": "left colic LN",
+        "E": "middle colic LN"
+      },
+      "answer": "C",
+      "explanation": "The inferior mesenteric vein (IMV) returns blood from the descending and sigmoid colon, flowing usually into the splenic vein and then the hepatic portal vein on its way to the liver (Fig. 2.27). The lymphatic vessels from the descending and sigmoid colon pass to the epicolic and paracolic lymph nodes and then through the intermediate colic lymph nodes along the left colic artery (Fig. 2.31A). Lymph from these nodes passes to inferior mesenteric lymph nodes that lie around the IMA; however, lymph from the left colic flexure also drains to the superior mesenteric lymph nodes. (Small Moore)"
+    },
+    "18-19 MEDU2300 Final Q12": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is correct about the anatomy of the superior mesenteric artery?",
+      "options": {
+        "A": "Behind first part of duodenum",
+        "B": "Anterior to left renal vein",
+        "C": "Above splenic vein",
+        "D": "Locate right to smv",
+        "E": "Supply small intestine only"
+      },
+      "answer": "B",
+      "explanation": "![](img/18-19_MEDU2300_Final_Q12_1776529755385.png)\n\n![](img/18-19_MEDU2300_Final_Q12_1776529762416.png)"
+    },
+    "19-20 MEDU2300 Final Q12": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "An 18 year old student is admitted to the surgical ward because of a 12 hour history of pain in the right iliac fossa. Which of the following descriptions of the location of pain is most consistent with the diagnosis of acute appendicitis?",
+      "options": {
+        "A": "Beginning at the lower back and moving to the right iliac fossa",
+        "B": "Beginning at the right flank and moving to the right iliac fossa",
+        "C": "Beginning at the umbilical region and moving to the right iliac fossa",
+        "D": "Beginning at the rectal region and moving to the right iliac fossa",
+        "E": "Beginning and remaining at the right iliac fossa"
+      },
+      "answer": "C",
+      "explanation": "This is the best version of the question that can be found.\nThe initial pain at umbilical region represents a referred pain resulting from the visceral innervation of the midgut, and the localized pain at right iliac fossa is caused by involvement of the parietal peritoneum after progression of the inflammatory process\nThe parietal peritoneum is innervated by somatic and visceral afferent nerves. Pain can be felt there.\nVisceral peritoneum is innervated by sensory fibers from spinal nerves, but are also innervated by autonomic nerves (vagus nerve).\nYou may find more information in small Moore."
+    },
+    "19-20 MEDU2300 Final Q13": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "What is true about the midgut?",
+      "options": {
+        "A": "rotation along the SMA axis on the level of L3",
+        "B": "all midgut organs are drained by the SMV",
+        "C": "midgut includes from the opening of bile duct to the ileocecal junction",
+        "D": "SMA is on the right of the SMV",
+        "E": "the midgut includes the body and tail of pancreas"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q14": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "The abdominal aorta:",
+      "options": {
+        "A": "penetrate abdominal diaphragm at 10th thoracic vertebra",
+        "B": "give rise to coeliac artery at T12",
+        "C": "has a surface marking for its bifurcation at 3cm below and right to umbilicus",
+        "D": "bifurcate at L2",
+        "E": "give rise to renal arteries at L1"
+      },
+      "answer": "B",
+      "explanation": "Note that E may also be an answer. \n\nBranches of abdominal aorta = \"In case students really like games, I’M monopoly\"\n1. Inferior phrenic artery (to diaphragm)\n2. Celiac trunk (T12)\n3. Superior mesenteric artery (lower border of L1)\n4. Renal arteries (L1/ L2 levels)\n5. Lumbar arteries (4 paired lumbar arteries in total, on both sides, from L1-L4)\n6. Gonadal arteries (L2)\n7. Inferior mesenteric artery (L3)\n8. Median sacral artery\nNote that the abdominal aorta branches to 2 common iliac arteries at L4 level."
+    },
+    "19-20 MEDU2300 Final Q17": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A peptic ulcer had perforated the posterior wall of the first part of the duodenum. The artery that is most likely to have been eroded would be",
+      "options": {
+        "A": "right gastric artery",
+        "B": "gastroduodenal artery",
+        "C": "splenic artery",
+        "D": "right renal artery",
+        "E": "right gastroepiploic artery"
+      },
+      "answer": "B",
+      "explanation": "The first part is about 5cm long. Posteriorly it is related to the gastroduodenal artery, bile duct and the portal vein.\nSource: https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/gastroduodenal-artery"
+    },
+    "20-21 MEDU2300 Sem1 Q7": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about celiac trunk is correct?",
+      "options": {
+        "A": "starts at T10",
+        "B": "gives rise to the inferior pancreaticoduodenal artery",
+        "C": "supplies the foregut",
+        "D": "posterior to hepatoduodenal ligament",
+        "E": "supplies the entire esophagus"
+      },
+      "answer": "C",
+      "explanation": "A. Starts at T12\nB. SMA gives rise to inferior pancreaticoduodenal artery\nC. Correct\nD. Anterior to the hepatoduodenal ligament [2]\nE. A part of the esophagus is supplied by the left gastric artery from the celiac trunk, but the upper esophagus is also supplied by inferior thyroid artery, and the part in the thorax is supplied by …. (too much to list)"
+    },
+    "21-22 MEDU2300 Test Q7": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "which of the following about celiac trunk is correct?",
+      "options": {
+        "A": "starts at T10",
+        "B": "gives rise to the inferior pancreaticoduodenal artery",
+        "C": "supplies the foregut",
+        "D": "posterior to hepatoduodenal ligament",
+        "E": "supplies the entire esophagus"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2300 Test Q10": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "The vagus nerve controls the gut as far as which of the following?",
+      "options": {
+        "A": "Cecum",
+        "B": "DJ junction",
+        "C": "Pylorus of stomach",
+        "D": "Sigmoid colon",
+        "E": "Splenic flexure"
+      },
+      "answer": "E",
+      "explanation": "Vagus nerve only controls the foregut and midgut, and hindgut is controlled by the pelvic splanchnic nerves. However, the relay of visceral afferents has a different cutoff at the sigmoid colon: All region before sigmoid colon is relayed along SNS to T5-L2 levels, while sigmoid colon, rectum and anal canal above pectinate line are relayed along PSNS to S2-S4. (Refer to Pelvis)"
+    },
+    "21-22 MEDU2300 Test Q11": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following structures would most likely cross vena cava anteriorly?",
+      "options": {
+        "A": "Left gonadal artery",
+        "B": "Right suprarenal gland",
+        "C": "Body of pancreas",
+        "D": "Fourth part of duodenum",
+        "E": "Root of mesentery[3][4]"
+      },
+      "answer": "E",
+      "explanation": "Left gonadal artery is far far left from IVC. Right adrenal gland is on the right of IVC. Body of pancreas is a bit hard to tell, but we can use the relationship SMV runs beneath neck of pancreas, while it is almost anterior to IVC, to deduce for this. Also, it is the 3rd part of duodenum below neck of pancreas to run across IVC anteriorly. Summing up everything, body of pancreas is the on the left of neck, and of course on the left of IVC. D is also wrong as explained above. E is true answer, as it extends from DJ flexure on left of IVC, to ileocolic junction on left of IVC.\n\n![](img/21-22_MEDU2300_Test_Q11_1776529851412.png)"
+    },
+    "21-22 MEDU2300 Final Q10": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Emergency upper gastrointestinal endoscopy showed bleeding from dilated veins in lower oesophagus. Which of the following structure does esophageal vein connected to:",
+      "options": {
+        "A": "Left gastro-omental vein",
+        "B": "Left gastric vein",
+        "C": "Right gastro-omental vein",
+        "D": "Right gastric vein",
+        "E": "Short gastric"
+      },
+      "answer": "B",
+      "explanation": "This is something you should know well in terms of clinical significance. This is a case of Mallory-Weiss tear, which features rupture of oesophageal varices (Dilated vein) and massive hemorrhage.\n\nOesophageal varice is formed most oftenly in the case of portal hypertension, as a complication of uncontrolled cirrhosis or other liver disease. The obstruction of hepatic circulation due to fibrosis (Cirrhosis) or other reasons causes impairs the drainage of hepatic portal vein, leading to pressure building up in its tributaries (Veins draining into portal vein). One of them is the left gastric vein directly draining into IVC, which is even more prone to flow obstruction due to its small size and high resistance. As left gastric vein anastamoses with the oesophageal vein draining into azygos vein, the flow obstruction of left gastric vein causes pressure to build up in oesophageal vein as well. Excessive pressure causes wall dilation as adaptation, but overthinning of wall makes it prone to rupture if pressure further increases. This is a important example of porto-caval anastomosis, and make sure you know this.\n\nAnother important example will be the anastomosis between superficial and inferior epigastric veins, and the paraumbilical vein around the umbilicus. The former two veins drain into external iliac vein and IVC, while the paraumbilical vein runs along the ligamentum teres to drain into portal vein. In portal hypertension, superficial and inferior epigastric veins dilate similarly due to pressure build up in paraumbilical vein. Dilation of inferior epigastric vein may not cause significant symptoms, as it runs deep within the rectus sheath. However, dilation of superficial epigastric vein running within the superficial fascia (Subcutaneous fat) of abdomen will be very prominent, causing a web-like pattern of varicose vein known as caput medusae. This is another important clinical sign of portal hypertension.[5]"
+    },
+    "21-22 MEDU2300 Final Q13": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A 57-year-old man is admitted to the emergency department with pain in his left flank and testicles. A CT scan examination provides evidence that blood flow in the left renal vein is being occluded where it crosses anterior to the abdominal aorta. Which of the following is the MOST LIKELY CAUSE of the testicular pain?",
+      "options": {
+        "A": "Compression of the afferent fibers in the lumbar splanchnic fascia",
+        "B": "Compression of the posterior vagus nerve",
+        "C": "Compression of the sympathetic fibers in the pre-aortic plexus",
+        "D": "Occlusion of blood flow in the testicular artery",
+        "E": "Occlusion of blood flow in the testicular vein"
+      },
+      "answer": "E",
+      "explanation": "This is a very classical example of testicular varicocele. As left testicular vein drains into left renal vein, instead of directly into IVC, testicular varicocele is more often in the left due to higher resistance of flow. However, it is irrevelant in this case. Instead, the occlusion in left renal vein will impede drainage of blood from pampiniform venous plexus and causes swelling in spermatic cord, scrotum and testicles."
+    },
+    "21-22 MEDU2300 Final Q14": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A tumour grows anterior to the inferior vena cava immediate above the level of the umbilicus maye compress on:",
+      "options": {
+        "A": "Cisterna chyli",
+        "B": "Right second lumbar artery",
+        "C": "Left renal vein",
+        "D": "The third part of duodenum",
+        "E": "Right sympathetic trunk"
+      },
+      "answer": "D",
+      "explanation": "This refers to the position anterior to IVC at L3/L4 level. Cisterna chyli is roughly on the midline and at L1/L2 level, which is of course not the answer. Right second lumbar artery is at L2 level, running posterior to IVC, hence also not the answer. Left renal vein indeed run anterior to IVC, but it is at around L1 level, so is wrong too. 3rd part of duodenum is the correct answer, for it is running anterior just in front of IVC, and at a low enough position. Keep in mind IVC, portal vein, SMV are nearly running in same line, so as neck of pancreas and 3rd part of duodenum. Right sympathetic trunk runs behind IVC and will not be the answer."
+    },
+    "21-22 MEDU2300 Final Q15": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following arteries is most likely to be eroded when posterior wall of first part of duodenum is involved by a penetrating peptic ulcer?",
+      "options": {
+        "A": "Gastroduodenal artery",
+        "B": "Right gastric artery",
+        "C": "Right gastroepiploic artery",
+        "D": "Right renal artery",
+        "E": "Splenic artery"
+      },
+      "answer": "A",
+      "explanation": "GDA is just posterior to the first part of duodenum. It makes sense as it will divide into right gastro-omental artery, and anterior and posterior superior pancreaticoduodenal arteries running along the curvature of duodenum and head of pancreas. GDA is the only branch of celiac trunk that will anastamose with branches of SMA (Anterior and posterior inferior pancreaticoduodenal arteries) in the division of foregut and midgut (Major duodenal papilla)."
+    },
+    "22-23 MEDU2300 Test Q10": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which artery supplies the part of greater curvature near gastric fundus?",
+      "options": {
+        "A": "Left gastric artery",
+        "B": "Left epiploic artery",
+        "C": "Right gastric artery",
+        "D": "Right gastroepiploic artery",
+        "E": "Short gastric artery"
+      },
+      "answer": "E",
+      "explanation": "Note that this question focuses on the greater curvature near gastric fundus. In simple terms, it is asking for blood supply to the fundus of the stomach. E is the answer. Do not confuse it with the left gastroepiploic artery that supplies the greater omentum, together with the rest of the greater curvature of the stomach body."
+    },
+    "22-23 MEDU2300 Test Q13": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A tumour anterior to IVC just above the level of umbilicus would most compress on:",
+      "options": {
+        "A": "Cisterna chyli",
+        "B": "Left renal vein",
+        "C": "Right sympathetic trunk",
+        "D": "Right third lumbar artery",
+        "E": "Third part of duodenum"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2300 Abdomen Q5": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the stomach is correct?",
+      "options": {
+        "A": "Pancreas is directly posterior to the stomach.",
+        "B": "Stomach is below the right dome of diaphragm.",
+        "C": "Left gastric artery supplies the lesser curve of the cardiac side.",
+        "D": "Splenic artery gives rise to the right gastric artery and gastroduodenal artery to supply the stomach.",
+        "E": "If the nerve of Latarjet is removed, the pyloric muscle would be loosen and not able to contract."
+      },
+      "answer": "C",
+      "explanation": "A. Pancreas and stomach is separated by lesser sac\nB. right → left\nD. The common hepatic artery gives rise to gastroduodenal artery (and hepatic artery proper), which further give rise to right gastroepiploic artery\nRight gastric artery is a DIRECT branch of common hepatic artery (always forgot!)\nThe right and left gastric artery anastomose with each other and supply the lesser curvature of the stomach (option C)\n(splenic artery → short gastric artery & left gastroepiploic artery)\nE. The nerve of Latarjet = a branch of vagus that innervate pyloric sphincter\nnerve supply is cut → not able to RELAX"
+    },
+    "Extra MEDU2300 Abdomen Q6": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following statements about the intestines is incorrect?",
+      "options": {
+        "A": "IMV is left to DJ-flexure while SMA is right to it.",
+        "B": "Jejunum is more vascularized.",
+        "C": "The appendix receives visceral innervation from T10 only.",
+        "D": "Ileocolic artery is a branch of SMA.",
+        "E": "Presence of haustra and taenia coli is a feature of colon."
+      },
+      "answer": "C",
+      "explanation": "Note that the appendix receives sympathetic fibres from T10-T12 (Source: Small Moore)"
+    },
+    "Extra MEDU2300 Abdomen Q7": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is correct?",
+      "options": {
+        "A": "Right colic artery supplies sigmoid colon and ascending colon.",
+        "B": "Ileocolic artery only supplies sigmoid colon.",
+        "C": "Left colic artery supply latter 1/3 transverse and descending colon.",
+        "D": "Sigmoid colon is supplied by the left colic artery.",
+        "E": "Left colic artery arises from the superior mesenteric artery."
+      },
+      "answer": "C",
+      "explanation": "SMA → 3 branches\n- ileocolic artery → ascending colon, ileocecal junction, cecum, appendix\n- right colic artery → ascending and transverse colon\n- middle colic artery → transverse colon\nIMA → 2 branches\n- left colic artery → latter 1/3 of transverse colon and descending colon\n- sigmoid arteries → sigmoid colon"
     }
   }
 }
