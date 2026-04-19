@@ -2015,14 +2015,24 @@
             "13-14 MEDU2300 Test Q6",
             "13-14 MEDU2300 Test Q3",
             "13-14 MEDU2300 Test Q5",
-            "13-14 MEDU2300 Test Q10"
+            "13-14 MEDU2300 Test Q10",
+            "13-14 MEDU2300 Test Q7",
+            "13-14 MEDU2300 Test Q8",
+            "13-14 MEDU2300 Test Q9",
+            "13-14 MEDU2300 Test Q11",
+            "13-14 MEDU2300 Test Q2"
           ],
           "2014-15": [
             "14-15 MEDU2300 Test Q3",
             "14-15 MEDU2300 Test Q5",
             "14-15 MEDU2300 Test Q15",
             "14-15 MEDU2300 Test Q4",
-            "14-15 MEDU2300 Test Q13"
+            "14-15 MEDU2300 Test Q13",
+            "14-15 MEDU2300 Test Q6",
+            "14-15 MEDU2300 Test Q7",
+            "14-15 MEDU2300 Test Q14",
+            "14-15 MEDU2300 Test Q2",
+            "14-15 MEDU2300 Test Q34"
           ],
           "2015-16": [
             "15-16 MEDU2300 Test Q2",
@@ -2048,7 +2058,11 @@
             "15-16 MEDU2300 Test Q3",
             "15-16 MEDU2300 Test Q5",
             "15-16 MEDU2300 Final Q15",
-            "15-16 MEDU2300 Final Q31"
+            "15-16 MEDU2300 Final Q31",
+            "15-16 MEDU2300 Test Q17",
+            "15-16 MEDU2300 Final Q1",
+            "15-16 MEDU2300 Test Q6",
+            "15-16 MEDU2300 Final Q13"
           ],
           "2016-17": [
             "16-17 MEDU2300 Test Q2",
@@ -2079,7 +2093,14 @@
             "16-17 MEDU2300 Final Q12",
             "16-17 MEDU2300 Final Q15",
             "16-17 MEDU2300 Final Q17",
-            "16-17 MEDU2300 Final Q18"
+            "16-17 MEDU2300 Final Q18",
+            "16-17 MEDU2300 Test Q12",
+            "16-17 MEDU2300 Test Q13",
+            "16-17 MEDU2300 Final Q19",
+            "16-17 MEDU2300 Final Q20",
+            "16-17 MEDU2300 Final Q21",
+            "16-17 MEDU2300 Final Q22",
+            "16-17 MEDU2300 Final Q24"
           ],
           "2017-18": [
             "17-18 MEDU2300 Test Q1",
@@ -2102,7 +2123,9 @@
             "17-18 MEDU2300 Test Q12",
             "17-18 MEDU2300 Test Q10",
             "17-18 MEDU2300 Test Q11",
-            "17-18 MEDU2300 Test Q19"
+            "17-18 MEDU2300 Test Q19",
+            "17-18 MEDU2300 Test Q9",
+            "17-18 MEDU2300 Final Q12"
           ],
           "2018-19": [
             "18-19 MEDU2300 Test Q1",
@@ -2120,7 +2143,14 @@
             "18-19 MEDU2300 Test Q9",
             "18-19 MEDU2300 Test Q10",
             "18-19 MEDU2300 Test Q11",
-            "18-19 MEDU2300 Final Q12"
+            "18-19 MEDU2300 Final Q12",
+            "18-19 MEDU2300 Test Q12",
+            "18-19 MEDU2300 Test Q13",
+            "18-19 MEDU2300 Final Q14",
+            "18-19 MEDU2300 Final Q15",
+            "18-19 MEDU2300 Final Q16",
+            "18-19 MEDU2300 Final Q17",
+            "18-19 MEDU2300 Final Q18"
           ],
           "2019-20": [
             "19-20 MEDU2300 Test Q1",
@@ -2137,7 +2167,11 @@
             "19-20 MEDU2300 Final Q12",
             "19-20 MEDU2300 Final Q13",
             "19-20 MEDU2300 Final Q14",
-            "19-20 MEDU2300 Final Q17"
+            "19-20 MEDU2300 Final Q17",
+            "19-20 MEDU2300 Sem1 Q13",
+            "19-20 MEDU2300 Final Q10",
+            "19-20 MEDU2300 Final Q18",
+            "19-20 MEDU2300 Final Q16"
           ],
           "2020-21": [
             "20-21 MEDU2300 Test Q1",
@@ -2155,7 +2189,8 @@
             "20-21 MEDU2300 Sem1 Q8",
             "20-21 MEDU2300 Final Q11",
             "20-21 MEDU2300 Sem1 Q9",
-            "20-21 MEDU2300 Sem1 Q7"
+            "20-21 MEDU2300 Sem1 Q7",
+            "20-21 MEDU2300 Final Q19"
           ],
           "2021-22": [
             "21-22 MEDU2300 Test Q1",
@@ -2184,7 +2219,11 @@
             "21-22 MEDU2300 Final Q10",
             "21-22 MEDU2300 Final Q13",
             "21-22 MEDU2300 Final Q14",
-            "21-22 MEDU2300 Final Q15"
+            "21-22 MEDU2300 Final Q15",
+            "21-22 MEDU2300 Test Q12",
+            "21-22 MEDU2300 Test Q13",
+            "21-22 MEDU2300 Final Q11",
+            "21-22 MEDU2300 Final Q12"
           ],
           "2022-23": [
             "22-23 MEDU2300 Test Q1",
@@ -2199,7 +2238,8 @@
             "22-23 MEDU2300 Test Q9",
             "22-23 MEDU2300 Test Q8",
             "22-23 MEDU2300 Test Q10",
-            "22-23 MEDU2300 Test Q13"
+            "22-23 MEDU2300 Test Q13",
+            "22-23 MEDU2300 Test Q12"
           ],
           "unclassified": [
             "FA MEDU2300 Thorax Q1",
@@ -2230,7 +2270,13 @@
             "Extra MEDU2300 Abdomen Q4",
             "Extra MEDU2300 Abdomen Q5",
             "Extra MEDU2300 Abdomen Q6",
-            "Extra MEDU2300 Abdomen Q7"
+            "Extra MEDU2300 Abdomen Q7",
+            "Extra MEDU2300 Abdomen Q8",
+            "Extra MEDU2300 Abdomen Q9",
+            "Extra MEDU2300 Abdomen Q10",
+            "Extra MEDU2300 Abdomen Q11",
+            "Extra MEDU2300 Abdomen Q12",
+            "Extra MEDU2300 Abdomen Q13"
           ]
         },
         "byTopic": {
@@ -2322,7 +2368,53 @@
             "22-23 MEDU2300 Test Q13",
             "Extra MEDU2300 Abdomen Q5",
             "Extra MEDU2300 Abdomen Q6",
-            "Extra MEDU2300 Abdomen Q7"
+            "Extra MEDU2300 Abdomen Q7",
+            "13-14 MEDU2300 Test Q7",
+            "13-14 MEDU2300 Test Q8",
+            "13-14 MEDU2300 Test Q9",
+            "14-15 MEDU2300 Test Q6",
+            "14-15 MEDU2300 Test Q7",
+            "14-15 MEDU2300 Test Q14",
+            "15-16 MEDU2300 Test Q17",
+            "15-16 MEDU2300 Final Q1",
+            "16-17 MEDU2300 Test Q12",
+            "16-17 MEDU2300 Test Q13",
+            "16-17 MEDU2300 Final Q19",
+            "16-17 MEDU2300 Final Q20",
+            "17-18 MEDU2300 Test Q9",
+            "17-18 MEDU2300 Final Q12",
+            "18-19 MEDU2300 Test Q12",
+            "18-19 MEDU2300 Test Q13",
+            "18-19 MEDU2300 Final Q14",
+            "18-19 MEDU2300 Final Q15",
+            "19-20 MEDU2300 Sem1 Q13",
+            "19-20 MEDU2300 Final Q10",
+            "21-22 MEDU2300 Test Q12",
+            "21-22 MEDU2300 Test Q13",
+            "21-22 MEDU2300 Final Q11",
+            "21-22 MEDU2300 Final Q12",
+            "22-23 MEDU2300 Test Q12",
+            "Extra MEDU2300 Abdomen Q8",
+            "Extra MEDU2300 Abdomen Q9",
+            "13-14 MEDU2300 Test Q11",
+            "14-15 MEDU2300 Test Q2",
+            "15-16 MEDU2300 Test Q6",
+            "16-17 MEDU2300 Final Q21",
+            "19-20 MEDU2300 Final Q18",
+            "Extra MEDU2300 Abdomen Q10",
+            "Extra MEDU2300 Abdomen Q11",
+            "13-14 MEDU2300 Test Q2",
+            "14-15 MEDU2300 Test Q34",
+            "15-16 MEDU2300 Final Q13",
+            "16-17 MEDU2300 Final Q22",
+            "16-17 MEDU2300 Final Q24",
+            "18-19 MEDU2300 Final Q16",
+            "18-19 MEDU2300 Final Q17",
+            "18-19 MEDU2300 Final Q18",
+            "19-20 MEDU2300 Final Q16",
+            "20-21 MEDU2300 Final Q19",
+            "Extra MEDU2300 Abdomen Q12",
+            "Extra MEDU2300 Abdomen Q13"
           ],
           "Thorax": [
             "15-16 MEDU2300 Test Q2",
@@ -10916,8 +11008,8 @@
         "D": "Increase PP",
         "E": "Increase VR"
       },
-      "answer": "D",
-      "explanation": "It would be better to place this question at Integrative Cardiovascular Physiology.\nFirst you should know VR decreases due to gravity, and then SV and MAP drop. Obviously B and E are wrong at this point. Ejection fraction will not be affected by postural changes, but instead slowly decreases in the case of systolic heart failure, which is not the case here (You can’t have significant change in EF within hours).\nA is achieved under PSNS stimulation, which is the opposite of this scene, as baroreceptor reflex will take place to restore MAP by increasing SNS output. However, this is not caused by direct innervation, but instead active hyperemia. The positive chronotropic and inotropic effects in the heart will increase its energy consumption and production of vasodilators, e.g. adenosine, H+, K+ etc. The dilation of coronary arteries will lower the resistance, so A is false.\nThe only answer here is D. Positive inotropy of the heart raises the SP, and therefore raises the PP (SP-DP). Actually, DP can also raise as SNS effect also includes peripheral vasoconstriction, but such effect will increase VR and then SV, so that the increase in SP will be greater than DP, leading to net increase in PP.\nThis is a pretty interesting question and lets you have a feeling of logical deduction in physiology. Sometimes, different factors will contradict each other, and you will need to justify the results with principles instead. Stick to the given result, and try to weigh out which factor predominates in the setting will be the answer."
+      "answer": "C",
+      "explanation": "The initial answer provided is \"D. Increase PP\", but we think that C may be a better answer. Below is the original explanation for D as the answer, copied from the source. \n\nIt would be better to place this question at Integrative Cardiovascular Physiology.\nFirst you should know VR decreases due to gravity, and then SV and MAP drop. Obviously B and E are wrong at this point. Ejection fraction will not be affected by postural changes, but instead slowly decreases in the case of systolic heart failure, which is not the case here (You can’t have significant change in EF within hours).\nA is achieved under PSNS stimulation, which is the opposite of this scene, as baroreceptor reflex will take place to restore MAP by increasing SNS output. However, this is not caused by direct innervation, but instead active hyperemia. The positive chronotropic and inotropic effects in the heart will increase its energy consumption and production of vasodilators, e.g. adenosine, H+, K+ etc. The dilation of coronary arteries will lower the resistance, so A is false.\nThe only answer here is D. Positive inotropy of the heart raises the SP, and therefore raises the PP (SP-DP). Actually, DP can also raise as SNS effect also includes peripheral vasoconstriction, but such effect will increase VR and then SV, so that the increase in SP will be greater than DP, leading to net increase in PP.\nThis is a pretty interesting question and lets you have a feeling of logical deduction in physiology. Sometimes, different factors will contradict each other, and you will need to justify the results with principles instead. Stick to the given result, and try to weigh out which factor predominates in the setting will be the answer."
     },
     "21-22 MEDU2400 Final Q11": {
       "year": "2021-22",
@@ -12136,7 +12228,7 @@
         "D": "Reducing activity of mechanoreceptor of skeletal muscle",
         "E": "Reducing HR by suppressing stimulation of baroreceptor reflex"
       },
-      "answer": "C",
+      "answer": "E",
       "explanation": "I personally memorized the whole chart of decompensatory response, in case it appears in SAQ or EQ. (Damn then it turns out to be that coronary circulation question, which scared all of us.)\n\nDuring hemorrhage, massive volume loss reduces the perfusion to tissues and also MAP. As compensation, baroreceptor reflex increases SNS outflow to try to restore MAP, by increasing heart rate and contractility, and TPR via peripheral vasoconstriction. Although MAP is restored, **the great TPR raises afterload and limits SV and CO**. The low CO compromises tissue perfusion and causes ischemia there. There are 3 pathways of decompensatory response, which **all start with low CO due to high TPR**. \n\nIschemia in the brain damages the CVLM, which increases even more SNS output from RVLM as its inhibition is removed, further worsening the situation. \n\nIschemia of the vascular wall increases its permeability and more plasma is trapped within the tissue fluid, decreasing the effective circulating volume. \n\nTissue ischemia releases a lot of metabolites that suppress the heart function, e.g. adenosine acts on A1 receptors to reduce HR and contractility. \n\nThese three further decrease the compensated MAP, and TPR is further raised to try to compensate again. This cycle continues until death, and cannot be reversed even with fluid transfusion if permanent tissue damage has been elicited."
     },
     "18-19 MEDU2400 Test Q33": {
@@ -19858,7 +19950,7 @@
       "question_number": 12,
       "level": "Year 2",
       "topic": "Nitrogen",
-      "question": "Which of the following statements are correct about tyrosine?\nI It is both glucogenic and ketogenic\nII It could be a precursor of neurotransmitters\nIII It could be a precursor of phospholipids\nIV It could be converted to become Triiodothyronine, a thyroid hormone",
+      "question": "Which of the following statements are correct about tyrosine?\n\nI. It is both glucogenic and ketogenic\nII. It could be a precursor of neurotransmitters\nIII. It could be a precursor of phospholipids\nIV. It could be converted to become Triiodothyronine, a thyroid hormone",
       "options": {
         "A": "I II",
         "B": "II IV",
@@ -19867,7 +19959,7 @@
         "E": "all of the above"
       },
       "answer": "D",
-      "explanation": "I Tyrosine (and phenylalanine) can be converted into fumarate or acetoacetate, which are either intermediates for gluconeogenesis or ketogenesis\nII Tyrosine can be used for synthesis of serotonin or melatonin\nIII serine\nIV Correct"
+      "explanation": "I Tyrosine (and phenylalanine) can be converted into fumarate or acetoacetate, which are either intermediates for gluconeogenesis or ketogenesis\nII Tyrosine can be used for synthesis of catecholamines\nIII serine\nIV Correct"
     },
     "Extra MEDU2600 Nitrogen Q13": {
       "year": "unclassified",
@@ -20871,7 +20963,7 @@
         "E": "Left gastroepiploic artery"
       },
       "answer": "A",
-      "explanation": "Superior (anterior & posterior) pancreaticoduodenal arteries come from the GDA (celiac trunk)\nInferior pancreaticoduodenal arteries come from the SMA\nSome arteries from the splenic arteries also supply the pancreas"
+      "explanation": "Superior (anterior & posterior) pancreaticoduodenal arteries come from the GDA (celiac trunk)\nInferior pancreaticoduodenal arteries come from the SMA\nSome arteries from the splenic arteries also supply the pancreas\n\nB. Branch of gastroduodenal a. \nC. Branch of common hepatic a. \nD. Branch of proper hepatic a. \nE. Branch of splenic a. "
     },
     "16-17 MEDU2300 Test Q11": {
       "year": "2016-17",
@@ -21194,7 +21286,7 @@
         "E": "Root of mesentery[3][4]"
       },
       "answer": "E",
-      "explanation": "Left gonadal artery is far far left from IVC. Right adrenal gland is on the right of IVC. Body of pancreas is a bit hard to tell, but we can use the relationship SMV runs beneath neck of pancreas, while it is almost anterior to IVC, to deduce for this. Also, it is the 3rd part of duodenum below neck of pancreas to run across IVC anteriorly. Summing up everything, body of pancreas is the on the left of neck, and of course on the left of IVC. D is also wrong as explained above. E is true answer, as it extends from DJ flexure on left of IVC, to ileocolic junction on left of IVC.\n\n![](img/21-22_MEDU2300_Test_Q11_1776529851412.png)"
+      "explanation": "Left gonadal artery is far far left from IVC. Right adrenal gland is on the right of IVC. Body of pancreas is a bit hard to tell, but we can use the relationship SMV runs beneath neck of pancreas, while it is almost anterior to IVC, to deduce for this. Also, it is the 3rd part of duodenum below neck of pancreas to run across IVC anteriorly. Summing up everything, body of pancreas is the on the left of neck, and of course on the left of IVC. D is also wrong as explained above. E is true answer, as it extends from DJ flexure on left of IVC, to ileocolic junction on left of IVC.\n\n![](img/21-22_MEDU2300_Test_Q11_1776529851412.png)\n![](img/21-22_MEDU2300_Test_Q11_1776572438591.png)"
     },
     "21-22 MEDU2300 Final Q10": {
       "year": "2021-22",
@@ -21211,7 +21303,7 @@
         "E": "Short gastric"
       },
       "answer": "B",
-      "explanation": "This is something you should know well in terms of clinical significance. This is a case of Mallory-Weiss tear, which features rupture of oesophageal varices (Dilated vein) and massive hemorrhage.\n\nOesophageal varice is formed most oftenly in the case of portal hypertension, as a complication of uncontrolled cirrhosis or other liver disease. The obstruction of hepatic circulation due to fibrosis (Cirrhosis) or other reasons causes impairs the drainage of hepatic portal vein, leading to pressure building up in its tributaries (Veins draining into portal vein). One of them is the left gastric vein directly draining into IVC, which is even more prone to flow obstruction due to its small size and high resistance. As left gastric vein anastamoses with the oesophageal vein draining into azygos vein, the flow obstruction of left gastric vein causes pressure to build up in oesophageal vein as well. Excessive pressure causes wall dilation as adaptation, but overthinning of wall makes it prone to rupture if pressure further increases. This is a important example of porto-caval anastomosis, and make sure you know this.\n\nAnother important example will be the anastomosis between superficial and inferior epigastric veins, and the paraumbilical vein around the umbilicus. The former two veins drain into external iliac vein and IVC, while the paraumbilical vein runs along the ligamentum teres to drain into portal vein. In portal hypertension, superficial and inferior epigastric veins dilate similarly due to pressure build up in paraumbilical vein. Dilation of inferior epigastric vein may not cause significant symptoms, as it runs deep within the rectus sheath. However, dilation of superficial epigastric vein running within the superficial fascia (Subcutaneous fat) of abdomen will be very prominent, causing a web-like pattern of varicose vein known as caput medusae. This is another important clinical sign of portal hypertension.[5]"
+      "explanation": "This is something you should know well in terms of clinical significance. This is a case of Mallory-Weiss tear, which features rupture of oesophageal varices (Dilated vein) and massive hemorrhage.\n\nOesophageal varice is formed most oftenly in the case of portal hypertension, as a complication of uncontrolled cirrhosis or other liver disease. The obstruction of hepatic circulation due to fibrosis (Cirrhosis) or other reasons causes impairs the drainage of hepatic portal vein, leading to pressure building up in its tributaries (Veins draining into portal vein). One of them is the left gastric vein directly draining into IVC, which is even more prone to flow obstruction due to its small size and high resistance. As left gastric vein anastamoses with the oesophageal vein draining into azygos vein, the flow obstruction of left gastric vein causes pressure to build up in oesophageal vein as well. Excessive pressure causes wall dilation as adaptation, but overthinning of wall makes it prone to rupture if pressure further increases. This is a important example of porto-caval anastomosis, and make sure you know this.\n\nAnother important example will be the anastomosis between superficial and inferior epigastric veins, and the paraumbilical vein around the umbilicus. The former two veins drain into external iliac vein and IVC, while the paraumbilical vein runs along the ligamentum teres to drain into portal vein. In portal hypertension, superficial and inferior epigastric veins dilate similarly due to pressure build up in paraumbilical vein. Dilation of inferior epigastric vein may not cause significant symptoms, as it runs deep within the rectus sheath. However, dilation of superficial epigastric vein running within the superficial fascia (Subcutaneous fat) of abdomen will be very prominent, causing a web-like pattern of varicose vein known as caput medusae. This is another important clinical sign of portal hypertension."
     },
     "21-22 MEDU2300 Final Q13": {
       "year": "2021-22",
@@ -21228,7 +21320,7 @@
         "E": "Occlusion of blood flow in the testicular vein"
       },
       "answer": "E",
-      "explanation": "This is a very classical example of testicular varicocele. As left testicular vein drains into left renal vein, instead of directly into IVC, testicular varicocele is more often in the left due to higher resistance of flow. However, it is irrevelant in this case. Instead, the occlusion in left renal vein will impede drainage of blood from pampiniform venous plexus and causes swelling in spermatic cord, scrotum and testicles."
+      "explanation": "This is a very classical example of testicular varicocele. As left testicular vein drains into left renal vein, instead of directly into IVC, testicular varicocele is more often in the left due to higher resistance of flow. However, it is irrevelant in this case. Instead, the occlusion in left renal vein will impede drainage of blood from pampiniform venous plexus and causes swelling in spermatic cord, scrotum and testicles.\n\n![](img/21-22_MEDU2300_Final_Q13_1776572470735.png)"
     },
     "21-22 MEDU2300 Final Q14": {
       "year": "2021-22",
@@ -21348,6 +21440,784 @@
       },
       "answer": "C",
       "explanation": "SMA → 3 branches\n- ileocolic artery → ascending colon, ileocecal junction, cecum, appendix\n- right colic artery → ascending and transverse colon\n- middle colic artery → transverse colon\nIMA → 2 branches\n- left colic artery → latter 1/3 of transverse colon and descending colon\n- sigmoid arteries → sigmoid colon"
+    },
+    "13-14 MEDU2300 Test Q7": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which (All) of the following statements concerning the gallbladder is correct except",
+      "options": {
+        "A": "The gallbladder is supplied by the cystic artery.",
+        "B": "The position of the fundus is just beneath the tip of the right ninth costal cartilage.",
+        "C": "The gallbladder is surrounded by peritoneum including the fundus, body and the neck.",
+        "D": "The gallbladder is supplied by celiac plexus.",
+        "E": "The pain from gallbladder disease is referred along splenic and supraclavicular nerves over skin to shoulder."
+      },
+      "answer": "E",
+      "explanation": "gallbladder is supplied by cystic artery originated from celiac trunk (right hepatic artery)→ A, D true\nC: true\nB: refer to the diagram below\n![](img/13-14_MEDU2300_Test_Q7_1776573341143.png)\nE. Gallbladder pain is usually on the right hypochondriac region and up to the right shoulders and back.\nWhen your gallbladder is inflamed and swollen, it irritates your right phrenic nerve. Your phrenic nerve stretches from the abdomen, through the chest, and into your neck. Each time you eat a fatty meal, it aggravates the nerve and causes referred pain in your right shoulder blade.\n(https://www.desertwestsurgery.com/blog/what-that-pain-in-your-shoulder-could-say-about-your-gut)"
+    },
+    "13-14 MEDU2300 Test Q8": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "In a laparoscopic cholecystectomy, a trainee accidentally clamp the hepatoduodenal ligament instead of the cystic artery, which of the following artery would most likely to be occluded?",
+      "options": {
+        "A": "SMA",
+        "B": "Hepatic artery proper",
+        "C": "Splenic artery",
+        "D": "Common hepatic artery",
+        "E": "IVC"
+      },
+      "answer": "B",
+      "explanation": "The hepatoduodenal ligament contains the portal triad."
+    },
+    "13-14 MEDU2300 Test Q9": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A patient with jaundice, epigastric pain radiating on the back, enlarged intra-hepatic duct, which of the following will the gallstone be?",
+      "options": {
+        "A": "Ampulla of Vater",
+        "B": "Common bile duct",
+        "C": "Right hepatic duct",
+        "D": "Left hepatic duct",
+        "E": "Cystic duct"
+      },
+      "answer": "B",
+      "explanation": "Only gallstone at common hepatic duct or common bile duct may cause obstructive jaundice only. A could be a viable choice, but there is no sign of acute pancreatitis so it is unlikely the route from pancreatic ducts to duodenum being blocked."
+    },
+    "14-15 MEDU2300 Test Q6": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A doctor wants to do a liver biopsy but he punctures the right upper abdominal wall mistakenly, which organ has he damaged?",
+      "options": {
+        "A": "stomach",
+        "B": "lung",
+        "C": "gall bladder",
+        "D": "spleen"
+      },
+      "answer": "B",
+      "explanation": "There are 2 possible ways of damage in a liver biopsy.\n1. Injuring the upper part of the liver: The parietal pleura of our lungs, particularly at the costodiaphragmatic recess, is likely to get hurt.\n2. Injuring the lower part of the liver: Note that the inferior border of the liver cannot fully cover our gallbladder. The gallbladder may be damaged if the needle is inserted at a position which is too low.\nA. Stomach lies in the epigastric region.\nB. Lung has the closest proximity to the right hypochondriac region.\nC. Gall bladder is in the upper right abdomen, right under the liver. The lung has a greater chance of injury in this case.\nD. Spleen is on the left side of the abdomen."
+    },
+    "14-15 MEDU2300 Test Q7": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Hepatic portal vein is formed by the union of which vessels?",
+      "options": {
+        "A": "Oesophageal veins and splenic veins",
+        "B": "Left gastric vein and hepatic veins",
+        "C": "Splenic vein and IMV",
+        "D": "SMV and IMV",
+        "E": "SMV and splenic vein"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "14-15 MEDU2300 Test Q14": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following structure(s) DOES NOT/ DO NOT pass through the porta hepatis of the liver?",
+      "options": {
+        "A": "Common bile duct",
+        "B": "Lymph vessels",
+        "C": "Hepatic portal vein",
+        "D": "Hepatic artery proper",
+        "E": "Autonomic nerve fibres"
+      },
+      "answer": "A",
+      "explanation": "A. common hepatic duct\nCommon bile duct is formed by the union of common hepatic duct and cystic duct outside of the porta hepatis."
+    },
+    "15-16 MEDU2300 Test Q17": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following regarding the common bile duct is correct?",
+      "options": {
+        "A": "It lies posterior to the hepatic artery in the lesser omentum.",
+        "B": "It passes anterior to the right renal vein",
+        "C": "It has a spiral valve.",
+        "D": "Its opening into the duodenum is usually separated from the main pancreatic duct",
+        "E": "Bile can flow into it even if the cystic duct is obstructed."
+      },
+      "answer": "E",
+      "explanation": "A. Common bile duct anterior to portal vein, right and anterior to hepatic artery proper\nB. not exactly anterior\nC. spiral valve is present in cystic duct (Heister’s valve)\nD. common opening in duodenal papilla\nE. Actually ok since bile is produced from the liver, and the bile can enter from the left and right hepatic ducts / common hepatic ducts\n\n![](img/15-16_MEDU2300_Test_Q17_1776573391882.png)\n![](img/15-16_MEDU2300_Test_Q17_1776573398046.png)"
+    },
+    "15-16 MEDU2300 Final Q1": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following structures is or are most likely to be accidentally damaged by inserting a biopsy needle into the right lobe of liver ?",
+      "options": {
+        "A": "Pleura",
+        "B": "Right kidney",
+        "C": "Right adrenal gland",
+        "D": "Transverse colon",
+        "E": "All of the above"
+      },
+      "answer": "A",
+      "explanation": "Accidental injury to a nearby organ. In rare instances, the needle may stick to another internal organ, such as the gallbladder or a lung, during a liver biopsy. (https://www.mayoclinic.org/tests-procedures/liver-biopsy/about/pac-20394576)"
+    },
+    "16-17 MEDU2300 Test Q12": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which structure is in hepatoduodenal ligament",
+      "options": {
+        "A": "Hepatic vein",
+        "B": "Hepatic artery proper",
+        "C": "Cystic duct",
+        "D": "Hepatic duct"
+      },
+      "answer": "B",
+      "explanation": "* this question = what are the contents of the portal triad?\n- hepatic artery proper\n- hepatic portal vein\n- common bile duct\nDO NOT MIX THIS UP WITH PORTA HEPATIS:\n1. Hepatic portal vein\n2. Common HEPATIC duct\n3. Hepatic artery"
+    },
+    "16-17 MEDU2300 Test Q13": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "During the elective laparoscopic cholecystectomy in a 42-year-old female patient, a surgical trainee accidentally clamped the hepatoduodenal ligament instead of cystic artery. Which of the following vessels will most likely be occluded in the latrogenic injury?",
+      "options": {
+        "A": "Coeliac artery",
+        "B": "Inferior vena cava",
+        "C": "Proper hepatic artery",
+        "D": "Splenic artery",
+        "E": "Superior mesenteric artery"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "16-17 MEDU2300 Final Q19": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "There are anastomoses in the rectum to collect blood into the portal venous system, then enters systemic venous system. Which is the vein draining to the portal venous system?",
+      "options": {
+        "A": "Superior rectal vein",
+        "B": "Middle rectal vein",
+        "C": "Inferior rectal vein",
+        "D": "Median sacral vein"
+      },
+      "answer": "A",
+      "explanation": "All others drain to common iliac vein or its branches → IVC\nThis is a question that focuses on the portosystemic anastomoses."
+    },
+    "16-17 MEDU2300 Final Q20": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "In regard to the structures in contact with the posterior aspects of the right lobe of the liver, which of the following are most likely to be correct?",
+      "options": {
+        "A": "Diaphragm",
+        "B": "Diaphragm, inferior vena cava",
+        "C": "Diaphragm, inferior vena cava, duodenum",
+        "D": "Diaphragm, inferior vena cava, right suprarenal gland",
+        "E": "Diaphragm, inferior vena cava, duodenum, right suprarenal gland"
+      },
+      "answer": "E",
+      "explanation": "![](img/16-17_MEDU2300_Final_Q20_1776573425104.png)"
+    },
+    "17-18 MEDU2300 Test Q9": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following concerning the common bile duct is correct?",
+      "options": {
+        "A": "It is surrounded by a sphincter at its terminal",
+        "B": "it is the union of left and right hepatic duct",
+        "C": "It joins the accessory pancreatic duct",
+        "D": "Is in the free edge of greater omentum",
+        "E": "Is compressed by a tumour in pancreatic neck"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "17-18 MEDU2300 Final Q12": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "During an elective laparoscopic cholecystectomy, a surgical trainee accidentally clamped the hepatoduodenal ligament instead of cystic artery. Which of the following vessels is most likely occluded?",
+      "options": {
+        "A": "Common hepatic artery",
+        "B": "Inferior vena cava",
+        "C": "Portal vein",
+        "D": "Splenic artery",
+        "E": "Superior mesenteric artery"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "18-19 MEDU2300 Test Q12": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "All are direct tributaries of portal vein except:",
+      "options": {
+        "A": "right gastric vein",
+        "B": "left gastric vein",
+        "C": "short gastric vein",
+        "D": "splenic vein",
+        "E": "superior pancreaticoduodenal vein"
+      },
+      "answer": "C",
+      "explanation": "Short gastric drains into splenic first\nThe word “direct” is important for this question."
+    },
+    "18-19 MEDU2300 Test Q13": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following represents the arrangement of structure in porta hepatis from anterior to posterior?",
+      "options": {
+        "A": "hepatic artery, portal vein, hepatic duct",
+        "B": "hepatic duct, cystic duct, Hepatic artery, portal vein",
+        "C": "hepatic duct, hepatic artery, cystic duct, portal vein",
+        "D": "hepatic duct, hepatic artery, portal vein",
+        "E": "portal vein, hepatic duct, hepatic artery"
+      },
+      "answer": "D",
+      "explanation": "Firstly, there are only 3 things that pass through the porta hepatis: portal vein, hepatic artery & common hepatic duct → Eliminate B, C\nPortal vein is the smile of the smiley face → only D is ok\n\n![](img/18-19_MEDU2300_Test_Q13_1776573449322.png)"
+    },
+    "18-19 MEDU2300 Final Q14": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the portal vein is correct?",
+      "options": {
+        "A": "It has valves",
+        "B": "It is formed by the union of the superior and inferior mesenteric veins",
+        "C": "It is separated from the IVC by peritoneal cavity for part of its course",
+        "D": "It is in contact with the quadrate lobe of the liver",
+        "E": "it drains blood from the renal veins"
+      },
+      "answer": "C",
+      "explanation": "A. no valves in portal vein (google sensei)\nB. union of SMV and splenic **IMV drains into splenic vein first\nD. not in contact with quadrate lobe\n![](img/18-19_MEDU2300_Final_Q14_1776573465979.png)\nE. It does not. Renal veins are directly connected to the inferior vena cava."
+    },
+    "18-19 MEDU2300 Final Q15": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "In liver resection, a clamp is placed in the hepatoduodenal ligament, what artery will be affected?",
+      "options": {
+        "A": "Celiac trunk",
+        "B": "Gastroduodenal artery",
+        "C": "hepatic artery proper",
+        "D": "splenic artery",
+        "E": "sma"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Sem1 Q13": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which ligament of the liver is attached to the anterior abdominal wall?",
+      "options": {
+        "A": "Falciform ligament",
+        "B": "Left triangular ligament",
+        "C": "Right triangular ligament",
+        "D": "Caudate ligament",
+        "E": "Hepatoduodenal ligament"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q10": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "During an elective laparoscopic cholecystectomy in a 42 year old female patient, the surgical trainee accidentally clamped the hepatoduodenal ligament instead of the cystic artery. Which of the following is most likely to be occluded?",
+      "options": {
+        "A": "Proper hepatic artery",
+        "B": "Common hepatic artery",
+        "C": "Splenic artery",
+        "D": "IVC",
+        "E": "Superior mesenteric artery"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "21-22 MEDU2300 Test Q12": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the common bile duct is correct?",
+      "options": {
+        "A": "Bile can flow into it even if cystic duct is obstructed",
+        "B": "It has a spiral valve",
+        "C": "It lies posterior to hepatic artery in lesser omentum",
+        "D": "It passes anteriorly to right renal vein",
+        "E": "It opens into duodenum separately from main pancreatic duct"
+      },
+      "answer": "A",
+      "explanation": "A is correct, as common hepatic duct is still patent for flow of bile into CBD. Spiral valve is present in cystic duct instead. Note that CBD (Right) and hepatic artery proper (Left) runs together in hepatoduodenal ligament, while portal vein is the one at the back. This is not hard to memorize, just recall that Calot’s triangle is at the anterior aspect of hepatoduodenal ligament is enough. As CBD runs anterior to portal vein, hence it runs anterior to IVC as well. So, CBD is on the left or right renal vein. E is clearly wrong as CBD and main pancreatic duct to form the ampulla of Vater, which drains together into duodenum at major duodenal papilla."
+    },
+    "21-22 MEDU2300 Test Q13": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "With respect to the posterior aspect of the right lobe of liver, which of the following best describes the structures in contact?",
+      "options": {
+        "A": "Diaphragm",
+        "B": "Diaphragm, inferior vena cava",
+        "C": "Diaphragm, inferior vena cava, duodenum",
+        "D": "Diaphragm, inferior vena cava, right adrenal gland",
+        "E": "Diaphragm, inferior vena cava, right adrenal gland, duodenum"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "21-22 MEDU2300 Final Q11": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "In a patient with pancreatic cancer presenting with post-hepatic jaundice. Where is the tumour most likely located?",
+      "options": {
+        "A": "Body of pancreas",
+        "B": "Head of pancreas",
+        "C": "Neck of pancreas",
+        "D": "Tail of pancreas",
+        "E": "Uncinate process of pancreas"
+      },
+      "answer": "B",
+      "explanation": "Tumour at head of pancreas = Common bile duct\nTumour at neck of pancreas = SMA / SMV\n\nThe following chunks of word FYI only.\nJaundice refers to abnormal building up of excess bilirubin, which could have different causes. Post-hepatic means that the problem arises distal to the liver, indicating problems in excreting the bilirubin in bile. Common reasons involve gallstone in common hepatic or common bile duct, or in this case, a tumour of head of pancreas compressing the common bile duct, hence it is also called obstructive jaundice. In post-hepatic jaundice, as the liver can function normally to conjugate bilirubin with glucuronide to facilitate its transport and excretion, there will be increased level of conjugated bilirubin, and normal level of unconjugated bilirubin.\n\nSlightly extending our learning, you also need to know pre-hepatic and hepatic causes of jaundice. Pre-hepatic jaundice means that the bilirubin load is too large for the liver to handle via glucuronidation. A common cause is hemolytic anemia (e.g. G6PD deficiency), such that excess hemoglobin breakdown releases large amount of bilirubin and exceeds the capacity of hepatic glucuronidation. There will be icnreased level of unconjugated bilirubi, and normal level of conjugated bilirubin.\n\nHepatic cause of jaundice simply stands for liver injury due to infection, medication or other diseases, leading to decreased liver metabolism of bilirubin. There will be increase in both conjugated and unconjugated bilirubin. The rise of unconjugated bilirubin is simple to understand as liver is less capable of glucuronidation, but the rise of conjugated bilirubin is much more counterintuitive. This is because the reduced ability of hepatocytes to transport conjugated bilirubin into bile canaliculi, thus being absorbed into blood instead of excreting in bile. But more importantly, there will be rise in plasma of AST and ALT due to lysis of hepatocytes.\n\nObstructive jaundice is quite interesting as I can tell you this topic can appear in either HUS, HUF or MMG papers. Try to understand the relationship between anatomy and the underlying physiology and biochemistry, then you are really mastering those knowledge. The key is always about making connections."
+    },
+    "21-22 MEDU2300 Final Q12": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following has NO visceral contact with liver?",
+      "options": {
+        "A": "abdominal aorta",
+        "B": "duodenum",
+        "C": "IVC",
+        "D": "right colic flexure",
+        "E": "Stomach"
+      },
+      "answer": "A",
+      "explanation": "Abdominal aorta only connects with liver through the arteries, but no visceral contact. Duodenum and right colic flexure touch's the inferior part of right lobe of liver. IVC contacts the superior part of right lobe, while stomach lies against the left lobe of liver. All these relations are on the posterior surface of liver."
+    },
+    "22-23 MEDU2300 Test Q12": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following regarding the common bile duct is true?",
+      "options": {
+        "A": "It can be compressed by a tumour located at the neck of pancreas.",
+        "B": "It is formed by the union of the left and right hepatic duct.",
+        "C": "At its termination, it is surrounded by a ring of sphincter.",
+        "D": "It is joined by the accessory pancreatic duct.",
+        "E": "It lies at the free edge of the greater omentum."
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU2300 Abdomen Q8": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the biliary system is correct?",
+      "options": {
+        "A": "Gallbladder is an intraperitoneal organ.",
+        "B": "Gallbladder is supplied by the cystic artery, which is a branch of the left hepatic artery.",
+        "C": "Cystic duct joint main pancreatic duct directly.",
+        "D": "Common hepatic duct has a spiral valve.",
+        "E": "Pringle maneuver refers to ligation of hepatoduodenal ligament during surgery."
+      },
+      "answer": "A",
+      "explanation": "A. it’s correct\nB. left → right\nC. join distal hepatic duct first\nD. cystic duct has a spiral valve\nE. ligation → compression"
+    },
+    "Extra MEDU2300 Abdomen Q9": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about ligaments of liver is correct?",
+      "options": {
+        "A": "Ligamentum teres is a remnant of the right umbilical vein.",
+        "B": "Triangular ligament covers the right lobe of the liver.",
+        "C": "Falciform ligament anchors the liver to the anterior abdominal wall and psoas major at the posterior abdominal wall.",
+        "D": "Coronary ligament attaches the liver to diaphragm, right kidney and adrenal gland",
+        "E": "Hepatoduodenal ligament contains hepatic vein."
+      },
+      "answer": "D",
+      "explanation": "A. right → left\nB. right → left\nC. psoas major → diaphragm\nD. It’s correct\nE. hepatic vein → portal vein"
+    },
+    "13-14 MEDU2300 Test Q11": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "A patient is admitted to hospital with abdominal pain. CT scan of abdomen shows a mass near the head of pancreas. Which of the following structure is the most likely to be compressed?",
+      "options": {
+        "A": "Hepatic artery",
+        "B": "Portal vein",
+        "C": "Gallbladder",
+        "D": "Cystic duct",
+        "E": "Common bile duct"
+      },
+      "answer": "E",
+      "explanation": "![](img/13-14_MEDU2300_Test_Q11_1776573519144.png)"
+    },
+    "14-15 MEDU2300 Test Q2": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following is the least likely to happen with regard to a tumour in the pancreas?",
+      "options": {
+        "A": "Obstruction of the common bile duct",
+        "B": "Obstruction of IVC",
+        "C": "Obstruction of the portal vein",
+        "D": "Obstruction of the pyloric canal",
+        "E": "Obstruction of the left ureter"
+      },
+      "answer": "E",
+      "explanation": "The left ureter is related to the tail of the pancreas, which is the least likely to have a tumour.\n\n![](img/14-15_MEDU2300_Test_Q2_1776573532434.png)"
+    },
+    "15-16 MEDU2300 Test Q6": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following statements about spleen is incorrect?",
+      "options": {
+        "A": "Enlarged spleen due to liver hypertension",
+        "B": "Enlarged spleen due to liver cirrhosis",
+        "C": "Spleen is retro-peritoneal",
+        "D": "Spleen may be damaged by fracture of 9th-11th ribs (?)"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "16-17 MEDU2300 Final Q21": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following statements is correct?",
+      "options": {
+        "A": "Cancer in the pancreatic head will compress on the common bile duct",
+        "B": "Spleen is a retroperitoneal organ",
+        "C": "The course of right renal vein is longer than the left",
+        "D": "The right suprarenal gland lies close to aorta than inferior Vena cava",
+        "E": "The pancreatic tail lies close to the stomach, spleen and gallbladder."
+      },
+      "answer": "A",
+      "explanation": "A. Correct\nB. Spleen is an intraperitoneal organ\nC. Right renal vein is much shorter than the left one due to close proximity with IVC\nD. IVC is on the right side of aorta, so is definitely closer to the right suprarenal gland\nE. Gallbladder lies on the side of the head of pancreas"
+    },
+    "19-20 MEDU2300 Final Q18": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "The pancreas:",
+      "options": {
+        "A": "develops from three separate buds",
+        "B": "is a pure exocrine gland",
+        "C": "receives its blood supply from splenic artery",
+        "D": "lies at the level of L1 vertebra",
+        "E": "has SMV passing in front of its neck"
+      },
+      "answer": "C",
+      "explanation": "D: The head of the pancreas lies in front of L2 vertebra, the body lies in front of L1 vertebra, and the tail lies at the level of T12 vertebra\nhttps://emedicine.medscape.com/article/1948885-overview\nOption C is definitely correct according to lecture notes, but those arteries are simply called “arteries from splenic artery”."
+    },
+    "Extra MEDU2300 Abdomen Q10": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about pancreas is correct?",
+      "options": {
+        "A": "In pancreatitis, epigastric pain would be projected to the back.",
+        "B": "Ventral pancreatic bud rotates a total of 270 degrees counterclockwise in development when viewed from above.",
+        "C": "Uncinate process of pancreas is anterior to SMA",
+        "D": "Body of the pancreas is closely related to the left colic flexure.",
+        "E": "Duct of Wirsung may not be present in everyone."
+      },
+      "answer": "A",
+      "explanation": "A. Study the dermatomes of pancreas!\nB. anticlockwise → clockwise\nC. anterior → posterior\nD. body → tail\nE. Duct of Wirsung = main pancreatic duct → present in everyone\nDuct of Santorini = accessory duct → may not be present"
+    },
+    "Extra MEDU2300 Abdomen Q11": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the spleen is correct?",
+      "options": {
+        "A": "Splenic vein courses in front of pancreas",
+        "B": "In splenectomy, splenophrenic and splenorenal ligaments can be cut so as to mobilize the spleen and ligate other splenic vessels.",
+        "C": "Splenic artery is one of the branches of SMA",
+        "D": "Splenophrenic ligament brings short gastric vessels to the spleen.",
+        "E": "Spleen is normally palpable in the left hypochondrium region."
+      },
+      "answer": "B",
+      "explanation": "A. in front of → behind\nB. correct\nC. It is a branch of celiac trunk\nD. Splenophrenic → gastrosplenic\nE. not palpable in normal situation, only palpable in splenomegaly"
+    },
+    "13-14 MEDU2300 Test Q2": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following statement regarding the abdominal part of right ureter is FALSE?",
+      "options": {
+        "A": "It runs anteriorly to the point where the abdominal aorta bifurcate into left and right common iliac artery",
+        "B": "It runs on the right psoas muscle",
+        "C": "It runs behind the duodenum",
+        "D": "It is crossed by gonadal vessels anteriorly",
+        "E": "It runs in a line along the tips of transverse processes in the lumbar vertebrae"
+      },
+      "answer": "A",
+      "explanation": "Anteriorly to the point where common iliac artery bifurcates into internal and external iliac artery\n(aka second constriction site - pelvic inlet)\nSource: Gray’s Anatomy P.387"
+    },
+    "14-15 MEDU2300 Test Q34": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following statements concerning renal anatomy is correct?",
+      "options": {
+        "A": "the left renal vein passes anterior to the superior mesenteric artery",
+        "B": "the right gonadal vein drains into the renal vein",
+        "C": "the order of structures in the renal hilum is, from back to front: renal vein, renal artery, ureter",
+        "D": "the ureter enters the pelvis by crossing the bifurcations of the internal iliac artery",
+        "E": "the ureter arterial supply includes branches from the gonadal artery, the renal artery, and the superior vesical artery"
+      },
+      "answer": "E",
+      "explanation": "A anterior → posterior\nB right → left\nC from back to front → from front to back (Source: wiki https://en.wikipedia.org/wiki/Renal_hilum)\nD internal → common\nE correct\nThe upper ureter closest to the kidneys receives blood directly from the renal arteries.\nThe middle part is supplied by the common iliac arteries, branches from the abdominal aorta, and the gonadal arteries.\nThe most distal part of the ureter receives blood from branches of the internal iliac artery. (superior and inferior vesical artery)\nSource: \n![](img/14-15_MEDU2300_Test_Q34_1776573586035.png)\nhttps://www.ncbi.nlm.nih.gov/books/NBK532980/"
+    },
+    "15-16 MEDU2300 Final Q13": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following structures enter/exit the hilum of the left kidney?",
+      "options": {
+        "A": "Major calyx",
+        "B": "Minor calyx",
+        "C": "First 1cm of left ureter",
+        "D": "Left renal vein",
+        "E": "Left testicular vein"
+      },
+      "answer": "D",
+      "explanation": "(Renal hilum = renal vein + renal artery + renal pelvis)"
+    },
+    "16-17 MEDU2300 Final Q22": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following are tributaries of right and left testicular veins? (Which of the following will right and left testicular veins drain into respectively?)",
+      "options": {
+        "A": "IVC and left lumbar vein",
+        "B": "Right renal and left renal veins",
+        "C": "IVC and left renal vein",
+        "D": "IVC bilaterally",
+        "E": "Azygos vein and hemiazygos"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "16-17 MEDU2300 Final Q24": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following structures is anterior to the right adrenal gland?",
+      "options": {
+        "A": "Bare area of liver",
+        "B": "Caudate lobe of liver",
+        "C": "Lesser sac",
+        "D": "Right renal vein",
+        "E": "Right suprarenal gland"
+      },
+      "answer": "A",
+      "explanation": "Source: Gray’s Anatomy P.393\nAnterior to the right suprarenal gland is part of the right lobe of the liver and the inferior vena cava, whereas anterior to the left suprarenal gland is part of the stomach, pancreas, and, on occasion, the spleen. Parts of the diaphragm are posterior to both glands."
+    },
+    "18-19 MEDU2300 Final Q16": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following structures is posterior to the left kidney?",
+      "options": {
+        "A": "Iliopsoas",
+        "B": "Nerves from L4 spinal segment",
+        "C": "Ninth rib",
+        "D": "Subcostal nerve",
+        "E": "tail of pancreas"
+      },
+      "answer": "D",
+      "explanation": "Psoas major is medial to the kidney, and the kidney is anterior to quadratus lumborum instead. Superior pole of kidney is at T12, while inferior pole is at L3. So it is certain L4 nerves will not pass beneath left kidney, but left subcostal nerve (T12) that runs along the inferior border of 12th rib will. Keep in mind that kidney is found in the costovertebral angle between 12th rib and vertebral column. Tail of pancreas is anterior to the left kidney."
+    },
+    "18-19 MEDU2300 Final Q17": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following structures is anterior to right adrenal gland?",
+      "options": {
+        "A": "Bare area of liver",
+        "B": "Caudate lobe of liver",
+        "C": "Lesser sac",
+        "D": "Right crus of diaphragm",
+        "E": "Right renal vein"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "18-19 MEDU2300 Final Q18": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "What muscles form the posterior abdominal wall",
+      "options": {
+        "A": "Diaphragm psoas major quadratus lumborum",
+        "B": "Diaphragm psoas major quadratus lumborum illiacus",
+        "C": "Diaphragm psoas major quadratus lumborum piriformis",
+        "D": "Psoas major quadratus lumborum piriformis",
+        "E": "Psoas major quadratus lumborum illiacus"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q16": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "left superior 1/3 ureter blocked by a kidney stone, pain would be referred to which of the location?",
+      "options": {
+        "A": "penis/clitoris",
+        "B": "Left iliac region",
+        "C": "back of left kidney",
+        "D": "epigastric region",
+        "E": "umbilical region"
+      },
+      "answer": "B",
+      "explanation": "![](img/19-20_MEDU2300_Final_Q16_1776573617125.png)"
+    },
+    "20-21 MEDU2300 Final Q19": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "In right adrenalectomy, which of the following structures should the surgeon pay particular attention to, in order to avoid massive bleeding?",
+      "options": {
+        "A": "Aorta",
+        "B": "Gallbladder",
+        "C": "Right adrenal vein",
+        "D": "Right renal artery",
+        "E": "2nd/3rd part of duodenum"
+      },
+      "answer": "C",
+      "explanation": "As IVC lies on the right and yet right adrenal vein drains directly into IVC (Unlike the left), the right adrenal vein is extremely short. Ligation of the right adrenal vein has to be done carefully to prevent laceration, which will cause massive hemorrhage, as unlike the arterial supply, which has 3, there is only one single adrenal vein for drainage."
+    },
+    "Extra MEDU2300 Abdomen Q12": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following correctly compares right and left renal vein?",
+      "options": {
+        "A": "Right renal vein is longer.",
+        "B": "Right gonadal vein drains into right renal vein while left gonadal vein does not drain into left renal vein",
+        "C": "Compare to left renal vein, right renal vein branches off from IVC in a more superior position.",
+        "D": "Right renal vein is less likely to be compressed.",
+        "E": "Right renal vein is retroperitoneal while left renal vein is not."
+      },
+      "answer": "D",
+      "explanation": "A. right renal vein is shorter\nB. 反轉?\nC. Less superior (right kidney is lower than left kidney)\nD. it’s true as left renal vein runs between aorta and SMA → prone to compression\nE. retroperitoneal"
+    },
+    "Extra MEDU2300 Abdomen Q13": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Abdomen",
+      "question": "Which of the following about the posterior abdomen is incorrect?",
+      "options": {
+        "A": "Glomerulus can only be found in the renal cortex.",
+        "B": "Perinephric fat is contained in anterior and posterior renal fascia",
+        "C": "Adrenal gland is supplied by 3 arteries.",
+        "D": "Right adrenal gland is covered by peritoneum",
+        "E": "Left kidney is more susceptible to injury in fracture of the floating rib than the right kidney."
+      },
+      "answer": "D",
+      "explanation": "D → not covered by peritoneum but in direct contact with bare area of liver"
     }
   }
 }
