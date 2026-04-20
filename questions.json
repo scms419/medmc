@@ -1451,7 +1451,8 @@
             "14-15 MEDU2600 Test Q62",
             "14-15 MEDU2600 Test Q63",
             "14-15 MEDU2600 Test Q10",
-            "14-15 MEDU2600 Final Q48"
+            "14-15 MEDU2600 Final Q48",
+            "14-15 MEDU2600 Test Q64"
           ],
           "2015-16": [
             "15-16 MEDU2600 Test Q45",
@@ -1506,7 +1507,8 @@
             "16-17 MEDU2600 Test Q59",
             "16-17 MEDU2600 Final Q18",
             "16-17 MEDU2600 Test Q57",
-            "16-17 MEDU2600 Final Q19"
+            "16-17 MEDU2600 Final Q19",
+            "16-17 MEDU2600 Test Q61"
           ],
           "2017-18": [
             "17-18 MEDU2600 Final Q5",
@@ -1545,7 +1547,9 @@
             "17-18 MEDU2600 Test Q55",
             "17-18 MEDU2600 Final Q18",
             "17-18 MEDU2600 Test Q58",
-            "17-18 MEDU2600 Final Q19"
+            "17-18 MEDU2600 Final Q19",
+            "17-18 MEDU2600 Test Q59",
+            "17-18 MEDU2600 Final Q21"
           ],
           "2018-19": [
             "18-19 MEDU2600 Test Q50",
@@ -1581,7 +1585,10 @@
             "18-19 MEDU2600 Test Q57",
             "18-19 MEDU2600 Final Q18",
             "18-19 MEDU2600 Test Q58",
-            "18-19 MEDU2600 Final Q19"
+            "18-19 MEDU2600 Final Q19",
+            "18-19 MEDU2600 Test Q59",
+            "18-19 MEDU2600 Test Q60",
+            "18-19 MEDU2600 Final Q21"
           ],
           "2019-20": [
             "19-20 MEDU2600 Sem1 Q47",
@@ -1608,7 +1615,10 @@
             "19-20 MEDU2600 Sem1 Q55",
             "19-20 MEDU2600 Final Q18",
             "19-20 MEDU2600 Final Q19",
-            "19-20 MEDU2600 Final Q20"
+            "19-20 MEDU2600 Final Q20",
+            "19-20 MEDU2600 Sem1 Q46",
+            "19-20 MEDU2600 Sem1 Q54",
+            "19-20 MEDU2600 Final Q21"
           ],
           "2020-21": [
             "20-21 MEDU2600 Sem1 Q45",
@@ -1642,7 +1652,11 @@
             "20-21 MEDU2600 Final Q17",
             "20-21 MEDU2600 Sem1 Q58",
             "20-21 MEDU2600 Final Q18",
-            "20-21 MEDU2600 Final Q19"
+            "20-21 MEDU2600 Final Q19",
+            "20-21 MEDU2600 Sem1 Q59",
+            "20-21 MEDU2600 Final Q20",
+            "20-21 MEDU2600 Final Q21",
+            "20-21 MEDU2600 Sem1 Q60"
           ],
           "2021-22": [
             "21-22 MEDU2600 Test Q45",
@@ -1678,7 +1692,12 @@
             "21-22 MEDU2600 Final Q16",
             "21-22 MEDU2600 Final Q17",
             "21-22 MEDU2600 Test Q58",
-            "21-22 MEDU2600 Final Q18"
+            "21-22 MEDU2600 Final Q18",
+            "21-22 MEDU2600 Test Q59",
+            "21-22 MEDU2600 Final Q22",
+            "21-22 MEDU2600 Final Q20",
+            "21-22 MEDU2600 Test Q60",
+            "21-22 MEDU2600 Final Q21"
           ],
           "2022-23": [
             "22-23 MEDU2600 Test Q46",
@@ -1696,7 +1715,9 @@
             "22-23 MEDU2600 Test Q55",
             "22-23 MEDU2600 Test Q56",
             "22-23 MEDU2600 Test Q57",
-            "22-23 MEDU2600 Test Q58"
+            "22-23 MEDU2600 Test Q58",
+            "22-23 MEDU2600 Test Q59",
+            "22-23 MEDU2600 Test Q60"
           ],
           "unclassified": [
             "Extra MEDU2600 Cell Q1",
@@ -1723,7 +1744,14 @@
             "Extra MEDU2600 Nitrogen Q10",
             "Extra MEDU2600 Nitrogen Q11",
             "Extra MEDU2600 Nitrogen Q12",
-            "Extra MEDU2600 Nitrogen Q13"
+            "Extra MEDU2600 Nitrogen Q13",
+            "Extra MEDU2600 Integrated Q1",
+            "Extra MEDU2600 Integrated Q2",
+            "Extra MEDU2600 Integrated Q3",
+            "Extra MEDU2600 Integrated Q4",
+            "Extra MEDU2600 Integrated Q5",
+            "Extra MEDU2600 Integrated Q6",
+            "Extra MEDU2600 Integrated Q7"
           ]
         },
         "byTopic": {
@@ -1875,6 +1903,36 @@
             "22-23 MEDU2600 Test Q45",
             "Extra MEDU2600 Cell Q11",
             "Extra MEDU2600 Cell Q12"
+          ],
+          "Integration of Metabolism": [
+            "14-15 MEDU2600 Test Q64",
+            "17-18 MEDU2600 Test Q59",
+            "18-19 MEDU2600 Test Q59",
+            "20-21 MEDU2600 Sem1 Q59",
+            "20-21 MEDU2600 Final Q20",
+            "21-22 MEDU2600 Test Q59",
+            "21-22 MEDU2600 Final Q22",
+            "22-23 MEDU2600 Test Q59",
+            "Extra MEDU2600 Integrated Q1",
+            "Extra MEDU2600 Integrated Q2",
+            "16-17 MEDU2600 Test Q61",
+            "Extra MEDU2600 Integrated Q3",
+            "18-19 MEDU2600 Test Q60",
+            "19-20 MEDU2600 Sem1 Q46",
+            "20-21 MEDU2600 Final Q21",
+            "21-22 MEDU2600 Final Q20",
+            "Extra MEDU2600 Integrated Q4",
+            "Extra MEDU2600 Integrated Q5",
+            "17-18 MEDU2600 Final Q21",
+            "18-19 MEDU2600 Final Q21",
+            "19-20 MEDU2600 Sem1 Q54",
+            "19-20 MEDU2600 Final Q21",
+            "20-21 MEDU2600 Sem1 Q60",
+            "21-22 MEDU2600 Test Q60",
+            "21-22 MEDU2600 Final Q21",
+            "22-23 MEDU2600 Test Q60",
+            "Extra MEDU2600 Integrated Q6",
+            "Extra MEDU2600 Integrated Q7"
           ],
           "Lipid": [
             "14-15 MEDU2600 Test Q9",
@@ -22218,6 +22276,482 @@
       },
       "answer": "D",
       "explanation": "D → not covered by peritoneum but in direct contact with bare area of liver"
+    },
+    "14-15 MEDU2600 Test Q64": {
+      "year": "2014-15",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 64,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following is correct?",
+      "options": {
+        "A": "Insulin activated glycogen synthase by phosphorylation",
+        "B": "Insulin ......",
+        "C": "Insulin inactivated glycogen synthase kinase by phosphorylation",
+        "D": "Insulin inactivate glycogen phosphorylase by phosphorylation",
+        "E": "Insulin receptors are GPCR"
+      },
+      "answer": "C",
+      "explanation": "A. phosphorylation → dephosphorylation\nC. Insulin inactivates it by phosphorylation of the specific serine residues Ser21 and Ser9 in GSK-3 isoforms α and β, respectively. (Source: wiki)\nhttps://en.wikipedia.org/wiki/GSK-3\nD. Glycogen activates glycogen phosphorylase by phosphorylation (Gs → PKA → phosphorylase kinase)\nE. tyrosine receptor"
+    },
+    "17-18 MEDU2600 Test Q59": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following description about the steroid receptor is correct:",
+      "options": {
+        "A": "DNA receptors bind to c terminal",
+        "B": "ligand receptors bind to the N terminal",
+        "C": "ligand receptors bind to C terminal",
+        "D": "transactive receptors bind to N terminal",
+        "E": "transactive receptors bind to middle of the gene"
+      },
+      "answer": "C",
+      "explanation": "C-terminus: Ligand-binding domain\nMiddle terminal: DNA-binding domain\nN-terminus: Transcriptional activation domain"
+    },
+    "18-19 MEDU2600 Test Q59": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following enzyme will be activated after phosphorylation?",
+      "options": {
+        "A": "HMG-CoA reductase",
+        "B": "glycogen synthase",
+        "C": "glycogen phosphorylase",
+        "D": "pyruvate kinase",
+        "E": "acetyl-CoA carboxylase"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Sem1 Q59": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following regarding intracellular receptors for hormones is correct?",
+      "options": {
+        "A": "ligand binding site at N terminus",
+        "B": "DNA binding site at C terminus",
+        "C": "ligand binding site at C terminus",
+        "D": "transcriptional site in middle region",
+        "E": "transcriptional site at C terminus"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q20": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Epinephrine signaling in integrative metabolism involves",
+      "options": {
+        "A": "Use of adenylate dehydrogenase",
+        "B": "Use of PKC",
+        "C": "Use of cAMP",
+        "D": "Use of GDP",
+        "E": "Use of Gq"
+      },
+      "answer": "C",
+      "explanation": "This question only considers the effect of adrenaline on β2 and β3 receptors, so the only possible signaling mechanism is through Gs protein, cAMP and PKA."
+    },
+    "21-22 MEDU2600 Test Q59": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following enzymes is activated by insulin?",
+      "options": {
+        "A": "Pyruvate carboxylase",
+        "B": "Carnitine palmitoyltransferase I",
+        "C": "Citrate lyase",
+        "D": "Phosphorylase kinase",
+        "E": "Acyl CoA dehydrogenase"
+      },
+      "answer": "C",
+      "explanation": "It is impossible to recall every enzymes activated by insulin directly. My approach is to memorize when insulin will take effect, and what is the desired effect. Insulin is secreted in response to high blood glucose, in a bid to stimulate energy storing pathways (Glycogenesis, lipogenesis) and glycolysis to consume the blood glucose. Through this sense, we can deduce that glucogenic enzymes like A, beta oxidative enzymes like B and E, and glycogenolytic enzymes like D should be inhibited in such high energy states signaled by high insulin levels. C is the only correct answer, as citrate lyase is responsible for shunting mitochondrial acetyl CoA into cytosol for fatty acid synthesis."
+    },
+    "21-22 MEDU2600 Final Q22": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following enzymes is activated by direct phosphorylation?",
+      "options": {
+        "A": "Acetyl-CoA carboxylase",
+        "B": "Glycogen synthase",
+        "C": "Glycogen phosphorylase",
+        "D": "HMG-CoA reductase",
+        "E": "Pyruvate kinase"
+      },
+      "answer": "C",
+      "explanation": "Similarly, keep in mind glucagon/adrenaline stands for phosphorylation, while insulin stands for dephosphorylation. So, this question is also asking which enzyme is activated under high glucagon level, i.e. low energy state. The only appropriate answer is C as it helps glycogenolysis to release more glucose (and G1P) into blood. Again, the best approach to this type of question is to try to link the desired effect of hormones, with the time of secretion and downstream modulations to biochemical pathways. It is quite a mess to try writing up everything for this topic, but trying to sort the pathways according to their time of activation and effect will help a lot."
+    },
+    "22-23 MEDU2600 Test Q59": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Epinephrine signalling involves:",
+      "options": {
+        "A": "cAMP",
+        "B": "GDP",
+        "C": "ADP",
+        "D": "Protein kinase C",
+        "E": "Activity of adenylyl transferase"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Integrated Q1": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following enzymes will NOT be inactivated after phosphorylation?",
+      "options": {
+        "A": "pyruvate dehydrogenase",
+        "B": "glycogen synthase",
+        "C": "glycogen phosphorylase",
+        "D": "pyruvate kinase",
+        "E": "acetyl-CoA carboxylase"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Integrated Q2": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following statements is wrong about thyroid hormone?",
+      "options": {
+        "A": "the blood concentration of T3 is lower than T4",
+        "B": "they are derived from serine",
+        "C": "T3 is more metabolically active than T4",
+        "D": "they are normally stored at thyroid follicles",
+        "E": "intracellular receptors for thyroid hormone contains the DNA binding site at the middle part"
+      },
+      "answer": "A",
+      "explanation": "A. Correct. T4 can be converted into T3 when there’s in need.\nB. They are derived from tyrosine.\nC. The activity of T3 is significantly higher.\nD. Correct\nE. Correct. Refer to previous questions for the 3 different binding sites."
+    },
+    "16-17 MEDU2600 Test Q61": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 61,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Male patient 55 years old, would like to fast for a few days to lose weight. What will he depend on as the alternate energy source in that period?",
+      "options": {
+        "A": "Fatty Acid",
+        "B": "Ketone bodies",
+        "C": "Glycerol",
+        "D": "Beta-carotene",
+        "E": "Amino Acid"
+      },
+      "answer": "B",
+      "explanation": "Under prolonged starvation (>24 hours), our body stops using amino acids as a source of energy. Our body solely relies on ketone bodies derived from beta-oxidation of fatty acids (lipolysis)."
+    },
+    "Extra MEDU2600 Integrated Q3": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "A 30-year-old man has been fasting for religious reason for several days. His brain has reduced its need for glucose by using which of the following substances as an alternate source of energy?",
+      "options": {
+        "A": "Fatty acids",
+        "B": "Ketone bodies",
+        "C": "Glycerol",
+        "D": "Beta carotene",
+        "E": "Amino acids"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Test Q60": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "During prolonged starvation, what will be the primary energy source to be used in muscles?",
+      "options": {
+        "A": "Fatty Acid",
+        "B": "Amino acid",
+        "C": "Glycerol",
+        "D": "Ketone bodies",
+        "E": "Glucose"
+      },
+      "answer": "A",
+      "explanation": "Source: (Lippincott’s illustrated reviews) Ferrier, Denise R. - Lippincott Illustrated Reviews_ Biochemistry 7th Edition 2017-Lippincott Williams & Wilkins (2017)\n![](img/18-19_MEDU2600_Test_Q60_1776698125022.png)\n\nNote that fasting ≠ prolonged fasting (>24 hours). Refer to P. 21 of Lecture Notes."
+    },
+    "19-20 MEDU2600 Sem1 Q46": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Early in fasting, glycogen is converted to glucose in body. If liver glycogen is depleted,",
+      "options": {
+        "A": "amino acid from muscle protein is degraded to blood glucose in liver",
+        "B": "blood glucose level drops to 5 nm until next carbohydrate intake",
+        "C": "Fatty acid in adipose tissue is converted to glucose in liver",
+        "D": "Lactic acid accumulated in liver is converted to glucose",
+        "E": "Liver fatty acid is converted to precursor of glucose"
+      },
+      "answer": "A",
+      "explanation": "Thanks for the feedback~\nC & E: fatty acid cannot be converted to glucose\nNote that lactic acid does not accumulate in the liver but in the muscles. Besides, lactic acid level should not be high in the case of fasting."
+    },
+    "20-21 MEDU2600 Final Q21": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following is most used as the source of energy for muscles during prolonged fasting?",
+      "options": {
+        "A": "Glucose",
+        "B": "Glycogen",
+        "C": "Amino acids",
+        "D": "Fatty acids",
+        "E": "Ketones"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q20": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Fed state, liver glucokinase:",
+      "options": {
+        "A": "Convert glucose 6-phosphate to glucose",
+        "B": "Convert glycerol to glycerol 3-phosphate",
+        "C": "Very inactive after meal",
+        "D": "Show increased enzyme levels stimulated by glucagon",
+        "E": "Show increased enzyme levels stimulated by insulin"
+      },
+      "answer": "E",
+      "explanation": "At least you should be able to discard A, B and D. Glucokinase is specifically expressed in liver for glycolysis and glycogenesis, and hence stimulated under high glucose level, e.g. after meal. To serve this purpose, glucokinase is induced (Increased expression) under high insulin level. Besides, fatty acid synthase, acetyl CoA carboxylase, citrate lyase are also induced under high insulin for lipogenesis. G6PD and malic enzymes (Malate to pyruvate) are induced for NADPH production to support the fatty acid synthesis."
+    },
+    "Extra MEDU2600 Integrated Q4": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following enzymes is inactivated when we are fasting?",
+      "options": {
+        "A": "protein kinase A",
+        "B": "phosphoenolpyruvate carboxykinase",
+        "C": "lipase in adipocytes",
+        "D": "acetyl-CoA carboxylase",
+        "E": "fructose 1,6-bisphosphatase"
+      },
+      "answer": "D",
+      "explanation": "Protein Kinase A phosphorylates glycogen synthase to inactivate it.\nBesides, it is involved in so many other reactions that will be fatal if inhibited."
+    },
+    "Extra MEDU2600 Integrated Q5": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following is INCORRECT when we are in prolonged starvation?",
+      "options": {
+        "A": "glycogen storage are already used up",
+        "B": "catecholamines are released to stimulate ketogenesis",
+        "C": "the brain relies on ketone bodies and glucose as source of energy",
+        "D": "the breakdown of tyrosine could only produce intermediates that enter gluconeogenesis",
+        "E": "symptoms like coma could be developed"
+      },
+      "answer": "D",
+      "explanation": "Tyrosine can be converted into fumarate (converted to oxaloacetate in TCA cycle) and acetoacetate, which can enter gluconeogenesis and ketogenesis respectively. Both glucogenic and ketogenic."
+    },
+    "17-18 MEDU2600 Final Q21": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "The hyperlipidemia in type I diabetes is mainly due to:",
+      "options": {
+        "A": "Overactivity of hormone-sensitive lipase in adipose tissue",
+        "B": "Overactivity of lipoprotein lipase",
+        "C": "Inhibition of ketogenesis",
+        "D": "Overexpression of insulin receptor",
+        "E": "Overproduction of LDL in liver"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q21": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Glycation of hemoglobin (HbA1c) in normal subjects should be below:",
+      "options": {
+        "A": "6%",
+        "B": "7%",
+        "C": "8%",
+        "D": "9%",
+        "E": "10%"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Sem1 Q54": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Adipose tissues respond to low insulin to glucagon ratio by:",
+      "options": {
+        "A": "Activating hormone-sensitive lipase",
+        "B": "Dephosphorylating interconvertible enzymes",
+        "C": "Increasing amount of pyruvate kinase",
+        "D": "Releasing glutamine",
+        "E": "Stimulating deposition of fat"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q21": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following statements about glycation of hemoglobin is correct?",
+      "options": {
+        "A": "The glycation of hemoglobin can be reversed by decrease in blood glucose concentration",
+        "B": "Intake of high dose of Vitamin C/E facilitate glycation of hemoglobin",
+        "C": "Normal individual has HbA1c level above 6.5%",
+        "D": "Normal individual has HbA1c level above 5.7%",
+        "E": "HbA1c level is higher than normal for non-diabetic individual in late pregnancy"
+      },
+      "answer": "E",
+      "explanation": "A. Glycation is an irreversible reaction, it is only the HbA1c number could be reversed.\nB. Intake of antioxidants (Vit C and E) will slow down the glycation.\nC. Normal individuals should be below 5.7%, while 6.5% is the therapeutic goal for diabetics to control their blood glucose.\nD. Same as C.\nE. Gestational diabetes hyperglycemia is very common and hence has a higher HbA1c during pregnancy. This is due to the diabetogenic effects (Insulin resistance) by human somatomammotropin/placental lactogen (hPL) and human placental growth hormone (hPGH). However, it will gradually regress after giving birth. You will know this in HUF2 Reproductive Physiology."
+    },
+    "20-21 MEDU2600 Sem1 Q60": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "What should a normal person's HbA1c levels be below?",
+      "options": {
+        "A": "6%",
+        "B": "7%",
+        "C": "8%",
+        "D": "9%",
+        "E": "10%"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Test Q60": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following statements about cellular mechanisms of insulin resistance is correct?",
+      "options": {
+        "A": "Ceramide inhibits the signal transduction carried out by PI3 kinase.",
+        "B": "DAG activates protein kinase A to carry out serine phosphorylation on insulin receptor and insulin receptor substrate.",
+        "C": "Translocation of GLUT-1 vesicles to the cell surface is impaired by protein kinase A phosphorylation.",
+        "D": "Tyrosine residue on insulin receptors is phosphorylated by protein kinase C to reduce the effect of insulin.",
+        "E": "Serine phosphorylation of PI3 kinase is involved."
+      },
+      "answer": "A",
+      "explanation": "A. Ceramide interferes with signal transduction by PI3 kinase, and A is correct.\nB. It should be protein kinase C.\nC. It should be GLUT4 vesicles being impaired by PKC phosphorylation. GLUT1 is a ubiquitous glucose transporter in all cell types, while only GLUT4 is regulated by insulin.\nD. It should be serine residue being phosphorylated by PKC.\nE. It should be an insulin receptor and insulin receptor substrate being phosphorylated. This is the mechanism of insulin resistance and please spend some time to revise it."
+    },
+    "21-22 MEDU2600 Final Q21": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "In type I diabetes, hyperlipidemia is mainly due to",
+      "options": {
+        "A": "Hyperactivity of hormone-sensitive lipase in adipose tissues",
+        "B": "Hyperactivity of lipoprotein lipase",
+        "C": "Inhibition of ketogenesis",
+        "D": "Overexpression of insulin receptor",
+        "E": "Overproduction of LDL in liver"
+      },
+      "answer": "A",
+      "explanation": "In short, there is no insulin to counteract the lipolytic effect of glucagon/adrenaline in type I DM. Therefore, hormone sensitive lipase is overactive to convert TAG into FA in blood for beta oxidation and ketogenesis. You may also think in another way, as type I DM cannot produce glycogen for storage, once the blood glucose is consumed, lipolysis and ketogenesis have to commence to provide an alternate energy source. This shows how the fuel metabolism of our body is precisely regulated, such that if you can consider from either way, you will still get the same consistent answer."
+    },
+    "22-23 MEDU2600 Test Q60": {
+      "year": "2022-23",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "What is true about type 2 diabetes compared to type 1 diabetes?",
+      "options": {
+        "A": "It depends more on insulin injection",
+        "B": "It is less associated with obesity",
+        "C": "It has a higher genetic predisposition",
+        "D": "Earlier age of onset, around childhood or puberty",
+        "E": "More prone to ketoacidosis"
+      },
+      "answer": "C",
+      "explanation": "A. Type 1 DM features complete deficiency of insulin, while type 2 DM features insulin resistance. However, in severe type 2 DM that the pancreas cannot further raise its insulin output (to overcome resistance) and becomes malfunctioned, the patient will also need insulin injection.\nB. Obesity is closely related to insulin resistance\nC. Correct. Refer to P.31 of Lecture Notes. This fact is not really introduced in the lecture, but only on a summary slide.\nD. it should be type 1 DM having an early onset but not type 2, as obesity and insulin resistance take a long time to develop.\nE. DKA only occurs in low insulin/glucagon ratios. You will learn it in great detail in HUF2 Endocrine Physiology. The key of developing DKA is not only about high glucagon and adrenaline levels only, but also the complete deficiency of insulin to antagonize the lipolytic effects of glucagon and adrenaline. Hence, type 2 DM patients rarely develop DKA, unless they are already in an advanced stage that require insulin injection to control blood glucose."
+    },
+    "Extra MEDU2600 Integrated Q6": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Comparing Type I and II diabetes mellitus,",
+      "options": {
+        "A": "frequent insulin injection for Type II patients",
+        "B": "ketoacidosis is common in both types",
+        "C": "testing for circulating islet-cell antibodies can be used for Type II DM",
+        "D": "type II DM involves synthesis of lipotoxic precursors like ceramide",
+        "E": "in both types, translocation of GLUT-4 is inhibited"
+      },
+      "answer": "D",
+      "explanation": "A Type I\nB Type I only : type II still have insulin to inhibit HMG CoA synthase\nC Type I\nD correct\nE Type II"
+    },
+    "Extra MEDU2600 Integrated Q7": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Integration of Metabolism",
+      "question": "Which of the following statements about glycation of hemoglobin is incorrect?",
+      "options": {
+        "A": "in glycation, glucose is attached to the amino acid valine at alpha chain of hemoglobin",
+        "B": "a diabetic patient should aim to achieve a HbA1c level below 6.5%",
+        "C": "hemolytic anemia would decrease the HbA1c level",
+        "D": "vitamin C/E supplements could inhibit glycation",
+        "E": "HbA1c level could be higher after splenectomy"
+      },
+      "answer": "A",
+      "explanation": "A valine on beta chain"
     }
   }
 }
