@@ -880,7 +880,8 @@
             "13-14 MEDU2400 Final Q35",
             "13-14 MEDU2400 Final Q36",
             "13-14 MEDU2400 Final Q37",
-            "13-14 MEDU2400 Final Q38"
+            "13-14 MEDU2400 Final Q38",
+            "13-14 MEDU2400 Final Q90"
           ],
           "2014-15": [
             "14-15 MEDU2400 Test Q4",
@@ -889,7 +890,8 @@
             "14-15 MEDU2400 Final Q1",
             "14-15 MEDU2400 Sem1 Q18",
             "14-15 MEDU2400 Final Q49",
-            "14-15 MEDU2400 Final Q15"
+            "14-15 MEDU2400 Final Q15",
+            "14-15 MEDU2400 Final Q2"
           ],
           "2015-16": [
             "15-16 MEDU2400 Test Q21",
@@ -926,7 +928,10 @@
             "15-16 MEDU2400 Final Q46",
             "15-16 MEDU2400 Final Q49",
             "15-16 MEDU2400 Final Q50",
-            "15-16 MEDU2400 Final Q51"
+            "15-16 MEDU2400 Final Q51",
+            "15-16 MEDU2400 Final Q43",
+            "15-16 MEDU2400 Final Q58",
+            "15-16 MEDU2400 Final Q59"
           ],
           "2016-17": [
             "16-17 MEDU2400 Final Q1",
@@ -967,7 +972,9 @@
             "16-17 MEDU2400 Final Q38",
             "16-17 MEDU2400 Final Q44",
             "16-17 MEDU2400 Final Q43",
-            "16-17 MEDU2400 Final Q46"
+            "16-17 MEDU2400 Final Q46",
+            "16-17 MEDU2400 Final Q49",
+            "16-17 MEDU2400 Final Q52"
           ],
           "2017-18": [
             "17-18 MEDU2400 Final Q1",
@@ -998,7 +1005,11 @@
             "17-18 MEDU2400 Final Q44",
             "17-18 MEDU2400 Final Q47",
             "17-18 MEDU2400 Final Q45",
-            "17-18 MEDU2400 Final Q46"
+            "17-18 MEDU2400 Final Q46",
+            "17-18 MEDU2400 Final Q48",
+            "17-18 MEDU2400 Final Q49",
+            "17-18 MEDU2400 Final Q50",
+            "17-18 MEDU2400 Final Q51"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
@@ -1030,7 +1041,10 @@
             "18-19 MEDU2400 Test Q33",
             "18-19 MEDU2400 Final Q34",
             "18-19 MEDU2400 Final Q35",
-            "18-19 MEDU2400 Final Q48"
+            "18-19 MEDU2400 Final Q48",
+            "18-19 MEDU2400 Final Q39",
+            "18-19 MEDU2400 Final Q56",
+            "18-19 MEDU2400 Final Q57"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
@@ -1066,7 +1080,13 @@
             "19-20 MEDU2400 Final Q41",
             "19-20 MEDU2400 Final Q45",
             "19-20 MEDU2400 Final Q44",
-            "19-20 MEDU2400 Final Q42"
+            "19-20 MEDU2400 Final Q42",
+            "19-20 MEDU2400 Final Q46",
+            "19-20 MEDU2400 Final Q47",
+            "19-20 MEDU2400 Final Q48",
+            "19-20 MEDU2400 Final Q49",
+            "19-20 MEDU2400 Final Q50",
+            "19-20 MEDU2400 Final Q58"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
@@ -1096,7 +1116,9 @@
             "20-21 MEDU2400 Final Q39",
             "20-21 MEDU2400 Final Q40",
             "20-21 MEDU2400 Final Q41",
-            "20-21 MEDU2400 Final Q42"
+            "20-21 MEDU2400 Final Q42",
+            "20-21 MEDU2400 Final Q49",
+            "20-21 MEDU2400 Final Q50"
           ],
           "2021-22": [
             "21-22 MEDU2400 Final Q2",
@@ -1127,7 +1149,14 @@
             "21-22 MEDU2400 Final Q44",
             "21-22 MEDU2400 Final Q43",
             "21-22 MEDU2400 Final Q39",
-            "21-22 MEDU2400 Final Q45"
+            "21-22 MEDU2400 Final Q45",
+            "21-22 MEDU2400 Final Q46",
+            "21-22 MEDU2400 Final Q47",
+            "21-22 MEDU2400 Final Q48",
+            "21-22 MEDU2400 Final Q49",
+            "21-22 MEDU2400 Final Q50",
+            "21-22 MEDU2400 Final Q60",
+            "21-22 MEDU2400 Final Q58"
           ],
           "2022-23": [
             "22-23 MEDU2400 Test Q21",
@@ -1156,7 +1185,13 @@
             "Extra MEDU2400 CV Q10",
             "Extra MEDU2400 CV Q11",
             "PMDT2 FA2 MEDU2400 Q29",
-            "Extra MEDU2400 Pharmacology Q1"
+            "Extra MEDU2400 Pharmacology Q1",
+            "Extra MEDU2400 Pharmacology Q2",
+            "Extra MEDU2400 Pharmacology Q3",
+            "PMDT2 FA2 Q1",
+            "Extra MEDU2400 Pharmacology Q4",
+            "Extra MEDU2400 Pharmacology Q5",
+            "Extra MEDU2400 Pharmacology Q6"
           ]
         },
         "byTopic": {
@@ -1427,7 +1462,42 @@
             "21-22 MEDU2400 Final Q43",
             "21-22 MEDU2400 Final Q39",
             "21-22 MEDU2400 Final Q45",
-            "Extra MEDU2400 Pharmacology Q1"
+            "Extra MEDU2400 Pharmacology Q1",
+            "13-14 MEDU2400 Final Q90",
+            "15-16 MEDU2400 Final Q43",
+            "16-17 MEDU2400 Final Q49",
+            "16-17 MEDU2400 Final Q52",
+            "17-18 MEDU2400 Final Q48",
+            "17-18 MEDU2400 Final Q49",
+            "18-19 MEDU2400 Final Q39",
+            "19-20 MEDU2400 Final Q46",
+            "19-20 MEDU2400 Final Q47",
+            "19-20 MEDU2400 Final Q48",
+            "21-22 MEDU2400 Final Q46",
+            "21-22 MEDU2400 Final Q47",
+            "21-22 MEDU2400 Final Q48",
+            "14-15 MEDU2400 Final Q2",
+            "17-18 MEDU2400 Final Q50",
+            "17-18 MEDU2400 Final Q51",
+            "18-19 MEDU2400 Final Q56",
+            "18-19 MEDU2400 Final Q57",
+            "19-20 MEDU2400 Final Q49",
+            "19-20 MEDU2400 Final Q50",
+            "20-21 MEDU2400 Final Q49",
+            "20-21 MEDU2400 Final Q50",
+            "21-22 MEDU2400 Final Q49",
+            "21-22 MEDU2400 Final Q50",
+            "15-16 MEDU2400 Final Q58",
+            "21-22 MEDU2400 Final Q60",
+            "Extra MEDU2400 Pharmacology Q2",
+            "Extra MEDU2400 Pharmacology Q3",
+            "PMDT2 FA2 Q1",
+            "15-16 MEDU2400 Final Q59",
+            "19-20 MEDU2400 Final Q58",
+            "21-22 MEDU2400 Final Q58",
+            "Extra MEDU2400 Pharmacology Q4",
+            "Extra MEDU2400 Pharmacology Q5",
+            "Extra MEDU2400 Pharmacology Q6"
           ]
         }
       },
@@ -17791,12 +17861,12 @@
       "options": {
         "A": "Coagulation factors in blood coagulation",
         "B": "The fact that thermally denatured proteins can restore their biological activity by renaturation",
-        "C": "The process in which glycogen phosphorylase is activated when a phosphate group is added to its active site",
+        "C": "The process in which glycogen phosphorylase is activated when a phosphate group is added",
         "D": "The process in which proline residues in collagen are hydroxylated post-translationally",
         "E": "The way digestive enzymes are first synthesized by the pancreas then activated in the gut"
       },
       "answer": "C",
-      "explanation": "D is irreversible."
+      "explanation": "Note that option C has been modified. \nInitially, it is \"The process in which glycogen phosphorylase is activated when a phosphate group is added to its **active site**\", which we believe is incorrect. \n\nD is irreversible."
     },
     "17-18 MEDU2600 Test Q45": {
       "year": "2017-18",
@@ -17917,7 +17987,7 @@
       "question_number": 12,
       "level": "Year 2",
       "topic": "Cell Biology",
-      "question": "With reference to the table above. Generation of one mole of which of the following compounds from their respective hydrolyzed form requires the most free energy change?",
+      "question": "![](img/Extra_MEDU2600_Cell_Q12_1776921945700.png)\n\nWith reference to the table above. Generation of one mole of which of the following compounds from their respective hydrolyzed form requires the most free energy change?",
       "options": {
         "A": "Glucose 3-phosphate",
         "B": "Glucose 6-phosphate",
@@ -22444,7 +22514,7 @@
         "D": "they are normally stored at thyroid follicles",
         "E": "intracellular receptors for thyroid hormone contains the DNA binding site at the middle part"
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "A. Correct. T4 can be converted into T3 when there’s in need.\nB. They are derived from tyrosine.\nC. The activity of T3 is significantly higher.\nD. Correct\nE. Correct. Refer to previous questions for the 3 different binding sites."
     },
     "16-17 MEDU2600 Test Q61": {
@@ -22752,6 +22822,590 @@
       },
       "answer": "A",
       "explanation": "A valine on beta chain"
+    },
+    "13-14 MEDU2400 Final Q90": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 90,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following is the cardiovascular effect of nicotine?",
+      "options": {
+        "A": "Direct effect on nicotinic receptor, indirect effect on α1, β1 and M2 receptor.",
+        "B": "Direct effect on both nicotinic receptor and muscarinic receptor.",
+        "C": "Indirect effect on nicotinic receptor, direct effect on α1, β1 and M2 receptor.",
+        "D": "Direct effect on α1, β1 and M2 receptor.",
+        "E": "Indirect effect on both nicotinic receptor and muscarinic receptor."
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Final Q43": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Hypertension after intake of cheese. Prior to the diet, intake of:",
+      "options": {
+        "A": "Alpha receptor antagonist",
+        "B": "Beta receptor agonist",
+        "C": "A cholinesterase Inhibitor",
+        "D": "A monoamineoxidase (MAO) inhibitor",
+        "E": "Muscarinic agonist"
+      },
+      "answer": "D",
+      "explanation": "MAO in the gut is inhibited, so the tyramine in cheese enters the bloodstream directly. MAO is present in the presynaptic neuron. MAO is used to remove noradrenaline in presynaptic cell cytoplasm. Cheese is full of tyramine, which is substrate for MAO, displacing NA from vesicles, competing with noradrenaline on NET. Overall, less NA is reuptaken and more NA in synaptic cleft.\n\nSimilar Explanation:\nTyramine is an indirectly acting sympathomimetic that could potentiate SNS adrenergic transmission. Tyramine enters presynaptic terminal via NET in exchange for NA into presynaptic cleft (Reverse transport, as normally NA is reabsorbed instead of released). Then, tyramine enters the vesicles by VMAT to displace NA into cytosol, which could be released via NET to bring in even more tyramine into the presynaptic terminal. Tyramine itself also competes with NA for active site of MAO-A, hence decreasing the breakdown of NA. These three effects prolong the action and release of NA into synaptic cleft, hence causing the sympathomimetic effect. Normally, dietary tyramine cannot get into circulation as it is destroyed by MAO-A in intestinal mucosa. However, concomitant use of MAOi will allow absorption of dietary tyramine and then acts on adrenergic nerves. MAO inhibition also potentiates the effect of competitive action of tyramine to reduce the breakdown of NA in presynaptic terminal.\n\nHowever, guanethidine has a very similar MOA but opposite effect as an adrenergic neuron blocking agent. Guanethidine is taken into presynaptic terminal and vesicles by NET and VMAT similarly. Actually, guanethidine can potentiate the effect of sympathomimetics if used together initially. However, the long term use of guanethidine will deplete vesical NA and no sympathetic transmission can occur anymore. The main focus is that tyramine, amphetamine those are often used in short term for its sympathomimetic effect, while guanethidine is used in long term for its antihypertensive effect (Although no longer used now). Guanethidine also will not competitively inhibit MAO-A to reduce its sympathomimetics effect, such that the displaced NA will be degraded by MAO-A normally."
+    },
+    "16-17 MEDU2400 Final Q49": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which one can treat pheochromocytoma",
+      "options": {
+        "A": "Ach/Propranolol",
+        "B": "Phenoxybenzamine/Atenolol",
+        "C": "Prazosin/Propranolol",
+        "D": "Salbutrime/Propranolol",
+        "E": "Tolaxoxine/Hexamethonium"
+      },
+      "answer": "B",
+      "explanation": "Phenoxybenzamine as an irreversible alpha blocker is preferred, and is necessary before surgery to minimize the effect of massive NA release when the tumor is disturbed mechanically."
+    },
+    "16-17 MEDU2400 Final Q52": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following about atenolol treating hypertension is correct?",
+      "options": {
+        "A": "Activate B1 receptor",
+        "B": "Reduce cardiac contractility",
+        "C": "Increase vessel muscular tone"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Final Q48": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Sympathetic neurotransmission can be increased by:",
+      "options": {
+        "A": "α-methyl-DOPA",
+        "B": "Clonidine",
+        "C": "Guanethidine",
+        "D": "Reserpine",
+        "E": "Tyramine"
+      },
+      "answer": "E",
+      "explanation": "Tyramine is an indirectly acting sympathomimetic. It acts on noradrenaline reuptake inhibitors (NRI). Its effects include:\n- Displace NA from vesicles → Released\n- Reduce NA uptake\n- Weak adrenoceptor agonist\n- Competitive inhibition on monoamine oxidase"
+    },
+    "17-18 MEDU2400 Final Q49": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Where can nicotinic receptors be found at postsynaptic site (Type all answers that apply, separate with a single comma followed by a space character)\n\nA. Parasympathetic ganglion\nB. Parasympathetic neuroeffector junction\nC. Skeletal neuromuscular junction\nD. Sympathetic ganglion\nE. Sympathetic neuroeffector junction",
+      "options": {},
+      "answer": "A, C, D",
+      "explanation": "Nicotinic receptors can be found in all presynaptic ganglia (be it SNS or PSNS), as well as skeletal neuromuscular junction."
+    },
+    "18-19 MEDU2400 Final Q39": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Synaptic transmission at autonomic ganglion occurs when:",
+      "options": {
+        "A": "Acetylcholine activates postsynaptic M1 receptor",
+        "B": "Acetylcholine activates postsynaptic nicotinic receptor",
+        "C": "Acetylcholine activates presynaptic M3 receptor",
+        "D": "Noradrenaline activates postsynaptic beta2 receptor",
+        "E": "Noradrenaline activates presynaptic alpha1 receptor"
+      },
+      "answer": "B",
+      "explanation": "Note that in ALL autonomic ganglia, cholinergic nicotinic neuronal-type receptors are found. (i.e. ACh on nicotinic receptors on POSTganglionic site)"
+    },
+    "19-20 MEDU2400 Final Q46": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "An alpha1 agonist (give the name of this drug in your mind) can be used to treat",
+      "options": {
+        "A": "Nasal congestion",
+        "B": "pheochromocytoma",
+        "C": "Angina pectoris",
+        "D": "Benign prostatic hyperplasia",
+        "E": "Asthma"
+      },
+      "answer": "A",
+      "explanation": "The example is phenylephrine. By constricting blood vessels, secretions can also be reduced."
+    },
+    "19-20 MEDU2400 Final Q47": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Neurotransmission at autonomic ganglia occurs when:",
+      "options": {
+        "A": "ACh activates postsynaptic M1 receptors",
+        "B": "ACh activates presynaptic M2 receptors",
+        "C": "Adrenaline activates postsynaptic β2 adrenoceptors",
+        "D": "ACh activates postsynaptic nicotinic receptors",
+        "E": "Noradrenaline activates presynaptic α1 adrenoceptors"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Final Q48": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "The use of adrenaline in treatment of anaphylactic shock relies on ability to bind:\n(i) bronchial β2 receptors to relax airway\n(ii) cardiac β1 receptors to increase heart rate\n(iii) cardiac M2 receptors to decrease heart rate\n(iv) vascular α1 receptors to increase blood pressure\n(v) vascular β2 receptors to decrease blood pressure",
+      "options": {
+        "A": "iii and iv",
+        "B": "i and v",
+        "C": "i, ii and iv",
+        "D": "i, iii and v",
+        "E": "i, ii and v"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q46": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "How does botulinum toxin treat blepharospasm (Eyelid twitching)?",
+      "options": {
+        "A": "Activate beta 2",
+        "B": "Activate M2",
+        "C": "increases the activity of ACEi",
+        "D": "inhibit Ach release",
+        "E": "Inhibit M3"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q47": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "How does dyflos achieve long-lasting inhibition? (Choices reconstructed)",
+      "options": {
+        "A": "Transfer of phosphate group to esteratic site of MAChR",
+        "B": "Degradation of MAChR",
+        "C": "Competitive antagonism of MAChR",
+        "D": "Depolarising block of MAChR",
+        "E": "Transfer of carbonium ion to esteratic site of MAChR"
+      },
+      "answer": "A",
+      "explanation": "Dyflos as an organophosphate acts as long-term irreversible inhibitor of MAChR, by attaching a phosphate group to esteratic site via strong covalent bond. All other choices are irrelevant to MOA of dyflos. Sometimes it is just too straightward when it comes to pharmacology question. Just memorise it!"
+    },
+    "21-22 MEDU2400 Final Q48": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "What is the effect of clonidine? (Choices reconstructed)",
+      "options": {
+        "A": "Activates alpha 2 receptors",
+        "B": "Increases blood pressure",
+        "C": "Increases gut motility",
+        "D": "Causes smooth muscle relaxation",
+        "E": "Constricts the airway"
+      },
+      "answer": "A",
+      "explanation": "A is clearly correct. Clonidine can reduce SNS transmission to reduce BP, so B is false. C is false too, as α2 stimulation will reduce firing of the vagus nerve in myenteric plexus, hence reducing gut motility. D is false as this is mediated by β2 receptors instead. E is done by non-selective beta blockers."
+    },
+    "14-15 MEDU2400 Final Q2": {
+      "year": "2014-15",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following concerning anticoagulants and fibrinolysis is FALSE:",
+      "options": {
+        "A": "Extrinsic pathway is initiated by tissue factor and indicated by prothrombin time",
+        "B": "The followings are endogenous anticoagulants: activated protein C, heparin, antithrombin III, tissue factor pathway inhibitor",
+        "C": "Warfarin, when used with NSAIDs or other antibiotics can increase risk of bleeding",
+        "D": "Heparin can have anticoagulant effect both in vivo and ex vivo",
+        "E": "Rivaroxaban, unlike fondaparinux, can inhibit both bound and unbound factor Xa"
+      },
+      "answer": "B",
+      "explanation": "- A is corret. Extrinsic pathway integrity is measured by PT, intrinsic pathway by aPTT.\n- B is largely correct, but heparin is NOT endogenous. The term \"Heparin\" refers to an exogenous drug (unfractionated heparin); endogenous ‘heparin-like’ molecules, such as heparin sulfate, are indeed anticoagulants, but they are not to be confused with \"heparin\".\n- C is correct. COX1 inhibition by NSAIDS lead to decreased gastric mucosal protection (decreased mucosal blood flow, decreased mucus secretion); antibiotics kill intestinal bacteria which are important for producing vitamin K → less vitamin K will exaggerate the anticoagulant effect of warfarin (which is a vitK epoxide reductase inhibitor)\n- D is a fact\n- E is a fact"
+    },
+    "17-18 MEDU2400 Final Q50": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following concerning platelet aggregation is correct?",
+      "options": {
+        "A": "Dipyridamole increase cAMP",
+        "B": "GPII/ GPIII binds fibrin",
+        "C": "Prostacyclin triggers vasoconstriction",
+        "D": "Red thrombus is formed by arterial atherosclerotic plaque",
+        "E": "Tricagrelor binds P2Y1"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Final Q51": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Regarding coagulation, which of the following is correct?",
+      "options": {
+        "A": "Rivaroxaban is an indirect inhibitor of factor Xa",
+        "B": "Streptokinase can be used repetitively for myocardial infarction",
+        "C": "Classically Tissue factor belongs to intrinsic pathway",
+        "D": "For unfractionated heparin bridging mechanism is required to inhibit IIa",
+        "E": "Warfarin directly inhibits glutamyl-Carboxylase"
+      },
+      "answer": "D",
+      "explanation": "A. direct (L2 P.41)\nB. cannot be used repetitively (L2 P.51)\nC. extrinsic (L2 P.15)\nD. Heparin promotes binding between ATIII and IIa by a \"bridging\" mechanism involving the formation of a ternary complex. UFH with a minimum chain length of 18 units is necessary. (L2 P.35)\nE. directly inhibit Vitamin K epoxide reductase (L2 P.24)"
+    },
+    "18-19 MEDU2400 Final Q56": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "which of the following is correct about hemostasis and thrombosis",
+      "options": {
+        "A": "prostacyclin induce vasoconstriction",
+        "B": "TXA2 induce vasodilation",
+        "C": "white thrombus is involved in deep vein thrombosis",
+        "D": "tissue factor is involved in extrinsic pathway"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Final Q57": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "which of the following is correct?",
+      "options": {
+        "A": "clopidogrel is an inhibitor of TP receptor in platelets",
+        "B": "Dabigatran is an indirect inhibitor of thrombin",
+        "C": "Rivaroxaban is a direct inhibitor of Xa",
+        "D": "Streptokinase can be used multiple times for myocardial infarction"
+      },
+      "answer": "C",
+      "explanation": "A. Clopidogrel has a short-acting active metabolite that binds covalently with platelets (in liver), so it will not affect microglia in CNS. It is an alternative to aspirin\nB. Dabigatran is a direct, reversible, competitive thrombin (IIa) inhibitor\nC. Correct\nD. Cannot be used multiple times"
+    },
+    "19-20 MEDU2400 Final Q49": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Antiplatelet drug, which of the following drug is correctly matched with the targeted receptor?",
+      "options": {
+        "A": "dipyridamole- ENT",
+        "B": "ticagrelor - GPIIb/GPIIIa",
+        "C": "clopidogrel - IP receptor",
+        "D": "abciximab- P2Y12",
+        "E": "aspirin-PDE"
+      },
+      "answer": "A",
+      "explanation": "A. Dipyridamole → block Equilibrative nucleoside transporters (L1 P.36)\nB. Ticagrelor → P2Y12 receptors\nC. Clopidogrel → P2Y12 receptors\nD. Abciximab → GPIIb/GPIIIa glycoproteins\nE. Aspirin → COX-1 mainly"
+    },
+    "19-20 MEDU2400 Final Q50": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "With regard to the coagulation cascade, which of the following statements is correct?",
+      "options": {
+        "A": "Bridging mechanism is required by unfractionated heparin to inhibit Factor Xa",
+        "B": "Warfarin activates vitamin K epoxide reductase",
+        "C": "Thrombin initiates the intrinsic (amplification) coagulation pathway",
+        "D": "Streptokinase is a second generation fibrinolytic drug",
+        "E": "Fondaparinux is a direct Factor Xa inhibitor"
+      },
+      "answer": "C",
+      "explanation": "A. This conformational change in ATIII induces a strong binding to Factor Xa and inactivates it. No \"bridging\" is necessary. Therefore, heparin is an INDIRECT anti-Xa inhibitor (L2 P.35)\nB. inhibit (L2 P.24)\nD. first generation (L2 P.51)\nE. indirect (L2 P.42) → LMW heparin → requires ATIII as cofactor & only inhibit FREE factor Xa"
+    },
+    "20-21 MEDU2400 Final Q49": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following statement about thrombosis and haemostasis is correct?",
+      "options": {
+        "A": "Tissue factor is involved in intrinsic pathway",
+        "B": "Prostacyclin causes vasodilation",
+        "C": "White thrombosis is fibrin-rich",
+        "D": "Arterial thrombus is red thrombus"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q50": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "About Antithrombin III, which one is correct?",
+      "options": {
+        "A": "Fondaparinux is direct Xa inhibitor",
+        "B": "Rivaroxaban is indirect Xa inhibitor",
+        "C": "Dipyridamole reduce cellular cAMP",
+        "D": "Dabigatran etexilate is indirect non-competitive inhibitor of thrombin",
+        "E": "Streptokinase bind circulating plasminogen"
+      },
+      "answer": "E",
+      "explanation": "A. Fondaparinux = Indirect inhibitor (P.42)\nB. Rivaroxaban = Direct inhibitor (P.42)\nC. Dipyridamole = ENT inhibitor & PDE-3 inhibitor → increase cAMP → vasodilation\nD. Dabigatran etexilate = direct, reversible, competitive thrombin inhibitor"
+    },
+    "21-22 MEDU2400 Final Q49": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "With regard to platelet aggregation, which of the following statements is correct?",
+      "options": {
+        "A": "Dipyridamole decreases cAMP level in platelets",
+        "B": "Increased cAMP level in platelets is anti-thrombotic",
+        "C": "Platelet COX-2 enzymes have a high affinity to aspirin",
+        "D": "PGI2 is produced in activated platelets",
+        "E": "White thrombus has a high fibrin content"
+      },
+      "answer": "B",
+      "explanation": "A. Dipyridamole increases cAMP level in platelets as a PDE-3 inhibitor\nB. Correct, as this is what dipyridamole does\nC. COX-1 has a higher affinity to aspirin, and is expressed more in platelets\nD. Thromboxane A2, a vasoconstrictor, is produced in activated platelets\nE. Arterial thrombosis involves white thrombus, which is platelet-rich; Red thrombus is fibrin-rich"
+    },
+    "21-22 MEDU2400 Final Q50": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following statements is correct?",
+      "options": {
+        "A": "Hirudin is a reversible thrombin inhibitor",
+        "B": "Streptokinase can be used repeatedly",
+        "C": "Tissue factor initiates the intrinsic amplification stage of coagulation pathway",
+        "D": "Warfarin is an inhibitor of vitamin K epoxide reductase",
+        "E": "White thrombus is associated with venous thrombosis"
+      },
+      "answer": "D",
+      "explanation": "A. Hirudin is a direct thrombin inhibitor.\nB. Streptokinase should only be used once due to immunogenicity\nC. Tissue factor initiates the extrinsic stage\nD. Correct. Vitamin K is the antidote to warfarin.\nE. Red thrombus (fibrin-rich) is associated with venous thrombosis."
+    },
+    "15-16 MEDU2400 Final Q58": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "which of the following with regard to triple therapy is true?",
+      "options": {
+        "A": "Pirenzipine it reduce gastric acidity and stimulate peristalsis to remove e coli",
+        "B": "Bismuth chelate has anti-bacterial effect towards e coli and it coats ulcer crater",
+        "C": "Ranitidine bismuth with amoxicillin and clarithromycin",
+        "D": "Magnesium chelate/bismuth (forgot) + 2 others",
+        "E": "Amoxicillin and Clarithromycin combined omeprazole in patients allergic to penicillin"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q60": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following statements regarding triple therapy for gastric ulcer is correct?",
+      "options": {
+        "A": "Activated charcoal is used to reduce gastric acidity and to stimulate peristalsis to remove bacteria and toxin from ulcer",
+        "B": "Amoxycillin and clarithromycin are used in combination with omeprazole in patient allergic to penicillin",
+        "C": "Bismuth chelate is used because of its antibacterial effect against E. Coli and ability to coat ulcer crater",
+        "D": "Misoprostol is used to reduce gastric acidity in combination with amoxycillin and clarithromycin",
+        "E": "Omeprazole is used in combination with amoxycillin and clarithromycin"
+      },
+      "answer": "E",
+      "explanation": "A is false as activated charcoal can only adsorb toxin but not reduce acidity. B is false as amoxycillin belongs to penicillin series (β-lactam class). Bismuth chelate indeed has antibacterial effect, but against Helicobacter Pylori instead of E. Coli, as it will not cause gastric ulcer. However, it cannot coat the ulcer like sucralfate does. Misoprostol as PGE1 analog can indeed reduce gastric acidity and increase gastric blood flow, but it is not involved in triple therapy regimen."
+    },
+    "Extra MEDU2400 Pharmacology Q2": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following statements about drugs in the GI tract is correct?",
+      "options": {
+        "A": "Ranitidine is also a CYP450 inhibitor so it is not often used.",
+        "B": "Cimetidine is a M1 receptor antagonist at ganglia to reduce cAMP level and reduce acid output.",
+        "C": "Omeprazole can increase mucus formation so as to protect the mucosa.",
+        "D": "Misoprostol is a prostaglandin EP agonist which may cause mild diarrhea.",
+        "E": "Carbenoxolone sodium can adhere to ulcers and prevent pepsin attack."
+      },
+      "answer": "D",
+      "explanation": "A. Ranitidine → Cimetidine\nB. M1 → H2\nC. Omeprazole cannot increase mucus formation so as to protect the mucosa! It is a PPI; drugs can increase production of mucus: misoprostol, carbenoxolone sodium\nD. Misoprostol is a prostaglandin EP agonist which may cause mild diarrhea.\nE. carbenoxolone sodium → sucralfate"
+    },
+    "Extra MEDU2400 Pharmacology Q3": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following about bismuth is incorrect?",
+      "options": {
+        "A": "It has a toxic effect to H. pylori.",
+        "B": "It can coat ulcer bases.",
+        "C": "It can enhance prostaglandin synthesis.",
+        "D": "It can inhibit acid production.",
+        "E": "It can adsorb pepsin."
+      },
+      "answer": "D",
+      "explanation": "It cannot inhibit acid production but can stimulate bicarbonate secretion"
+    },
+    "PMDT2 FA2 Q1": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following statements is false?",
+      "options": {
+        "A": "Activation of mu-and delta-opioid receptors can decrease cAMP levels to reduce peristalsis and/or gastrointestinal secretions",
+        "B": "An opioid receptor antagonist is likely to prevent the anti-diarrheal action of bismuth salicylate",
+        "C": "Histamine released from mast cells in the gastrointestinal tract probably contributes to diarrhea",
+        "D": "Loperamide is a peripherally acting opioid receptor agonist",
+        "E": "Rehydration of the patient should be a primary aim when treating diarrhea"
+      },
+      "answer": "B",
+      "explanation": "For B, since bismuth subsalicylate does not act through opioid receptors, an opioid receptor antagonist (e.g. naloxone) would not prevent its antidiarrheal action"
+    },
+    "15-16 MEDU2400 Final Q59": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Metoclopramide increases gastric motility by:",
+      "options": {
+        "A": "Act on dopamine receptor on cholinergic nerve",
+        "B": "Opioid receptor antagonism which leads to removal of enterkelin(?)",
+        "C": "Activation on 5HT4 receptor on cholinergic nerve to reduce intracellular cAMP level",
+        "D": "Activation of 5HT4 to reduce pressure threshold of cholinergic nerve to initiate peristalsis",
+        "E": "Block dopamine receptor, relax smooth muscle to facilitate peristalsis"
+      },
+      "answer": "D",
+      "explanation": "A D2 receptor antagonist → increase sphincter tone ? not related\nB not related\nC ‘reduce’ → increase cAMP level\nE D2 receptor antagonist → increase sphincter tone but not ‘relax’"
+    },
+    "19-20 MEDU2400 Final Q58": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Peristaltic reflex can be stimulated by:",
+      "options": {
+        "A": "hexamethonium-like drugs",
+        "B": "motilin-receptor antagonists",
+        "C": "Blockers of mu-opioid receptors",
+        "D": "5-HT4 receptor agonists",
+        "E": "Clonidine-like drugs"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q58": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Prucalopride facilitates peristalsis by:",
+      "options": {
+        "A": "Activating 5-HT3 receptor on cholinergic nerves to increase cAMP",
+        "B": "Activating 5-HT4 receptor on cholinergic nerves to increase cAMP",
+        "C": "Activating muscarinic receptor to lower threshold for peristalsis",
+        "D": "Blocking opioid receptor that normally oppose peristalsis",
+        "E": "Deplete 5-HT from enterochromaffin cells"
+      },
+      "answer": "B",
+      "explanation": "B promotes release of ACh from PSNS ganglia in myenteric plexus, hence promotes motility. On the contrary, stimulation of μ-receptors and α2-receptors linked to Gi protein decrease cAMP, and hence their activation reduces motility."
+    },
+    "Extra MEDU2400 Pharmacology Q4": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following cannot be used to treat GERD?",
+      "options": {
+        "A": "Muscarinic agonist",
+        "B": "Dopamine receptor blockers",
+        "C": "H2 agonist",
+        "D": "Proton pump inhibitor",
+        "E": "Antacids"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU2400 Pharmacology Q5": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Domperidone treat GERD by:",
+      "options": {
+        "A": "Increase GI motility through stimulation of ACh",
+        "B": "Block D2 receptor to increase sphincter tone",
+        "C": "H2 receptor competitive antagonist to reduce acid output",
+        "D": "Reduce acid production through inhibiting proton pumps",
+        "E": "Neutralise the acid in gastric lumen"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU2400 Pharmacology Q6": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Pharmacology",
+      "question": "Which of the following correctly matches the drug name, action and effect?",
+      "options": {
+        "A": "Cisapride - 5HT3 antagonist - Increase sensitivity of peristalsis to luminal content",
+        "B": "Erythromycin - motility receptor antagonist - slow down gastric emptying",
+        "C": "Bassorin - adsorb water - laxative → peristalsis",
+        "D": "Kaolin - Inhibit cyclo-oxygenase - anti-diarrhoea",
+        "E": "Loperamide - opioid receptor antagonist - reduce 5-HT and histamine to inhibit peristalsis and secretion"
+      },
+      "answer": "C",
+      "explanation": "A. 5HT4 agonist\nB. agonist; accelerate gastric emptying\nC. This is correct lmao\nD. provide a surface to adsorb toxin and/or fluid\nE. agonist"
     }
   }
 }
