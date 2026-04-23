@@ -1540,7 +1540,20 @@
             "15-16 MEDU2600 Test Q52",
             "15-16 MEDU2600 Final Q38",
             "15-16 MEDU2600 Final Q41",
-            "15-16 MEDU2600 Final Q52"
+            "15-16 MEDU2600 Final Q52",
+            "15-16 MEDU2600 Final Q1",
+            "15-16 MEDU2600 Final Q3",
+            "15-16 MEDU2600 Final Q4",
+            "15-16 MEDU2600 Final Q6",
+            "15-16 MEDU2600 Final Q7",
+            "15-16 MEDU2600 Final Q9",
+            "15-16 MEDU2600 Final Q13",
+            "15-16 MEDU2600 Final Q16",
+            "15-16 MEDU2600 Final Q10",
+            "15-16 MEDU2600 Final Q15",
+            "15-16 MEDU2600 Final Q18",
+            "15-16 MEDU2600 Final Q19",
+            "15-16 MEDU2600 Final Q20"
           ],
           "2016-17": [
             "16-17 MEDU2600 Test Q45",
@@ -1578,7 +1591,16 @@
             "16-17 MEDU2600 Final Q18",
             "16-17 MEDU2600 Test Q57",
             "16-17 MEDU2600 Final Q19",
-            "16-17 MEDU2600 Test Q61"
+            "16-17 MEDU2600 Test Q61",
+            "16-17 MEDU2600 Final Q25",
+            "16-17 MEDU2600 Final Q29",
+            "16-17 MEDU2600 Final Q44",
+            "16-17 MEDU2600 Final Q26",
+            "16-17 MEDU2600 Final Q43",
+            "16-17 MEDU2600 Final Q28",
+            "16-17 MEDU2600 Final Q31",
+            "16-17 MEDU2600 Final Q30",
+            "16-17 MEDU2600 Final Q32"
           ],
           "2017-18": [
             "17-18 MEDU2600 Final Q5",
@@ -1619,7 +1641,14 @@
             "17-18 MEDU2600 Test Q58",
             "17-18 MEDU2600 Final Q19",
             "17-18 MEDU2600 Test Q59",
-            "17-18 MEDU2600 Final Q21"
+            "17-18 MEDU2600 Final Q21",
+            "17-18 MEDU2600 Final Q22",
+            "17-18 MEDU2600 Final Q23",
+            "17-18 MEDU2600 Final Q26",
+            "17-18 MEDU2600 Final Q25",
+            "17-18 MEDU2600 Final Q27",
+            "17-18 MEDU2600 Final Q28",
+            "17-18 MEDU2600 Final Q32"
           ],
           "2018-19": [
             "18-19 MEDU2600 Test Q50",
@@ -1658,7 +1687,15 @@
             "18-19 MEDU2600 Final Q19",
             "18-19 MEDU2600 Test Q59",
             "18-19 MEDU2600 Test Q60",
-            "18-19 MEDU2600 Final Q21"
+            "18-19 MEDU2600 Final Q21",
+            "18-19 MEDU2600 Final Q22",
+            "18-19 MEDU2600 Final Q25",
+            "18-19 MEDU2600 Final Q24",
+            "18-19 MEDU2600 Final Q26",
+            "18-19 MEDU2600 Final Q27",
+            "18-19 MEDU2600 Final Q30",
+            "18-19 MEDU2600 Final Q33",
+            "18-19 MEDU2600 Final Q44"
           ],
           "2019-20": [
             "19-20 MEDU2600 Sem1 Q47",
@@ -1688,7 +1725,10 @@
             "19-20 MEDU2600 Final Q20",
             "19-20 MEDU2600 Sem1 Q46",
             "19-20 MEDU2600 Sem1 Q54",
-            "19-20 MEDU2600 Final Q21"
+            "19-20 MEDU2600 Final Q21",
+            "19-20 MEDU2600 Final Q28",
+            "19-20 MEDU2600 Final Q29",
+            "19-20 MEDU2600 Final Q45"
           ],
           "2020-21": [
             "20-21 MEDU2600 Sem1 Q45",
@@ -1726,7 +1766,13 @@
             "20-21 MEDU2600 Sem1 Q59",
             "20-21 MEDU2600 Final Q20",
             "20-21 MEDU2600 Final Q21",
-            "20-21 MEDU2600 Sem1 Q60"
+            "20-21 MEDU2600 Sem1 Q60",
+            "20-21 MEDU2600 Final Q22",
+            "20-21 MEDU2600 Final Q23",
+            "20-21 MEDU2600 Final Q24",
+            "20-21 MEDU2600 Final Q25",
+            "20-21 MEDU2600 Final Q26",
+            "20-21 MEDU2600 Final Q27"
           ],
           "2021-22": [
             "21-22 MEDU2600 Test Q45",
@@ -1767,7 +1813,15 @@
             "21-22 MEDU2600 Final Q22",
             "21-22 MEDU2600 Final Q20",
             "21-22 MEDU2600 Test Q60",
-            "21-22 MEDU2600 Final Q21"
+            "21-22 MEDU2600 Final Q21",
+            "21-22 MEDU2600 Final Q28",
+            "21-22 MEDU2600 Final Q23",
+            "21-22 MEDU2600 Final Q24",
+            "21-22 MEDU2600 Final Q25",
+            "21-22 MEDU2600 Final Q26",
+            "21-22 MEDU2600 Final Q27",
+            "21-22 MEDU2600 Final Q29",
+            "21-22 MEDU2600 Final Q30"
           ],
           "2022-23": [
             "22-23 MEDU2600 Test Q46",
@@ -1821,7 +1875,13 @@
             "Extra MEDU2600 Integrated Q4",
             "Extra MEDU2600 Integrated Q5",
             "Extra MEDU2600 Integrated Q6",
-            "Extra MEDU2600 Integrated Q7"
+            "Extra MEDU2600 Integrated Q7",
+            "Extra MEDU2600 Genetics Q1",
+            "Extra MEDU2600 Genetics Q2",
+            "Extra MEDU2600 Genetics Q3",
+            "Extra MEDU2600 Genetics Q4",
+            "Extra MEDU2600 Genetics Q5",
+            "Extra MEDU2600 Genetics Q6"
           ]
         },
         "byTopic": {
@@ -2076,6 +2136,68 @@
             "19-20 MEDU2600 Sem1 Q55",
             "21-22 MEDU2600 Test Q54",
             "21-22 MEDU2600 Final Q14"
+          ],
+          "Molecular Genetics": [
+            "15-16 MEDU2600 Final Q1",
+            "15-16 MEDU2600 Final Q3",
+            "15-16 MEDU2600 Final Q4",
+            "17-18 MEDU2600 Final Q22",
+            "17-18 MEDU2600 Final Q23",
+            "18-19 MEDU2600 Final Q22",
+            "20-21 MEDU2600 Final Q22",
+            "20-21 MEDU2600 Final Q23",
+            "21-22 MEDU2600 Final Q28",
+            "21-22 MEDU2600 Final Q23",
+            "Extra MEDU2600 Genetics Q1",
+            "15-16 MEDU2600 Final Q6",
+            "15-16 MEDU2600 Final Q7",
+            "15-16 MEDU2600 Final Q9",
+            "15-16 MEDU2600 Final Q13",
+            "15-16 MEDU2600 Final Q16",
+            "16-17 MEDU2600 Final Q25",
+            "16-17 MEDU2600 Final Q29",
+            "16-17 MEDU2600 Final Q44",
+            "18-19 MEDU2600 Final Q25",
+            "18-19 MEDU2600 Final Q24",
+            "19-20 MEDU2600 Final Q28",
+            "20-21 MEDU2600 Final Q24",
+            "20-21 MEDU2600 Final Q25",
+            "21-22 MEDU2600 Final Q24",
+            "21-22 MEDU2600 Final Q25",
+            "Extra MEDU2600 Genetics Q2",
+            "15-16 MEDU2600 Final Q10",
+            "16-17 MEDU2600 Final Q26",
+            "16-17 MEDU2600 Final Q43",
+            "17-18 MEDU2600 Final Q26",
+            "18-19 MEDU2600 Final Q26",
+            "18-19 MEDU2600 Final Q27",
+            "20-21 MEDU2600 Final Q26",
+            "20-21 MEDU2600 Final Q27",
+            "21-22 MEDU2600 Final Q26",
+            "21-22 MEDU2600 Final Q27",
+            "Extra MEDU2600 Genetics Q3",
+            "Extra MEDU2600 Genetics Q4",
+            "15-16 MEDU2600 Final Q15",
+            "15-16 MEDU2600 Final Q18",
+            "16-17 MEDU2600 Final Q28",
+            "16-17 MEDU2600 Final Q31",
+            "17-18 MEDU2600 Final Q25",
+            "17-18 MEDU2600 Final Q27",
+            "17-18 MEDU2600 Final Q28",
+            "18-19 MEDU2600 Final Q30",
+            "18-19 MEDU2600 Final Q33",
+            "21-22 MEDU2600 Final Q29",
+            "21-22 MEDU2600 Final Q30",
+            "Extra MEDU2600 Genetics Q5",
+            "15-16 MEDU2600 Final Q19",
+            "15-16 MEDU2600 Final Q20",
+            "16-17 MEDU2600 Final Q30",
+            "16-17 MEDU2600 Final Q32",
+            "17-18 MEDU2600 Final Q32",
+            "18-19 MEDU2600 Final Q44",
+            "19-20 MEDU2600 Final Q29",
+            "19-20 MEDU2600 Final Q45",
+            "Extra MEDU2600 Genetics Q6"
           ],
           "Nitrogen": [
             "17-18 MEDU2600 Final Q17",
@@ -23406,6 +23528,1020 @@
       },
       "answer": "C",
       "explanation": "A. 5HT4 agonist\nB. agonist; accelerate gastric emptying\nC. This is correct lmao\nD. provide a surface to adsorb toxin and/or fluid\nE. agonist"
+    },
+    "15-16 MEDU2600 Final Q1": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "The visual description of a complete set of chromosomes in one cell of an organism is called:",
+      "options": {
+        "A": "Genotype",
+        "B": "Karyotype",
+        "C": "Phenotype",
+        "D": "Genomic imprinting",
+        "E": "Genetic map"
+      },
+      "answer": "B",
+      "explanation": "This is introduced in Stephen Tsui’s lectures."
+    },
+    "15-16 MEDU2600 Final Q3": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following enzymes bind 2 polynucleotide chains together?",
+      "options": {
+        "A": "Telomerase",
+        "B": "DNA ligase",
+        "C": "Topoisomerase",
+        "D": "Helicase",
+        "E": "DNA polymerase"
+      },
+      "answer": "B",
+      "explanation": "B seals Okazaki fragments together. (Refer to the synthesis of lagging strand)\nA. Telomerase is a special kind of DNA polymerase that extends the end of DNA after each cycle of DNA replication.\nB. Correct, as it is just what \"Ligase\" means.\nC. Topoisomerase is like cutting 1 or 2 strands of DNA in order to alter the 3D architecture of DNA.\nD. Helicase unwinds and separates two DNA chains from their double helix.\nE. DNA polymerase just elongates the parent strand 1 nucleotide at once, but not joining two polynucleotide chains."
+    },
+    "15-16 MEDU2600 Final Q4": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "DNA Replication:",
+      "options": {
+        "A": "is the synthesis of two daughter strand which associate with a double helix",
+        "B": "follows the principle of new daughter strand assembled on each parental strand",
+        "C": "is dependent on species-specific genetic code",
+        "D": "is an example of gene expression",
+        "E": "always starts at a single origin with a bi-directional replication fork."
+      },
+      "answer": "B",
+      "explanation": "A. Each daughter strand associates with the parent strand as a double helix\nB. Correct. This is a description of the semi-conservative feature.\nC. The complementary pairing is universal for all life forms.\nD. Gene expression has nothing to do with DNA replication, but instead DNA transcription and mRNA translation. (Not to be confused with central dogma)\nE. E is true only for prokaryotes, e.g. E. Coli. Eukaryotes can have several replication origins at the same time."
+    },
+    "17-18 MEDU2600 Final Q22": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following correctly describes the process of DNA replication?",
+      "options": {
+        "A": "Antiparallel",
+        "B": "Conservative",
+        "C": "Error-free",
+        "D": "Parallel",
+        "E": "Semi conservative"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q23": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "DNA replication occurs",
+      "options": {
+        "A": "Before the cell division",
+        "B": "In the cytoplasm",
+        "C": "In the M phase",
+        "D": "In the ribosome",
+        "E": "Outside the origin of replication"
+      },
+      "answer": "A",
+      "explanation": "During the S phase (interphase)."
+    },
+    "18-19 MEDU2600 Final Q22": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Given that eukaryotic chromosomes are 20 times as those of prokaryotes, how are replication of eukaryotic chromosomes carried out in a few minutes?",
+      "options": {
+        "A": "a great many different RNA polymerases are involved in DNA replication of eukaryotic chromosome",
+        "B": "Eukaryotic DNA polymerase are extraordinary fast compares to those of prokaryotes",
+        "C": "hundreds of replication forks allows simultaneous reactions on each eukaryotic chromosome",
+        "D": "higher temperature in mammalian cell exponentially increase the rate of chromosomal replication",
+        "E": "the presence of histone increase rate of chromosomal replication in eukaryotes"
+      },
+      "answer": "C",
+      "explanation": "Do not confuse RNA polymerase (II) with DNA polymerase. (Option A)\nC is correct as there are multiple replication bubbles in eukaryotic DNA replication."
+    },
+    "20-21 MEDU2600 Final Q22": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Human genome is 800 times larger than E. coli. Why can DNA replication in humans be completed in a few hours?",
+      "options": {
+        "A": "Higher catalytic efficiency of human DNA polymerase than prokaryotic DNA polymerase",
+        "B": "Higher temperature allows exponentially higherrate of replication",
+        "C": "A lot of different RNA polymerase catalyzes DNA replication at the same time",
+        "D": "Hundreds of replication forks occur simultaneously to carry out DNA replication",
+        "E": "The presence of Histones increases rate of chromosomal DNA replication"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q23": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "DNA replication occurs",
+      "options": {
+        "A": "Before the cell division",
+        "B": "In the cytoplasm",
+        "C": "In the M phase",
+        "D": "In the ribosome",
+        "E": "Outside the origin of replication"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q28": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following statements characterize human DNA replication is correct?",
+      "options": {
+        "A": "DNA is synthesized in a 3' to 5' direction on one parental strand and in 5' to 3' direction on the other",
+        "B": "Each strand of parent RNA serves as a template",
+        "C": "Growth of DNA chain is always continuous",
+        "D": "Overall growth of the DNA chain is bi-directional",
+        "E": "RNA and DNA chains are linked by electrostatic interaction"
+      },
+      "answer": "D",
+      "explanation": "A. DNA/RNA synthesis always occurs in the 5' to 3' direction, while the polymerases move from 3' to 5' in the parent strand. (How the template strand is READ and how the DNA / RNA is SYNTHESIZED is different!)\nB. True only if it is parent DNA instead of RNA.\nC. False as the lagging strand displays continuous extension mode.\nD. True as lagging and leading strands elongate in opposite directions.\nE. Factually true, but only for the case of transcription, such that RNA and DNA chains are linked by hydrogen bonds. However, as RNA is not really involved (except RNA primers) in DNA replication, D would be a better answer. (Pay attention to the question words!)"
+    },
+    "21-22 MEDU2600 Final Q23": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which enzyme catalyzes relaxation of supercoiled DNA during DNA replication and is a target of camptothecin, a chemotherapeutic drug?",
+      "options": {
+        "A": "DNA helicase",
+        "B": "DNA polymerase",
+        "C": "Telomerase",
+        "D": "topoisomerase I",
+        "E": "topoisomerase II"
+      },
+      "answer": "D",
+      "explanation": "This question is rather hard if you assume the question is only tested based on the corresponding lecture content. Actually, you cannot call this question outsyl, as camptothecin is introduced in the pharmacogenomics lecture as topoisomerase I inhibitor. This drug is used to illustrate the effect on UGT1A1 activity on drug clearance. Try to integrate the contents regardless of their original source in the lecture slides, to establish a database of your own."
+    },
+    "Extra MEDU2600 Genetics Q1": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "By comparing the differences in DNA replication between the eukaryotes and prokaryotes,",
+      "options": {
+        "A": "there would be multiple origins of replication in a chromosome of bacteria",
+        "B": "many replication forks are simultaneously occurring on a eukaryotic chromosome",
+        "C": "the replication speed of eukaryotic DNA is much faster than prokaryotic DNA",
+        "D": "the genome of a bacteria is single-stranded and circular",
+        "E": "the size of genome of eukaryotes is negligible when compared to that of prokaryotes"
+      },
+      "answer": "B",
+      "explanation": "A only one origin of replication\nB correct\nC much slower\nD double-stranded\nE 掉轉 (eukaryotes = 1000 times more DNA than bacrerial cells)"
+    },
+    "15-16 MEDU2600 Final Q6": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following best describes the portion of a DNA sequence that is transcribed, but not translated?",
+      "options": {
+        "A": "Promotor",
+        "B": "Operator",
+        "C": "Intron",
+        "D": "Exon",
+        "E": "Coding region"
+      },
+      "answer": "C",
+      "explanation": "Untranslated region refers to 5’-UTR and 3’-UTR. (FYR)\nIntron refers to regions that are spliced out during RNA processing (alternative splicing). Thus, they are transcribed, but not translated."
+    },
+    "15-16 MEDU2600 Final Q7": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which protein is responsible for intron removal?",
+      "options": {
+        "A": "Proteasome",
+        "B": "Spliceosome",
+        "C": "Centrosome",
+        "D": "Lysosome",
+        "E": "Nucleosome"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "15-16 MEDU2600 Final Q9": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Many proteins could be made from one single gene",
+      "options": {
+        "A": "statement valid because nuclease cleave gene coding region followed by nucleotide rearrangement",
+        "B": "statement valid because there are many copies of gene and make different proteins",
+        "C": "statement valid because DNA mutation causes changes in gene",
+        "D": "statement valid because splicing",
+        "E": "statement invalid"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "15-16 MEDU2600 Final Q13": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "A promoter site on DNA",
+      "options": {
+        "A": "transcripts repressor",
+        "B": "initiates transcription",
+        "C": "encodes RNA polymerase",
+        "D": "contains transcriptional signal",
+        "E": "translates specific protein"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "15-16 MEDU2600 Final Q16": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Transcription factors:",
+      "options": {
+        "A": "Consist of DNA binding region and ubiquinone binding region",
+        "B": "Bind to RNA polymerase and Initiate DNA transcription",
+        "C": "Bind to 5' end of mRNA and initiate DNA transcription",
+        "D": "Recognise specific DNA sequence",
+        "E": "Recognise specific protein sequence"
+      },
+      "answer": "D",
+      "explanation": "TF binds to motifs. Afterwards, RNA polymerase II binds onto the DNA strand for DNA transcription."
+    },
+    "16-17 MEDU2600 Final Q25": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is correct regarding RNA polymerase activity?",
+      "options": {
+        "A": "Helicase unwinding is not required for the action of RNA polymerase",
+        "B": "RNA polymerase contains one DNA binding domain",
+        "C": "Action of RNA polymerase is semiconservative as one RNA strand is formed for 2 strands of DNA",
+        "D": "RNA polymerase requires the action of Topoisomerase I"
+      },
+      "answer": "D",
+      "explanation": "Seniors:\nA. Wiki: Using the enzyme helicase, RNAP locally opens the double-stranded DNA so that one strand of the exposed nucleotides can be used as a template for the synthesis of RNA, a process called transcription.\nReference: https://en.wikipedia.org/wiki/RNA_polymerase\n→ helicase is required\nFor simplicity, you can just recite the fact that an additional helicase enzyme is not required as RNA polymerase unwinds the DNA for transcription by itself. Wiki is correct for the above statement, but this is because it is contributed by the intrinsic helicase activity of RNA polymerase, but not an additional helicase enzyme. Another sentence extracted from wiki:\n\"In contrast to DNA polymerase, RNAP includes helicase activity, therefore no separate enzyme is needed to unwind DNA.\"\nRNA polymerase does not contain any DNA binding domain, but they bind onto (general) transcription factors that recognize DNA motifs & TATA box to initiate transcription.\nOnly DNA replication is described as semi-conservative.\nNow, this lecture is taught by Alfred Cheng. Alfred Cheng said that the action of topoisomerase is required for the action of RNA polymerase. Let’s believe him. DO NOT EVER try to figure if this is scientifically true or not unless you can successfully argue with Alfred Cheng. And remember that Alfred Cheng is always right for the upcoming questions.\nWhether A is correct depends on the other options, but E is definitely true according to Alfred Cheng.\n(From Prof. Lee’s Lecture Notes)\n\n![](img/16-17_MEDU2600_Final_Q25_1776944572503.png)"
+    },
+    "16-17 MEDU2600 Final Q29": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Transcription factors",
+      "options": {
+        "A": "Bind RNA polymerase",
+        "B": "Bind mRNA",
+        "C": "Bind DNA and ubiquitin",
+        "D": "Recognise DNA",
+        "E": "Recognise protein"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q44": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following can break down double stranded RNA into short interfering RNA?",
+      "options": {
+        "A": "Dicer",
+        "B": "Spliceosome",
+        "C": "U1",
+        "D": "Endonuclease",
+        "E": "Exonuclease"
+      },
+      "answer": "A",
+      "explanation": "Under the teaching of Alfred Cheng, only spliceosomes are introduced. ??\nDicer: Involved in the synthesis of small intervening RNA (siRNA), which is something very similar to miRNA (but they should be different + different mechanism?)\nSpliceosome: Involved in alternative splicing\nU1: One of the snRNA in spliceosome\nEndonuclease: Endonucleases are enzymes that cleave the phosphodiester bond within a polynucleotide chain. Some of them have no regard to sequence when cutting DNA, but many others do so only at specific nucleotide sequences. The latter group is often called restriction endonucleases or restriction enzymes.\nExonuclease: For proofreading DNA after DNA replication"
+    },
+    "18-19 MEDU2600 Final Q25": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is correct regarding RNA polymerase activity?",
+      "options": {
+        "A": "Helicase unwinding is not required for action of RNA polymerase",
+        "B": "RNA polymerase contains one DNA binding domain",
+        "C": "Action of RNA polymerase is semiconservative as one RNA strand is formed for 2 strands of DNA",
+        "D": "RNA polymerase requires the action of Topoisomerase I"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q24": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following correctly describe the portion of DNA that is transcribed but not translated?",
+      "options": {
+        "A": "Coding region",
+        "B": "Enhancer",
+        "C": "Exon",
+        "D": "Intron",
+        "E": "Promoter"
+      },
+      "answer": "D",
+      "explanation": "Someone explains the answer as \"UTR = untranslated region = intron\"\nSource: wiki (https://en.wikipedia.org/wiki/Transcription_factor)\nThis is a wrong concept. 3' and 5' UTR are the margins of mature mRNA after splicing, which is not spliced as the introns. However, UTR are not translated (Hence \"Untranslated region\") as they are not bound within the AUG starting codon, or UAA, UGA, UAG stopping codon."
+    },
+    "19-20 MEDU2600 Final Q28": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Transcription factors:",
+      "options": {
+        "A": "Contains DNA binding domain and ubiquitin binding domain",
+        "B": "Recognize a particular DNA sequence",
+        "C": "Recognize a particular protein sequence",
+        "D": "Bind to 5’ UTR of a mRNA to initiate transcription",
+        "E": "Bind to RNA polymerase to initiate transcription"
+      },
+      "answer": "B",
+      "explanation": "In molecular biology, a transcription factor (TF) (or sequence-specific DNA-binding factor) is a protein that controls the rate of transcription of genetic information from DNA to messenger RNA, by binding to a specific DNA sequence."
+    },
+    "20-21 MEDU2600 Final Q24": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "In contrast to DNA polymerase, RNA polymerase",
+      "options": {
+        "A": "Catalyse the reverse transcription of RNA",
+        "B": "Only works in 5’ to 3’ direction",
+        "C": "Edits as it synthesize RNA",
+        "D": "Add nucleotide monophosphate to growing polynucleotide chain",
+        "E": "Synthesise RNA using DNA as template"
+      },
+      "answer": "E",
+      "explanation": "Notice that this question is asking about what RNA polymerase can do while DNA polymerase cannot. B and D are correct descriptions of RNA polymerase, but these can apply to DNA polymerase too. A is false as reverse transcriptase is a kind of DNA polymerase too. Recall this knowledge concerning retrotransposons.\nC is describing the proofreading ability, which is exhibited by DNA polymerase only… Well, this was true in the past, but not now under the teaching of Alfred Cheng. Both of them exhibit proofreading abilities, but this does not affect the answer."
+    },
+    "20-21 MEDU2600 Final Q25": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following represents the site where RNA polymerase binds to initiate transcription?",
+      "options": {
+        "A": "3’-untranslated region",
+        "B": "5’-untranslated region",
+        "C": "Enhancer",
+        "D": "Promoter",
+        "E": "Stop codon"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q24": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following describing RNA Polymerase activity is correct?",
+      "options": {
+        "A": "Helix unwinding is not necessary for RNA",
+        "B": "RNA polymerase does not proofread products",
+        "C": "RNA polymerase catalyzes removal of introns from primary transcript",
+        "D": "Transcription of DNA by RNA is semi conservative",
+        "E": "Transcription of DNA by RNA polymerase requires topoisomerase"
+      },
+      "answer": "E",
+      "explanation": "A is false as double helix hinders the interaction between RNA polymerase and the gene, so action by helicase is necessary to open up the strands. B is false as RNA polymerase also possesses proofreading ability. C is false as this is performed by spliceosomes. D is false as semi-conservative can only apply to DNA replication, such that each daughter double helix consists of one parent and one nascent strand. RNA transcript is a single strand molecule and of course transcription cannot be described as a semiconservative process. E is true as topoisomerase is required to relax the hypercoiling of DNA into a simple double helix for helicase to further act to unwind the double strands."
+    },
+    "21-22 MEDU2600 Final Q25": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is a non-coding sequence that regulates RNA transcription?",
+      "options": {
+        "A": "Enhancer",
+        "B": "Exon",
+        "C": "Intron",
+        "D": "Splice site",
+        "E": "Transcription start site"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q2": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Regarding the addition of a poly (A) tail,",
+      "options": {
+        "A": "the stability of the mRNA synthesis is increased",
+        "B": "a polythymination signal sequence activates this reaction",
+        "C": "the tail is added to the 5’-end of the mRNA",
+        "D": "nuclease has higher affinity to the mRNA with poly (A) tail",
+        "E": "the tail could lower the effectiveness of protein synthesis"
+      },
+      "answer": "A",
+      "explanation": "A true\nB polyadenylation\nC 3’-end\nD poly (A) tail prevents nuclease digestion > lower affinity\nE increase"
+    },
+    "15-16 MEDU2600 Final Q10": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "tRNA is involved in",
+      "options": {
+        "A": "Transcription",
+        "B": "Translation",
+        "C": "Pre mRNA splicing",
+        "D": "DNA replication",
+        "E": "Polyadenylation"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q26": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Arrange the following steps in translation in order.\n1. A peptide bond is formed\n2. A small ribosomal subunit bind with initiation factor, initiation aminoacyl-tRNA, mRNA\n3. The intact ribosome move forward 3 nucleotides to read new codon\n4. Primed small ribosomal subunit bind with large ribosomal subunit\n5. Elongation factor brings aminoacyl-tRNA to A site",
+      "options": {
+        "A": "2 4 5 1 3",
+        "B": "4 5 2 1 3",
+        "C": "5 3 4 2 1",
+        "D": "1 3 4 5 2",
+        "E": "2 1 4 3 1"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q43": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "How is ribosomal peptide termination achieved?",
+      "options": {
+        "A": "Lower level or lack of acyl-tRNA",
+        "B": "Codons that synthesis COOH terminal",
+        "C": "Hairpin loop near stop codon",
+        "D": "Release factor which prevent mismatch between terminal codon and aminoacyl-tRNA",
+        "E": "Peptidyl transferase"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q26": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Protein translation involve",
+      "options": {
+        "A": "aRNA",
+        "B": "DNA",
+        "C": "MiRNA",
+        "D": "siRNA",
+        "E": "tRNA"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q26": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Tetracycline",
+      "options": {
+        "A": "inhibits mRNA binding to aminoacyl-tRNA",
+        "B": "inhibits mRNA binding to ribosome",
+        "C": "inhibits mRNA synthesis",
+        "D": "inhibits cellular membrane permeability",
+        "E": "inhibits mRNA splicing"
+      },
+      "answer": "A",
+      "explanation": "From an old lecture:\nNote that they ONLY targets prokaryotic translation but not eukaryotes as the 30S or 50S subunits are only found in prokaryotes, not eukaryotes (eukaryotes = 40S or 60S)\n\n![](img/18-19_MEDU2600_Final_Q26_1776944769235.png)"
+    },
+    "18-19 MEDU2600 Final Q27": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "termination of ribosomal peptide",
+      "options": {
+        "A": "Due to low concentration or absence of certain aminoacyl tRNA",
+        "B": "... at C terminus",
+        "C": "Due to release factor that prevent mismatch between terminal codon and aminoacyl tRNA at A site",
+        "D": "Due to termination peptidyl ..... which deacycelate ... at lysine or argine of c terminus",
+        "E": "Due to hair pin stem loop stop codon"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q26": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is involved in the formation of peptide bonds? (Reconstructed)",
+      "options": {
+        "A": "A small ribosomal subunit is loaded with mRNA, initiator aminoacyl tRNA to form the initiation complex.",
+        "B": "Ribosome moves 3 bases forward to read the next codon",
+        "C": "Elongation factor binds to A site moves the next aminoacyl tRNA into a site",
+        "D": "The primed small ribosomal subunit binds to the larger ribosomal subunit"
+      },
+      "answer": "D",
+      "explanation": "This question is likely the one in 1617.\nA. Initiation complex: ribosome (larger subunit + small subunit) + initiator aminoacyl-tRNA + mRNA\nB. The mRNA moves along the ribosome, instead of the ribosome moving. This is known as translocation (be careful not to misunderstand the grammar!)\nC. Elongation factor only helps the transport of aminoacyl-tRNA to the ribosome.\nD. Correct. The large and small subunits remain bound to each other until the completion of translation."
+    },
+    "20-21 MEDU2600 Final Q27": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What is the E site of ribosome?",
+      "options": {
+        "A": "The site where the eukaryotic mRNA processed",
+        "B": "The site where the aminoacy-tRNA enter the ribosome",
+        "C": "The site where the peptide chain elongates",
+        "D": "The site where the translation terminates",
+        "E": "The site where the tRNA exits the ribosome"
+      },
+      "answer": "E",
+      "explanation": "E is for exit, P is for holding the polypeptide, A is for entry."
+    },
+    "21-22 MEDU2600 Final Q26": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Tetracycline is effective in treating a variety of bacterial infections that are resistant to other antibiotics. Tetracycline is effective because it inhibits",
+      "options": {
+        "A": "Aminoacyl-tRNA binding",
+        "B": "Bacterial membrane transport",
+        "C": "mRNA binding to ribosome",
+        "D": "mRNA synthesis",
+        "E": "RNA splicing"
+      },
+      "answer": "A",
+      "explanation": "D is in fact the MOA of rifampicin in treating tuberculosis."
+    },
+    "21-22 MEDU2600 Final Q27": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Termination of ribosomal peptide sign is achieved by",
+      "options": {
+        "A": "The lack of a particular aminoacyl-tRNA",
+        "B": "in frame occurrence of a codon which codes for the c-terminus amino acid",
+        "C": "the action of release factors which prevent mismatch binding between termination codons and aminoacyl-tRNA in the A site",
+        "D": "the activity of terminal peptidyl transferase, a protein that deacetylates peptidyl tRNA by adding lysine or arginine residue to C-terminus of nascent polypeptide",
+        "E": "the occurrence of a hairpin loop near stop codon"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q3": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "When considering the termination stages of transcription and translation, which of the following is INCORRECT?",
+      "options": {
+        "A": "transcription terminates when a polyadenylation signal is transcribed",
+        "B": "typically, a termination signal of transcription resembles a hairpin structure",
+        "C": "In translation, the release factor prevents the binding of a stop codon and an aminoacyl-tRNA",
+        "D": "the last amino acid of a polypeptide formed in translation leaves the ribosomal subunits from the E site",
+        "E": "an RNA chain newly made is pulled away from RNA polymerase by the Rho protein (p)"
+      },
+      "answer": "D",
+      "explanation": "D from the P site"
+    },
+    "Extra MEDU2600 Genetics Q4": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Erythromycin",
+      "options": {
+        "A": "binds to the small ribosomal subunit for functioning",
+        "B": "inhibits the transfer of aminoacyl-tRNA from A site to the P site",
+        "C": "inhibit initiation of the translation",
+        "D": "causes misreading of mRNA in bacteria",
+        "E": "inhibits the binding of aminoacyl-tRNAs to mRNA"
+      },
+      "answer": "B",
+      "explanation": "A large\nB TRUE it inhibits translocation: transfer of aminoacyl-tRNA bound at A site to the P site\nC Streptomycin’s effect\nD Streptomycin’s effect\nE Tetracycline’s effect"
+    },
+    "15-16 MEDU2600 Final Q15": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following molecules can be irreversibly and covalently bonded to change the availability of DNA for transcription?",
+      "options": {
+        "A": "ribosomal protein",
+        "B": "dna polymerase",
+        "C": "topoisomerase",
+        "D": "histone",
+        "E": "elongation factor"
+      },
+      "answer": "D",
+      "explanation": "Example: SRY gene, heterochromatin; expressed once in a lifetime → histone binds to it irreversibly to prevent expression → not available for future transcription"
+    },
+    "15-16 MEDU2600 Final Q18": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following enzymes can break down double stranded RNA into short interfering RNA which may lead to gene silencing?",
+      "options": {
+        "A": "Dicer",
+        "B": "Spliceosome",
+        "C": "U1",
+        "D": "Endonuclease",
+        "E": "Exonuclease"
+      },
+      "answer": "A",
+      "explanation": "Refer to lecture slide P.30\nAlong with being a diagnostic tool, Dicer can be used for treating patients by injecting foreign siRNA intravenously to cause gene silencing\nSource: https://en.wikipedia.org/wiki/Dicer"
+    },
+    "16-17 MEDU2600 Final Q28": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is the most important process for regulation of mRNA gene product?",
+      "options": {
+        "A": "Chromatin remodeling",
+        "B": "Post translational processing and transport",
+        "C": "Transcript transport",
+        "D": "Transcriptional initiation",
+        "E": "Translational initiation"
+      },
+      "answer": "D",
+      "explanation": "This one is quite arguable cuz it can be interpreted in two ways:\n1. Gene product of mRNA, that is, protein from translation (E)\n2. mRNA as a gene product, that is, from transcription (D) ← answers from senior sources\nNothing to argue, D is the key site of gene expression regulation. There will not be E if D is inhibited in the first place. (Rod)"
+    },
+    "16-17 MEDU2600 Final Q31": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Alternative splicing is regulated by",
+      "options": {
+        "A": "repressor",
+        "B": "enhancer",
+        "C": "rna interference",
+        "D": "splicing factor",
+        "E": "tRNA"
+      },
+      "answer": "D",
+      "explanation": "Wiki Sensei: https://en.wikipedia.org/wiki/Alternative_splicing\nSplicing is regulated by trans-acting proteins (repressors and activators) and corresponding cis-acting regulatory sites (silencers and enhancers) on the pre-mRNA. However, as part of the complexity of alternative splicing, it is noted that the effects of a splicing factor are frequently position-dependent. That is, a splicing factor that serves as a splicing activator when bound to an intronic enhancer element may serve as a repressor when bound to its splicing element in the context of an exon, and vice versa."
+    },
+    "17-18 MEDU2600 Final Q25": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which is not related to RNA transcription and regulation?",
+      "options": {
+        "A": "aRNA",
+        "B": "miRNA",
+        "C": "RNA polymerase",
+        "D": "Transcription factor",
+        "E": "tRNA"
+      },
+      "answer": "E",
+      "explanation": "aRNA refers to antisense RNA (although is expressed as asRNA more commonly), which can bind onto a complementary mRNA to regulate its translation or stability."
+    },
+    "17-18 MEDU2600 Final Q27": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "which statement describe miRNA and siRNA?",
+      "options": {
+        "A": "miRNA endogenous while siRNA is exogenous",
+        "B": "miRNA is derived from cell membrane while siRNA is derived from genome"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q28": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "In eukaryotes, which of the following located upstream or downstream of the promoter sequence to regulate transcription",
+      "options": {
+        "A": "CAAT box",
+        "B": "enhancer",
+        "C": "insulator",
+        "D": "splicing sites",
+        "E": "TATA box"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q30": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Regarding gene transcription, enhancer:",
+      "options": {
+        "A": "Always works in 3’ end of gene",
+        "B": "Always works in 5’ end of gene",
+        "C": "Binds to promoter to increase transcription",
+        "D": "Bind to activator to increase transcription at promoter",
+        "E": "Directly activated the transcription machinery"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q33": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "In normal condition, active gene transcription usually occurs in",
+      "options": {
+        "A": "constitutive heterochromatin",
+        "B": "facultative heterochromatin",
+        "C": "periphery of nucleus",
+        "D": "Region with hyper acetylation of histone H3",
+        "E": "region with hyper methylation of DNA"
+      },
+      "answer": "D",
+      "explanation": "In Organization of Human Genome Lecture By Alfred Cheng"
+    },
+    "21-22 MEDU2600 Final Q29": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "RNA splicing will confer:",
+      "options": {
+        "A": "Decreased RNA transcription",
+        "B": "Decreased protein translation",
+        "C": "Increased DNA mutation",
+        "D": "Increased messenger RNA diversity",
+        "E": "Increased protein diversity"
+      },
+      "answer": "E",
+      "explanation": "D is correct if it is mature mRNA diversity. The diversity of primary transcript is still very limited due to the presence of transcription regulatory sites."
+    },
+    "21-22 MEDU2600 Final Q30": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following statement best describe the observation that the insulin gene is specifically expressed in pancreatic islet cells as opposed to all other cells in the body?",
+      "options": {
+        "A": "All other cells contain specific proteases that degrade insulin",
+        "B": "Beta-islet cells contain proper enzyme for post-translational processing of Insulin",
+        "C": "Beta-islet cells express specific factors that activate the insulin gene",
+        "D": "Beta-islet cells lack the repressor of the insulin gene that is expressed by other cells in the body",
+        "E": "The insulin gene is only found in beta-islet cells of pancreas"
+      },
+      "answer": "C",
+      "explanation": "This is a DSE-level question. As you should know, all somatic (Except germ) cells possess identical genotypes, given that there is no mosaicism. The different phenotypes of cells are governed by the differential expression of genes. Insulin gene activators are likely to be found ONLY in pancreatic beta-cells."
+    },
+    "Extra MEDU2600 Genetics Q5": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "By comparing the enhancer and promoter, which of the following statements is/are correct?",
+      "options": {
+        "A": "promoter is located close to the gene to be transcribed",
+        "B": "RNA polymerase binds to transcription factors at the promoter site to initiate transcription",
+        "C": "an enhancer could both activate and repress gene expression",
+        "D": "promoter must be located at the upstream of the gene to be transcribed",
+        "E": "All of the above"
+      },
+      "answer": "E",
+      "explanation": "HAHAHHAH (by seniors)\nActually option B is originally stating that \"RNA polymerase binds to the promoter site to initiate transcription\", which is not entirely correct as RNA polymerase does not have a DNA binding domain, and relies on transcription factors."
+    },
+    "15-16 MEDU2600 Final Q19": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "The amino acid sequence of a normal protein is H2N-Lys-Glu-Leu-Cys-Met-___-COOH, and that of an abnormal protein is H2N-Lys-Glu-Leu-COOH. The mutation is",
+      "options": {
+        "A": "Missense mutation",
+        "B": "Silence mutaton",
+        "C": "Nonsense mutation",
+        "D": "Splice site mutation",
+        "E": "Transcriptional mutation"
+      },
+      "answer": "C",
+      "explanation": "A premature stop codon is generated at the triplet code coding for cytosine."
+    },
+    "15-16 MEDU2600 Final Q20": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Huntington syndrome is caused by",
+      "options": {
+        "A": "Expansion of trinucleotide sequence",
+        "B": "Expansion of dinucleotide sequence",
+        "C": "Spot mutation",
+        "D": "Deletion",
+        "E": "Insertion"
+      },
+      "answer": "A",
+      "explanation": "Specifically the (CAG) repeat."
+    },
+    "16-17 MEDU2600 Final Q30": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Bulky distortion in DNA molecules induced by UV could be repaired by",
+      "options": {
+        "A": "Base-excision damage repair",
+        "B": "Methyl-directed mismatch repair",
+        "C": "Nucleotide-excision damage repair",
+        "D": "Proofreading by DNA polymerase during replication",
+        "E": "Transcription coupling repair"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q32": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Fragile X Syndrome is primarily associated with:",
+      "options": {
+        "A": "Deleted trinucleotide repeats in FMR1 gene",
+        "B": "Expansion of trinucleotide repeats in FMR1 gene",
+        "C": "Point mutation in FMR1 gene",
+        "D": "Hyperacetylation in FMR1 gene",
+        "E": "Hypomethylation in FMR1 gene"
+      },
+      "answer": "B",
+      "explanation": "Specifically the (CGG) repeat."
+    },
+    "17-18 MEDU2600 Final Q32": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Function of the enzyme involved in base excision repair is",
+      "options": {
+        "A": "Additional of a correct base",
+        "B": "Additional of two bases",
+        "C": "Additional of a correct nucleotide",
+        "D": "Removal of mutated base",
+        "E": "Removal of phosphodiester bond"
+      },
+      "answer": "D",
+      "explanation": "Damages in DNA are removed by excision repair mechanisms.\nCorrect DNA sequences are added by DNA polymerase afterwards."
+    },
+    "18-19 MEDU2600 Final Q44": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following about disease-causing mutations is incorrect?",
+      "options": {
+        "A": "It always causes change in property of mutation protein",
+        "B": "It can result in developing a novel function",
+        "C": "It can result in altered time of expression",
+        "D": "It can result in loss of gene function",
+        "E": "It seldom results in gain of gene function"
+      },
+      "answer": "A",
+      "explanation": "A doesn’t refer to synonymous change. Take Huntington’s disease as an example. A normal protein is still formed, but the expanded polyglutamine tract formed is toxic, causing a disease."
+    },
+    "19-20 MEDU2600 Final Q29": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following genetic mutations would most likely be lethal?",
+      "options": {
+        "A": "Substitution of cytosine for guanine",
+        "B": "Insertion of 1 nucleotide",
+        "C": "Insertion of 3 nucleotides",
+        "D": "Substitution of cytosine for adenine",
+        "E": "Substitution of methylcytosine for cytosine"
+      },
+      "answer": "B",
+      "explanation": "This leads to a frameshift and subsequently a nonsense mutation."
+    },
+    "19-20 MEDU2600 Final Q45": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What feature of inheritance does the pedigree diagram show?\n\n![](img/19-20_MEDU2600_Final_Q45_1776950526237.png)",
+      "options": {
+        "A": "Anticipation",
+        "B": "Autosomal dominant inheritance",
+        "C": "Parental effect",
+        "D": "Uniparental disomy",
+        "E": "X-linked dominant inheritance"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q6": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "2 bases of DNA sequence are mutated due to the oxidative stress of peroxide, which of the following could help repair this mutation ?",
+      "options": {
+        "A": "Base excision repair",
+        "B": "Nucleotide excision repair",
+        "C": "spliceosome splice the mutated region out as intron before translation",
+        "D": "p53 protein promotes programmed cell death to remove the mutated cell",
+        "E": "proofreading by DNA polymerase during DNA replication"
+      },
+      "answer": "A",
+      "explanation": "A small scale repair; specific for oxidative damage\nB larger scale repair; specific for UV damage\nC not related\nD programmed cell death could not help repair DNA mutation\nE proofreading only detect mutation"
     }
   }
 }
