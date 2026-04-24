@@ -1553,7 +1553,10 @@
             "15-16 MEDU2600 Final Q15",
             "15-16 MEDU2600 Final Q18",
             "15-16 MEDU2600 Final Q19",
-            "15-16 MEDU2600 Final Q20"
+            "15-16 MEDU2600 Final Q20",
+            "15-16 MEDU2600 Final Q26",
+            "15-16 MEDU2600 Final Q49",
+            "15-16 MEDU2600 Final Q50"
           ],
           "2016-17": [
             "16-17 MEDU2600 Test Q45",
@@ -1600,7 +1603,14 @@
             "16-17 MEDU2600 Final Q28",
             "16-17 MEDU2600 Final Q31",
             "16-17 MEDU2600 Final Q30",
-            "16-17 MEDU2600 Final Q32"
+            "16-17 MEDU2600 Final Q32",
+            "16-17 MEDU2600 Final Q37",
+            "16-17 MEDU2600 Final Q34",
+            "16-17 MEDU2600 Final Q35",
+            "16-17 MEDU2600 Final Q36",
+            "16-17 MEDU2600 Final Q33",
+            "16-17 MEDU2600 Final Q40",
+            "16-17 MEDU2600 Final Q42"
           ],
           "2017-18": [
             "17-18 MEDU2600 Final Q5",
@@ -1648,7 +1658,13 @@
             "17-18 MEDU2600 Final Q25",
             "17-18 MEDU2600 Final Q27",
             "17-18 MEDU2600 Final Q28",
-            "17-18 MEDU2600 Final Q32"
+            "17-18 MEDU2600 Final Q32",
+            "17-18 MEDU2600 Final Q30",
+            "17-18 MEDU2600 Final Q34",
+            "17-18 MEDU2600 Final Q35",
+            "17-18 MEDU2600 Final Q36",
+            "17-18 MEDU2600 Final Q38",
+            "17-18 MEDU2600 Final Q40"
           ],
           "2018-19": [
             "18-19 MEDU2600 Test Q50",
@@ -1695,7 +1711,13 @@
             "18-19 MEDU2600 Final Q27",
             "18-19 MEDU2600 Final Q30",
             "18-19 MEDU2600 Final Q33",
-            "18-19 MEDU2600 Final Q44"
+            "18-19 MEDU2600 Final Q44",
+            "18-19 MEDU2600 Final Q34",
+            "18-19 MEDU2600 Final Q37",
+            "18-19 MEDU2600 Final Q38",
+            "18-19 MEDU2600 Final Q35",
+            "18-19 MEDU2600 Final Q47",
+            "18-19 MEDU2600 Final Q48"
           ],
           "2019-20": [
             "19-20 MEDU2600 Sem1 Q47",
@@ -1728,7 +1750,15 @@
             "19-20 MEDU2600 Final Q21",
             "19-20 MEDU2600 Final Q28",
             "19-20 MEDU2600 Final Q29",
-            "19-20 MEDU2600 Final Q45"
+            "19-20 MEDU2600 Final Q45",
+            "19-20 MEDU2600 Final Q30",
+            "19-20 MEDU2600 Final Q31",
+            "19-20 MEDU2600 Final Q32",
+            "19-20 MEDU2600 Final Q33",
+            "19-20 MEDU2600 Final Q34",
+            "19-20 MEDU2600 Final Q36",
+            "19-20 MEDU2600 Final Q37",
+            "19-20 MEDU2600 Final Q38"
           ],
           "2020-21": [
             "20-21 MEDU2600 Sem1 Q45",
@@ -1772,7 +1802,13 @@
             "20-21 MEDU2600 Final Q24",
             "20-21 MEDU2600 Final Q25",
             "20-21 MEDU2600 Final Q26",
-            "20-21 MEDU2600 Final Q27"
+            "20-21 MEDU2600 Final Q27",
+            "20-21 MEDU2600 Final Q34",
+            "20-21 MEDU2600 Final Q35",
+            "20-21 MEDU2600 Final Q36",
+            "20-21 MEDU2600 Final Q31",
+            "20-21 MEDU2600 Final Q37",
+            "20-21 MEDU2600 Final Q38"
           ],
           "2021-22": [
             "21-22 MEDU2600 Test Q45",
@@ -1821,7 +1857,17 @@
             "21-22 MEDU2600 Final Q26",
             "21-22 MEDU2600 Final Q27",
             "21-22 MEDU2600 Final Q29",
-            "21-22 MEDU2600 Final Q30"
+            "21-22 MEDU2600 Final Q30",
+            "21-22 MEDU2600 Final Q32",
+            "21-22 MEDU2600 Final Q34",
+            "21-22 MEDU2600 Final Q35",
+            "21-22 MEDU2600 Final Q33",
+            "21-22 MEDU2600 Final Q36",
+            "21-22 MEDU2600 Final Q37",
+            "21-22 MEDU2600 Final Q38",
+            "21-22 MEDU2600 Final Q39",
+            "21-22 MEDU2600 Final Q40",
+            "21-22 MEDU2600 Final Q41"
           ],
           "2022-23": [
             "22-23 MEDU2600 Test Q46",
@@ -1881,7 +1927,13 @@
             "Extra MEDU2600 Genetics Q3",
             "Extra MEDU2600 Genetics Q4",
             "Extra MEDU2600 Genetics Q5",
-            "Extra MEDU2600 Genetics Q6"
+            "Extra MEDU2600 Genetics Q6",
+            "Extra MEDU2600 Genetics Q7",
+            "Extra MEDU2600 Genetics Q8",
+            "Extra MEDU2600 Genetics Q9",
+            "Extra MEDU2600 Genetics Q10",
+            "Extra MEDU2600 Genetics Q11",
+            "Extra MEDU2600 Genetics Q12"
           ]
         },
         "byTopic": {
@@ -2197,7 +2249,59 @@
             "18-19 MEDU2600 Final Q44",
             "19-20 MEDU2600 Final Q29",
             "19-20 MEDU2600 Final Q45",
-            "Extra MEDU2600 Genetics Q6"
+            "Extra MEDU2600 Genetics Q6",
+            "16-17 MEDU2600 Final Q37",
+            "17-18 MEDU2600 Final Q30",
+            "17-18 MEDU2600 Final Q34",
+            "18-19 MEDU2600 Final Q34",
+            "19-20 MEDU2600 Final Q30",
+            "21-22 MEDU2600 Final Q32",
+            "Extra MEDU2600 Genetics Q7",
+            "Extra MEDU2600 Genetics Q8",
+            "16-17 MEDU2600 Final Q34",
+            "16-17 MEDU2600 Final Q35",
+            "16-17 MEDU2600 Final Q36",
+            "17-18 MEDU2600 Final Q35",
+            "17-18 MEDU2600 Final Q36",
+            "18-19 MEDU2600 Final Q37",
+            "18-19 MEDU2600 Final Q38",
+            "19-20 MEDU2600 Final Q31",
+            "19-20 MEDU2600 Final Q32",
+            "19-20 MEDU2600 Final Q33",
+            "20-21 MEDU2600 Final Q34",
+            "21-22 MEDU2600 Final Q34",
+            "Extra MEDU2600 Genetics Q9",
+            "15-16 MEDU2600 Final Q26",
+            "18-19 MEDU2600 Final Q35",
+            "18-19 MEDU2600 Final Q47",
+            "18-19 MEDU2600 Final Q48",
+            "19-20 MEDU2600 Final Q34",
+            "20-21 MEDU2600 Final Q35",
+            "20-21 MEDU2600 Final Q36",
+            "21-22 MEDU2600 Final Q35",
+            "Extra MEDU2600 Genetics Q10",
+            "15-16 MEDU2600 Final Q49",
+            "15-16 MEDU2600 Final Q50",
+            "17-18 MEDU2600 Final Q38",
+            "19-20 MEDU2600 Final Q36",
+            "20-21 MEDU2600 Final Q31",
+            "20-21 MEDU2600 Final Q37",
+            "20-21 MEDU2600 Final Q38",
+            "21-22 MEDU2600 Final Q33",
+            "21-22 MEDU2600 Final Q36",
+            "21-22 MEDU2600 Final Q37",
+            "21-22 MEDU2600 Final Q38",
+            "Extra MEDU2600 Genetics Q11",
+            "16-17 MEDU2600 Final Q33",
+            "16-17 MEDU2600 Final Q40",
+            "16-17 MEDU2600 Final Q42",
+            "17-18 MEDU2600 Final Q40",
+            "19-20 MEDU2600 Final Q37",
+            "19-20 MEDU2600 Final Q38",
+            "21-22 MEDU2600 Final Q39",
+            "21-22 MEDU2600 Final Q40",
+            "21-22 MEDU2600 Final Q41",
+            "Extra MEDU2600 Genetics Q12"
           ],
           "Nitrogen": [
             "17-18 MEDU2600 Final Q17",
@@ -24542,6 +24646,880 @@
       },
       "answer": "A",
       "explanation": "A small scale repair; specific for oxidative damage\nB larger scale repair; specific for UV damage\nC not related\nD programmed cell death could not help repair DNA mutation\nE proofreading only detect mutation"
+    },
+    "16-17 MEDU2600 Final Q37": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What would contribute to epigenetic gene silencing",
+      "options": {
+        "A": "Without enzyme involved",
+        "B": "With the CpG island",
+        "C": "Amino acid modification of histone tail",
+        "D": "Within the RNA at the CpG island",
+        "E": "Within the DNA with a string of C"
+      },
+      "answer": "B",
+      "explanation": "Histone acetylation by histone acetyltransferase (HAT) removes the positive charge on histone proteins, so that DNA-histone interactions are decreased. DNA is relaxed, so that it is accessible for transcription.\nRemember: HAT = Acetylation = Activate\nDNA methylation with the CpG island on the 5th carbon of the cytosine adjacent to guanine also silences the gene."
+    },
+    "17-18 MEDU2600 Final Q30": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Chromatin remodeling is cause by",
+      "options": {
+        "A": "DNA helicase",
+        "B": "DNA remodeling",
+        "C": "DNA replication",
+        "D": "epigenetic modification",
+        "E": "genome editing"
+      },
+      "answer": "D",
+      "explanation": "Chromatin remodeling is related to histone modification\nA B C are all not epigenetic\nE not related"
+    },
+    "17-18 MEDU2600 Final Q34": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following results in epigenetically silenced genes?",
+      "options": {
+        "A": "DNA demethylation at CpG dinucleotide",
+        "B": "Histone acetylation at lysine",
+        "C": "Histone deacetylation at lysine",
+        "D": "Histone methylation at lysine.",
+        "E": "Histone demethylation at lysine"
+      },
+      "answer": "C",
+      "explanation": "Histone deacetylation by histone deacetylase condenses chromatin → gene silencing."
+    },
+    "18-19 MEDU2600 Final Q34": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Epigenetic gene silencing occurs where",
+      "options": {
+        "A": "DNA cytosine with string of C",
+        "B": "RNA cytosine with CpG island",
+        "C": "Chemical composition of amino acid tail of histone H3",
+        "D": "Mutation in CpG island"
+      },
+      "answer": "C",
+      "explanation": "Refer to the 2122 final for a better version of the question."
+    },
+    "19-20 MEDU2600 Final Q30": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Modification of histone proteins by acetylation will:",
+      "options": {
+        "A": "inhibit RNA polymerase activity",
+        "B": "add methyl groups to the regulatory region of the target genes",
+        "C": "increase the transcription of the target genes",
+        "D": "increase the condensation of chromatin",
+        "E": "increase the affinity of histone for DNA"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q32": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Epigenetic gene silencing occurs:",
+      "options": {
+        "A": "At cytosine in DNA with poly(C) signal",
+        "B": "At cytosine in RNA transcribed from CpG island",
+        "C": "In nucleosome-depleted region",
+        "D": "With chemical modifications of amino acids on histone tail",
+        "E": "With mutation in CpG island"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q7": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is NOT a criterion of epigenetics?",
+      "options": {
+        "A": "Does not change in DNA sequence",
+        "B": "Physically bound to DNA or associated proteins",
+        "C": "Cannot be transmitted to the next generation",
+        "D": "Influences gene expression",
+        "E": "Passing along cell identity information"
+      },
+      "answer": "C",
+      "explanation": "E = Maintained throughout cell division"
+    },
+    "Extra MEDU2600 Genetics Q8": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following would lead to gene activation?",
+      "options": {
+        "A": "Histone deacetylation at lysine",
+        "B": "Histone acetylation at lysine",
+        "C": "Methylation of CpG islands",
+        "D": "Acetylation of CpG islands",
+        "E": "Deacetylation of CpG islands"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q34": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Southern Blot procedure (arrange the order, separate answers with a comma followed by a single space character):\nI. Gel Electrophoresis\nII. Put on paper\nIII. Hybridization\nIV. Restriction enzyme",
+      "options": {},
+      "answer": "IV, I, II, III",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q35": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following techniques can be used to measure the amount of protein in a human tissue?",
+      "options": {
+        "A": "Northern blot",
+        "B": "Southern blot",
+        "C": "Western blot",
+        "D": "RT-PCR",
+        "E": "RFLP"
+      },
+      "answer": "C",
+      "explanation": "Western blot: detect signal (specific protein)(semi-quantitative)\nRT-PCR: Performed in real-time for the quantification of mRNA in the sample\nRFLP: gel electrophoresis → diagnosis of disease"
+    },
+    "16-17 MEDU2600 Final Q36": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "PCR reaction will be carried out in a cycle of 3 temperature phases. The specificity of the PCR product will be determined by:\nI. Annealing phase\nII. Denaturing phase\nIII. Extension phase",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "III only",
+        "D": "I and II only",
+        "E": "I and III only"
+      },
+      "answer": "A",
+      "explanation": "Specificity refers to the ability of the primer to anneal to correct the starting site to give the correct product.\nAnnealing temperature must be controlled to ensure proper annealing of primers and DNA strands.\n(FYR ONLY)However, fidelity is another parameter of PCR. Fidelity refers to the ability of the DNA polymerase to correctly replicate under the designated primer, without missing any of the base pair in-between. (But fidelity is not in syl anyway)"
+    },
+    "17-18 MEDU2600 Final Q35": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What of the following can we do if we want to determine the amount of DNA in a patient's sample?",
+      "options": {
+        "A": "DNA microarray",
+        "B": "Western blot",
+        "C": "Real time PCR",
+        "D": "Reverse transcription PCR",
+        "E": "Northern Blot"
+      },
+      "answer": "C",
+      "explanation": "??Amount of DNA is measured by qPCR. RT-PCR is a standard procedure to convert mRNA into cDNA and amplify, for investigation of transcriptome. However, RT-qPCR is the fusion of two techniques, to measure the amount of target mRNA. This is very useful to investigate the difference between expression of different genes in a cell, and also as diagnostic testing of viral load by detecting viral mRNA."
+    },
+    "17-18 MEDU2600 Final Q36": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "To determine the expression and location of a protein in a tumor sample, the best method is:",
+      "options": {
+        "A": "ELISA",
+        "B": "Immunohistochemistry",
+        "C": "RFLP",
+        "D": "Southern blot",
+        "E": "Western blot"
+      },
+      "answer": "B",
+      "explanation": "ELISA is used to test presence of different proteins, while immunohistochemistry can observe the expression and location of protein in cells without the need to lyse it."
+    },
+    "18-19 MEDU2600 Final Q37": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Restriction length polymorphism can be observed when:",
+      "options": {
+        "A": "mutation outside restriction site",
+        "B": "mutation at altered restriction site",
+        "C": "gene size under 20kB",
+        "D": "normal and mutated gene migrate differently under electrophoresis"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q38": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "PCR reaction will be carried our in a cycle of 3 temperature phases. The specificity of the PCR product will be determined by:\nI. Annealing phase\nII. Denaturing phase\nIII. Extension phase",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "III only",
+        "D": "I and II only",
+        "E": "I and III only"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q31": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "The movement of DNA molecules during gel electrophoresis is depended on:\nI. The intensity of the electric field\nII. The no. of base-pair in DNA molecules\nIII. Pore-size of gel matrix",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I, II only",
+        "D": "I, III only",
+        "E": "I, II, III"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q32": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Restriction fragment length polymorphism (RFLP) analysis can be used to follow the inheritance of a genetic disease if",
+      "options": {
+        "A": "mutation are outside the restriction sites so that changes still occurs",
+        "B": "the gene for the genetic disease can be recognized by a DNA probe",
+        "C": "the disease causing mutation is at an altered restriction site",
+        "D": "the normal and the mutated genes migrate differently upon gel electrophoresis",
+        "E": "the gene for the genetic disease is smaller than 20kb"
+      },
+      "answer": "D",
+      "explanation": "A. RFLP mainly rely on the fact that presence of mutation will alter the restriction site and only either normal or mutated allele can be cut. If mutation is beyond the site, then both alleles can be cut and cannot be detected.\nB. Even if the mutated allele is beyond the site, it can still be detected by a DNA probe. DNA probes can be used to detect any point mutation or SNP if designed well.\nC. It is possible that the disease-causing allele creates a new restriction site that normally would not appear, so that only this allele can be cut.\nD. This is the principle of how we can discern the two alleles by visualizing them.\nE. It is just a matter of resolution, i.e. using different concentrations of agarose."
+    },
+    "19-20 MEDU2600 Final Q33": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What can be used to determine the amount of DNA?",
+      "options": {
+        "A": "DNA microarray",
+        "B": "Western Blot",
+        "C": "Northern Blot",
+        "D": "RTPCR (Real Time PCR; ignore the abbreviation)",
+        "E": "reverse PCR"
+      },
+      "answer": "D",
+      "explanation": "I suspect they are using some wrong abbreviations here, and I added the real time PCR in D just to clarify the choice, although it is not a correct abbreviation. RT-PCR is actually referring to reverse transcription PCR, which is used to amplify the cDNA library obtained from mRNA, which is describing option E I think. Real time PCR is actually qPCR, as the q stands for quantification."
+    },
+    "20-21 MEDU2600 Final Q34": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is the most appropriate method to separate a fragment of 350 nucleotides and a fragment of 351 nucleotides?",
+      "options": {
+        "A": "Agarose gel electrophoresis",
+        "B": "Polyacrylamide gel electrophoresis",
+        "C": "Polymerase chain reaction"
+      },
+      "answer": "B",
+      "explanation": "PAGE has a higher resolution compared with agarose gel electrophoresis.\nUsing polyacrylamide gel can separate fragments with only a difference in 1 base pair."
+    },
+    "21-22 MEDU2600 Final Q34": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "To determine the expression and cellular location of a protein in a tumour sample, one can perform:",
+      "options": {
+        "A": "Enzyme-linked immunosorbent assay",
+        "B": "immunohistochemistry",
+        "C": "Next-generation sequencing",
+        "D": "Restriction enzyme digestion",
+        "E": "Western blot"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q9": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following correctly describes Western Blot?",
+      "options": {
+        "A": "Western blot is a quantitative analysis.",
+        "B": "HER2 detection is an application of Western blot.",
+        "C": "Compared to enzyme-linked immunosorbent assay, its main function is to access viral load in HIV clinical test.",
+        "D": "Compared to PCR, it cannot access viral load in HIV clinical tests.",
+        "E": "It has a different principle with immunohistochemistry."
+      },
+      "answer": "D",
+      "explanation": "A. qualitative and semi-quantitative: detect specific protein expression\nB. Is an application of immunohistochemistry (IHC)\nC. It is a qualitative test → not to access viral load.\nE. It has similar principle"
+    },
+    "15-16 MEDU2600 Final Q26": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is used to pinpoint a mutation?",
+      "options": {
+        "A": "Restriction fragment length polymorphism",
+        "B": "Next Generation Sequencing",
+        "C": "Allele Specific Oligonucleotide analysis",
+        "D": "Northern blot analysis",
+        "E": "Southern blot analysis"
+      },
+      "answer": "B",
+      "explanation": "??WGS or WES (If at exon) is the only method to locate the position of one mutation in all 23 chromosomes. All other methods can only detect the mutation, but not find exactly where they are. In other words, these methods can only be used if we have prior knowledge about what mutation we are looking for, so that we can design the proper DNA probes to anneal them."
+    },
+    "18-19 MEDU2600 Final Q35": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Restriction enzyme will:",
+      "options": {
+        "A": "Cutting double-stranded DNA at specific site",
+        "B": "Cutting double-stranded DNA randomly",
+        "C": "Cutting single and double-stranded DNA at specific site",
+        "D": "Cutting single-stranded DNA at specific site",
+        "E": "Cutting single-stranded DNA randomly"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q47": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following techniques allow for simultaneous interrogation of a few thousand genes?",
+      "options": {
+        "A": "Array hybridisation",
+        "B": "Next generation sequencing",
+        "C": "Sanger sequencing",
+        "D": "Third generation sequencing",
+        "E": "Western blot"
+      },
+      "answer": "B",
+      "explanation": "This question is likely set by Alfred Cheng when he was still the teacher of biotechnology. Steven Tsui replied to me and stated that methods A-C can ALL study a thousand genes at the same time, but NGS is the best of all."
+    },
+    "18-19 MEDU2600 Final Q48": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Whole genome sequencing is useful for several types of clinical investigation except:",
+      "options": {
+        "A": "Determination of single gene characteristics",
+        "B": "Detection of monogenic defects",
+        "C": "Detection of multifactorial defects",
+        "D": "Liquid biopsy for cancer DNA",
+        "E": "Prenatal testing of fetal dna in maternal circulation"
+      },
+      "answer": "C",
+      "explanation": "Not for environmental influences."
+    },
+    "19-20 MEDU2600 Final Q34": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "which of the following projects would be best suited for NGS",
+      "options": {
+        "A": "to determine whether a tumor sample contains a common missense mutation",
+        "B": "to identify the mutation/aberrantly activated genes in a tumor sample",
+        "C": "to detect the presence of a viral DNA in 20000 participants who are asymptomatic of cancer",
+        "D": "to genotype 10 genomic DNA samples for a known SNP",
+        "E": "to characterize the expressions of all proteins in a tumor sample"
+      },
+      "answer": "A",
+      "explanation": "NGS: detect mutation of gene without prior knowledge\nA → knew the mutation → with known knowledge\nB → Identification → NO prior knowledge\nC → knew the viral DNA\nD → known SNP\nE: not related\n(Explanation from Stephen Tsui’s response to seniors)\n\nOur response as of 2023 04/05/2023:\n\n![](img/19-20_MEDU2600_Final_Q34_1777037278685.png)"
+    },
+    "20-21 MEDU2600 Final Q35": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following projects would be best suited for Next Generation Sequencing?",
+      "options": {
+        "A": "to characterise the expression of all proteins in a tumour sample",
+        "B": "to detect the presence of viral DNA in 20000 participants who are asymptomatic of cancer",
+        "C": "To determine if a tumour sample contains a common missense mutation",
+        "D": "to genotype 10 genomic DNA samples for a known single nucleotide polymorphism",
+        "E": "to identify the mutated gene in a tumour sample"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q36": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "NGS does not include",
+      "options": {
+        "A": "Automated fluidic devices",
+        "B": "Fluorescence imaging",
+        "C": "Gel electrophoresis",
+        "D": "Immobilization of the DNA samples",
+        "E": "Sequencing by synthesis"
+      },
+      "answer": "C",
+      "explanation": "It is not easy to understand the techniques of NGS, as they vary among each machine produced by the companies. However, none of the NGS methods will use gel electrophoresis as it is too hard to handle and the DNA has limited mobility within. One approach is to fix the DNA library into a flow cell which will be supplied with dNTP for DNA synthesis along the DNA fragments. 4 different fluorescent signals will be emitted according to which nucleotide is added to the nascent DNA, which is then captured by an imaging component to reconstruct the sequence through the order of fluorescent signals. Remember, this is just one of the methods of NGS."
+    },
+    "21-22 MEDU2600 Final Q35": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following projects would be best suited for Next Generation Sequencing?",
+      "options": {
+        "A": "to characterise the expression of all proteins in a tumour sample",
+        "B": "to detect the presence of viral DNA in 20000 participants who are asymptomatic of cancer",
+        "C": "To determine if a tumour sample contains a common missense mutation",
+        "D": "to genotype 10 genomic DNA samples for a known single nucleotide polymorphism",
+        "E": "to identify the mutated gene in a tumour sample"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q10": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is NOT a correct clinical application of recombinant DNA technology?",
+      "options": {
+        "A": "Gene therapy for β-thalassemia patients",
+        "B": "Cancer immunotherapy for β-cell malignancies therapy with CAR T-cells",
+        "C": "Non-invasive prenatal testing",
+        "D": "Diagnosis of HIV infection",
+        "E": "Production of human insulin"
+      },
+      "answer": "C",
+      "explanation": "C → NGS"
+    },
+    "15-16 MEDU2600 Final Q49": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "The complete human genome was solved in 2003. What is a \"genome\"?",
+      "options": {
+        "A": "The total content of gene-bearing molecule in an organism",
+        "B": "The total number of chromosomes in diploid cells",
+        "C": "Unit of inheritance",
+        "D": "The total content of gene-bearing molecule in cell specific to an organism",
+        "E": "The total content of polynucleotide of an organism"
+      },
+      "answer": "A",
+      "explanation": "D could be true if “species” is used instead of “organism”"
+    },
+    "15-16 MEDU2600 Final Q50": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which if the following about Human genome is TRUE.",
+      "options": {
+        "A": "Nearly all base pairs are coding",
+        "B": "Functionally related genes are clustered in chromosome",
+        "C": "The copy number of gene is fixed",
+        "D": "Most proteins are encoded by a single copy gene",
+        "E": "The human genome contains more than 100, 000 genes"
+      },
+      "answer": "B",
+      "explanation": "A. most of our gene → non-coding (only 1.5% coding)\nB. Many coregulated gene families utilize spatial positioning to coordinate transcription, with functionally related genes clustering together which can allow coordinated expression via adjacent gene coregulation\nSource: https://msphere.asm.org/content/4/2/e00063-19\nAnother source: Stephen Tsui molecular cytogenetics (3D FISH)\n![](img/15-16_MEDU2600_Final_Q50_1777037344792.png)\nC not fixed\nD: multiple gene, splicing\nIndeed there are multiple-copy genes, but lectures never mentioned the proportion\nE 26k"
+    },
+    "17-18 MEDU2600 Final Q38": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Description of heterochromatin",
+      "options": {
+        "A": "it has high gene density",
+        "B": "it has open chromatin structure and transcriptionally active",
+        "C": "it is characterized by DNA hypermethylation and histone hyperacetylation",
+        "D": "it is readily accessible by transcription factors and polymerases",
+        "E": "it is located in periphery of nucleus"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q36": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following would best describe heterochromatin?",
+      "options": {
+        "A": "It has high gene density",
+        "B": "It has open chromatin structure and transcriptionally active",
+        "C": "It is characterized by DNA hypermethylation and histone hyperacetylation",
+        "D": "It is readily accessible by transcription factors and polymerases",
+        "E": "It is located in periphery of nucleus"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q31": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "In normal condition, active gene transcription usually occurs in",
+      "options": {
+        "A": "Constitutive heterochromatin",
+        "B": "Facultative heterochromatin",
+        "C": "Periphery of nucleus",
+        "D": "Region with hyper acetylation of histone H3",
+        "E": "Region with hyper methylation of DNA"
+      },
+      "answer": "D",
+      "explanation": "Constitutive heterochromatin can never convert into euchromatin by histone acetylation for gene transcription, while facultative can. Try not to risk for facultative heterochromatin with the word “usually”.\nHeterochromatin is in the periphery of the nucleus, while euchromatin is at the center.\nD is correct as acetylation removes the positive charge on lysine residues of histone, hence reducing its interaction with the negatively charged DNA, causing the unwinding of facultative heterochromatin into active euchromatin. E is false as it leads to gene silencing."
+    },
+    "20-21 MEDU2600 Final Q37": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following best describes heterochromatin?",
+      "options": {
+        "A": "It has high gene density",
+        "B": "It has open chromatin structure and transcriptionally active",
+        "C": "It is characterized by DNA hypermethylation and histone hyperacetylation",
+        "D": "It is readily accessible by transcription factors and polymerases",
+        "E": "It is located in the periphery of the nucleus."
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q38": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "The completion of Human Genome Project can:",
+      "options": {
+        "A": "Understand how the environments affect gene expression in human beings.",
+        "B": "Discover nearly all human protein-coding and non-coding genes to allow further study.",
+        "C": "Catalogue genetic similarities and differences in human beings that contribute to disease risk.",
+        "D": "Developed next generation sequencing technologies",
+        "E": "None of the above"
+      },
+      "answer": "E",
+      "explanation": "Refer to the explanation in the later question."
+    },
+    "21-22 MEDU2600 Final Q33": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Euchromatin is characterised by:",
+      "options": {
+        "A": "Condensed chromatin inaccessible by transcription factors",
+        "B": "DNA methyltransferase activity at CpG islands",
+        "C": "Histone hypoacetylation at lysine residues",
+        "D": "Peripheral location in the nucleus",
+        "E": "Recruitment of bromodomain reader"
+      },
+      "answer": "E",
+      "explanation": "A is false at first glance. B is false as DNMT activity causes gene silencing. C is false either. Euchromatin is at centre of nucleus. E is correct as bromodomain readers are responsible to read the acetylation signals on histone to recruit co-activator to activate gene transcription. Bromodomain has its name derived from Brahma gene in fruit flies, and it has no relationship with bromine for your reference. Similarly, DNA methylation signal is read by MECP2 reader."
+    },
+    "21-22 MEDU2600 Final Q36": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "With the completion of Human Genome Project at 2003, we:",
+      "options": {
+        "A": "Catalogued genetic similarities and differences in human beings that contribute to disease risk",
+        "B": "Developed next generation sequencing",
+        "C": "Discovered nearly all human protein-coding and non-coding genes",
+        "D": "Have yet to exploit the gene regulatory elements in the human genome",
+        "E": "Understood how the environment affects gene expression in human beings"
+      },
+      "answer": "D",
+      "explanation": "A is false as it is done by large databases like OMIM or GWAS. B is false as HGP is done without NGS, as it is achieved with simple automated Sanger sequencing machines. C is false as HGP only focuses on protein-coding genes, you may take it as a kind of WES. D is correct as many regulatory elements are within non-coding genes, and we still need to investigate the regulatory mechanisms behind the sequence. E is false as we still cannot do this after 20 years of HGP."
+    },
+    "21-22 MEDU2600 Final Q37": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "The three-dimensional nuclear genome is arranged in the ascending order:\n(I) Chromatin loops\n(II) Chromosome territories\n(III) Compartment A/B\n(IV) Nucleosomes\n(V) Topologically associated domains",
+      "options": {
+        "A": "I > II > III > IV > V",
+        "B": "II > III > V > IV > I",
+        "C": "III > IV > I > V > II",
+        "D": "IV > I > V > III > II",
+        "E": "V > III > IV > I > II"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q38": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "The functional unit of genome is:",
+      "options": {
+        "A": "Chromatin loop",
+        "B": "Double helix DNA",
+        "C": "Histone octamer",
+        "D": "Nucleosome",
+        "E": "Solenoid"
+      },
+      "answer": "A",
+      "explanation": "This is a very stupid question.\nNucleosome is the basic STRUCTURAL unit of chromatin.\nChromatin loops (30 nm fibers) are basic functional units of the genome. (Refer to P.19 of Lecture)"
+    },
+    "Extra MEDU2600 Genetics Q11": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is correct about the human genome project?",
+      "options": {
+        "A": "It discovered all non-protein coding and protein-coding gene",
+        "B": "It map DNA methylation, histone modifications, chromatin accessibility and small RNA transcripts",
+        "C": "It helps identify the locations of genes.",
+        "D": "It identifies microorganisms associated with both healthy and diseased humans.",
+        "E": "It constructed genetic map for facilitating genetic linkage studies"
+      },
+      "answer": "E",
+      "explanation": "A: NO non-protein coding\nB: Roadmap Epigenomics Project\nC: Encyclopedia of DNA Elements (ENCODE)\nD: Human Microbiome Project\nE: Correct"
+    },
+    "16-17 MEDU2600 Final Q33": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Crossover",
+      "options": {
+        "A": "Can generate gene duplication of genes with one copy under selective pressure",
+        "B": "In different regions in homologous chromosomes",
+        "C": "Between sister chromatids in mitosis",
+        "D": "Between pseudoautosomal region in X and Y chromosome",
+        "E": "Crossover occurs in meiosis I and II."
+      },
+      "answer": "D",
+      "explanation": "A. This requires the homologous chromosomes both have at least 1 copy (Hence 2 copies in total) to become possible. Also, this question has probably missed the keyword “In normal situation”. It is unequal crossing over causing gene duplication, but it is an abnormal situation.\nB. In non-sister chromatids of homologous chromosomes\nC. Only in meiosis I\nD. Correct, as X and Y chromosome does not have a pairing partner\nE. Only in meiosis I"
+    },
+    "16-17 MEDU2600 Final Q40": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which one is correct about meiosis?",
+      "options": {
+        "A": "During meiosis 1 the centromeres divide so that the chromosomes can separate into two daughter cells",
+        "B": "In females, part of meiosis 1 occurs in fetal development",
+        "C": "In males, part of meiosis 1 occurs in fetal development",
+        "D": "Meiosis occurs in somatic cells",
+        "E": "Meiosis is not a continuous process in adult males"
+      },
+      "answer": "B",
+      "explanation": "A. centromere didn’t divide\nB. true; primary oocytes keeps in prophase I in embryonic state"
+    },
+    "16-17 MEDU2600 Final Q42": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "In normal condition, crossover",
+      "options": {
+        "A": "is a main driver of gene duplication",
+        "B": "occurs in the pseudoautosomal regions of X and Y chromosomes",
+        "C": "Occurs between any two areas of homologous chromosomes",
+        "D": "occurs only once in meiosis II",
+        "E": "Occurs once in meiosis I and once in meiosis II"
+      },
+      "answer": "B",
+      "explanation": "Unequal crossover cause gene duplication"
+    },
+    "17-18 MEDU2600 Final Q40": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Crossing over is the process whereby:",
+      "options": {
+        "A": "Homologous chromosomes align with each other",
+        "B": "Homologous chromosomes exchange genetic material during prophase I of meiosis",
+        "C": "Homologous chromosomes separate and migrate to poles",
+        "D": "Sister chromatids exchange genetic material during metaphase of mitosis",
+        "E": "Sister chromatids exchange genetic material during prophase II of meiosis"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q37": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "For a diploid organism whose somatic cells have 2 pairs of homologous chromosomes, which of the following represents the cell at the end of meiosis I?\n\n![](img/19-20_MEDU2600_Final_Q37_1777037398995.png)",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q38": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "In normal situations, chromosome crossover…",
+      "options": {
+        "A": "Functions as the main driver for the generation of gene duplications.",
+        "B": "Occurs twice during meiosis I and meiosis II",
+        "C": "Occurs at sister chromatids during mitosis",
+        "D": "Occurs at pseudoautosomal regions of X and Y chromosomes",
+        "E": "Occurs at different regions on homologous chromosomes"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q39": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "For a diploid organism whose somatic cells have 2 pairs of homologous chromosomes, which of the following represent the cell at end of meiosis I?\n\n![](img/21-22_MEDU2600_Final_Q39_1777037436440.png)",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q40": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "In normal circumstances, chromosomal crossover:",
+      "options": {
+        "A": "function as main driver for generation of gene duplication",
+        "B": "occurs at different regions on homologous chromosomes",
+        "C": "occurs at pseudoautosomal region of chromosome X and Y",
+        "D": "occurs at sister chromatids during mitosis",
+        "E": "occurs twice during meiosis I and meiosis II"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q41": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Non-disjunction is the defect of chromosome/chromatid segregation during cell division, e.g. the failure of separation of:",
+      "options": {
+        "A": "Homologous chromosomes in anaphase II of meiosis",
+        "B": "Homologous chromosomes in anaphase of mitosis",
+        "C": "Sister chromatids in anaphase of mitosis",
+        "D": "Sister chromatids in anaphase I of meiosis",
+        "E": "Sister chromatid in anaphase II of mitosis"
+      },
+      "answer": "C",
+      "explanation": "This question is just a matter of scrutinizing the wordings. Nondisjunction only occurs on 3 occasions: Homologous chromosomes at anaphase I, sister chromatids at anaphase II in meiosis or anaphase in mitosis."
+    },
+    "Extra MEDU2600 Genetics Q12": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is incorrect?",
+      "options": {
+        "A": "Down Syndrome is caused by a meiotic nondisjunction event.",
+        "B": "Recombinant frequency is higher in females than males.",
+        "C": "Holliday junction refers to a physical link between homologous chromosomes.",
+        "D": "Crossing over randomly occurs throughout the chromosomes except X and Y chromosomes.",
+        "E": "Chromosome breaks during crossing-over."
+      },
+      "answer": "D",
+      "explanation": "Randomly → not randomly positioned along the chromosomes\nX & Y chromosome also pair up and crossover at restricted pseudoautosomal regions"
     }
   }
 }
