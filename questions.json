@@ -1556,7 +1556,14 @@
             "15-16 MEDU2600 Final Q20",
             "15-16 MEDU2600 Final Q26",
             "15-16 MEDU2600 Final Q49",
-            "15-16 MEDU2600 Final Q50"
+            "15-16 MEDU2600 Final Q50",
+            "15-16 MEDU2600 Final Q29",
+            "15-16 MEDU2600 Final Q35",
+            "15-16 MEDU2600 Final Q36",
+            "15-16 MEDU2600 Final Q39",
+            "15-16 MEDU2600 Final Q40",
+            "15-16 MEDU2600 Final Q20",
+            "15-16 MEDU2600 Final Q59"
           ],
           "2016-17": [
             "16-17 MEDU2600 Test Q45",
@@ -1610,7 +1617,10 @@
             "16-17 MEDU2600 Final Q36",
             "16-17 MEDU2600 Final Q33",
             "16-17 MEDU2600 Final Q40",
-            "16-17 MEDU2600 Final Q42"
+            "16-17 MEDU2600 Final Q42",
+            "16-17 MEDU2600 Final Q45",
+            "16-17 MEDU2600 Final Q48",
+            "16-17 MEDU2600 Final Q51"
           ],
           "2017-18": [
             "17-18 MEDU2600 Final Q5",
@@ -1664,7 +1674,15 @@
             "17-18 MEDU2600 Final Q35",
             "17-18 MEDU2600 Final Q36",
             "17-18 MEDU2600 Final Q38",
-            "17-18 MEDU2600 Final Q40"
+            "17-18 MEDU2600 Final Q40",
+            "17-18 MEDU2600 Final Q41",
+            "17-18 MEDU2600 Final Q42",
+            "17-18 MEDU2600 Final Q43",
+            "17-18 MEDU2600 Final Q44",
+            "17-18 MEDU2600 Final Q45",
+            "17-18 MEDU2600 Final Q46",
+            "17-18 MEDU2600 Final Q47",
+            "17-18 MEDU2600 Final Q48"
           ],
           "2018-19": [
             "18-19 MEDU2600 Test Q50",
@@ -1717,7 +1735,8 @@
             "18-19 MEDU2600 Final Q38",
             "18-19 MEDU2600 Final Q35",
             "18-19 MEDU2600 Final Q47",
-            "18-19 MEDU2600 Final Q48"
+            "18-19 MEDU2600 Final Q48",
+            "18-19 MEDU2600 Final Q49"
           ],
           "2019-20": [
             "19-20 MEDU2600 Sem1 Q47",
@@ -1758,7 +1777,13 @@
             "19-20 MEDU2600 Final Q34",
             "19-20 MEDU2600 Final Q36",
             "19-20 MEDU2600 Final Q37",
-            "19-20 MEDU2600 Final Q38"
+            "19-20 MEDU2600 Final Q38",
+            "19-20 MEDU2600 Final Q40",
+            "19-20 MEDU2600 Final Q41",
+            "19-20 MEDU2600 Final Q43",
+            "19-20 MEDU2600 Final Q42",
+            "19-20 MEDU2600 Final Q44",
+            "19-20 MEDU2600 Final Q46"
           ],
           "2020-21": [
             "20-21 MEDU2600 Sem1 Q45",
@@ -1808,7 +1833,12 @@
             "20-21 MEDU2600 Final Q36",
             "20-21 MEDU2600 Final Q31",
             "20-21 MEDU2600 Final Q37",
-            "20-21 MEDU2600 Final Q38"
+            "20-21 MEDU2600 Final Q38",
+            "20-21 MEDU2600 Final Q40",
+            "20-21 MEDU2600 Final Q41",
+            "20-21 MEDU2600 Final Q42",
+            "20-21 MEDU2600 Final Q43",
+            "20-21 MEDU2600 Final Q44"
           ],
           "2021-22": [
             "21-22 MEDU2600 Test Q45",
@@ -1867,7 +1897,12 @@
             "21-22 MEDU2600 Final Q38",
             "21-22 MEDU2600 Final Q39",
             "21-22 MEDU2600 Final Q40",
-            "21-22 MEDU2600 Final Q41"
+            "21-22 MEDU2600 Final Q41",
+            "21-22 MEDU2600 Final Q42",
+            "21-22 MEDU2600 Final Q44",
+            "21-22 MEDU2600 Final Q45",
+            "21-22 MEDU2600 Final Q46",
+            "21-22 MEDU2600 Final Q47"
           ],
           "2022-23": [
             "22-23 MEDU2600 Test Q46",
@@ -1933,7 +1968,13 @@
             "Extra MEDU2600 Genetics Q9",
             "Extra MEDU2600 Genetics Q10",
             "Extra MEDU2600 Genetics Q11",
-            "Extra MEDU2600 Genetics Q12"
+            "Extra MEDU2600 Genetics Q12",
+            "Extra MEDU2600 Genetics Q13",
+            "Extra MEDU2600 Genetics Q14",
+            "Extra MEDU2600 Genetics Q15",
+            "Extra MEDU2600 Genetics Q16",
+            "Extra MEDU2600 Genetics Q17",
+            "Extra MEDU2600 Genetics Q18"
           ]
         },
         "byTopic": {
@@ -2301,7 +2342,48 @@
             "21-22 MEDU2600 Final Q39",
             "21-22 MEDU2600 Final Q40",
             "21-22 MEDU2600 Final Q41",
-            "Extra MEDU2600 Genetics Q12"
+            "Extra MEDU2600 Genetics Q12",
+            "15-16 MEDU2600 Final Q29",
+            "15-16 MEDU2600 Final Q35",
+            "15-16 MEDU2600 Final Q36",
+            "16-17 MEDU2600 Final Q45",
+            "16-17 MEDU2600 Final Q48",
+            "17-18 MEDU2600 Final Q41",
+            "17-18 MEDU2600 Final Q42",
+            "19-20 MEDU2600 Final Q40",
+            "19-20 MEDU2600 Final Q41",
+            "19-20 MEDU2600 Final Q43",
+            "20-21 MEDU2600 Final Q40",
+            "20-21 MEDU2600 Final Q41",
+            "21-22 MEDU2600 Final Q42",
+            "21-22 MEDU2600 Final Q44",
+            "Extra MEDU2600 Genetics Q13",
+            "Extra MEDU2600 Genetics Q14",
+            "15-16 MEDU2600 Final Q39",
+            "15-16 MEDU2600 Final Q40",
+            "17-18 MEDU2600 Final Q43",
+            "17-18 MEDU2600 Final Q44",
+            "Extra MEDU2600 Genetics Q15",
+            "15-16 MEDU2600 Final Q20",
+            "16-17 MEDU2600 Final Q51",
+            "17-18 MEDU2600 Final Q45",
+            "17-18 MEDU2600 Final Q46",
+            "18-19 MEDU2600 Final Q49",
+            "19-20 MEDU2600 Final Q42",
+            "19-20 MEDU2600 Final Q44",
+            "19-20 MEDU2600 Final Q46",
+            "20-21 MEDU2600 Final Q42",
+            "20-21 MEDU2600 Final Q43",
+            "20-21 MEDU2600 Final Q44",
+            "21-22 MEDU2600 Final Q45",
+            "21-22 MEDU2600 Final Q46",
+            "Extra MEDU2600 Genetics Q16",
+            "Extra MEDU2600 Genetics Q17",
+            "15-16 MEDU2600 Final Q59",
+            "17-18 MEDU2600 Final Q47",
+            "17-18 MEDU2600 Final Q48",
+            "21-22 MEDU2600 Final Q47",
+            "Extra MEDU2600 Genetics Q18"
           ],
           "Nitrogen": [
             "17-18 MEDU2600 Final Q17",
@@ -24526,7 +24608,7 @@
         "E": "Insertion"
       },
       "answer": "A",
-      "explanation": "Specifically the (CAG) repeat."
+      "explanation": "To be precise, Huntington disease is caused by the expansion of CAG repeats in the exon of HTT gene, 4p16.3"
     },
     "16-17 MEDU2600 Final Q30": {
       "year": "2016-17",
@@ -25077,7 +25159,7 @@
         "E": "to characterize the expressions of all proteins in a tumor sample"
       },
       "answer": "A",
-      "explanation": "NGS: detect mutation of gene without prior knowledge\nA → knew the mutation → with known knowledge\nB → Identification → NO prior knowledge\nC → knew the viral DNA\nD → known SNP\nE: not related\n(Explanation from Stephen Tsui’s response to seniors)\n\nOur response as of 2023 04/05/2023:\n\n![](img/19-20_MEDU2600_Final_Q34_1777037278685.png)"
+      "explanation": "NGS: detect mutation of gene without prior knowledge\nA → knew the mutation → with known knowledge\nB → Identification → NO prior knowledge\nC → knew the viral DNA\nD → known SNP\nE: not related\n(Explanation from Stephen Tsui’s response to seniors)\n\nOur response as of 2023 04/05/2023:\n\n![](img/19-20_MEDU2600_Final_Q34_1777037278685.png)\n\nBelow is what seniors wrote, but note that answers may change from time to time. \nSeniors: \nA can be simply done by RFPL or allele-specific oligonucleotide probe. \nB is correct as there could be so many possibilities to be found and we do not know what we are expecting. NGS is what we prefer if we have no prior knowledge about the inquiry and hence requires high throughput to screen all possibilities. \nC can be simply done by doing PCR or qPCR to even quantify the viral DNA. \nD can be done similarly as A. \nE is impossible to do so as there are too many proteins to be investigated. Protein is something rather hard to characterize as it is unlike DNA and RNA that could be replicated easily through complementary pairing, and also not easy to degrade. However, we could perform RT-PCR to obtain the cDNA library of all mRNA in the sample, and then we perform sequencing to quantify the amount of each mRNA transcript in the sample. This is how we establish the transcriptome of a sample, and then we could sort the cells according to the transcriptome.\n"
     },
     "20-21 MEDU2600 Final Q35": {
       "year": "2020-21",
@@ -25520,6 +25602,684 @@
       },
       "answer": "D",
       "explanation": "Randomly → not randomly positioned along the chromosomes\nX & Y chromosome also pair up and crossover at restricted pseudoautosomal regions"
+    },
+    "15-16 MEDU2600 Final Q29": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "The pedigree below is best explained by which of the following inheritance pattern? (thanks for great drawing from embry 20!!)\n\n![](img/15-16_MEDU2600_Final_Q29_1777094135046.png)",
+      "options": {
+        "A": "Maternal inheritance",
+        "B": "X-linked recessive",
+        "C": "X-linked dominant",
+        "D": "Autosomal dominant",
+        "E": "Autosomal recessive"
+      },
+      "answer": "C",
+      "explanation": "- ALL generations are affected.\n- No male to male transmission ~~(at least not shown) → not X-linked~~\n\nEdit: Can't really rule out autosomal dominant, but perhaps X linked dominant is better. In exam, u can try to think fast using this method:\n- Every generation dou have affected ppl → the trait is very likely dominant\n- No male to male transmission → CANNOT rule out X-linked dominant\n- In the whole pedigree, females are affected twice as often as male, so maybe it is X linked? (females occupy ? of the pool of X chromosomes)"
+    },
+    "15-16 MEDU2600 Final Q35": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following statements regarding X-recessive disease is true?",
+      "options": {
+        "A": "male and female has equal opportunity to inherit the disease",
+        "B": "the male parent directly passes the disease allele to the son",
+        "C": "the male parent passes the X chromosome to the son",
+        "D": "a carrier mother has 75% of passing the mutant allele to the son",
+        "E": "a female can only be affected if both her parents have the allele"
+      },
+      "answer": "E",
+      "explanation": "A. Males are more likely to inherit the disease as they only have 1 X chromosome\nB. No male to male transmission!\nC. The Y chromosome of the father is passed to the son, not the X chromosome.\nD. Should be 50% only.\nE. Correct."
+    },
+    "15-16 MEDU2600 Final Q36": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Determine the probability of producing an affected child by an autosomal recessive female and a genetically normal male.",
+      "options": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "75%",
+        "E": "100%"
+      },
+      "answer": "A",
+      "explanation": "If this is an autonomic recessive disease, the child MUST receive 2 mutant alleles from BOTH of his parents. Since his father is normal (carrying 2 normal genes), this is not possible. The child is 100% a carrier."
+    },
+    "16-17 MEDU2600 Final Q45": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following manifestation of genetic disorders in different stages of development is correct?",
+      "options": {
+        "A": "Chromosomal in pregnancy, monogenic in new born, mitochondrial in adulthood",
+        "B": "Chromosomal in pregnancy, monogenic in new born, multifactorial in adulthood",
+        "C": "Mitochondrial in pregnancy, chromosomal in new born, multifactorial in adulthood",
+        "D": "Mitochondrial in pregnancy, monogenic in new born, multifactorial in adulthood",
+        "E": "Multifactorial in pregnancy, chromosomal in new born, mitochondrial in adulthood"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q48": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What is the mode of inheritance?\n\n![](img/16-17_MEDU2600_Final_Q48_1777094180162.png)",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "Maternal inheritance",
+        "D": "X-linked dominant",
+        "E": "X-linked recessive"
+      },
+      "answer": "D",
+      "explanation": "Best answer would be X-linked dominant.\n有病女人加正常男人生出無病女人\nNo male-to-male to transmission."
+    },
+    "17-18 MEDU2600 Final Q41": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Most miscarriages are the results of which type of genetic disorder?",
+      "options": {
+        "A": "Chromosomal disorders",
+        "B": "Mitochondrial disorders",
+        "C": "Monogenic disorders",
+        "D": "Multifactorial disorders",
+        "E": "Multigenic disorders"
+      },
+      "answer": "A",
+      "explanation": "This should be taught in Stephen Tsui's lectures.\nThis is because chromosomal disorders (e.g. aneuploidy) most severely affect the residual gene function.\nYou are almost 100% going to lose your child if you have chromosome 1 trisomy since it is the longest chromosome."
+    },
+    "17-18 MEDU2600 Final Q42": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "There is a dominant disease which causes fragile bones. The parental grandmother is affected and manifests the disease. The couples do not have the disease. Among their four children, which are 2 sons and 2 daughters, 2 of them are affected at an early age while the other 2 are not affected. What pattern of inheritance is observed in the pedigree in this family?",
+      "options": {
+        "A": "Age of onset",
+        "B": "Expressivity",
+        "C": "Mosaicism",
+        "D": "Parental effect",
+        "E": "Penetrance"
+      },
+      "answer": "E",
+      "explanation": "A. Wrong (couples, older than children, are unaffected)\nB. Wrong\nC. The possibility is quite low for 婆婆??同時變異生正常囝囡 囝囡再同時變異生唔正常囝囡\nD. Wrong (parental effect = an organism shows the phenotype expected from the genotype of parents)\nE. Correct (Non-penetrance appears in the couples)"
+    },
+    "19-20 MEDU2600 Final Q40": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Most miscarriage are result of which genetic disorder?",
+      "options": {
+        "A": "Monogenic mutation",
+        "B": "Multifactorial mutation",
+        "C": "Chromosomal mutation",
+        "D": "Mitochondrial mutation",
+        "E": "Multigenic mutation"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q41": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Family with genetic disorder of 100% penetrance is shown as follows. What is the inheritance pattern? \n\n![](img/19-20_MEDU2600_Final_Q41_1777094198787.png)",
+      "options": {
+        "A": "X-linked recessive",
+        "B": "Autosomal recessive",
+        "C": "Cannot be determined",
+        "D": "X-linked dominant",
+        "E": "Autosomal dominant"
+      },
+      "answer": "E",
+      "explanation": "A. II.2 生出 冇問題?III.1\nB. Possible, but unlikely as all generations are affected\nC. No\nD. I.1 生出 冇問題?II.4\nE. Most possible with male to male transmission"
+    },
+    "19-20 MEDU2600 Final Q43": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following statements about X-linked inheritance is correct?",
+      "options": {
+        "A": "A female X-linked carrier has 25% chance to give rise to an affected son.",
+        "B": "A female X-linked carrier has 75% chance to give rise to an affected son.",
+        "C": "A male X-linked carrier has 75% chance to give rise to an affected son.",
+        "D": "A male X-linked carrier has no chance to give rise to an affected son.",
+        "E": "A male X-linked carrier has 50% chance to give rise to an affected son."
+      },
+      "answer": "D",
+      "explanation": "A-B: A female has a 50% chance of passing the affected allele to the son.\nC-E: There is no male to male transmission in X-linked diseases."
+    },
+    "20-21 MEDU2600 Final Q40": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Refer to the pedigree below. It is given that the disease has 100% penetrance. What is the inheritance pattern?\n\n![](img/20-21_MEDU2600_Final_Q40_1777094216732.png)",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked dominant",
+        "D": "Y-linked recessive",
+        "E": "Cannot be determined"
+      },
+      "answer": "A",
+      "explanation": "Male to male transmission + Affects ALL generation = autosomal dominant\nAR is not likely as the disease appears in every generation, which requires both spouses of the 2nd generation members to be carriers of the disease and is very rare for general AR cases. XLD is not possible because if the son in 2nd generation carries the defective X, then all of his daughters will be affected. But you can see one of the daughters is normal so XLD is not possible. YL is not possible as then all sons in 2nd generation should be affected. The best answer is autosomal dominant."
+    },
+    "20-21 MEDU2600 Final Q41": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What is the chance of a homozygous recessive female and a genetically normal male to give an affected offspring?",
+      "options": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "75%",
+        "E": "100%"
+      },
+      "answer": "A",
+      "explanation": "If this is a recessive disease, then both the male and female must be carriers to both pass on recessive alleles to offspring."
+    },
+    "21-22 MEDU2600 Final Q42": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following about X-linked inheritance is correct?",
+      "options": {
+        "A": "X linked carrier female has 75% chance for giving rise to affected offspring",
+        "B": "X linked carrier female has 25% chance for giving rise to affected offspring",
+        "C": "X linked affected male has 50% chance for giving rise to affected male / female",
+        "D": "X linked affected male has equal chance for giving rise to affected son / daughter",
+        "E": "X linked affected male has no chance in giving rise to affected son"
+      },
+      "answer": "E",
+      "explanation": "E is correct as he can only pass down the normal Y allele to the son. Actually it is impossible to calculate the possibility of giving rise to affected offspring without knowing the genotype of the spouse. However, it can be assured that E must be true."
+    },
+    "21-22 MEDU2600 Final Q44": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following mode of inheritance can explain the following rare disorder shown?\n\n![](img/21-22_MEDU2600_Final_Q44_1777094246995.png)",
+      "options": {
+        "A": "Autosomal dominant with reduced penetrance",
+        "B": "Autosomal recessive with variable expressivity",
+        "C": "X-linked dominant with reduced penetrance",
+        "D": "X-linked recessive with variable expressivity",
+        "E": "Y-linked with evidence of allelic heterogeneity"
+      },
+      "answer": "A",
+      "explanation": "AD is the most probable inheritance mode given that there is no skipped generation when seen as a whole. However, for individual branches, skipped generation can still be observed. This is most likely caused by incomplete penetrance (<100%), i.e. there is a certain possibility that the defective allele will not cause phenotypic difference in the individual. Note that expressivity and penetrance are completely different concepts. Penetrance is only yes or no, such that the abnormal phenotype is either observed or not. Expressivity is a continuous measure that describes the variation of the phenotype being observed, e.g. the production of certain gene products. It can only apply to \"Penetrated\" individuals that have already expressed the abnormal allele in the phenotype to become an affected individual."
+    },
+    "Extra MEDU2600 Genetics Q13": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "It is given that an unaffected couple has an affected boy with Lesch-Nyhan Syndrome. The wife is pregnant again. She is expected to give birth to a pair of female fraternal twins. What could be the probability that both the babies are affected?",
+      "options": {
+        "A": "0",
+        "B": "1/4",
+        "C": "1/2",
+        "D": "1/16",
+        "E": "1/6"
+      },
+      "answer": "A",
+      "explanation": "Good question!\nLesch-Nyhan Syndrome (X-linked recessive)\nThe girls will never carry 2 X chromosomes with mutated alleles from parents.\nRecall from nitrogen metabolism!!! Don't choose D otherwise!!!"
+    },
+    "Extra MEDU2600 Genetics Q14": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is a wrong matching between a genetic term and its corresponding meaning ?",
+      "options": {
+        "A": "Penetrance: the probability that whether or not a mutant allele can cause phenotypical expression",
+        "B": "Anticipation: expansion of triplet repeats with an increase in severity of phenotype in the subsequent generations",
+        "C": "Variable expressivity: people with the same genotype could have different severity of phenotypical expression",
+        "D": "Phenocopy: a random variation in phenotype that is caused by inheritance",
+        "E": "Age of Onset: the year when the phenotype expression is expected to start"
+      },
+      "answer": "D",
+      "explanation": "Factors other than inheritance (e.g. environmental conditions)"
+    },
+    "15-16 MEDU2600 Final Q39": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "In hk, neonatal screening is routinely carried out for:",
+      "options": {
+        "A": "PKU",
+        "B": "Adrenogenital syndrome",
+        "C": "G6PD",
+        "D": "Biotinidase deficiency (sth like that)",
+        "E": "Toxoplasmosis"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "15-16 MEDU2600 Final Q40": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "A screening test should consider",
+      "options": {
+        "A": "Prevalence and incidence of disease",
+        "B": "Acceptability of patient",
+        "C": "Specificity and sensitivity of test",
+        "D": "Availability of treatment",
+        "E": "All of above"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q43": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "observation of poor sucking, lethargy, vomiting, hyperventilation, large liver in a neonatal is usually an implication of which of the following conditions[3]?",
+      "options": {
+        "A": "mitochondrial disease",
+        "B": "inborn errors of metabolism",
+        "C": "trinucleotide repeat disease"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q44": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following about disease-causing mutation is INCORRECT?",
+      "options": {
+        "A": "It always causes change in property of mutation protein",
+        "B": "It can result in developing a novel function",
+        "C": "It can result in altered time of expression",
+        "D": "It can result in loss of gene function",
+        "E": "It seldom results in gain of gene function"
+      },
+      "answer": "A",
+      "explanation": "For example, if there is mutation in the promoter (e.g. reciprocal translocation of promoters), the protein will still be synthesized, and its function will be normal. However, there may be an increase and decrease in the amount of protein, not in terms of its property."
+    },
+    "Extra MEDU2600 Genetics Q15": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Newborn Screening (NBS) is necessary for figuring out inborn errors of metabolism (IEM). Which of the following criteria should NOT be taken into consideration on the disease to be screened ?",
+      "options": {
+        "A": "prevalence of the disease in population",
+        "B": "age of onset",
+        "C": "irreversibility of the disease to the patient",
+        "D": "treatability",
+        "E": "cost-effectiveness"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q51": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following statements regarding genomic imprinting is correct?",
+      "options": {
+        "A": "Genes with genomic imprinting have slight changes in nucleotide sequences when compared to genes without imprinting",
+        "B": "Genomic imprinting can be paternal or maternal",
+        "C": "Genomic imprinting cannot give rise to clinical symptoms",
+        "D": "Genomic imprinting refers to the process whereby specific genes are differentially marked after fertilization, leading to differential expression of these genes in the embryo and adult",
+        "E": "Inheritance of genomic imprinted genes generally follow the Mendelian inheritance pattern"
+      },
+      "answer": "B",
+      "explanation": "B. example: angelman; prader willi\nC. Genomic imprinting can be linked to the risk of cancer\nD. marked before fertilization"
+    },
+    "17-18 MEDU2600 Final Q45": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What feature of inheritance does the pedigree diagram show?\n\n![](img/17-18_MEDU2600_Final_Q45_1777094304308.png)",
+      "options": {
+        "A": "Anticipation",
+        "B": "Autosomal dominant inheritance",
+        "C": "Parental effect",
+        "D": "Uniparental disomy",
+        "E": "X-linked dominant inheritance"
+      },
+      "answer": "A",
+      "explanation": "In some diseases, as the number of repeats in a certain gene exceeds a value (e.g. for Huntington disease, the fully penetrant range is > = 40), the offspring will start to develop diseases. If the parents are in a pre-mutation range, the next generation of offspring may experience the disease as the number of repeating units expands. There is also a chance that the offspring falls into the reduced penetrance range, of which they may or may not develop the disease. Thus, looking at the second generation, we can see that one offspring develops the disease while the others haven't, but in the third generation, all families have affected offsprings."
+    },
+    "17-18 MEDU2600 Final Q46": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Prader-Willi Syndrome and Angelman Syndrome are caused by all of the following except",
+      "options": {
+        "A": "Balanced translocation",
+        "B": "Expansion of triplet repeat",
+        "C": "Imprint mutation",
+        "D": "Microdeletion",
+        "E": "Parental disomy"
+      },
+      "answer": "B",
+      "explanation": "A. Balanced translocation is a rare cause to Prader-Willi Syndrome/Angelman Syndrome\n\n![](img/17-18_MEDU2600_Final_Q46_1777094344839.png)\n![](img/17-18_MEDU2600_Final_Q46_1777094350192.png)"
+    },
+    "18-19 MEDU2600 Final Q49": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Mrs Smith’s father had Huntington Disease. She is asymptomatic. She has a son who gets the disease. Which of the following is correct?",
+      "options": {
+        "A": "It can be treated with folate",
+        "B": "there is a risk for her son to develop cardiovascular diseases at later stage in life",
+        "C": "the chance for her son to manifest Huntington disease is low",
+        "D": "the number of CGG repeat in her son FMR1 gene is likely to decrease",
+        "E": "the pedigree of the family shows the feature of anticipation"
+      },
+      "answer": "E",
+      "explanation": "A wrong\nB wrong\nC high due to E\nD CGG and FMR1 gene are related to Fragile X syndrome\nE sex-specific anticipation (paternal)\nPaternal anticipation means the triplet expansion is unstable in male, so that the number of repeats will expand as he passes down the gene to the offspring, regardless of its sex. Similarly, FRAXA displays maternal anticipation and it is easier to observe mothers passing the defective X chromosome with expanded repeat number to the children.\nIn this case, Mrs. Smith receives greatly increased triplet expansion from her father but still insufficient to cause the disease. However, despite only a small increase, the triplet expansion passed down to son is already enough to cause HD."
+    },
+    "19-20 MEDU2600 Final Q42": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following disorders is caused by dynamic mutation?",
+      "options": {
+        "A": "Huntington's chorea",
+        "B": "Becker muscular dystrophy",
+        "C": "Osteogenesis imperfecta",
+        "D": "Fibromatosis 1",
+        "E": "Cystic fibrosis"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q44": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Prader-willi syndrome and Angelman syndrome could be the consequence of all of the following genetic events except:",
+      "options": {
+        "A": "expansion of triplet repeats",
+        "B": "uniparental disomy",
+        "C": "balanced translocation",
+        "D": "microdeletion",
+        "E": "imprint mutation"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q46": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What feature is shown is this pedigree?\n\n![](img/19-20_MEDU2600_Final_Q46_1777094372374.png)",
+      "options": {
+        "A": "Uniparental disomy",
+        "B": "X-linked dominant inheritance",
+        "C": "Parental effect",
+        "D": "Autosomal dominant inheritance",
+        "E": "Anticipation"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q42": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "There is a dominant disease that leads to childhood-onset fragile bones. In a family, the paternal grandma has the fragile bone disease. The couple are normal. The couple has four children. One son and one daughter are affected. The remaining two children are normal. The inheritance pattern in a pedigree of this family is likely to be affected by:",
+      "options": {
+        "A": "Age of onset",
+        "B": "Expressivity",
+        "C": "Mosaicism",
+        "D": "Parental effect",
+        "E": "Penetrance"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q43": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "(A large pedigree shown, in the ~20 members shown, only the proband and the distant relative had NF1) Only 3rd and 5th generation, only 2 affected. A patient was diagnosed with NF1. A pedigree investigation revealed that one of his distant relatives also has NF1. . What is the inheritance pattern in this patient?\n\n![](img/20-21_MEDU2600_Final_Q43_1777094391725.png)",
+      "options": {
+        "A": "Autosomal Dominant",
+        "B": "Autosomal recessive",
+        "C": "New mutation",
+        "D": "Variable penetrance",
+        "E": "Variable time of onset"
+      },
+      "answer": "C",
+      "explanation": "Originally, the source does not include this pedigree. I get this pedigree from Ivan’s source, which is a question set ages ago. You may refer to “MMG PP - Old Genetics Answer” to find this question under PFOS 2017 SA."
+    },
+    "20-21 MEDU2600 Final Q44": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Mrs Smith’s father had Huntington Disease. She is asymptomatic. She is found to transmit a mutated copy of the FMR1 gene to her son. Which of the following is correct?",
+      "options": {
+        "A": "It can be treated with folate",
+        "B": "there is a risk for her son to develop cardiovascular diseases at later stage in life",
+        "C": "the chance for her son to manifest Huntington disease is low",
+        "D": "the number of CGG repeat in her son FMR1 gene is likely to decrease",
+        "E": "the pedigree of the family shows the feature of anticipation"
+      },
+      "answer": "E",
+      "explanation": "(FMR1? Not HTT?)"
+    },
+    "21-22 MEDU2600 Final Q45": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following variant type is not a gain-of-function gene product?",
+      "options": {
+        "A": "achondroplasia due to p.Gly380Arg missense mutation in FGFR3 gene",
+        "B": "Charcot-Marie-Tooth disease type IA due to PMP22 duplication at the short arm of Chr 17",
+        "C": "Down syndrome",
+        "D": "Hemophilia A due to inversion",
+        "E": "sickle cell anemia due to homozygous p.Glu6Val missense mutation in HBB gene"
+      },
+      "answer": "D",
+      "explanation": "Hemophilia A due to inversion is an X-linked recessive disease and involves loss of function mutations.\nDown syndrome is trisomy 21 for your reference.\nSickle cell anemia belongs to gain-of-function because RBC acquires a new shape."
+    },
+    "21-22 MEDU2600 Final Q46": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following mechanisms is most commonly found in Prader Willi Syndrome and Angelman Syndrome?",
+      "options": {
+        "A": "Chromosomal translocation",
+        "B": "Gene mutation",
+        "C": "Imprinting centre mutation",
+        "D": "microdeletion",
+        "E": "Uniparental Disomy"
+      },
+      "answer": "B",
+      "explanation": "Firstly, option E is modified. The original option is “UDP”. However, I only heard of UDP-glucose or UDP-glucose pyrophosphorylase, and uniparental disomy (UPD) seems to be a more sensible option.\nHowever, the answer is not uniparental disomy (~20-30%) but gene mutation (~70%). The most common cause is either a deletion of the PWS gene in the paternal chromosome (while the maternal one is silenced) or the UBE3A gene in the maternal chromosome (while the paternal one is silenced), so that the offspring carries no functional gene."
+    },
+    "Extra MEDU2600 Genetics Q16": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "When we compare Huntington’s disease and Fragile X Syndrome,...",
+      "options": {
+        "A": "paternal anticipation and maternal anticipation are manifested in Huntington disease and Fragile X syndrome respectively",
+        "B": "both of them are not dynamic mutations",
+        "C": "fragile X syndrome involves mutation in HTT gene while Huntington’s disease involves mutation in FMR1 gene",
+        "D": "both of them involve deletions of gene",
+        "E": "fragile X syndrome follows an autosomal dominant inheritance pattern while Huntington’s disease follows an X-linked inheritance pattern"
+      },
+      "answer": "A",
+      "explanation": "B dynamic mutation = triplet repeat mutation\nC 掉轉\nD triplet repeat expansion (CAG) / (CGG)\nE 掉轉"
+    },
+    "Extra MEDU2600 Genetics Q17": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is the most common Uniparental Disomy (UPD)?",
+      "options": {
+        "A": "complementation",
+        "B": "monosomic rescue",
+        "C": "trisomic rescue",
+        "D": "mitotic error and rescue",
+        "E": "they are of nearly equivalent prevalence"
+      },
+      "answer": "C",
+      "explanation": "Linda mentioned this verbally although she also says that the detailed mechanism is not required.\nPanopto from 2021:\n\"...keep in mind, trisomic rescue is the most common mechanism for generating complete UPD. Ok, I hope you remember this, trisomic rescue is the most common mechanism….\""
+    },
+    "15-16 MEDU2600 Final Q59": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following associated with genetic counseling is/are correct?\n1. Provides information and calculating risks of the disease\n2. Provide treatment options and predicts the outcome of treatment\n3. Define and Address the complex psychosocial issues associated with the genetic disease in the family",
+      "options": {
+        "A": "1 only",
+        "B": "1 and 2 only",
+        "C": "1 and 3 only",
+        "D": "2 and 3 only",
+        "E": "All of above"
+      },
+      "answer": "E",
+      "explanation": "Source: Wikipedia\n1. Interpretation of family and medical histories to assess the chance of disease occurrence or recurrence\n2. Genetic testing can be used to arrive at a definitive diagnosis in order to provide better prognosis as well as medical management and/or treatment options.\n3. Counselors help clients cope with and adapt to the emotional, psychological, medical, social, and economic consequences of the test results."
+    },
+    "17-18 MEDU2600 Final Q47": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following techniques allow for simultaneous interrogation of a few thousand genes?",
+      "options": {
+        "A": "Array hybridisation",
+        "B": "Next generation sequencing",
+        "C": "Sanger sequencing",
+        "D": "Third generation sequencing",
+        "E": "Western blot"
+      },
+      "answer": "B",
+      "explanation": "https://eurofinsgenomics.eu/en/eurofins-genomics/material-and-methods/sanger-sequencing\nNevertheless, next-generation sequencing is often considered to be superior to Sanger sequencing, especially for project objectives that require:\n● Cost-efficient, simultaneous interrogation of more than 100 genes at a time\n\nExact response from Stephen Tsui: (as of 04/05/2023)\nThis is not a question set by me but a former teacher taking care of these lectures. I guess array hybridization refers to array CGH. In fact, A, B and C could study thousands of genes at the same time, although B (next generation sequencing) is the best."
+    },
+    "17-18 MEDU2600 Final Q48": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Whole genome sequencing is useful for several types of clinical investigation except:",
+      "options": {
+        "A": "Determination of single gene characteristics",
+        "B": "Detection of monogenic defects",
+        "C": "Detection of multifactorial defects",
+        "D": "Liquid biopsy for cancer DNA",
+        "E": "Prenatal testing of fetal dna in maternal circulation"
+      },
+      "answer": "C",
+      "explanation": "You cannot understand the influence of environmental impact on the disease."
+    },
+    "21-22 MEDU2600 Final Q47": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is correct regarding clinical WES?",
+      "options": {
+        "A": "Detect variants in all coding genes",
+        "B": "Most appropriate genetic test to order for a child with neurodevelopmental defect",
+        "C": "Relies on technique of NGS",
+        "D": "Consistently detect exome copy number variant (CNV)",
+        "E": "None of above"
+      },
+      "answer": "C",
+      "explanation": "WES has an extra step compared with WGS, that is, capture of exons with target-specific probes. WES can only detect variants in exons, but not those in the introns that could regulatory elements of the coding genes.\nB is false as we can order specific test panels for neurodevelopmental defects, instead of doing WES without a clear purpose.\nC is true as it requires high throughput methodologies to process the whole exome of the human body.\nD is false as it is nearly impossible to detect exons CNV based on isolated exon fragments. The only possible case that CNV can be detected is that multiple exon copies are placed continously such that the target-specific probes may capture multiple exons linked together. In order to detect CNV, the most efficient method is still array CGH."
+    },
+    "Extra MEDU2600 Genetics Q18": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following statements about prenatal diagnostic tests is INCORRECT?",
+      "options": {
+        "A": "amniocentesis is invasive",
+        "B": "non-invasive prenatal screening (NIPS) involves extraction of fetal DNA from maternal plasma",
+        "C": "whole genome sequencing could be used to detect for the possible mutations in foetal genes",
+        "D": "foetal DNA could be distinguished from maternal DNA because of its shorter length",
+        "E": "the foetus can be diagnosed with the mutation whenever there is a positive NIPS result"
+      },
+      "answer": "E",
+      "explanation": "False positive and false negative are common\nSo\nConfirmatory invasive testing is required"
     }
   }
 }
