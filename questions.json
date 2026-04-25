@@ -1574,7 +1574,9 @@
             "15-16 MEDU2600 Final Q54",
             "15-16 MEDU2600 Final Q33",
             "15-16 MEDU2600 Final Q46",
-            "15-16 MEDU2600 Final Q60"
+            "15-16 MEDU2600 Final Q60",
+            "15-16 MEDU2600 Final Q55",
+            "15-16 MEDU2600 Final Q57"
           ],
           "2016-17": [
             "16-17 MEDU2600 Test Q45",
@@ -1640,7 +1642,8 @@
             "16-17 MEDU2600 Final Q54",
             "16-17 MEDU2600 Final Q57",
             "16-17 MEDU2600 Final Q58",
-            "16-17 MEDU2600 Final Q60"
+            "16-17 MEDU2600 Final Q60",
+            "16-17 MEDU2600 Final Q59"
           ],
           "2017-18": [
             "17-18 MEDU2600 Final Q5",
@@ -1709,7 +1712,11 @@
             "17-18 MEDU2600 Final Q52",
             "17-18 MEDU2600 Final Q54",
             "17-18 MEDU2600 Final Q55",
-            "17-18 MEDU2600 Final Q60"
+            "17-18 MEDU2600 Final Q60",
+            "17-18 MEDU2600 Final Q61",
+            "17-18 MEDU2600 Final Q57",
+            "17-18 MEDU2600 Final Q58",
+            "17-18 MEDU2600 Final Q59"
           ],
           "2018-19": [
             "18-19 MEDU2600 Test Q50",
@@ -1772,7 +1779,9 @@
             "18-19 MEDU2600 Final Q55",
             "18-19 MEDU2600 Final Q58",
             "18-19 MEDU2600 Final Q56",
-            "18-19 MEDU2600 Final Q57"
+            "18-19 MEDU2600 Final Q57",
+            "18-19 MEDU2600 Final Q59",
+            "18-19 MEDU2600 Final Q60"
           ],
           "2019-20": [
             "19-20 MEDU2600 Sem1 Q47",
@@ -1830,7 +1839,9 @@
             "19-20 MEDU2600 Final Q53",
             "19-20 MEDU2600 Final Q57",
             "19-20 MEDU2600 Final Q55",
-            "19-20 MEDU2600 Final Q56"
+            "19-20 MEDU2600 Final Q56",
+            "19-20 MEDU2600 Final Q58",
+            "19-20 MEDU2600 Final Q59"
           ],
           "2020-21": [
             "20-21 MEDU2600 Sem1 Q45",
@@ -1898,7 +1909,9 @@
             "20-21 MEDU2600 Final Q49",
             "20-21 MEDU2600 Final Q55",
             "20-21 MEDU2600 Final Q56",
-            "20-21 MEDU2600 Final Q57"
+            "20-21 MEDU2600 Final Q57",
+            "20-21 MEDU2600 Final Q59",
+            "20-21 MEDU2600 Final Q60"
           ],
           "2021-22": [
             "21-22 MEDU2600 Test Q45",
@@ -1973,7 +1986,9 @@
             "21-22 MEDU2600 Final Q51",
             "21-22 MEDU2600 Final Q53",
             "21-22 MEDU2600 Final Q60",
-            "21-22 MEDU2600 Final Q57"
+            "21-22 MEDU2600 Final Q57",
+            "21-22 MEDU2600 Final Q55",
+            "21-22 MEDU2600 Final Q56"
           ],
           "2022-23": [
             "22-23 MEDU2600 Test Q46",
@@ -2060,7 +2075,13 @@
             "Extra MEDU2600 Genetics Q30",
             "Extra MEDU2600 Genetics Q31",
             "Extra MEDU2600 Genetics Q32",
-            "Extra MEDU2600 Genetics Q33"
+            "Extra MEDU2600 Genetics Q33",
+            "Extra MEDU2600 Genetics Q34",
+            "Extra MEDU2600 Genetics Q35",
+            "Extra MEDU2600 Genetics Q36",
+            "Extra MEDU2600 Genetics Q37",
+            "Extra MEDU2600 Genetics Q38",
+            "Extra MEDU2600 Genetics Q39"
           ]
         },
         "byTopic": {
@@ -2555,7 +2576,28 @@
             "20-21 MEDU2600 Final Q57",
             "21-22 MEDU2600 Final Q57",
             "Extra MEDU2600 Genetics Q32",
-            "Extra MEDU2600 Genetics Q33"
+            "Extra MEDU2600 Genetics Q33",
+            "15-16 MEDU2600 Final Q55",
+            "15-16 MEDU2600 Final Q57",
+            "16-17 MEDU2600 Final Q59",
+            "17-18 MEDU2600 Final Q61",
+            "17-18 MEDU2600 Final Q57",
+            "18-19 MEDU2600 Final Q59",
+            "21-22 MEDU2600 Final Q55",
+            "21-22 MEDU2600 Final Q56",
+            "Extra MEDU2600 Genetics Q34",
+            "Extra MEDU2600 Genetics Q35",
+            "Extra MEDU2600 Genetics Q36",
+            "17-18 MEDU2600 Final Q58",
+            "17-18 MEDU2600 Final Q59",
+            "18-19 MEDU2600 Final Q60",
+            "19-20 MEDU2600 Final Q58",
+            "19-20 MEDU2600 Final Q59",
+            "20-21 MEDU2600 Final Q59",
+            "20-21 MEDU2600 Final Q60",
+            "Extra MEDU2600 Genetics Q37",
+            "Extra MEDU2600 Genetics Q38",
+            "Extra MEDU2600 Genetics Q39"
           ],
           "Nitrogen": [
             "17-18 MEDU2600 Final Q17",
@@ -27913,6 +27955,363 @@
       },
       "answer": "B",
       "explanation": ""
+    },
+    "15-16 MEDU2600 Final Q55": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "The study of rate of absorption, transport, metabolism and excretion of drug is",
+      "options": {
+        "A": "Pharmacometabolics",
+        "B": "Pharmacogenetics",
+        "C": "Pharmacogenomics",
+        "D": "Pharmacodynamics",
+        "E": "Pharmacokinetics"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "15-16 MEDU2600 Final Q57": {
+      "year": "2015-16",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "For drug to accumulate to the toxic level due to drug metabolism. The one will be",
+      "options": {
+        "A": "Normal metaboliser",
+        "B": "Ultrafast metaboliser",
+        "C": "Poor metaboliser",
+        "D": "Drug accumulator",
+        "E": "Extensive metaboliser"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "16-17 MEDU2600 Final Q59": {
+      "year": "2016-17",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Combination of poor metaboliser of CYP2D6 allele:",
+      "options": {
+        "A": "Wild type + reduced",
+        "B": "Reduced + reduced",
+        "C": "Wild type + increased",
+        "D": "Wild type + wild type",
+        "E": "Wild type + absent"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q61": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 61,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "With regard to poor metabolizer and ultra-rapid metabolizer, which of the following is correct?",
+      "options": {
+        "A": "A patient can not be a fast metabolizer for one drug and slow metabolizers for another drug",
+        "B": "A slow metabolizer does not need a second drug dosing after the initial dose",
+        "C": "A slow metabolizer need a higher therapeutic dose",
+        "D": "Ultra metaboliser for drug A need a higher dose of Drug A",
+        "E": "Ultra metaboliser for drug S need a higher dose of Drug A and drug B"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q57": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Base of USA recommendation, special dosing attention is needed in warfarin use for …",
+      "options": {
+        "A": "CYP2C8 variant",
+        "B": "CYP2C9 variant",
+        "C": "CYP2C8 but with VKORC1 wildtype gene",
+        "D": "CYP2C9 variant , or VKORC1 variant",
+        "E": "CYP2C9 variant, or CYP3C2 variant"
+      },
+      "answer": "D",
+      "explanation": "CYP2C9 with more *1 alleles, and VKORC1 with more GG alleles are more tolerant to warfarin dose, and hence requires higher dose to achieve the therapeutic effect."
+    },
+    "18-19 MEDU2600 Final Q59": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Pharmacogenomics is defined as",
+      "options": {
+        "A": "the study of how drug affects gene mutation",
+        "B": "the study of how drug affects gene expression",
+        "C": "the study of how drug affects human genome",
+        "D": "the study of how gene affects one's response to drug",
+        "E": "the study of how gene affects drug distribution"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q55": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "CYP2D6 is an important gene in pharmacogenomics, there are 2 alleles of this gene. Which combination generates poor metaboliser of antipsychotic drugs?",
+      "options": {
+        "A": "Reduced phenotype in one allele, reduced phenotype in another allele",
+        "B": "Reduced phenotype in one allele, increased phenotype in another allele",
+        "C": "Wild-type in 1 allele and increased phenotype in another allele",
+        "D": "Wild-type in 1 allele and reduced phenotype in another allele",
+        "E": "Wild-type in 1 allele and totally absent in another allele"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "21-22 MEDU2600 Final Q56": {
+      "year": "2021-22",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "For those who fail to maintain serum levels within therapeutic range, they are",
+      "options": {
+        "A": "Drug accumulator",
+        "B": "Metabolite accumulator",
+        "C": "Normal metaboliser",
+        "D": "Poor metaboliser",
+        "E": "Ultrafast metaboliser"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q34": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Adverse Drug Reaction could be aroused from carbamazepine use in...",
+      "options": {
+        "A": "VKORC1 gene variant",
+        "B": "CYP2C9 gene variant",
+        "C": "people with positive result in the test for HLA-B*1502 allele",
+        "D": "people with negative result in the test for HLA-B*1502 allele",
+        "E": "all Chinese"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q35": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What could be the allele combination of the CYP2C9 gene of a person lacking a response to the drug?",
+      "options": {
+        "A": "wild-type + wild-type",
+        "B": "wild-type + defective",
+        "C": "wild-type + wild-type + wild-type + wild-type",
+        "D": "defective + defective",
+        "E": "wild-type"
+      },
+      "answer": "C",
+      "explanation": "Lacking a response = high metabolic rate = ultra-fast metaboliser = more allele"
+    },
+    "Extra MEDU2600 Genetics Q36": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "In the study of pharmacogenomics, when we are determining how we should dose a patient…",
+      "options": {
+        "A": "choose a drug with a therapeutic efficacy bound within the therapeutic window",
+        "B": "give higher dose to patients who are poor metabolizers",
+        "C": "reduce dosage to patients who are extensive metabolizers",
+        "D": "choose a drug with a short duration in order to increase therapeutic speed",
+        "E": "choose a drug with the highest peak effect to maximise the therapeutic effects"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "17-18 MEDU2600 Final Q58": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Crizotinib (Ceritinib), a receptor tyrosine kinase inhibitor, is effective to the treatment of…",
+      "options": {
+        "A": "Any solid tumour harbouring the EGFR inhibition",
+        "B": "Any solid tumor harboring the ALK activation",
+        "C": "NSCLC harbouring the ALK-EML4 gene fusion (gene rearrangement)",
+        "D": "NSCLX harbouring the ALK and EGFR activation",
+        "E": "Ovarian cancer harbouring the BRAF-EGFR gene fusion (gene rearrangement)"
+      },
+      "answer": "C",
+      "explanation": "For NSCLC, either ALK or ROS1 or MET exon 14 skipping mutation."
+    },
+    "17-18 MEDU2600 Final Q59": {
+      "year": "2017-18",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of the following is a well-known mechanism of drug resistance in the use of precision medicine in cancer therapy?",
+      "options": {
+        "A": "Resistance due to drug degradation in tumour microenvironment",
+        "B": "Resistance due to secondary mutation in the gene target of the tumour cell",
+        "C": "Due to ultra-fast metabolism of the drug",
+        "D": "Uncontrolled cancer cell death induced by the drug when the tumour cell bear specific gene mutation",
+        "E": "Uncontrolled drug metabolism and release by the tumour cell due to genetic mutation"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "18-19 MEDU2600 Final Q60": {
+      "year": "2018-19",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "A pan-cancer fda-approved drug for larotrectinib was recently passed for:",
+      "options": {
+        "A": "adult and paediatric solid tumour with ALK fusion gene",
+        "B": "adult and paediatric solid tumour with BRAF gene",
+        "C": "adult and paediatric solid tumour with NTRK gene",
+        "D": "all cancer cells with EGFR mutation",
+        "E": "only adult solid tumour with ALK fusion gene"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q58": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Crizotinib (Ceritinib), a receptor tyrosine kinase inhibitor, is effective to the treatment of:",
+      "options": {
+        "A": "Any solid tumor harboring the EGFR inhibition",
+        "B": "Any solid tumor harboring the ALK activation",
+        "C": "NSCLC harboring the ALK-EML4 fusion (gene rearrangement)",
+        "D": "NSCLC harboring the ALK and EGFR activation",
+        "E": "Ovarian cancer harboring the BRAF-EGFR gene fusion (gene rearrangement)"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2600 Final Q59": {
+      "year": "2019-20",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Which of following is a well known mechanism of drug resistance for precision treatment in cancer?",
+      "options": {
+        "A": "Drug induced uncontrolled death of tumour cells bearing specific gene mutation",
+        "B": "Resistance due to presence of secondary mutation of the gene target in the tumour",
+        "C": "Resistance due to degradation of drug in tumour environment",
+        "D": "Resistance due to ultra fast metabolism of the drug",
+        "E": "Uncontrolled drug release and drug distribution by tumour cells due to tumour genetics changes"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q59": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "(Copied from source not sure about option sequence) A pan-cancer FDA-approved drug for larotrectinib was recently passed for:",
+      "options": {
+        "A": "Adult and paediatric solid tumour with ALK fusion gene",
+        "B": "Adult and paediatric solid tumour with BRAF gene",
+        "C": "Adult and paediatric solid tumour with NTRK gene",
+        "D": "All cancer cells with EGFR mutation",
+        "E": "Only adult solid tumour with ALK fusion gene"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2600 Final Q60": {
+      "year": "2020-21",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Crizotinib (Ceritinib) is approved by FDA for the treatment of",
+      "options": {
+        "A": "Iressa resistant NSCLC as first line treatment",
+        "B": "NSCLC with ALK deletion as first line treatment",
+        "C": "Small cell lung cancer with ... mutation",
+        "D": "PD-1 inhibitor mutation for immunotherapy",
+        "E": "Metastatic NSCLC with ALK gene rearrangement as first line treatment"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q37": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "Olaparib, a PARP inhibitor, can effectively treat…",
+      "options": {
+        "A": "any solid tumor harbouring with NTRK fusion gene",
+        "B": "any solid tumor harbouring with RAS mutation",
+        "C": "Ovarian cancer harbouring with BRAF mutation",
+        "D": "Ovarian cancer harbouring with deleterious gBRCAm",
+        "E": "breast cancer harbouring with HER2 gene overexpression"
+      },
+      "answer": "D",
+      "explanation": "A larotrectinib\nB wrong\nC wrong\nD true\nE lapatinib"
+    },
+    "Extra MEDU2600 Genetics Q38": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "To stimulate T cells to fight against cancer cells in the liver, what kind of drugs and the corresponding example should be used ?",
+      "options": {
+        "A": "HER2 kinase inhibitor ; Lapatinib",
+        "B": "PD-1 inhibitor ; Panitumumab",
+        "C": "PD-1 inhibitor ; Pembrolizumab",
+        "D": "HER2 kinase inhibitor ; Olaparib",
+        "E": "PARP inhibitor ; Olaparib"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU2600 Genetics Q39": {
+      "year": "unclassified",
+      "course": "MEDU2600 Molecular Medicine and Genetics",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Molecular Genetics",
+      "question": "What method could be used to detect multiple genes at the same time for maximising drug matching in precision medicine?",
+      "options": {
+        "A": "G-WAS",
+        "B": "Real-time PCR",
+        "C": "Next-generation sequencing",
+        "D": "ELISA",
+        "E": "array CGH"
+      },
+      "answer": "C",
+      "explanation": "A map disease-associated genes\nB study the amount of a specific DNA sequence\nC sequence multiple genes simultaneously\nD detect expression and localisation of proteins\nE study deletions or duplications of gene in chromosome"
     }
   }
 }
