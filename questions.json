@@ -2670,7 +2670,9 @@
             "13-14 MEDU2300 Test Q8",
             "13-14 MEDU2300 Test Q9",
             "13-14 MEDU2300 Test Q11",
-            "13-14 MEDU2300 Test Q2"
+            "13-14 MEDU2300 Test Q2",
+            "13-14 MEDU2300 Test Q13",
+            "13-14 MEDU2300 Test Q14"
           ],
           "2014-15": [
             "14-15 MEDU2300 Test Q3",
@@ -2682,7 +2684,9 @@
             "14-15 MEDU2300 Test Q7",
             "14-15 MEDU2300 Test Q14",
             "14-15 MEDU2300 Test Q2",
-            "14-15 MEDU2300 Test Q34"
+            "14-15 MEDU2300 Test Q34",
+            "14-15 MEDU2300 Test Q33",
+            "14-15 MEDU2300 Test Q1"
           ],
           "2015-16": [
             "15-16 MEDU2300 Test Q2",
@@ -2712,7 +2716,15 @@
             "15-16 MEDU2300 Test Q17",
             "15-16 MEDU2300 Final Q1",
             "15-16 MEDU2300 Test Q6",
-            "15-16 MEDU2300 Final Q13"
+            "15-16 MEDU2300 Final Q13",
+            "15-16 MEDU2300 Final Q33",
+            "15-16 MEDU2300 Final Q35",
+            "15-16 MEDU2300 Final Q36",
+            "15-16 MEDU2300 Final Q40",
+            "15-16 MEDU2300 Final Q32",
+            "15-16 MEDU2300 Final Q37",
+            "15-16 MEDU2300 Final Q39",
+            "15-16 MEDU2300 Final Q38"
           ],
           "2016-17": [
             "16-17 MEDU2300 Test Q2",
@@ -2750,7 +2762,16 @@
             "16-17 MEDU2300 Final Q20",
             "16-17 MEDU2300 Final Q21",
             "16-17 MEDU2300 Final Q22",
-            "16-17 MEDU2300 Final Q24"
+            "16-17 MEDU2300 Final Q24",
+            "16-17 MEDU2300 Final Q26",
+            "16-17 MEDU2300 Final Q27",
+            "16-17 MEDU2300 Final Q29",
+            "16-17 MEDU2300 Final Q23",
+            "16-17 MEDU2300 Final Q25",
+            "16-17 MEDU2300 Final Q30",
+            "16-17 MEDU2300 Final Q33",
+            "16-17 MEDU2300 Final Q31",
+            "16-17 MEDU2300 Final Q32"
           ],
           "2017-18": [
             "17-18 MEDU2300 Test Q1",
@@ -2775,7 +2796,15 @@
             "17-18 MEDU2300 Test Q11",
             "17-18 MEDU2300 Test Q19",
             "17-18 MEDU2300 Test Q9",
-            "17-18 MEDU2300 Final Q12"
+            "17-18 MEDU2300 Final Q12",
+            "17-18 MEDU2300 Final Q18",
+            "17-18 MEDU2300 Final Q21",
+            "17-18 MEDU2300 Final Q23",
+            "17-18 MEDU2300 Final Q24",
+            "17-18 MEDU2300 Final Q22",
+            "17-18 MEDU2300 Final Q27",
+            "17-18 MEDU2300 Final Q25",
+            "17-18 MEDU2300 Final Q26"
           ],
           "2018-19": [
             "18-19 MEDU2300 Test Q1",
@@ -2800,7 +2829,8 @@
             "18-19 MEDU2300 Final Q15",
             "18-19 MEDU2300 Final Q16",
             "18-19 MEDU2300 Final Q17",
-            "18-19 MEDU2300 Final Q18"
+            "18-19 MEDU2300 Final Q18",
+            "18-19 MEDU2300 Final Q54"
           ],
           "2019-20": [
             "19-20 MEDU2300 Test Q1",
@@ -2821,7 +2851,10 @@
             "19-20 MEDU2300 Sem1 Q13",
             "19-20 MEDU2300 Final Q10",
             "19-20 MEDU2300 Final Q18",
-            "19-20 MEDU2300 Final Q16"
+            "19-20 MEDU2300 Final Q16",
+            "19-20 MEDU2300 Final Q19",
+            "19-20 MEDU2300 Final Q20",
+            "19-20 MEDU2300 Final Q21"
           ],
           "2020-21": [
             "20-21 MEDU2300 Test Q1",
@@ -2840,7 +2873,16 @@
             "20-21 MEDU2300 Final Q11",
             "20-21 MEDU2300 Sem1 Q9",
             "20-21 MEDU2300 Sem1 Q7",
-            "20-21 MEDU2300 Final Q19"
+            "20-21 MEDU2300 Final Q19",
+            "20-21 MEDU2300 Final Q20",
+            "20-21 MEDU2300 Final Q22",
+            "20-21 MEDU2300 Final Q23",
+            "20-21 MEDU2300 Final Q24",
+            "20-21 MEDU2300 Final Q25",
+            "20-21 MEDU2300 Final Q26",
+            "20-21 MEDU2300 Final Q27",
+            "20-21 MEDU2300 Final Q28",
+            "20-21 MEDU2300 Final Q29"
           ],
           "2021-22": [
             "21-22 MEDU2300 Test Q1",
@@ -2873,7 +2915,17 @@
             "21-22 MEDU2300 Test Q12",
             "21-22 MEDU2300 Test Q13",
             "21-22 MEDU2300 Final Q11",
-            "21-22 MEDU2300 Final Q12"
+            "21-22 MEDU2300 Final Q12",
+            "21-22 MEDU2300 Final Q20",
+            "21-22 MEDU2300 Final Q21",
+            "21-22 MEDU2300 Final Q22",
+            "21-22 MEDU2300 Final Q23",
+            "21-22 MEDU2300 Final Q24",
+            "21-22 MEDU2300 Final Q25",
+            "21-22 MEDU2300 Final Q26",
+            "21-22 MEDU2300 Final Q27",
+            "21-22 MEDU2300 Final Q28",
+            "21-22 MEDU2300 Final Q29"
           ],
           "2022-23": [
             "22-23 MEDU2300 Test Q1",
@@ -3065,6 +3117,60 @@
             "20-21 MEDU2300 Final Q19",
             "Extra MEDU2300 Abdomen Q12",
             "Extra MEDU2300 Abdomen Q13"
+          ],
+          "Pelvis": [
+            "15-16 MEDU2300 Final Q33",
+            "15-16 MEDU2300 Final Q35",
+            "15-16 MEDU2300 Final Q36",
+            "13-14 MEDU2300 Test Q13",
+            "14-15 MEDU2300 Test Q33",
+            "15-16 MEDU2300 Final Q40",
+            "16-17 MEDU2300 Final Q26",
+            "16-17 MEDU2300 Final Q27",
+            "16-17 MEDU2300 Final Q29",
+            "17-18 MEDU2300 Final Q18",
+            "17-18 MEDU2300 Final Q21",
+            "17-18 MEDU2300 Final Q23",
+            "17-18 MEDU2300 Final Q24",
+            "18-19 MEDU2300 Final Q54",
+            "19-20 MEDU2300 Final Q19",
+            "19-20 MEDU2300 Final Q20",
+            "19-20 MEDU2300 Final Q21",
+            "20-21 MEDU2300 Final Q20",
+            "20-21 MEDU2300 Final Q22",
+            "20-21 MEDU2300 Final Q23",
+            "21-22 MEDU2300 Final Q20",
+            "21-22 MEDU2300 Final Q21",
+            "21-22 MEDU2300 Final Q22",
+            "13-14 MEDU2300 Test Q14",
+            "14-15 MEDU2300 Test Q1",
+            "15-16 MEDU2300 Final Q32",
+            "15-16 MEDU2300 Final Q37",
+            "15-16 MEDU2300 Final Q39",
+            "16-17 MEDU2300 Final Q23",
+            "16-17 MEDU2300 Final Q25",
+            "16-17 MEDU2300 Final Q30",
+            "16-17 MEDU2300 Final Q33",
+            "17-18 MEDU2300 Final Q22",
+            "17-18 MEDU2300 Final Q27",
+            "20-21 MEDU2300 Final Q24",
+            "20-21 MEDU2300 Final Q25",
+            "20-21 MEDU2300 Final Q26",
+            "21-22 MEDU2300 Final Q23",
+            "21-22 MEDU2300 Final Q24",
+            "21-22 MEDU2300 Final Q25",
+            "21-22 MEDU2300 Final Q26",
+            "15-16 MEDU2300 Final Q38",
+            "16-17 MEDU2300 Final Q31",
+            "16-17 MEDU2300 Final Q32",
+            "17-18 MEDU2300 Final Q25",
+            "17-18 MEDU2300 Final Q26",
+            "20-21 MEDU2300 Final Q27",
+            "20-21 MEDU2300 Final Q28",
+            "20-21 MEDU2300 Final Q29",
+            "21-22 MEDU2300 Final Q27",
+            "21-22 MEDU2300 Final Q28",
+            "21-22 MEDU2300 Final Q29"
           ],
           "Thorax": [
             "15-16 MEDU2300 Test Q2",
@@ -28039,7 +28145,7 @@
         "E": "CYP2C9 variant, or CYP3C2 variant"
       },
       "answer": "D",
-      "explanation": "CYP2C9 with more *1 alleles, and VKORC1 with more GG alleles are more tolerant to warfarin dose, and hence requires higher dose to achieve the therapeutic effect."
+      "explanation": "CYP2C9 with less *1 alleles, and VKORC1 with less GG alleles are less tolerant to warfarin dose, and hence requires lower dose to prevent over-anticoagulation."
     },
     "18-19 MEDU2600 Final Q59": {
       "year": "2018-19",
@@ -28312,6 +28418,882 @@
       },
       "answer": "C",
       "explanation": "A map disease-associated genes\nB study the amount of a specific DNA sequence\nC sequence multiple genes simultaneously\nD detect expression and localisation of proteins\nE study deletions or duplications of gene in chromosome"
+    },
+    "15-16 MEDU2300 Final Q33": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which of the following imaging techniques cannot accurately evaluate the anatomy of the uterus?",
+      "options": {
+        "A": "pelvis x ray",
+        "B": "ultrasound",
+        "C": "CT",
+        "D": "Hysterosalpingogram",
+        "E": "MRI"
+      },
+      "answer": "A",
+      "explanation": "Contrast is required to recognise the uterus and uterine tube under X ray, as it mainly consists of empty space.\nHysterosalpingogram is the X ray image of the pelvis with contrast injected into the uterus (Hystero-) and uterine tube (Salpingo-)."
+    },
+    "15-16 MEDU2300 Final Q35": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which of the following structures MAY NOT be recognized in CT scanning of the pelvis of an elderly woman who has not received surgery previously?",
+      "options": {
+        "A": "Urinary bladder",
+        "B": "Uterus",
+        "C": "Vagina",
+        "D": "Ovary",
+        "E": "Cervix"
+      },
+      "answer": "D",
+      "explanation": "Ovary undergoes atrophy after menopause, due to the lack of estrogen."
+    },
+    "15-16 MEDU2300 Final Q36": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which of the following is not seen in IVU?",
+      "options": {
+        "A": "Bladder",
+        "B": "Renal pelves and calyx",
+        "C": "Prostate",
+        "D": "Sacroiliac",
+        "E": "Right ureter"
+      },
+      "answer": "C",
+      "explanation": "Indeed the prostatic urethra is clearly shown in IVU, but not the contour of the entire prostate. Sacroiliac joint is normally seen in pelvic X-ray without the need of contrast."
+    },
+    "13-14 MEDU2300 Test Q13": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "60 year-old man has blockage of internal pudendal artery[1][2][3] just distal to the origin of inferior rectal artery. What function would be affected?",
+      "options": {
+        "A": "Prostate secretion",
+        "B": "Contraction of bladder",
+        "C": "Erection",
+        "D": "Control of external anal sphincter"
+      },
+      "answer": "C",
+      "explanation": "Blocking the internal pudendal artery distal to the origin of the inferior rectal artery means blocking at the origin of the internal pudendal artery.\nThe dorsal artery of penis is blocked.\nTo penis and scrotum → affect erection"
+    },
+    "14-15 MEDU2300 Test Q33": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Ligation of the internal iliac artery is sometimes necessary for emergency reduction of massive bleeding of the genital tract. Sometimes ligation of other arteries may be necessary in addition. Which of the following should arteries should be considered for ligation first?",
+      "options": {
+        "A": "External iliac artery",
+        "B": "Middle rectal artery",
+        "C": "Obturator artery",
+        "D": "Ovarian artery",
+        "E": "Pudendal artery"
+      },
+      "answer": "D",
+      "explanation": "The ovarian artery arises directly from the aorta and ultimately anastomoses with the uterine artery in the region of the uterine aspect of the ovarian ligament. Ligation is performed just inferior to this point in a manner similar to that of uterine artery ligation.\nReference: https://www.medscape.com/answers/275038-187569/what-is-the-role-of-ovarian-artery-ligation-in-the-treatment-of-postpartum-hemorrhage-pph"
+    },
+    "15-16 MEDU2300 Final Q40": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "60-old man with internal pudendal artery occlusion distal to the branch of inferior rectal artery of either side. Which of the following is affected?",
+      "options": {
+        "A": "Testis blood supply",
+        "B": "Urinary bladder contraction",
+        "C": "Penile erection",
+        "D": "Prostate secretion",
+        "E": "Voluntary anal sphincter contraction"
+      },
+      "answer": "C",
+      "explanation": "A is mediated by testicular artery arises from abdominal aorta at L2 level.\nB is mediated by inferior hypogastric plexus (IHP) and pelvic splanchnic nerves.\nC is mediated by both pelvic splanchnic nerves (Nerve supply) and internal pudendal artery (Blood supply).\nD is mediated by IHP and pelvic splanchnic nerve. Considering blood supply, it is mediated by inferior vesical artery.\nE is mediated by inferior rectal nerve and artery. However, even if the question changed into blocking the entire internal pudendal artery, E will still not be affected as collateral supply is ensured by superior and middle rectal arteries."
+    },
+    "16-17 MEDU2300 Final Q26": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which statement about pelvic splanchnic nerve is correct?",
+      "options": {
+        "A": "Only ans component in pelvis",
+        "B": "Regulate erectile tissue of male external genital",
+        "C": "Postganglionic ganglion on lumbar vertebrae",
+        "D": "Preganglionic fibres from lumbar segment",
+        "E": "Vagus nerve terminate at ganglia of pelvic splanchnic nerve"
+      },
+      "answer": "B",
+      "explanation": "Pelvic splanchnic nerve arises from anterior rami of S2-S4 nerves, with no involvement of the sympathetic trunk as it conveys the PSNS fibres. Pelvic splanchnic nerve and lumbar sympathetic nerves form the inferior hypogastric plexus to innervate pelvic viscera. Prostatic plexus arising from inferior hypogastric plexus gives the cavernous nerve supplying the corpora cavernosa to mediate vasodilation."
+    },
+    "16-17 MEDU2300 Final Q27": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "With regards to pelvic fascia, which of the following statements is correct?",
+      "options": {
+        "A": "It covers the peritoneum",
+        "B": "Continuous with transversalis fascia",
+        "C": "Forms fibrous ring around the superficial inguinal ring"
+      },
+      "answer": "B",
+      "explanation": "![](img/16-17_MEDU2300_Final_Q27_1777474570711.png)\nParietal pelvic fascia lines the pelvic floor, hence having no contact with the peritoneum. It is the endopelvic fascia (Fatty connective tissue) that is covered by peritoneum. For C, it is aponeurosis of external oblique and inguinal ligament that forms the ring around the superficial inguinal ring."
+    },
+    "16-17 MEDU2300 Final Q29": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "When giving labour, ligation of internal iliac artery is usually performed to prevent profuse bleeding of genital tract. What other arteries ligated to stop the bleeding?",
+      "options": {
+        "A": "Obturator artery",
+        "B": "Ovarian artery",
+        "C": "Middle rectal artery",
+        "D": "External iliac artery",
+        "E": "Pudendal artery"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2300 Final Q18": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A 41 year old cyclist experiences pain in the penis, scrotum and the anal area. Sensations of the thigh and leg are normal. Possible location of nerve compression?",
+      "options": {
+        "A": "Anterior recess of ischioanal fossa",
+        "B": "Greater sciatic foramen",
+        "C": "Piriformis",
+        "D": "Pudendal canal",
+        "E": "Superficial perineal pouch"
+      },
+      "answer": "D",
+      "explanation": "The most accurate answer should be at the lesser sciatic foramen.\n\nSomatic sensation to penis, scrotum and anal area\nDuring cycling, repetitive impacts generate extreme perineal pressure leading to increased friction in the pudendal canal and compression from the surrounding muscular (levator ani, obturator internus, and piriformis) and ligaments structures (sacrospinous and sacrotuberous).\n**cyclist syndrome\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989401/\n\nPain in scrotum and penis may indicate nerve injury of the genitofemoral nerve (L1-L2) or ilioinguinal nerve (L1). However, normal sensation of the thigh and leg indicates genitofemoral nerve and ilioginuinal is normal, while the presence of pain in anal area also excludes the possibility of these nerves. According to the pattern of dermatome, only nerve injury of S2-S4 nerves is possible. This is in fact an entrapment injury of the pudendal nerve due to prolonged pressure to the perineum. The most probable site of entrapment is the compression of the nerve within the pudendal (Alcock’s) canal along the inferior portion of obturator internus. This is caused when the pelvic floor (Levator ani) above is constantly pressed downwards due to body weight and compresses the nerve within the canal. As a result, pain in penis (Dorsal nerve of penis), scrotum (Perineal nerve) and anal region (Inferior rectal nerve) commences. Note that only posterior aspect of scrotum is affected, as it is innervated by posterior scrotal nerve from superficial branch of perineal nerve. The anterior aspect is innervated by anterior scrotal nerve, a branch from the ilioinguinal nerve. The anterior recess of ischioanal fossa only contains the dorsal nerve of penis, and only the penis will be painful for this situation.\n\nGreater sciatic foramen and piriformis represent another common site of nerve entrapment – Sciatic nerve. Sciatica (Pain of the nerve) causes pain in the posterior thigh, leg and foot, which is of course not the case here."
+    },
+    "17-18 MEDU2300 Final Q21": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "35-year-old man, painful urination and pain in left inguinal region. Medical history: a surgery for a testicular problem. Diagnosis: overstretch of ductus deferens may compress on the left ureter. Which of the following represent the most likely location where the compression occurs?",
+      "options": {
+        "A": "Just above sacroiliac junction",
+        "B": "Origin of internal iliac artery",
+        "C": "Opening of ejaculatory duct",
+        "D": "Orifice where ureter enters bladder",
+        "E": "On the inguinal ligament"
+      },
+      "answer": "D",
+      "explanation": "Ductus deferens ascends anterior to the ureter, then arches over to the back of ureter and bladder to reach the seminal vesicle resting on the back of bladder.\nThere are some significant points to note for the crossing points of ureters: \n1. At the crossing of ductus deferens and ureters: You may refer to P.36 of lecture notes that shows the crossing takes place lateral to the seminal vesicle very close to it and the bladder \n2. At the crossing of the external iliac artery and ureters, it is a common site of kidney stone formation that blocks the ureters. Also, note that the ureter crosses the external iliac artery anteriorly. \n3. The testicular / ovarian arteries also cross the ureters, but there is nothing special at this site. \n4. Remember water under the bridge. Ureters cross the uterine arteries from behind and below. In the ligation of the uterine artery, ureters may be ligated together.\n\n![](img/17-18_MEDU2300_Final_Q21_1777474596679.png)"
+    },
+    "17-18 MEDU2300 Final Q23": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A man has a pelvic fracture and partial rupture of urethra in a car accident. The rupture is found to be at the apex of the prostate. Where would the urine most likely leak into?",
+      "options": {
+        "A": "pararectal space",
+        "B": "penis",
+        "C": "retropubic space",
+        "D": "scrotum",
+        "E": "superficial perineal pouch"
+      },
+      "answer": "C",
+      "explanation": "Apex of the prostate is just above the levator ani (Pelvic floor), hence B, D, E are not possible. Pararectal space is the fascial space surrounding the rectum, inferior to the peritoneum and hence irrelevant to prostate injury. Retropubic space is the only possible answer as it is just anterior to the bladder and prostate, superiorly bound by pelvic fasciae lining the bladder and inferiorly bound by the perineal membrane.\nIn case of rupture of urethra ABOVE UG diaphragm (this question), urine extravasates into the pelvic cavity."
+    },
+    "17-18 MEDU2300 Final Q24": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which ligament is not cut that prevents the uterus from collapsing?",
+      "options": {
+        "A": "rectovesical pouch",
+        "B": "Broad ligament",
+        "C": "Round and ovarian ligament",
+        "D": "Fascia of vagina",
+        "E": "transverse ligament of uterus"
+      },
+      "answer": "E",
+      "explanation": "Cardinal ligament (E) (transverse cervical ligament) provides the greatest proportion of support to the uterus, as it is a true ligamentous fascia, but not the broad ligament (Peritoneal fold only). Round ligament is indeed a fibrous tissue, but it only acts to maintain anteflexion of the uterus about the cervix as it is attaching very distally to the labium majus."
+    },
+    "18-19 MEDU2300 Final Q54": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "What statements about the sciatic nerve is correct?",
+      "options": {
+        "A": "Innervates the piriformis muscle",
+        "B": "Accompanies the branches of the inferior gluteal nerve",
+        "C": "it locates in upper medial quadrant of gluteal region",
+        "D": "it is below gluteus minimus",
+        "E": "it travels through lesser sciatic foramen"
+      },
+      "answer": "D",
+      "explanation": "A. Even though Google says the sciatic nerve innervates the piriformis in 20% of the population, and chat GPT says it innervates the piriformis muscle, this is not correct. Piriformis should be innervated by (a) branch(es) from sacral plexus S1/S2 (taught in lower limb), or simply nerve to piriformis.\nB. Although the inferior gluteal nerve and sciatic nerve exit via the greater sciatic foramen inferior to the piriformis, most branches of the inferior gluteal nerve goes up to the gluteus maximus muscle while the sciatic nerve goes down straight to supply the lower limbs. This is not correct.\nC. The sciatic nerve passes through the lower medial quadrant. To avoid damaging the sciatic nerve therefore, intramuscular injections are given only in the upper lateral quadrant of the gluteal region.\n(https://www.physio-pedia.com/Sciatic_Nerve)\nD. Correct. Although gluteus minimus and the sciatic nerve are separated by some distance, the sciatic nerve is inferior to it. Either memorize this fact, or visualize it with the following photos. Sometimes, we are talking about the horizontal level. It may not be covering it right away, but at least at a lower position in the anatomical position as you can see it yourself. Complete anatomy is not always correct, and this is an example, where the gluteus minimus is just too far apart, and is not really superior to the sciatic nerve.\nE. Refer to B.\n\n![](img/18-19_MEDU2300_Final_Q54_1777474615588.jpeg)\n![](img/18-19_MEDU2300_Final_Q54_1777474621340.jpeg)\n![](img/18-19_MEDU2300_Final_Q54_1777474634345.jpeg)\n![](img/18-19_MEDU2300_Final_Q54_1777474638874.png)"
+    },
+    "19-20 MEDU2300 Final Q19": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Innervation of the lower limbs would be most seriously affected by hypertrophy of which of the following muscles:",
+      "options": {
+        "A": "piriformis",
+        "B": "puborectalis",
+        "C": "obturator externus",
+        "D": "levator ani",
+        "E": "coccygeus"
+      },
+      "answer": "A",
+      "explanation": "Piriformis syndrome is an uncommon neuromuscular disorder that is caused when the piriformis muscle compresses the sciatic nerve. Keep in mind that the sciatic nerve emerges between the piriformis and coccygeus muscle and leaves via the greater sciatic foramen. (Inferior to piriformis muscle)\nReference: https://www.webmd.com/pain-management/guide/piriformis-syndrome-causes-symptoms-treatments#1"
+    },
+    "19-20 MEDU2300 Final Q20": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which of the following contains most of the autonomic supply to the pelvic viscera?",
+      "options": {
+        "A": "pudendal nerve",
+        "B": "superior hypogastric plexus",
+        "C": "inferior hypogastric plexus",
+        "D": "sacral plexus",
+        "E": "pelvic splanchnic nerve"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q21": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "In aspiration of urine from the bladder, which of the following is least likely to be pierced through by the needle that is inserted just above the pubic symphysis?",
+      "options": {
+        "A": "peritoneum",
+        "B": "pelvic fascia",
+        "C": "abdominal muscle",
+        "D": "extraperitoneal tissue",
+        "E": "transversalis fascia"
+      },
+      "answer": "A",
+      "explanation": "Peritoneum is possible to be avoided when we perform centesis to reach the bladder via the retropubic space. Parietal pelvic fascia lining the anterior aspect of pelvis, and visceral pelvic fascia lining the bladder wall must be penetrated. Lower part of rectus abdominis and transversalis fascia at the back (No more rectus sheath) is pierced. Also, the retropubic space is continuous with the extraperitoneal fat above."
+    },
+    "20-21 MEDU2300 Final Q20": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which of the following is the most liable to injury when the levator ani is subjected to excessive stress, such as that during childbirth?",
+      "options": {
+        "A": "Ischial tuberosity",
+        "B": "Pubic bone",
+        "C": "Pudendal canal",
+        "D": "Rim of greater sciatic notch",
+        "E": "Sacrotuberous ligament"
+      },
+      "answer": "C",
+      "explanation": "Pudendal canal is along the lateral wall of ischioanal fossa below levator ani, which is on the obturator fascia along obturator internus. During massive straining of levator ani, the pelvic floor is pushed downwards and against the ischioanal fossa. In this case, the pudendal canal may be injured due to compression between obturator internus and the levator ani from above."
+    },
+    "20-21 MEDU2300 Final Q22": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Middle aged nurse complains pain in pelvic, gluteal region and back of the thigh. Intervertebral disc not injured, pain elicited when hip flexion and rotation. What is the possible cause?",
+      "options": {
+        "A": "Cancer of rectum",
+        "B": "Cyst of ovary",
+        "C": "Hypertrophy in piriformis",
+        "D": "Tightening of round ligament",
+        "E": "Tumour of broad ligament"
+      },
+      "answer": "C",
+      "explanation": "This a classical case of piriformis hypertrophy (COMMONLY ASKED IN EXAM). As sciatic nerve (aka largest nerve in body) traverses below piriformis and above coccygeus, it is very prone to compression injury. Piriformis hypertrophy compresses the nerve and causes pain to the region it innervates. Pain in pelvic, gluteal region and back of thigh represents the pain of semitendinosus, semimembranosus and biceps femoris. In this case, the lower leg and foot are spared, but the severity could vary with degree of compression. During hip flexion and rotation, the sciatic nerve is even more compressed between piriformis and coccygeus, hence aggravating the pain."
+    },
+    "20-21 MEDU2300 Final Q23": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which of the following is least important in supporting the urinary bladder for females?",
+      "options": {
+        "A": "fascia containing vesical arteries",
+        "B": "fasicas in retropubic space",
+        "C": "levator ani",
+        "D": "pubovesical ligament",
+        "E": "vagina"
+      },
+      "answer": "E",
+      "explanation": "In females, the urinary bladder is supported by pubovesical ligament anteriorly and lateral ligament of bladder laterally (Which carries superior vesical vessels). Bladder is supported by median umbilical ligament, and inferiorly by levator ani.\nA is likely referring to the lateral ligament of the bladder. This is actually a potential space around the bladder that holds superior vesical arteries and veins. (View it in complete anatomy)\nB refers to endopelvic fascia that fills up the space between parietal and visceral pelvic fascia (endopelvic fascia), which also helps support the bladder. These are loose connective tissues.\nVagina is inferior to bladder, but cannot provide any support to it. In fact, if vagina can support the bladder, then prolapse of the bladder into vagina will not happen even if the levator ani and pelvic fascia are weakened. (illustrated in the clinical significance of Big Moore P. 373)\nPlease further study Small Moore P. 206-208 (or Big Moore P. 345-348)\n\n![](img/20-21_MEDU2300_Final_Q23_1777474669256.png)\n![](img/20-21_MEDU2300_Final_Q23_1777474688875.png)"
+    },
+    "21-22 MEDU2300 Final Q20": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A young athlete sustained a serious injury on the coccygeal region in a fall. Surgery was performed to repair the ruptured anococcygeal ligament. The main purpose of surgery is to:",
+      "options": {
+        "A": "Correct the defecation disorder[5][6]",
+        "B": "Maintain the integrity of Denonvillier’s fascia",
+        "C": "Relieve any urinary retention",
+        "D": "Repair puborectalis sling",
+        "E": "Reposition the perineal body (central tendon)"
+      },
+      "answer": "A",
+      "explanation": "First you should understand the injury is around the coccyx, instead of the perineal region containing UG and anal triangles at the front. B and E are then clearly irrelevant. Anococcygeal ligament connects the puborectalis sling at anorectal junction, to the coccyx posteriorly. Therefore, the ligament is responsible for maintaining the position of puborectalis sling to maintain fecal continence. Urinary system is too anterior to be affected by anococcygeal ligament rupture, and more oftenly, urinary retention is caused by MAChR antagonist overdose instead of injury. D is not correct as the puborectalis muscle is not injured.\n\nYou need to know that the puborectalis muscle has a free end around the rectum, which allows it to freely move during contraction. If option D is done, the puborectalis will not be mobile and you cannot control the size of feces. Puborectalis is also sort of above the other levator ani muscles, such as the puborectalis and iliococcygeus muscles. Note that these muscles attach to the anococcygeal ligament. Thus, if the anococcygeal ligament is injured, these muscles cannot function properly, hence affecting the function of puborectalis as well. Repairing the anococcygeal ligament fixes all these problems and is a more generalized (better) answer.\n\nAs a foreword, pelvis MC this year is way too hard, what a farewell gift from Prof. Kwong… (FYI: As Prof. Kwong leaves, all of his test bank MCQ must be sent out to collect statistics from students in determining the difficulty of the questions. If only 5% of students get the question correct, 1-2 of these would be selected in our exams! A question of normal difficulty has around 70-80% accuracy. Easiest / Useless questions have very high accuracy that won’t appear anymore likely)"
+    },
+    "21-22 MEDU2300 Final Q21": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Anaesthetic blockage targeted specifically at inferior hypogastric plexus was planned to relieve the chronic pelvic pain of a male cancer patient. Which of the following structures would be LEAST affected by this blockade?",
+      "options": {
+        "A": "Anal canal above dentate line",
+        "B": "External anal sphincter",
+        "C": "Pelvic part of the ureter",
+        "D": "Rectum",
+        "E": "Urinary bladder"
+      },
+      "answer": "B",
+      "explanation": "IHP blockade will cut off all ANS supply to pelvic viscera, and also the sensory afferents below the pelvic pain line (Inferior limit of peritoneum). Obviously, only B is not innervated by ANS, but by voluntary inferior rectal nerve instead."
+    },
+    "21-22 MEDU2300 Final Q22": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A patient on chemotherapy was re-admitted because of persistent hematuria (blood in urine). Bleeding from the upper part of the bladder was found. A minimally invasive procedure (trans-arterial embolization) was carried out to stop the bleeding. Which site should the blockade of blood flow be most appropriately applied to?",
+      "options": {
+        "A": "Anterior trunk of internal iliac artery",
+        "B": "Internal iliac artery at origin of ilio-lumbar artery",
+        "C": "Obliterated part of umbilical artery",
+        "D": "Posterior trunk of internal iliac artery",
+        "E": "Proximal part of inferior gluteal artery"
+      },
+      "answer": "A",
+      "explanation": "Tldr: We have to stop the blood flow in the superior (and inferior) vesical arteries. These are branches from the anterior trunk of the internal iliac artery.\n\nAny question asking branches of the internal iliac artery is too hard. Let’s revise some basics of the internal iliac artery, shall we? Internal iliac artery divides into anterior and posterior trunks. Anterior trunk supplies all pelvic viscera, with major branches being the inferior gluteal artery, umbilical artery, obturator artery and uterine/inferior vesical artery. Umbilical artery gives off superior vesical artery to supply the bladder, which runs along the lateral ligament of bladder, while the distal portion will course along urachus and medial umbilical fold to the umbilicus and placenta. After birth, such distal portion obliterates and degenerates, leaving the superior vesical artery alone. The inferior gluteal artery traverses the greater sciatic foramen below piriformis, supplying gluteal muscles and also forms the cruciate anastomosis with other arteries in the posterior thigh. Note that inferior vesical artery is only present in male, as females have the uterine artery as an analog.\n\nPosterior trunk gives off the superior gluteal artery (Largest trunk), iliolumbar artery and lateral sacral arteries. Superior gluteal artery traverses between lumbosacral trunk and S1 nerve roots to exit at greater sciatic foramen above the piriformis. The other two arteries I didn’t mention here are not so important, just save your time.\n\nThis shows the complexity of the problem, you need so much knowledge to rule out the choices.\nA. Correct, as it can stop flow in superior and inferior vesical / uterine arteries.\nB. Wrong, as it will not stop blood supply via the anterior trunk to the vesical arteries.\nC. Wrong, as there is no use blocking again an obliterated artery, you have already done it yourself since you were born.\nD. Wrong. This has no use either, with reasons similar to B.\nE. This will not help stop blood flow via the superior and inferior vesical / uterine arteries either.\n\nA final note: Do not mix up “superior GLUTEAL artery” (posterior trunk) and “superior VESICAL artery” (anterior trunk)."
+    },
+    "13-14 MEDU2300 Test Q14": {
+      "year": "2013-14",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Using Thermal coagulation to remove the ovary, which of the following structures will be damaged by heat?",
+      "options": {
+        "A": "Ligament of ovary",
+        "B": "Obturator nerve",
+        "C": "Tendinous arch",
+        "D": "Ureter",
+        "E": "Uterine artery"
+      },
+      "answer": "A",
+      "explanation": "The ovarian ligament attaches the lower pole of the ovary to the superolateral aspect of the uterus."
+    },
+    "14-15 MEDU2300 Test Q1": {
+      "year": "2014-15",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A boy has boils (infection with pus) on his scrotum. Enlargement of which lymph nodes will draw the doctor’s attention?",
+      "options": {
+        "A": "para-aortic lymph nodes",
+        "B": "pre-sacral lymph nodes",
+        "C": "iliac lymph nodes",
+        "D": "pre-aortic lymph nodes",
+        "E": "inguinal lymph nodes"
+      },
+      "answer": "E",
+      "explanation": "Lymph from scrotum and most perineal structures are drained into superficial inguinal nodes, which is then drained to deep inguinal nodes at the saphenous opening through the cribriform fascia.\nOnly glans penis / clitoris and penile urethra drains into deep inguinal nodes.\nLymphatics for our gonads drain into lumbar nodes."
+    },
+    "15-16 MEDU2300 Final Q32": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which of the following is covered by, located at the posterior aspect of the broad ligament?",
+      "options": {
+        "A": "ligament of ovary",
+        "B": "round ligament",
+        "C": "suspensory ligament of ovary",
+        "D": "ureter",
+        "E": "uterine tube"
+      },
+      "answer": "A",
+      "explanation": "The ovaries are behind the broad ligament. Ovarian ligament runs within the broad ligament, but at a relatively posterior relation, connecting the ovary to the uterus. (Memorize this fact! Study the diagrams in lectures in detail! P.15 of Pelvis II)\n\n![](img/15-16_MEDU2300_Final_Q32_1777474986359.png)"
+    },
+    "15-16 MEDU2300 Final Q37": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Medial incision above pubic symphysis, where can visualize and reach prostate without damaging bladder",
+      "options": {
+        "A": "Anterior recess of ischioanal fossa",
+        "B": "Intra peritoneal paravesical fossa",
+        "C": "Rectovesical pouch"
+      },
+      "answer": "B",
+      "explanation": "Paravesical fossa is the best choice (?) to access the bladder and prostate from the peritoneal cavity above.\nThe answer should be retropubic space though. Unless this option is not available, choose B, or just make a wild guess…"
+    },
+    "15-16 MEDU2300 Final Q39": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "How are external hemorrhoids different from internal hemorrhoids?",
+      "options": {
+        "A": "Below anal opening",
+        "B": "Below pectinate line",
+        "C": "Below superficial anal sphincters",
+        "D": "At the rectoanal junction (sth like that)",
+        "E": "Within the rectal columns"
+      },
+      "answer": "B",
+      "explanation": "Frequent straining may weaken anal cushions (submucosal anal venous plexus) → dilate and protrude into the anal lumen, and slide down the anal wall.\nExternal hemorrhoids are painful (especially if clotted) as the area below the dentate / pectinate line is innervated by somatic nerves (inferior rectal nerve from the pudendal nerve).\nClotted internal hemorrhoids may also be painful if it has prolapsed outside."
+    },
+    "16-17 MEDU2300 Final Q23": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Removal of the uterus involves the ligation of the uterine artery, which structure may be accidentally damaged?",
+      "options": {
+        "A": "Ureter",
+        "B": "Uterosacral ligament",
+        "C": "Urinary bladder",
+        "D": "Sigmoid colon",
+        "E": "Suspensory ligament of the ovary"
+      },
+      "answer": "A",
+      "explanation": "Note that the ureter crosses behind and below the uterine artery (water under the bridge)."
+    },
+    "16-17 MEDU2300 Final Q25": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A woman complains urging pain while urinating. She had abdominal operation few months ago. The operation is known to lead to hematoma at the bottom of the peritoneal cavity. It leads to retroflexion of the uterus. Where is the hematoma?",
+      "options": {
+        "A": "Rectouterine pouch",
+        "B": "Rectovesicle pouch",
+        "C": "Retropubic space",
+        "D": "Superficial perineal pouch",
+        "E": "Vesicouterine pouch"
+      },
+      "answer": "E",
+      "explanation": "Rectouterine pouch is the deepest and lowest space in the peritoneal cavity in females, hence blood may accumulate at this space. However, note that retroflexion of the uterus is observed in this case, hence this space at the back of the uterus is not possible. Vesicouterine pouch at the front of the uterus is the only space to cause the uterus to bend posteriorly about the cervix, as blood pushes the uterus away from the bladder.\n\n![](img/16-17_MEDU2300_Final_Q25_1777475036881.png)"
+    },
+    "16-17 MEDU2300 Final Q30": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Previous operation in peritoneal cavity, hematoma, retroflexion, which space (forgot)",
+      "options": {
+        "A": "Ischioanal fossa",
+        "B": "Extraperitoneal space in pelvic cavity",
+        "C": "Rectouterine pouch",
+        "D": "Superficial perineal pouch",
+        "E": "Vesicouterine pouch"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "16-17 MEDU2300 Final Q33": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 33,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "External hemorrhoids usually arise from:",
+      "options": {
+        "A": "Below anal opening",
+        "B": "Below pectinate line of anal region",
+        "C": "Below superficial anal sphincter",
+        "D": "Just below anorectal junction",
+        "E": "Within anal column"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2300 Final Q22": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A 62 year old man is diagnosed with advanced prostate cancer. In order to stop the cancer from spreading, the prostate and all the related fascia has to be removed. At which area is dissection required to remove the fascia from it?",
+      "options": {
+        "A": "inferior hypogastric plexus",
+        "B": "levator Ani",
+        "C": "Neurovascular bundle",
+        "D": "prostatic venous drainage",
+        "E": "urogenital diaphragm"
+      },
+      "answer": "D",
+      "explanation": "Prostatic sheath is the visceral pelvic fascia covering the prostate. It contains the prostatic plexus (From IH plexus) and prostatic venous plexus (Which will emerge as venae comitantes around inferior vesical artery). To dissect the prostatic sheath to remove the prostate, the venous plexus will be removed as well. Neurovascular bundle is found on the posterolateral aspect of the prostate, beyond the prostatic sheath. (Refer to P. 39 of Pelvis II)"
+    },
+    "17-18 MEDU2300 Final Q27": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A 40-year-old woman experienced an acute sharp pain in anal region; a hemorrhoid covered by hairless, skin-like tissue was found outside the anus; where would the hemorrhoid most likely arise from?",
+      "options": {
+        "A": "Above anal column",
+        "B": "Above anal valve",
+        "C": "Below anal verge",
+        "D": "Below dentate (pectinate) line",
+        "E": "Below anal verge but above pecten"
+      },
+      "answer": "D",
+      "explanation": "C is misleading, D is the best answer.\nPectinate line refers to the line between superior and inferior halves of anal canal, which demarcates the difference between vascular and nerve supply. However, anal verge is the inferior limit of the inferior half of anal canal (Non-keratinised stratified squamous, smooth and hairless) and beyond is the surrounding skin (Keratinised stratified squamous, rough and has hair)."
+    },
+    "20-21 MEDU2300 Final Q24": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "One of the surgical procedures to reach the prostate is to make an incision between the scrotum and the anus. If the incision is continued along the prostrate and the rectum, which of the following structures is most likely to be injured?",
+      "options": {
+        "A": "Vas deferens",
+        "B": "Nerves or blood vessels",
+        "C": "Peritoneal folds",
+        "D": "Sympathetic trunk",
+        "E": "Ureter"
+      },
+      "answer": "B",
+      "explanation": "Refer to P.40 of the lecture notes. [10]\nThe incision is made at perineum between scrotum and anus, and then superiorly along the Denonviller’s fascia (rectoprostatic fascia) towards the peritoneal cavity. The seminal vesicles on the superior aspect of the prostate could be cut. The most distal portion (Ampulla) of ductus deferens, which converges with the tube of seminal vesicle into the prostate, is also liable to injury at this position. But the incision must be beyond the prostate for this to happen.\nSo for this question, it is most likely the prostate sheath (Visceral pelvic fascia lining the prostate) to be cut, which contains the prostatic plexus (From IH plexus) and the prostatic venous plexus (Continuous with vesical venous plexus to drain into venae comitantes of vesical arteries). The neurovascular bundles at the posterolateral aspect may be injured also."
+    },
+    "20-21 MEDU2300 Final Q25": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which of the following represents the region where the ejaculatory duct passes through the prostate",
+      "options": {
+        "A": "Anterior lobe",
+        "B": "Central zone",
+        "C": "Peripheral zone",
+        "D": "Transition zone",
+        "E": "Non-glandular stroma"
+      },
+      "answer": "B",
+      "explanation": "Ejaculatory duct enters the prostate at its posterolateral aspect, running up to the verumontanum at the center of the prostatic urethra. Peripheral zone refers to most of the prostate below the ejaculatory duct, which is most likely to develop cancer. Central zone refers to the part between the ejaculatory ducts and the superior part of the prostatic urethra, which surrounds the ejaculatory ducts too. The rest is the transition zone wrapping around the anterior aspect of the superior part of prostatic urethra, which is most likely to develop benign prostatic hypertrophy."
+    },
+    "20-21 MEDU2300 Final Q26": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "An elderly man is examined for anal lump. He is asked to strain, a lump protracts out and spontaneous retracts back. He reports no pain but there is slight bleeding. Where is the lump most likely originated from?",
+      "options": {
+        "A": "At the pecten",
+        "B": "At anorectal junction",
+        "C": "Above the distal end of anal column",
+        "D": "Below the anal valve",
+        "E": "At the rectum"
+      },
+      "answer": "C",
+      "explanation": "Reporting of no pain indicates the hemorrhoid is not originating below the pectinate line, which should be innervated by somatic nerve (Inferior rectal nerve) and very painful. Therefore, it should come from above the pectinate line.\nThe only viable option here is C, which is the region above pecten. Pecten itself may still be partially supplied by inferior rectal nerve, while option D is definitely supplied by inferior rectal nerve only. Rectum and anorectal junction are too far for hemorrhoids to form as it does not have the anal cushions."
+    },
+    "21-22 MEDU2300 Final Q23": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 23,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "The female pelvis was examined by a silent teacher. The examiner’s fingers were moving posteriorly along the broad ligament towards the rectum, the examiner first gripped the ligament of the ovary then moved posteromedially, which of the following structures would they come upon next? [11][12]",
+      "options": {
+        "A": "pararectal fossa",
+        "B": "rectouterine fold[13]",
+        "C": "round ligament",
+        "D": "suspensory ligament of ovary",
+        "E": "uterine tube"
+      },
+      "answer": "B",
+      "explanation": "This question is much trickier than expected, hope you have the chance to really test it yourself during dissection. First orient yourself with the position of the ovarian ligament, which is between the ovary and the body of the uterus. At this moment, you should realize that the uterine tube is above your finger, as it is suspended by the mesosalpinx, while the ovarian ligament runs within the mesovarium. Round ligament runs on the anterior surface of broad ligament and will not be the answer too. Suspensory ligament of ovary is even more lateral to the ovary, as it carries the ovarian vessels from the abdomen, hence will not be the answer too. The only answers left are pararectal fossa and rectouterine fold. Pararectal fossa is the potential space on two sides of rectum and could be accessed with such a method. However, the finger will first meet the rectouterine fold, which is the superior border of the fossa, and then move downwards will meet the rectouterine pouch (of Douglas), and then laterally to the pararectal fossae on two sides.\n\n![](img/21-22_MEDU2300_Final_Q23_1777475072431.png)\n![](img/21-22_MEDU2300_Final_Q23_1777475079503.jpeg)\n![](img/21-22_MEDU2300_Final_Q23_1777475084762.jpeg)"
+    },
+    "21-22 MEDU2300 Final Q24": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 24,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A 30-year-old male sought medical treatment for infertility. Analysis of his semen showed low sperm count and low sperm motility. Among the follow-ups, one was endoscopic examination of the urethral anatomy. Which of the following sites had to be investigated in greater detail than the others?",
+      "options": {
+        "A": "either side of the urethral crest",
+        "B": "external urethral orifice",
+        "C": "interior of the prostatic utricle",
+        "D": "posterior wall of the urethra",
+        "E": "prostatic colliculus (verumontanum)"
+      },
+      "answer": "E",
+      "explanation": "It sounds painful to do such an endoscopy. Anyway, we still need to show professionalism.\nThe key feature we are looking for is the entrance of the ejaculatory duct, as it allows passage of sperms from the ductus deferens to the urethra for ejaculation. But we need to understand the internal anatomy of the prostate before going on, as you probably cannot even understand the choices. Urethral crest is the longitudinal folding on the posterior wall of prostatic urethra extending from the uvula of bladder to the verumontanum below. Verumontanum is a ridge on the posterior wall of prostatic urethra containing prostatic utricle and openings for ejaculatory ducts. Prostatic utricle is at midline on verumontanum, which has no use and merely a remnant of embryological development. Either side of verumontanum is the prostatic sinus, which is the release site of prostatic secretion. Ok now we can come back to the question. Obviously E is the correct answer. It is just that simple!\nVideo: https://www.youtube.com/watch?v=39OKrzU3i1w"
+    },
+    "21-22 MEDU2300 Final Q25": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Which of the following is the most likely consequence of large tumour at lateral fornix of vagina?",
+      "options": {
+        "A": "Blood supply to uterus is stopped",
+        "B": "Blood supply to vagina is stopped",
+        "C": "Mid ureter compression",
+        "D": "Ureter obstructed",
+        "E": "Vagina herniation to rectum"
+      },
+      "answer": "D",
+      "explanation": "A. Blood supply to the uterus has 2 parts (dual supply): uterine artery + ovarian artery. Even if the uterine artery is compressed, the ovarian artery that descends via the suspensory ligament from the abdominal aorta is still intact. A is not accurate.\nB. Similarly, blood supply to the vagina has 2 parts: uterine artery + vaginal artery. Even if the uterine artery is compressed, the vaginal artery (= inferior vesical artery in males) is still intact. For this option, you need to refer to P.43 of Maria’s Lecture Notes. The absolute location of the vaginal artery is not certain, but referring to P. 344-355 & P.352 of Netter, the ureter is definitely located at a higher position than the vaginal artery. The ureter is right below the uterine arteries as they cross each other (water under the bridge). Also, vaginal artery anastomoses with the uterine artery in supplying the uterus and vagina. In other words, vaginal blood supply should not be stopped at this stage.\nC. The ureter is very long, and mid ureter should be in the abdomen! Exact location is not defined, but it is definitely not around the lateral fornix!\nD. This is the most sensible option, though obstructed is not a very good choice of word as the ureter is compressed rather than really being obstructed from the inside. Recall from Maria’s notes (p.43) that the ureter runs near the cervix and lateral fornix of the vagina.\nE. Impossible, as only rectum will herniate into vagina, particularly when Denonvilier’s fascia is weakened.\n\n![](img/21-22_MEDU2300_Final_Q25_1777475102744.jpeg)\n\nThis may not be the correct answer: (provided by other sources)\nKeep in mind the fornices of vagina is where the uterus protrudes into the vagina, which also marks the transition of cardinal ligament and broad ligament. At such level, uterine arteries and ureter traverse towards the uterus and bladder respectively. Therefore, the tumour will compress these two structures. However, A and B are wrong, as uterus receives dual supply from ovarian and uterine arteries, while vagina receives dual supply from uterine and internal pudendal arteries. E is impossible, as only rectum will herniate into vagina, particularly when Denonvilier’s fascia is weakened. Now we need to decide between C and D. D is not an accurate description, as obstruction means there is something trapped inside the lumen to stop urine flow, e.g. renal stones. C would be a correct choice, as ureter still has a little course anteriorly into the bladder, mid-ureter compression is still a valid description of the possible outcome of tumour."
+    },
+    "21-22 MEDU2300 Final Q26": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Closest lateral relationship at midpoint of vagina",
+      "options": {
+        "A": "Levator ani",
+        "B": "Ischioanal fossa",
+        "C": "Obturator internus",
+        "D": "Ureter",
+        "E": "Uterine artery"
+      },
+      "answer": "A",
+      "explanation": "Refer to P.352 of Netter.\nThe only sure method to conquer this kind of relationship question is to memorize the diagrams in Netter with photographic memory. However, we can also use a little bit of logical deduction to help us out. Recall that the uterine artery and ureter marks the protrusion of the uterus into vagina, hence forming the fornices, this level indicates the beginning of vagina. Hence, D and E are wrong. Ischioanal fossa is the potential space between obturator internus and levator ani, which is then separated from the vagina by levator ani. To compare the distance, levator ani is furthest, ischioanal fossa in-between, and obturator internus is the closest. Sorry we have to come to like this, but sometimes it is just too difficult to memorize everything... But to make things simpler, you can simply assert that from fornices to the vestibule, almost the entire length of vagina is accompanied by levator ani on two sides, and separated from the ischioanal fossa on two sides.\n\n![](img/21-22_MEDU2300_Final_Q26_1777475116798.png)"
+    },
+    "15-16 MEDU2300 Final Q38": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Scarpa's fascia is continuous in male perineum with:",
+      "options": {
+        "A": "Bucks fascia",
+        "B": "Deep perineal fascia",
+        "C": "Inferior perineal fascia",
+        "D": "Perineal membrane",
+        "E": "Colles fascia"
+      },
+      "answer": "E",
+      "explanation": "Refer to Kwong’s diagrams directly."
+    },
+    "16-17 MEDU2300 Final Q31": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 31,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A 50-year-old woman complained of discomfort in the pelvic area. A tumour was found in the right lateral wall of vagina below pelvic floor. If it continues to grow laterally, what structures will it compress?",
+      "options": {
+        "A": "Anterior recess of ischioanal fossa",
+        "B": "Greater vestibular gland",
+        "C": "Ischioanal fossa (proper)",
+        "D": "Sacral plexus",
+        "E": "Labia minora"
+      },
+      "answer": "B",
+      "explanation": "Anterior recess of ischioanal fossa is indeed lateral to the vagina, but the strong levator ani and pelvic fascia around will limit its expansion. However, at the superficial perineal pouch below the perineal membrane, there is no such strong supporting structure, and the mass will compress the greater vestibular gland immediately lateral to the vagina.\n\n![](img/16-17_MEDU2300_Final_Q31_1777475346505.png)\n![](img/16-17_MEDU2300_Final_Q31_1777475725764.png)"
+    },
+    "16-17 MEDU2300 Final Q32": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A 70-year-old man has his corpus cavernosum left crus of penis damaged, where will the blood go?",
+      "options": {
+        "A": "Above the perineal membrane",
+        "B": "Urethra",
+        "C": "Ischioanal fossa",
+        "D": "Scrotum",
+        "E": "Above pelvis"
+      },
+      "answer": "D",
+      "explanation": "Superficial perineal pouch is the space between perineal membrane and Colles fascia, and note that the deep perineal fascia is not involved in the boundaries. In this injury, the deep perineal fascia or proximal portion of Buck fascia is ruptured, and blood is trapped in the superficial perineal pouch. Hence, some blood will flow into scrotum which is bound by Dartos fascia, which is also a continuation of the Colles fascia above.\n\n![](img/16-17_MEDU2300_Final_Q32_1777475737895.png)\n![](img/16-17_MEDU2300_Final_Q32_1777475744449.png)"
+    },
+    "17-18 MEDU2300 Final Q25": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 25,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A 30-year-old woman complains of pain in the perineal area. A swelling of 2 cm in diameter lateral to the right side of the urethral opening is present. What could the swelling be from:",
+      "options": {
+        "A": "bulb of vestibule",
+        "B": "deep vein of clitoris",
+        "C": "vestibular gland of clitoris",
+        "D": "lymphs of labium majus",
+        "E": "para urethral gland"
+      },
+      "answer": "E",
+      "explanation": "Paraurethral gland (Skene’s gland) is immediately lateral to urethral opening at the vestibule, and hence it is the most suitable answer here. Greater vestibular gland (Bartholin’s gland) opens to the vaginal opening at behind, hence it is not the answer.\n\n![](img/17-18_MEDU2300_Final_Q25_1777475754115.png)"
+    },
+    "17-18 MEDU2300 Final Q26": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "Teenage girls play roller coaster, blunt hurt on perineum, hematoma at right labora majora, hematoma spread to abdomen but not thigh and anal region, which structure limit its spread?",
+      "options": {
+        "A": "deep fascia of thigh",
+        "B": "superficial perineal pouch",
+        "C": "levator ani",
+        "D": "perineal membrane?"
+      },
+      "answer": "A",
+      "explanation": "Reference: From lecture notes P.24\n\n![](img/17-18_MEDU2300_Final_Q26_1777475767300.png)"
+    },
+    "20-21 MEDU2300 Final Q27": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "New effective anesthesia for women with urogenital pain should be injected at",
+      "options": {
+        "A": "Anterior to perineal body",
+        "B": "Area around clitoris",
+        "C": "Area around ischioanal fossa",
+        "D": "Muscles at the superior perineal pouch",
+        "E": "Entrance to superficial inguinal ring"
+      },
+      "answer": "C",
+      "explanation": "The standard position for pudendal block is at the region just medial to ischial tuberosity[14], which corresponds to the lateral wall of ischioanal fossa with the pudendal canal. The best answer would be C without doubt.\nOther options just target some of the branches from the pudendal nerve. There is not much space anterior to perineal body and even if it really does so, it is targeting the superficial branch of perineal nerve[15], which just supply the posterior aspect of labia majora, as the anterior part is supplied by genital branch of ilioinguinal nerve. Area around clitoris just contains the dorsal nerve of clitoris. Option D is quite similar to A, and paralyses the deep branch of perineal nerve as well, in turn paralysing the perineal muscles as well. Superficial inguinal ring is targeting ilioinguinal nerve only, which can only anesthetise the anterior part of labia majora."
+    },
+    "20-21 MEDU2300 Final Q28": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "An alcoholic, has a history of hepatic cirrhosis and esophageal bleeding, check scrotum swelling, mass above and behind left testis can be palpated, where is the mass found?",
+      "options": {
+        "A": "Dartos",
+        "B": "Vas deferens and its artery",
+        "C": "Epididymis",
+        "D": "Pampiniform Plexus",
+        "E": "Tissue lining tunica vaginalis"
+      },
+      "answer": "D",
+      "explanation": "This is a case of portal hypertension, which can be justified by cirrhosis and the Mallory-Weiss tear[16] of the oesophageal varices. However, besides impeding the venous flow in the portal system, the enlarged liver with cirrhosis (Hepatomegaly) may press against the IVC running on its back. This causes IVC hypertension as well, and subsequently in testicular veins as well. Considering the left testicular vein drains into the left renal vein first, it encounters the greatest resistance compared to the right, which directly drains into a much larger IVC. Therefore, the left testicular vein is more prone to flow impediment and in this case causes the testicular varicocele. Pampiniform plexus is the tributaries of the testicular vein, and will be dilated as well."
+    },
+    "20-21 MEDU2300 Final Q29": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A cyst is found near the bulb of penis (penile urethra) and is superior to superficial perineal pouch. Which of the following is likely where the cyst originate?",
+      "options": {
+        "A": "Duct of a gland",
+        "B": "Glandular tissue",
+        "C": "Epithelium"
+      },
+      "answer": "B",
+      "explanation": "Superior to superficial perineal pouch means the cyst is above the perineal membrane, that is, within the deep perineal pouch. In male, it only contains the external urethral sphincter, deep transverse perineal muscles, membranous urethra, bulbourethral gland (Cowper’s) and dorsal nerves, vessels of penis. It will not be the duct of Cowper’s gland as it drains at the beginning of penile urethra. Epithelium itself is not possible to develop into a cyst, and the best answer would be the swelling of Cowper’s gland, which could be possible if the distal end of its duct is blocked, and its secretion is trapped within the gland.\n\nIf we break down this question, we get:\n- Where is the superficial perineal pouch?\n- What is superior to it: Perineal Membrane → Deep perineal pouch\n- What can be found in the deep perineal pouch? external urethral sphincter, deep transverse perineal muscles, membranous urethra, bulbourethral gland (Cowper’s) and dorsal nerves, vessels of penis"
+    },
+    "21-22 MEDU2300 Final Q27": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "The deep dorsal vein of penis connects with the venous plexus of prostate by passing:",
+      "options": {
+        "A": "Inferior to the perineal membrane",
+        "B": "Inferior to pubic symphysis",
+        "C": "Through the deep perineal muscle",
+        "D": "Through the obturator canal",
+        "E": "Through the superficial fascia of penis"
+      },
+      "answer": "B",
+      "explanation": "This is perhaps the craziest question. You need to observe the diagrams really carefully to get the answer.\nDeep dorsal vein runs along with the dorsal artery of penis within the Buck’s fascia back to the pelvis. Keep in mind Buck’s fascia is continuous with EO aponeurosis and deep perineal fascia. In order to get back to the prostate, the dorsal vein has a rather strange course that you can only learn from Moore. The deep dorsal vein runs between the suspensory ligaments of penis (From pubic symphysis to penis) and ascends anterior to perineal membrane, then traverses the pelvic floor to reach the prostate.\nA is wrong as this is just moving around in the superficial perineal pouch, and can never go back to the pelvis.\nB is correct, as the vein runs between Buck’s fascia and pubic symphysis.\nC is wrong, as the vein does not traverse perineal membrane and UG diaphragm.\nD is very wrong, as the obturator canal communicates the thigh and pelvis, having no relation to the perineum.\nE is wrong too, as normally nothing will pass through the fascia, which will cause herniation.\n\nEasier (Or perhaps difficult) way to approach the question:\nPhotographic memory is important here. Refer to P.346 of Netter (midsagittal section of male pelvis). Appreciate how the blue veins along the penis run inferior to the pubic symphysis back to the prostate. This is the easiest explanation. Kwong’s questions are not just about reading words, but really about spatial memory. Good Luck."
+    },
+    "21-22 MEDU2300 Final Q28": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 28,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "A 32 year old woman complained about pain in perineal region after vaginal childbirth. Pain localized to the clitoris, diagnosed suggested nerve injury. Which is the most probable site of injury?",
+      "options": {
+        "A": "Anterior end of pudendal canal",
+        "B": "Bulbospongiosus muscle",
+        "C": "Posterior end of pudendal canal",
+        "D": "Sacrospinous ligament",
+        "E": "UG diaphragm[17]"
+      },
+      "answer": "E",
+      "explanation": "As the pain is localized to the clitoris, only the dorsal nerve of the clitoris is injured, but not the entire pudendal nerve. C and D indicate a really early course of pudendal nerve, and of course will not be the answer. For A, the dorsal nerve of the clitoris and perineal nerve is still running together, which only separates outside the canal. Bulbospongiosus is almost absent in females and its position is at the midline, which is too far to injure the nerve in concern. Even so, it should be the perineal nerve being injured, as it supplies the perineal muscles and sensation of the posterior aspect of labia majora.\nThe correct answer is UG diaphragm. The dorsal nerve of penis/clitoris enters the deep perineal pouch (UG diaphragm – perineal membrane) to reach the erectile tissues. During childbirth, excessive pressure is exerted onto the UG diaphragm and compresses the dorsal nerve within, hence causing the localized pain to the clitoris. The perineal nerve is spared as it is superficial to the UG diaphragm and will not be compressed.\n\n![](img/21-22_MEDU2300_Final_Q28_1777475792520.png)"
+    },
+    "21-22 MEDU2300 Final Q29": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "Pelvis",
+      "question": "28 yo man, non penetrating left scrotal trauma, caused a few minor tears in soft tissues. Very fine tubules were found to have herniated into potential space near the surface of testis. Which layer of the testis should be repaired for healing of hernia?",
+      "options": {
+        "A": "Dartos",
+        "B": "internal spermatic fascia",
+        "C": "scrotal septum",
+        "D": "tunica albuginea",
+        "E": "tunica vaginalis"
+      },
+      "answer": "D",
+      "explanation": "The very fine tubules suggest seminiferous tubules are being leaked from the testis. Perhaps the visceral layer of tunica vaginalis is also damaged and the tubules herniate into the space between the two layers. This suggests that the innermost layer covering the testis is damaged, i.e. tunica albuginea."
     }
   }
 }
