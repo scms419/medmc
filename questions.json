@@ -2696,7 +2696,6 @@
             "15-16 MEDU2300 Final Q11",
             "15-16 MEDU2300 Test Q19",
             "15-16 MEDU2300 Test Q18",
-            "15-16 MEDU2300 Final Q12",
             "15-16 MEDU2300 Final Q14",
             "15-16 MEDU2300 Test Q1",
             "15-16 MEDU2300 Test Q3",
@@ -2714,7 +2713,8 @@
             "15-16 MEDU2300 Final Q32",
             "15-16 MEDU2300 Final Q37",
             "15-16 MEDU2300 Final Q39",
-            "15-16 MEDU2300 Final Q38"
+            "15-16 MEDU2300 Final Q38",
+            "15-16 MEDU2300 Final Q12"
           ],
           "2016-17": [
             "16-17 MEDU2300 Test Q2",
@@ -2768,7 +2768,14 @@
             "16-17 MEDU2300 Final Q60",
             "16-17 MEDU2300 Test Q16",
             "16-17 MEDU2300 Test Q17",
-            "16-17 MEDU2300 Final Q59"
+            "16-17 MEDU2300 Final Q59",
+            "16-17 MEDU2300 Test Q9",
+            "16-17 MEDU2300 Test Q18",
+            "16-17 MEDU2300 Test Q19",
+            "16-17 MEDU2300 Final Q56",
+            "16-17 MEDU2300 Final Q55",
+            "16-17 MEDU2300 Final Q57",
+            "16-17 MEDU2300 Final Q58"
           ],
           "2017-18": [
             "17-18 MEDU2300 Test Q1",
@@ -2791,7 +2798,6 @@
             "17-18 MEDU2300 Test Q12",
             "17-18 MEDU2300 Test Q10",
             "17-18 MEDU2300 Test Q11",
-            "17-18 MEDU2300 Test Q19",
             "17-18 MEDU2300 Test Q9",
             "17-18 MEDU2300 Final Q12",
             "17-18 MEDU2300 Final Q18",
@@ -2809,7 +2815,9 @@
             "17-18 MEDU2300 Final Q58",
             "17-18 MEDU2300 Test Q17",
             "17-18 MEDU2300 Test Q18",
-            "17-18 MEDU2300 Final Q59"
+            "17-18 MEDU2300 Final Q59",
+            "17-18 MEDU2300 Final Q60",
+            "17-18 MEDU2300 Test Q19"
           ],
           "2018-19": [
             "18-19 MEDU2300 Test Q1",
@@ -2839,7 +2847,10 @@
             "18-19 MEDU2300 Test Q14",
             "18-19 MEDU2300 Final Q59",
             "18-19 MEDU2300 Test Q20",
-            "18-19 MEDU2300 Test Q17"
+            "18-19 MEDU2300 Test Q17",
+            "18-19 MEDU2300 Test Q19",
+            "18-19 MEDU2300 Final Q48",
+            "18-19 MEDU2300 Final Q58"
           ],
           "2019-20": [
             "19-20 MEDU2300 Test Q1",
@@ -2872,7 +2883,13 @@
             "19-20 MEDU2300 Sem1 Q17",
             "19-20 MEDU2300 Sem1 Q18",
             "19-20 MEDU2300 Final Q57",
-            "19-20 MEDU2300 Final Q58"
+            "19-20 MEDU2300 Final Q58",
+            "19-20 MEDU2300 Sem1 Q19",
+            "19-20 MEDU2300 Sem1 Q20",
+            "19-20 MEDU2300 Final Q59",
+            "19-20 MEDU2300 Final Q51",
+            "19-20 MEDU2300 Final Q52",
+            "19-20 MEDU2300 Final Q53"
           ],
           "2020-21": [
             "20-21 MEDU2300 Test Q1",
@@ -2907,7 +2924,13 @@
             "20-21 MEDU2300 Final Q60",
             "20-21 MEDU2300 Sem1 Q16",
             "20-21 MEDU2300 Sem1 Q17",
-            "20-21 MEDU2300 Final Q58"
+            "20-21 MEDU2300 Final Q58",
+            "20-21 MEDU2300 Sem1 Q18",
+            "20-21 MEDU2300 Sem1 Q19",
+            "20-21 MEDU2300 Final Q59",
+            "20-21 MEDU2300 Final Q44",
+            "20-21 MEDU2300 Final Q45",
+            "20-21 MEDU2300 Final Q43"
           ],
           "2021-22": [
             "21-22 MEDU2300 Test Q1",
@@ -2959,7 +2982,11 @@
             "21-22 MEDU2300 Final Q54",
             "21-22 MEDU2300 Test Q17",
             "21-22 MEDU2300 Final Q55",
-            "21-22 MEDU2300 Final Q56"
+            "21-22 MEDU2300 Final Q56",
+            "21-22 MEDU2300 Test Q18",
+            "21-22 MEDU2300 Final Q57",
+            "21-22 MEDU2300 Final Q58",
+            "21-22 MEDU2300 Final Q59"
           ],
           "2022-23": [
             "22-23 MEDU2300 Test Q1",
@@ -2979,7 +3006,9 @@
             "22-23 MEDU2300 Test Q19",
             "22-23 MEDU2300 Test Q14",
             "22-23 MEDU2300 Test Q15",
-            "22-23 MEDU2300 Test Q16"
+            "22-23 MEDU2300 Test Q16",
+            "22-23 MEDU2300 Test Q17",
+            "22-23 MEDU2300 Test Q18"
           ],
           "unclassified": [
             "FA MEDU2300 Thorax Q1",
@@ -3022,7 +3051,14 @@
             "Extra MEDU2300 Embryology Q3",
             "Extra MEDU2300 Embryology Q4",
             "Extra MEDU2300 Embryology Q5",
-            "Extra MEDU2300 Embryology Q6"
+            "Extra MEDU2300 Embryology Q6",
+            "Extra MEDU2300 Embryology Q7",
+            "Extra MEDU2300 Embryology Q8",
+            "Extra MEDU2300 Embryology Q9",
+            "Extra MEDU2300 Embryology Q10",
+            "Extra MEDU2300 Embryology Q11",
+            "Extra MEDU2300 Embryology Q12",
+            "Extra MEDU2300 Embryology Q13"
           ]
         },
         "byTopic": {
@@ -3045,7 +3081,6 @@
             "13-14 MEDU2300 Test Q4",
             "14-15 MEDU2300 Test Q15",
             "15-16 MEDU2300 Test Q18",
-            "15-16 MEDU2300 Final Q12",
             "16-17 MEDU2300 Test Q7",
             "19-20 MEDU2300 Final Q9",
             "22-23 MEDU2300 Test Q11",
@@ -3094,7 +3129,6 @@
             "16-17 MEDU2300 Final Q18",
             "17-18 MEDU2300 Test Q10",
             "17-18 MEDU2300 Test Q11",
-            "17-18 MEDU2300 Test Q19",
             "18-19 MEDU2300 Test Q10",
             "18-19 MEDU2300 Test Q11",
             "18-19 MEDU2300 Final Q12",
@@ -3217,7 +3251,45 @@
             "21-22 MEDU2300 Final Q56",
             "22-23 MEDU2300 Test Q16",
             "Extra MEDU2300 Embryology Q5",
-            "Extra MEDU2300 Embryology Q6"
+            "Extra MEDU2300 Embryology Q6",
+            "16-17 MEDU2300 Test Q9",
+            "16-17 MEDU2300 Test Q18",
+            "16-17 MEDU2300 Test Q19",
+            "16-17 MEDU2300 Final Q56",
+            "17-18 MEDU2300 Final Q60",
+            "18-19 MEDU2300 Test Q19",
+            "18-19 MEDU2300 Final Q48",
+            "19-20 MEDU2300 Sem1 Q19",
+            "19-20 MEDU2300 Sem1 Q20",
+            "19-20 MEDU2300 Final Q59",
+            "20-21 MEDU2300 Sem1 Q18",
+            "20-21 MEDU2300 Sem1 Q19",
+            "20-21 MEDU2300 Final Q59",
+            "21-22 MEDU2300 Test Q18",
+            "21-22 MEDU2300 Final Q57",
+            "21-22 MEDU2300 Final Q58",
+            "22-23 MEDU2300 Test Q17",
+            "22-23 MEDU2300 Test Q18",
+            "Extra MEDU2300 Embryology Q7",
+            "Extra MEDU2300 Embryology Q8",
+            "Extra MEDU2300 Embryology Q9",
+            "Extra MEDU2300 Embryology Q10",
+            "16-17 MEDU2300 Final Q55",
+            "16-17 MEDU2300 Final Q57",
+            "18-19 MEDU2300 Final Q58",
+            "19-20 MEDU2300 Final Q51",
+            "19-20 MEDU2300 Final Q52",
+            "20-21 MEDU2300 Final Q44",
+            "20-21 MEDU2300 Final Q45",
+            "Extra MEDU2300 Embryology Q11",
+            "Extra MEDU2300 Embryology Q12",
+            "16-17 MEDU2300 Final Q58",
+            "19-20 MEDU2300 Final Q53",
+            "20-21 MEDU2300 Final Q43",
+            "21-22 MEDU2300 Final Q59",
+            "Extra MEDU2300 Embryology Q13",
+            "15-16 MEDU2300 Final Q12",
+            "17-18 MEDU2300 Test Q19"
           ],
           "Pelvis": [
             "15-16 MEDU2300 Final Q33",
@@ -16519,17 +16591,17 @@
       "course": "MEDU2300 Human Structure I",
       "question_number": 9,
       "level": "Year 2",
-      "topic": "Abdomen",
+      "topic": "Embryology",
       "question": "With reference to the rotation of the foregut along the longitudinal axis, which is the orientation of the left vagus nerve in relation to the esophagus?",
       "options": {
         "A": "anterior to esophagus",
         "B": "posterior to esophagus",
-        "C": "inside the esophageal lumen",
+        "C": "inside the oesophageal lumen",
         "D": "on the left lateral side of esophagus",
         "E": "on the right lateral side of esophagus"
       },
       "answer": "A",
-      "explanation": ""
+      "explanation": "Foregut takes a clockwise rotation (Seen from above) of 90 degrees, which brings the left vagus nerve anterior to the esophagus. This is also why the left vagus nerve will give the nerve of Latarjet running on the anterior surface of pylorus to supply the pyloric sphincter."
     },
     "16-17 MEDU2300 Final Q2": {
       "year": "2016-17",
@@ -21113,23 +21185,6 @@
       "answer": "C",
       "explanation": "Apparently greater omentum is not anterior to transverse colon, as it is the inferior insertion of greater omenum. It just appears to be covering the anterior aspect of transverse colon in situ. (But Paul Lai’s notes said it is anterior…)\nRefer to 2223 Test for a better question, probably this is just an error in reciting the question.\nWall of greater sac should be anterior abdominal wall. Greater omemtum is attached to greater curvature of stomach and proximal (1st) part of duodenum, not the third. C is correct as both gastro-epiploic arteries anastomsose along the greater curvature and greater omentum. D is very wrong as it should be lesser omentum attaching to the lesser curvature.\nAdditionally, there are two arteries and accompanying veins, the right and left gastro-omental vessels, between this double-layered peritoneal apron just inferior to the greater curvature of the stomach. (Gray’s Anatomy)\n\nA. I would say from skin to parietal peritoneum = anterior abdominal wall (including abdominal muscles)...though A just doesn’t feel right\n\n![](img/15-16_MEDU2300_Test_Q18_1776526546504.png)"
     },
-    "15-16 MEDU2300 Final Q12": {
-      "year": "2015-16",
-      "course": "MEDU2300 Human Structure I",
-      "question_number": 12,
-      "level": "Year 2",
-      "topic": "Abdomen",
-      "question": "Which of the following regarding the formation of the lesser sac is correct?",
-      "options": {
-        "A": "It is initially at the right side, then it rotates to the left",
-        "B": "with the rotation of stomach the lesser sac is formed behind the stomach",
-        "C": "the lesser sac is formed is a closed sac at embryonic stage and is ruptured after birth",
-        "D": "The rotation of the stomach is not related to the formation of lesser sac",
-        "E": "the greater sac is formed as a closed sac in the embryonic stage, and is opened before birth"
-      },
-      "answer": "B",
-      "explanation": "When the liver moves towards the right, it pulls the ventral mesogastrium, so that the stomach rotates 90 degrees clockwise along the ventral-dorsal axis. When the dorsal mesogastrium lengthens and twists, the lesser sac is formed.\n\nA is wrong, as the longitudinal rotation of the stomach moves the space on the right mesogastrium towards the back of the stomach, not the left.\nB is thus correct.\nC is formed as an open sac throughout the development, as the embryoglocal lesser sac can communicate with greater sac beyond the free border of ventral mesogastrium, which attaches the liver to the stomach. Further development of the abdominal viscera makes the ventral mesogastrium into the lesser omentum, which is the anterior border of the foramen of Winslow for entering the lesser sac later. D is obviously wrong. E is wrong as said before, the two sacs are always continuous."
-    },
     "16-17 MEDU2300 Test Q7": {
       "year": "2016-17",
       "course": "MEDU2300 Human Structure I",
@@ -21940,23 +21995,6 @@
       "answer": "B",
       "explanation": "Otherwise, the right colic flexure will not be called the hepatic flexure."
     },
-    "17-18 MEDU2300 Test Q19": {
-      "year": "2017-18",
-      "course": "MEDU2300 Human Structure I",
-      "question_number": 19,
-      "level": "Year 2",
-      "topic": "Abdomen",
-      "question": "Which of the following is correct about the rotation of the stomach in embryonic development?",
-      "options": {
-        "A": "Clockwise rotation on the longitudinal axis when viewed from the caudal position.",
-        "B": "Clockwise rotation on the ventro-dorsal axis when viewed from the front.",
-        "C": "Clockwise rotation on the ventro-dorsal axis when viewed from the back.",
-        "D": "Anti-clockwise rotation on the longitudinal axis when viewed from the cranial position.",
-        "E": "Anti-clockwise rotation along the superior mesenteric artery when viewed from the front."
-      },
-      "answer": "B",
-      "explanation": "A. cranial position\nC. refer to (B)\nD. same as (A)\nE. rotation of SMA is about midgut; stomach is derived from foregut"
-    },
     "18-19 MEDU2300 Test Q10": {
       "year": "2018-19",
       "course": "MEDU2300 Human Structure I",
@@ -22040,7 +22078,7 @@
         "E": "the midgut includes the body and tail of pancreas"
       },
       "answer": "B",
-      "explanation": ""
+      "explanation": "A. SMA is around the level of L1/ L2 (lower border of L1) \nB. Correct\nC. That part belongs to foregut\nD. SMA is on the left of SMV\nE. Pancreas belongs to the foregut"
     },
     "19-20 MEDU2300 Final Q14": {
       "year": "2019-20",
@@ -30319,6 +30357,633 @@
       },
       "answer": "C",
       "explanation": "A. most common: secundum atrial septal defect\nB. left → right ventricular hypertrophy\nC. correct\nD. Ductus venosus → arteriosus\nE. occur after birth when right intra-atrial pressure < left intra-atrial pressure"
+    },
+    "16-17 MEDU2300 Test Q18": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "On GI development, which of the following is correct?",
+      "options": {
+        "A": "SMA supplies organs from the midgut",
+        "B": "The appendix is derived from the hindgut",
+        "C": "The ascending colon is derived from the hindgut",
+        "D": "The oesophagus is derived from the midgut",
+        "E": "The pancreas is derived from the midgut"
+      },
+      "answer": "A",
+      "explanation": "A is correct. B is wrong as the appendix is at the ileocolic junction, which is still within the range of midgut (Just below major duodenal papilla to proximal 2/3 of transverse colon). C is hence wrong. D is obviously wrong. E is wrong as the pancreas arises as ventral and dorsal buds from the duodenal part of the foregut."
+    },
+    "16-17 MEDU2300 Test Q19": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "During the development of stomach:",
+      "options": {
+        "A": "The stomach undergoes herniation of the midgut",
+        "B": "It's derived from the mesoderm",
+        "C": "It's derived from the expansion of midgut",
+        "D": "It is initially between the ascending and descending colon before ascending to its position",
+        "E": "It's rotated along the dorsoventral axis"
+      },
+      "answer": "E",
+      "explanation": "B. stomach is derived from endoderm"
+    },
+    "16-17 MEDU2300 Final Q56": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Rotation of stomach is:",
+      "options": {
+        "A": "Clockwise along longitudinal axis viewing from caudal",
+        "B": "Clockwise along ventro-dorsal axis viewing from back",
+        "C": "Clockwise along ventro-dorsal axis viewing from front",
+        "D": "Counterclockwise along longitudinal axis viewing from cranial",
+        "E": "Counterclockwise along longitudinal axis viewing from superior mesenteric artery"
+      },
+      "answer": "C",
+      "explanation": "E describes the rotation of the midgut during herniation."
+    },
+    "17-18 MEDU2300 Final Q60": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "which if the following about midgut rotation is correct",
+      "options": {
+        "A": "stomach is not rotated because it is not midgut",
+        "B": "midgut rotate when herniate and return back to thoracic cavity",
+        "C": "Pancreas does not rotate because it is not part of midgut",
+        "D": "Disorder of midgut rotation results in volvulus"
+      },
+      "answer": "D",
+      "explanation": "A is wrong, as although it is foregut, it still has two rotations.\nB is wrong as it should be returning back to the abdominal cavity.\nC is wrong as it rotates similarly as the foregut for both ventral and dorsal buds to stay at the left of duodenum.\nD is correct."
+    },
+    "18-19 MEDU2300 Test Q19": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Regarding midgut development:",
+      "options": {
+        "A": "there is midgut elongation during herniation and the return of midgut to abdominal cavity",
+        "B": "the midgut rotates along ventral dorsal axis 270 degrees",
+        "C": "the axis of rotation is inferior mesenteric artery",
+        "D": "the midgut rotates clockwise 270 degree when viewed from the front",
+        "E": "the abdominal cavity size does not increase during herniation"
+      },
+      "answer": "A",
+      "explanation": "Note that option B is not chosen since it did not specify the direction of rotation (anticlockwise with SMA as rotational axis)\nB & C. should be SMA as rotational axis\nD. should be anti-clockwise\nE. Abdominal cavity develops to accommodate the lengthening midgut."
+    },
+    "18-19 MEDU2300 Final Q48": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following about the development of pancreas is correct?",
+      "options": {
+        "A": "Both ventral and dorsal roots arise from mesoderm",
+        "B": "Both ventral and dorsal roots rotate clockwise along axis",
+        "C": "The accessory pancreatic duct is from the proximal part of ventral bud",
+        "D": "The major pancreatic duct is formed by the whole duct from dorsal bud and the distal part of the ventral bud",
+        "E": "The dorsal and ventral bud of pancreas would join before birth"
+      },
+      "answer": "E",
+      "explanation": "A. mesoderm → endoderm\nB. clockwise → anticlockwise (dk what axis)\nC. ventral → dorsal\nD. dorsal → ventral; central → dorsal\n\nThe main pancreatic duct is formed by the ENTIRE ventral duct + DISTAL part of dorsal duct\nThe accessory pancreatic duct is formed by the proximal part dorsal duct"
+    },
+    "19-20 MEDU2300 Sem1 Q19": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Formation of stomach",
+      "options": {
+        "A": "clockwise rotation along the longitudinal axis viewed from the caudal/lower position",
+        "B": "clockwise rotation along ventrodorsal axis viewed from from ventral",
+        "C": "clockwise rotation along ventrodorsal axis viewed from back",
+        "D": "counterclockwise rotation along longitudinal axis viewed from cranial",
+        "E": "counterclockwise rotation along celiac trunk"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Sem1 Q20": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which one is correct about GI tract",
+      "options": {
+        "A": "Organs derived from midgut receive blood mainly from SMA and its branches",
+        "B": "Hindgut give rise to kidney",
+        "C": "Foregut do not rotate",
+        "D": "Foregut rotate along celiac artery",
+        "E": "GI tract all come from endoderm"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q59": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "During normal development of the GI tract, the midgut herniates from the abdominal cavity and the returns back. During this period, which of the following development processes is also involved?",
+      "options": {
+        "A": "The midgut attaches to the anterior abdominal wall through the ventral mesentery",
+        "B": "The length of the midgut remains unchanged until the midgut has completely returned back to the abdominal cavity",
+        "C": "The midgut rotates clockwise when viewed from the front",
+        "D": "The size of the abdominal cavity remains unchanged",
+        "E": "The midgut rotates along the superior mesenteric artery for a total of 270 degrees"
+      },
+      "answer": "E",
+      "explanation": "??A is wrong as it should be the stomach being attached to the anterior abdominal wall by ventral mesentery, in which the liver will develop. Ventral mesentery eventually becomes lesser omentum (Part between stomach and liver), and falciform ligament (Part between liver and abdominal wall).\nB is wrong as midgut keeps elongating throughout herniation and the return.\nC and D are obviously wrong. E is correct."
+    },
+    "20-21 MEDU2300 Sem1 Q18": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "stomach embry, which is correct:",
+      "options": {
+        "A": "Clockwise rotation along longitudinal axis from back view",
+        "B": "Counterclockwise rotation along SMA axis",
+        "C": "Clockwise rotation along ventrodorsal axis from posterior view",
+        "D": "Clockwise rotation along ventrodorsal axis from front view",
+        "E": "lesser omentum is formed along the greater curvature"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Sem1 Q19": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements regarding the midgut is correct?",
+      "options": {
+        "A": "The midgut begins where the common bile duct opens into the duodenum, and ends at the ileocecal junction.",
+        "B": "The midgut rotates about the inferior mesenteric artery during embryonic development.",
+        "C": "The midgut gives rise to part of the transverse colon.",
+        "D": "The midgut herniates from the abdominal cavity for 4 months during embryonic development.",
+        "E": "The midgut gives rise to part of the stomach."
+      },
+      "answer": "C",
+      "explanation": "D: Midgut herniation lasts from week 6-10, and returns from week 10-12."
+    },
+    "20-21 MEDU2300 Final Q59": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following regarding the normal development of the GI tract is correct?",
+      "options": {
+        "A": "Normal Development requires formation of fistula between oesophagus and trachea",
+        "B": "Failure of the midgut to return to abdominal cavity will cause omphalocele",
+        "C": "The cecum descends from the left subhepatic region to the right pelvis",
+        "D": "The appendix is formed at the subhepatic space with the descent of cecum to right pelvis",
+        "E": "The return of midgut finishes at week 16"
+      },
+      "answer": "B",
+      "explanation": "A. Fistula = ABNORMAL passage between 2 hollow structures\nB. Correct.\nC. The cecum descends from the RIGHT subhepatic region to the RIGHT pelvis.\nD. Appendix is formed AFTER the descent of cecum. In other words, it should be formed somewhere around the right iliac fossa.\nE. Return of herniated midgut finishes at week 10-12."
+    },
+    "21-22 MEDU2300 Test Q18": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "In early embryonic development,",
+      "options": {
+        "A": "Urorectal septum moves downward to separate the hindgut and urogenital sinus",
+        "B": "Hindgut is open as urogenital membrane is ruptured",
+        "C": "Clockwise rotation of hindgut along SMA after birth",
+        "D": "Clockwise rotation of hindgut along IMA before birth",
+        "E": "Hindgut is supplied by SMA"
+      },
+      "answer": "A",
+      "explanation": "A. Urorectal septum grows towards the cloacal membrane to separate hindgut and urogenital sinus on week 7\nB. The anal membrane is ruptured at week 9 to expose the rectum.\nC. Hindgut has no rotation.\nD. Hindgut has no rotation.\nE. Hindgut is supplied by the IMA."
+    },
+    "21-22 MEDU2300 Final Q57": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "The embryological foregut forms different structure of the adult GI tract. Which of the following structure is not derived from the foregut?",
+      "options": {
+        "A": "Ascending part of duodenum",
+        "B": "Ampulla of duodenum (Duodenal cap)",
+        "C": "Fundus of stomach",
+        "D": "Oesophagus",
+        "E": "Pylorus of Stomach"
+      },
+      "answer": "A",
+      "explanation": "Note that the ascending part of duodenum refers to the fourth part of the duodenum.\nForegut spans from lower esophagus to major duodenal papilla in descending part of duodenum. Ampulla of duodenum is referring to its superior/first part. So, only A is derived from midgut instead of foregut like the rest."
+    },
+    "21-22 MEDU2300 Final Q58": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "In the normal development of gastrointestinal tract, the midgut herniates from the abdominal cavity then returns back. During this period, which of the following developmental processes is most likely to be true?",
+      "options": {
+        "A": "Length of midgut remains unchanged until the midgut has completely returned back to the abdominal cavity.",
+        "B": "The midgut rotates along the ventral-to-dorsal axis for a total of 270 degrees.",
+        "C": "The midgut rotates along inferior mesenteric artery.",
+        "D": "The midgut rotates clockwise when viewed from the front.",
+        "E": "The size of abdominal cavity remains unchanged."
+      },
+      "answer": "B",
+      "explanation": "Midgut keeps growing during the herniation and return, which makes the abdominal cavity expand to accommodate the intestines. B is correct, but not about IMA as described in C. The rotation is anticlockwise, and D is false."
+    },
+    "22-23 MEDU2300 Test Q17": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following congenital deformities is shown in the radiograph?\n\n![](img/22-23_MEDU2300_Test_Q17_1777816065052.png)",
+      "options": {
+        "A": "Duodenal atresia",
+        "B": "Oesophageal atresia",
+        "C": "Oesophageal atresia with an esophagotracheal fistula",
+        "D": "Tracheal atresia with esophagotracheal fistula"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "22-23 MEDU2300 Test Q18": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "In the normal development of GI tract, midgut herniates from the abdominal cavity and returns back, which of the following developmental processes also takes place?",
+      "options": {
+        "A": "The size of the abdominal cavity remains unchanged",
+        "B": "The elongation of the midgut stops after it returns to the abdominal cavity",
+        "C": "Inferior mesenteric artery is the main artery of the midgut",
+        "D": "The midgut rotates along a ventral-to-dorsal axis for a total of 270°.",
+        "E": "The midgut rotates clockwise when viewed from the front."
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU2300 Embryology Q7": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following about development of the GI system is correct?",
+      "options": {
+        "A": "Esophageal atresia is associated with polyhydramnios",
+        "B": "Dorsal mesogastrium forms falciform ligament after birth",
+        "C": "The rotation of the stomach is 90-degree anticlockwise along the longitudinal axis when viewed cranially which moves the left vagus to the front.",
+        "D": "Double bubble sign is observed in atresia of the esophagus.",
+        "E": "In the cranial part of hepatic diverticulum, gallbladder and cystic ducts are formed."
+      },
+      "answer": "A",
+      "explanation": "A. true because the fetus cannot swallow the amniotic fluid\nB. Dorsal mesogastrium → greater omentum VS ventral mesogastrium → lesser omentum (abdominal wall-falciform ligament-liver-lesser omentum-stomach-greater omentum-abdominal wall)\nC. anticlockwise → clockwise\nD. esophagus → duodenum\nE. liver cells and hepatic duct are formed; caudal part form gallbladder and cystic duct"
+    },
+    "Extra MEDU2300 Embryology Q8": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following about development of the GI system is correct?",
+      "options": {
+        "A": "Herniation occurs in week 10 - 14.",
+        "B": "Rotation axis of the midgut is the celiac trunk.",
+        "C": "Omphalocele refers to the failure of intestines to return to the abdomen.",
+        "D": "Hindgut rotates along the axis of IMA.",
+        "E": "Anal membrane and anorectal canal is formed by the downgrowth of cloacal membrane."
+      },
+      "answer": "C",
+      "explanation": "A. 10 - 14 → 6 - 10\nB. celiac trunk → SMA\nC. correct\nD. no rotation in hindgut\nE. Cloaca → divided into urogenital sinus (anteriorly) and anal canal (posteriorly)"
+    },
+    "Extra MEDU2300 Embryology Q9": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which is not derived from mesonephric ducts and tubules?",
+      "options": {
+        "A": "Testis",
+        "B": "Vas deferens",
+        "C": "Epididymis",
+        "D": "Rete testis",
+        "E": "Ductuli efferentes"
+      },
+      "answer": "A",
+      "explanation": "D is also a possible answer\n\nA. undifferentiated gonads (genital ridges)\nB, C. from mesonephric ducts, see p.282\nD. Rete testis is derived from the medullary sex cords.\nE. from tubules, see p.282"
+    },
+    "Extra MEDU2300 Embryology Q10": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Ureteric bud is derived from",
+      "options": {
+        "A": "Pronephric tubule",
+        "B": "Metanephric duct",
+        "C": "Mesonephric tubule",
+        "D": "Pronephric duct",
+        "E": "Mesonephric duct"
+      },
+      "answer": "E",
+      "explanation": "Metanephric duct → does not exist\nRefer to slides p. 258 (p.7)\nDon't mix up C and E!"
+    },
+    "16-17 MEDU2300 Final Q55": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Ureteric bud on what",
+      "options": {
+        "A": "Mesonephric duct",
+        "B": "Mesonephric tubule",
+        "C": "Metanephric duct",
+        "D": "Pronephric duct",
+        "E": "Pronephric tubule"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "16-17 MEDU2300 Final Q57": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "What is the fate of paramesonephric duct in man",
+      "options": {
+        "A": "Disappear",
+        "B": "Become seminiferous tubules",
+        "C": "Become rete testis",
+        "D": "Become efferent ductules",
+        "E": "Become epididymis"
+      },
+      "answer": "A",
+      "explanation": "Due to the secretion of anti-Mullerian hormone"
+    },
+    "18-19 MEDU2300 Final Q58": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "In the developing male embryo, which of the following is the ductuli efferentes derived from?",
+      "options": {
+        "A": "Mesonephric ducts",
+        "B": "Mesonephric tubules",
+        "C": "Metanephric mesoderm",
+        "D": "Paramesonephric ducts",
+        "E": "Pronephric tubules"
+      },
+      "answer": "B",
+      "explanation": "epigenital tubules (join with rete testis) → ductuli efferentes / efferent ductules\nParagenital tubules → paradidymis\nmesonephric ducts — epididymis, vas deferens, ureteric bud (—collecting duct system)"
+    },
+    "19-20 MEDU2300 Final Q51": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which is not derived from mesonephric ducts and tubules?",
+      "options": {
+        "A": "Testis",
+        "B": "Vas deferens",
+        "C": "Epididymis",
+        "D": "Rete testis",
+        "E": "Ductus efferents"
+      },
+      "answer": "A",
+      "explanation": "D is also a possible answer"
+    },
+    "19-20 MEDU2300 Final Q52": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Ureteric bud is derived from",
+      "options": {
+        "A": "Pronephric tubule",
+        "B": "Metanephric duct",
+        "C": "Mesonephric tubule",
+        "D": "Pronephric duct",
+        "E": "Mesonephric duct"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Final Q44": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Oviduct (uterine tube) is derived from which embryonic structure?",
+      "options": {
+        "A": "Mesonephric tubules",
+        "B": "Mesonephric duct",
+        "C": "Paramesonephric duct",
+        "D": "Pronephric duct",
+        "E": "Sex cord"
+      },
+      "answer": "C",
+      "explanation": "Without expression of AMH, paramesonephric ducts will not degenerate and form the uterine tubes. Their distal ends converge to form the uterus, cervix and superior portion of vagina."
+    },
+    "20-21 MEDU2300 Final Q45": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Collecting ducts is derived from which embryonic tissue?",
+      "options": {
+        "A": "Mesonephric duct",
+        "B": "Mesonephric tubule",
+        "C": "Pronephric duct",
+        "D": "Pronephric tubule",
+        "E": "Ureteric bud"
+      },
+      "answer": "E",
+      "explanation": "Collecting system is formed by ureteric buds at the distal end of mesonephric ducts, while glomerulus to DCT (Excretory unit) is formed by metanephric mesoderm."
+    },
+    "Extra MEDU2300 Embryology Q11": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following about the development of the urinary system is incorrect?",
+      "options": {
+        "A": "Metanephric cap is formed by aggregation of mesodermal cells.",
+        "B": "Ureteric buds sprout out from mesonephric ducts on day 28.",
+        "C": "Before ascent of the kidney, the arterial supply to the kidney is the internal iliac artery.",
+        "D": "Unilateral renal hypoplasia is caused by improper induction of metanephric mesoderm by ureteric bud.",
+        "E": "Bilateral renal agenesis results in oligohydramnios."
+      },
+      "answer": "C",
+      "explanation": "Internal iliac artery → common iliac artery\nbecomes renal artery directly from aorta after ascend into abdominal cavity\nA. ureteric bud — collecting duct — metanephric cap — renal vesicle\nD Unilateral renal hypoplasia: one kidney is smaller because of improper induction of the metanephric mesoderm by the ureteric bud resulting in a deficit number of nephrons present"
+    },
+    "Extra MEDU2300 Embryology Q12": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following about the development of the genital system is correct?",
+      "options": {
+        "A": "SRY gene is located on the X chromosome normally.",
+        "B": "Sertoli cells in male become mesonephric ducts.",
+        "C": "Gonads in both sexes would descend in the pelvic region.",
+        "D": "Genital tubercle would develop into scrotum.",
+        "E": "Genital swellings become penises."
+      },
+      "answer": "C",
+      "explanation": "A. SRY gene should be found on Y chromosome normally\nB. Sertoli → Leydig\nC. correct\nD. scrotum → penis\nE. penises → scrotum"
+    },
+    "16-17 MEDU2300 Final Q58": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "What is the function of AER?",
+      "options": {
+        "A": "Forming dermis",
+        "B": "Development of sclerotome",
+        "C": "Forming somites",
+        "D": "Maintain the development of limb bud",
+        "E": "Forming dermatome"
+      },
+      "answer": "D",
+      "explanation": "AER = Apical epidermal ridge"
+    },
+    "19-20 MEDU2300 Final Q53": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following tissues is NOT a derivative of somites?",
+      "options": {
+        "A": "Dermatome",
+        "B": "Sclerotome",
+        "C": "Limb musculature",
+        "D": "Limb skeleton",
+        "E": "Myotome"
+      },
+      "answer": "D",
+      "explanation": "https://web.duke.edu/anatomy/embryology/limb/limb.html\nMyotome gives rise to limb muscles\nD. axial skeleton"
+    },
+    "20-21 MEDU2300 Final Q43": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Axial musculature in the developing embryo is derived from which embryonic tissue?",
+      "options": {
+        "A": "Dermatome",
+        "B": "Intermediate mesoderm",
+        "C": "Myotome",
+        "D": "Notochord",
+        "E": "Sclerotome"
+      },
+      "answer": "C",
+      "explanation": "Muscles of course come from myotome, if you know English. Similarly, skin comes from dermatome and axial skeleton comes from sclerotome. These three tissues come from the somites, which are derived from paraxial mesoderm just lateral to the neural tube. In fact, intermediate mesoderm is the precursor of most viscera. Notochord is formed by epiblasts ventral to neural tube, as a temporary support of the embryo. The notochord degenerates afterwards as its function is being replaced by vertebral column derived from sclerotome."
+    },
+    "21-22 MEDU2300 Final Q59": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements regarding development of somites is most likely to be true?",
+      "options": {
+        "A": "Somites are block of mesodermal tissue on two sides of neural tube.",
+        "B": "Somites develop into dermatome, sclerotome and myotome after the baby is born.",
+        "C": "Somites does not form bones of vertebral column.",
+        "D": "Somites does not form muscles of the limbs.",
+        "E": "Somites form part of the spinal cord."
+      },
+      "answer": "A",
+      "explanation": "A is true as somites are derived from paraxial mesoderm.\nB is clearly wrong as such development occurs very early during development around week 4.\nC and D are wrong, as sclerotome and myotome will become these structures.\nE seems true but no, as the spinal cord is derived from a neural tube developed from ectoderm. The sclerotome from somites form the vertebral column only."
+    },
+    "Extra MEDU2300 Embryology Q13": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following about development of the musculoskeletal system is correct?",
+      "options": {
+        "A": "Amelia is caused by teratogen e.g. thalidomide.",
+        "B": "Interdigital tissues undergo necrosis due to high concentration of bone morphogenetic protein.",
+        "C": "Sclerotomal cells migrate laterally towards the peripheral of embryo to form vertebral body and IVD.",
+        "D": "Hypomere forms erector spinae.",
+        "E": "Dermomyotome migrate into the limb bud in week 8 to form extensor and flexor muscle masses."
+      },
+      "answer": "A",
+      "explanation": "B. necrosis → apoptosis\nC. peripheral → midline\nD. erector spinae → 3 layers of skeletal muscles found in thoracic and abdominal walls\nE. week 8 → week 5"
+    },
+    "15-16 MEDU2300 Final Q12": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following regarding the formation of the lesser sac is correct?",
+      "options": {
+        "A": "It is initially at the right side, then it rotates to the left",
+        "B": "with the rotation of stomach the lesser sac is formed behind the stomach",
+        "C": "the lesser sac is formed is a closed sac at embryonic stage and is ruptured after birth",
+        "D": "The rotation of the stomach is not related to the formation of lesser sac",
+        "E": "the greater sac is formed as a closed sac in the embryonic stage, and is opened before birth"
+      },
+      "answer": "B",
+      "explanation": "When the liver moves towards the right, it pulls the ventral mesogastrium, so that the stomach rotates 90 degrees clockwise along the ventral-dorsal axis. When the dorsal mesogastrium lengthens and twists, the lesser sac is formed.\n\nA is wrong, as the longitudinal rotation of the stomach moves the space on the right mesogastrium towards the back of the stomach, not the left.\nB is thus correct.\nC is formed as an open sac throughout the development, as the embryoglocal lesser sac can communicate with greater sac beyond the free border of ventral mesogastrium, which attaches the liver to the stomach. Further development of the abdominal viscera makes the ventral mesogastrium into the lesser omentum, which is the anterior border of the foramen of Winslow for entering the lesser sac later. D is obviously wrong. E is wrong as said before, the two sacs are always continuous.\n\nA. The longitudinal rotation of the stomach moves the space on the right mesogastrium towards the back of the stomach, not the left. \nB. Correct\nC. The lesser sac is formed as an open sac throughout the development, as the embryological lesser sac can communicate with greater sac beyond the free border of ventral mesogastrium, which attaches the liver to the stomach. Further development of the abdominal viscera makes the ventral mesogastrium into the lesser omentum, which is the anterior border of the foramen of Winslow for entering the lesser sac later.\nD. Incorrect. \nE. The greater sac and the lesser sac are always continuous. "
+    },
+    "17-18 MEDU2300 Test Q19": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is correct about the rotation of the stomach in embryonic development?",
+      "options": {
+        "A": "Clockwise rotation on the longitudinal axis when viewed from the caudal position.",
+        "B": "Clockwise rotation on the ventro-dorsal axis when viewed from the front.",
+        "C": "Clockwise rotation on the ventro-dorsal axis when viewed from the back.",
+        "D": "Anti-clockwise rotation on the longitudinal axis when viewed from the cranial position.",
+        "E": "Anti-clockwise rotation along the superior mesenteric artery when viewed from the front."
+      },
+      "answer": "B",
+      "explanation": "A. cranial position\nC. refer to (B)\nD. same as (A)\nE. rotation of SMA is about midgut; stomach is derived from foregut"
     }
   }
 }
