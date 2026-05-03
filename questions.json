@@ -280,10 +280,6 @@
             "23-24 HS2 Q3",
             "23-24 HS2 Q4",
             "23-24 HS2 Q5",
-            "23-24 HSII Q9",
-            "23-24 HSII Q10",
-            "23-24 HSII Q11",
-            "23-24 HSII Q12",
             "23-24 HS2 MID-TERM Q21",
             "23-24 HS2 MID-TERM Q22",
             "23-24 HS2 MID-TERM Q10",
@@ -292,6 +288,10 @@
             "23-24 HS2 MID-TERM Q25",
             "23-24 HS2 MID-TERM Q1",
             "23-24 HS2 MID-TERM Q20",
+            "23-24 HSII Q9",
+            "23-24 HSII Q10",
+            "23-24 HSII Q11",
+            "23-24 HSII Q12",
             "23-24 HSII Q14",
             "23-24 HSII Q15",
             "23-24 HSII Q16",
@@ -941,7 +941,6 @@
             "16-17 MEDU2400 Test Q23",
             "16-17 MEDU2400 Final Q4",
             "16-17 MEDU2400 Sem1 Q30",
-            "16-17 MEDU2400 Final Q3",
             "16-17 MEDU2400 Final Q5",
             "16-17 MEDU2400 Sem1 Q25",
             "16-17 MEDU2400 Sem1 Q26",
@@ -994,7 +993,6 @@
             "17-18 MEDU2400 Test Q31",
             "17-18 MEDU2400 Test Q27",
             "17-18 MEDU2400 Test Q30",
-            "17-18 MEDU2400 Final Q17",
             "17-18 MEDU2400 Test Q34",
             "17-18 MEDU2400 Test Q32",
             "17-18 MEDU2400 Final Q38",
@@ -1196,6 +1194,7 @@
         },
         "byTopic": {
           "Cardiovascular Physiology": [
+            "17-18 MEDU2400 Final Q17",
             "15-16 MEDU2400 Final Q9",
             "16-17 MEDU2400 Final Q7",
             "17-18 MEDU2400 Test Q28",
@@ -1261,7 +1260,6 @@
             "Extra MEDU2400 CV Q5",
             "Extra MEDU2400 CV Q6",
             "16-17 MEDU2400 Final Q13",
-            "17-18 MEDU2400 Final Q17",
             "18-19 MEDU2400 Final Q16",
             "19-20 MEDU2400 Sem1 Q32",
             "20-21 MEDU2400 Sem1 Q30",
@@ -1321,7 +1319,6 @@
             "20-21 MEDU2400 Test Q21",
             "15-16 MEDU2400 Final Q1",
             "15-16 MEDU2400 Final Q2",
-            "16-17 MEDU2400 Final Q3",
             "17-18 MEDU2400 Final Q1",
             "18-19 MEDU2400 Final Q1",
             "19-20 MEDU2400 Final Q1",
@@ -1368,15 +1365,14 @@
             "Extra MEDU2400 Ex Q1"
           ],
           "Muscle Physiology": [
+            "16-17 MEDU2400 Final Q3",
             "14-15 MEDU2400 Sem1 Q19",
             "14-15 MEDU2400 Final Q1",
             "15-16 MEDU2400 Sem1 Q25",
             "15-16 MEDU2400 Final Q5",
             "16-17 MEDU2400 Sem1 Q30",
-            "16-17 MEDU2400 Final Q3",
             "16-17 MEDU2400 Final Q5",
             "17-18 MEDU2400 Sem1 Q25",
-            "17-18 MEDU2400 Final Q17",
             "18-19 MEDU2400 Sem1 Q25",
             "20-21 MEDU2400 Sem1 Q23",
             "14-15 MEDU2400 Sem1 Q18",
@@ -1562,7 +1558,6 @@
             "15-16 MEDU2600 Final Q36",
             "15-16 MEDU2600 Final Q39",
             "15-16 MEDU2600 Final Q40",
-            "15-16 MEDU2600 Final Q20",
             "15-16 MEDU2600 Final Q59",
             "15-16 MEDU2600 Final Q43",
             "15-16 MEDU2600 Final Q45",
@@ -1599,7 +1594,6 @@
             "16-17 MEDU2600 Test Q44",
             "16-17 MEDU2600 Final Q2",
             "16-17 MEDU2600 Final Q3",
-            "16-17 MEDU2600 Final Q4",
             "16-17 MEDU2600 Test Q53",
             "16-17 MEDU2600 Final Q11",
             "16-17 MEDU2600 Final Q12",
@@ -1664,7 +1658,6 @@
             "17-18 MEDU2600 Test Q44",
             "17-18 MEDU2600 Final Q2",
             "17-18 MEDU2600 Test Q45",
-            "17-18 MEDU2600 Final Q4",
             "17-18 MEDU2600 Test Q50",
             "17-18 MEDU2600 Test Q51",
             "17-18 MEDU2600 Test Q52",
@@ -2111,7 +2104,6 @@
             "16-17 MEDU2600 Final Q17",
             "16-17 MEDU2600 Test Q46",
             "16-17 MEDU2600 Test Q47",
-            "16-17 MEDU2600 Final Q4",
             "16-17 MEDU2600 Final Q8",
             "16-17 MEDU2600 Final Q10",
             "16-17 MEDU2600 Final Q16",
@@ -2119,7 +2111,6 @@
             "17-18 MEDU2600 Test Q47",
             "17-18 MEDU2600 Test Q49",
             "17-18 MEDU2600 Final Q6",
-            "17-18 MEDU2600 Final Q4",
             "17-18 MEDU2600 Final Q8",
             "18-19 MEDU2600 Final Q6",
             "18-19 MEDU2600 Final Q7",
@@ -2165,6 +2156,8 @@
             "16-17 MEDU2600 Test Q58"
           ],
           "Cell Biology": [
+            "16-17 MEDU2600 Final Q4",
+            "17-18 MEDU2600 Final Q4",
             "13-14 MEDU2600 Test Q15",
             "13-14 MEDU2600 Test Q16",
             "13-14 MEDU2600 Test Q19",
@@ -2223,9 +2216,7 @@
             "Extra MEDU2600 Cell Q10",
             "15-16 MEDU2600 Final Q14",
             "16-17 MEDU2600 Final Q3",
-            "16-17 MEDU2600 Final Q4",
             "17-18 MEDU2600 Test Q45",
-            "17-18 MEDU2600 Final Q4",
             "19-20 MEDU2600 Sem1 Q44",
             "19-20 MEDU2600 Final Q4",
             "21-22 MEDU2600 Test Q44",
@@ -2471,7 +2462,6 @@
             "17-18 MEDU2600 Final Q43",
             "17-18 MEDU2600 Final Q44",
             "Extra MEDU2600 Genetics Q15",
-            "15-16 MEDU2600 Final Q20",
             "16-17 MEDU2600 Final Q51",
             "17-18 MEDU2600 Final Q45",
             "17-18 MEDU2600 Final Q46",
@@ -2749,7 +2739,6 @@
             "16-17 MEDU2300 Final Q13",
             "16-17 MEDU2300 Final Q16",
             "16-17 MEDU2300 Test Q8",
-            "16-17 MEDU2300 Test Q9",
             "16-17 MEDU2300 Test Q10",
             "16-17 MEDU2300 Test Q11",
             "16-17 MEDU2300 Final Q12",
@@ -2771,7 +2760,15 @@
             "16-17 MEDU2300 Final Q30",
             "16-17 MEDU2300 Final Q33",
             "16-17 MEDU2300 Final Q31",
-            "16-17 MEDU2300 Final Q32"
+            "16-17 MEDU2300 Final Q32",
+            "16-17 MEDU2300 Test Q20",
+            "16-17 MEDU2300 Test Q14",
+            "16-17 MEDU2300 Final Q54",
+            "16-17 MEDU2300 Test Q15",
+            "16-17 MEDU2300 Final Q60",
+            "16-17 MEDU2300 Test Q16",
+            "16-17 MEDU2300 Test Q17",
+            "16-17 MEDU2300 Final Q59"
           ],
           "2017-18": [
             "17-18 MEDU2300 Test Q1",
@@ -2804,7 +2801,15 @@
             "17-18 MEDU2300 Final Q22",
             "17-18 MEDU2300 Final Q27",
             "17-18 MEDU2300 Final Q25",
-            "17-18 MEDU2300 Final Q26"
+            "17-18 MEDU2300 Final Q26",
+            "17-18 MEDU2300 Test Q14",
+            "17-18 MEDU2300 Test Q15",
+            "17-18 MEDU2300 Final Q57",
+            "17-18 MEDU2300 Test Q16",
+            "17-18 MEDU2300 Final Q58",
+            "17-18 MEDU2300 Test Q17",
+            "17-18 MEDU2300 Test Q18",
+            "17-18 MEDU2300 Final Q59"
           ],
           "2018-19": [
             "18-19 MEDU2300 Test Q1",
@@ -2830,7 +2835,11 @@
             "18-19 MEDU2300 Final Q16",
             "18-19 MEDU2300 Final Q17",
             "18-19 MEDU2300 Final Q18",
-            "18-19 MEDU2300 Final Q54"
+            "18-19 MEDU2300 Final Q54",
+            "18-19 MEDU2300 Test Q14",
+            "18-19 MEDU2300 Final Q59",
+            "18-19 MEDU2300 Test Q20",
+            "18-19 MEDU2300 Test Q17"
           ],
           "2019-20": [
             "19-20 MEDU2300 Test Q1",
@@ -2854,7 +2863,16 @@
             "19-20 MEDU2300 Final Q16",
             "19-20 MEDU2300 Final Q19",
             "19-20 MEDU2300 Final Q20",
-            "19-20 MEDU2300 Final Q21"
+            "19-20 MEDU2300 Final Q21",
+            "19-20 MEDU2300 Final Q50",
+            "19-20 MEDU2300 Sem1 Q14",
+            "19-20 MEDU2300 Final Q55",
+            "19-20 MEDU2300 Sem1 Q16",
+            "19-20 MEDU2300 Final Q56",
+            "19-20 MEDU2300 Sem1 Q17",
+            "19-20 MEDU2300 Sem1 Q18",
+            "19-20 MEDU2300 Final Q57",
+            "19-20 MEDU2300 Final Q58"
           ],
           "2020-21": [
             "20-21 MEDU2300 Test Q1",
@@ -2882,7 +2900,14 @@
             "20-21 MEDU2300 Final Q26",
             "20-21 MEDU2300 Final Q27",
             "20-21 MEDU2300 Final Q28",
-            "20-21 MEDU2300 Final Q29"
+            "20-21 MEDU2300 Final Q29",
+            "20-21 MEDU2300 Sem1 Q20",
+            "20-21 MEDU2300 Final Q46",
+            "20-21 MEDU2300 Sem1 Q15",
+            "20-21 MEDU2300 Final Q60",
+            "20-21 MEDU2300 Sem1 Q16",
+            "20-21 MEDU2300 Sem1 Q17",
+            "20-21 MEDU2300 Final Q58"
           ],
           "2021-22": [
             "21-22 MEDU2300 Test Q1",
@@ -2925,7 +2950,16 @@
             "21-22 MEDU2300 Final Q26",
             "21-22 MEDU2300 Final Q27",
             "21-22 MEDU2300 Final Q28",
-            "21-22 MEDU2300 Final Q29"
+            "21-22 MEDU2300 Final Q29",
+            "21-22 MEDU2300 Test Q14",
+            "21-22 MEDU2300 Test Q20",
+            "21-22 MEDU2300 Final Q60",
+            "21-22 MEDU2300 Final Q53",
+            "21-22 MEDU2300 Test Q15",
+            "21-22 MEDU2300 Final Q54",
+            "21-22 MEDU2300 Test Q17",
+            "21-22 MEDU2300 Final Q55",
+            "21-22 MEDU2300 Final Q56"
           ],
           "2022-23": [
             "22-23 MEDU2300 Test Q1",
@@ -2941,7 +2975,11 @@
             "22-23 MEDU2300 Test Q8",
             "22-23 MEDU2300 Test Q10",
             "22-23 MEDU2300 Test Q13",
-            "22-23 MEDU2300 Test Q12"
+            "22-23 MEDU2300 Test Q12",
+            "22-23 MEDU2300 Test Q19",
+            "22-23 MEDU2300 Test Q14",
+            "22-23 MEDU2300 Test Q15",
+            "22-23 MEDU2300 Test Q16"
           ],
           "unclassified": [
             "FA MEDU2300 Thorax Q1",
@@ -2978,11 +3016,18 @@
             "Extra MEDU2300 Abdomen Q10",
             "Extra MEDU2300 Abdomen Q11",
             "Extra MEDU2300 Abdomen Q12",
-            "Extra MEDU2300 Abdomen Q13"
+            "Extra MEDU2300 Abdomen Q13",
+            "Extra MEDU2300 Embryology Q1",
+            "Extra MEDU2300 Embryology Q2",
+            "Extra MEDU2300 Embryology Q3",
+            "Extra MEDU2300 Embryology Q4",
+            "Extra MEDU2300 Embryology Q5",
+            "Extra MEDU2300 Embryology Q6"
           ]
         },
         "byTopic": {
           "Abdomen": [
+            "16-17 MEDU2300 Test Q9",
             "13-14 MEDU2300 Test Q1",
             "14-15 MEDU2300 Test Q3",
             "14-15 MEDU2300 Test Q5",
@@ -3041,7 +3086,6 @@
             "15-16 MEDU2300 Final Q15",
             "15-16 MEDU2300 Final Q31",
             "16-17 MEDU2300 Test Q8",
-            "16-17 MEDU2300 Test Q9",
             "16-17 MEDU2300 Test Q10",
             "16-17 MEDU2300 Test Q11",
             "16-17 MEDU2300 Final Q12",
@@ -3117,6 +3161,63 @@
             "20-21 MEDU2300 Final Q19",
             "Extra MEDU2300 Abdomen Q12",
             "Extra MEDU2300 Abdomen Q13"
+          ],
+          "Embryology": [
+            "16-17 MEDU2300 Test Q20",
+            "17-18 MEDU2300 Test Q14",
+            "18-19 MEDU2300 Test Q14",
+            "19-20 MEDU2300 Final Q50",
+            "20-21 MEDU2300 Sem1 Q20",
+            "20-21 MEDU2300 Final Q46",
+            "21-22 MEDU2300 Test Q14",
+            "21-22 MEDU2300 Test Q20",
+            "21-22 MEDU2300 Final Q60",
+            "22-23 MEDU2300 Test Q19",
+            "Extra MEDU2300 Embryology Q1",
+            "16-17 MEDU2300 Test Q14",
+            "16-17 MEDU2300 Final Q54",
+            "17-18 MEDU2300 Test Q15",
+            "17-18 MEDU2300 Final Q57",
+            "18-19 MEDU2300 Final Q59",
+            "19-20 MEDU2300 Sem1 Q14",
+            "19-20 MEDU2300 Final Q55",
+            "21-22 MEDU2300 Final Q53",
+            "22-23 MEDU2300 Test Q14",
+            "Extra MEDU2300 Embryology Q2",
+            "Extra MEDU2300 Embryology Q3",
+            "16-17 MEDU2300 Test Q15",
+            "16-17 MEDU2300 Final Q60",
+            "17-18 MEDU2300 Test Q16",
+            "17-18 MEDU2300 Final Q58",
+            "18-19 MEDU2300 Test Q20",
+            "19-20 MEDU2300 Sem1 Q16",
+            "19-20 MEDU2300 Final Q56",
+            "20-21 MEDU2300 Sem1 Q15",
+            "20-21 MEDU2300 Final Q60",
+            "21-22 MEDU2300 Test Q15",
+            "21-22 MEDU2300 Final Q54",
+            "22-23 MEDU2300 Test Q15",
+            "Extra MEDU2300 Embryology Q4",
+            "16-17 MEDU2300 Test Q16",
+            "16-17 MEDU2300 Test Q17",
+            "16-17 MEDU2300 Final Q59",
+            "17-18 MEDU2300 Test Q17",
+            "17-18 MEDU2300 Test Q18",
+            "17-18 MEDU2300 Final Q59",
+            "18-19 MEDU2300 Test Q17",
+            "19-20 MEDU2300 Sem1 Q17",
+            "19-20 MEDU2300 Sem1 Q18",
+            "19-20 MEDU2300 Final Q57",
+            "19-20 MEDU2300 Final Q58",
+            "20-21 MEDU2300 Sem1 Q16",
+            "20-21 MEDU2300 Sem1 Q17",
+            "20-21 MEDU2300 Final Q58",
+            "21-22 MEDU2300 Test Q17",
+            "21-22 MEDU2300 Final Q55",
+            "21-22 MEDU2300 Final Q56",
+            "22-23 MEDU2300 Test Q16",
+            "Extra MEDU2300 Embryology Q5",
+            "Extra MEDU2300 Embryology Q6"
           ],
           "Pelvis": [
             "15-16 MEDU2300 Final Q33",
@@ -3221,7 +3322,6 @@
             "15-16 MEDU2300 Final Q11",
             "16-17 MEDU2300 Test Q5",
             "16-17 MEDU2300 Test Q6",
-            "16-17 MEDU2300 Test Q9",
             "16-17 MEDU2300 Final Q2",
             "16-17 MEDU2300 Final Q7",
             "16-17 MEDU2300 Final Q11",
@@ -29294,6 +29394,931 @@
       },
       "answer": "D",
       "explanation": "The very fine tubules suggest seminiferous tubules are being leaked from the testis. Perhaps the visceral layer of tunica vaginalis is also damaged and the tubules herniate into the space between the two layers. This suggests that the innermost layer covering the testis is damaged, i.e. tunica albuginea."
+    },
+    "16-17 MEDU2300 Test Q20": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "How many polar bodies are in an unfertilised ovulated oocyte?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "None",
+        "D": "One and occasionally two",
+        "E": "Two and occasionally three"
+      },
+      "answer": "A",
+      "explanation": "The steps of oogenesis is as follows:\n1. At week 4 of embryonic development, primordial germ cells (2N) enter the ovary and develop into oogonia (2N).\n2. Oogonia enters meiosis I, and remains dormant at prophase I at around the 5th month of fetal life until puberty.\n3. During the ovarian cycle, 1 primary oocyte completes meiosis I to give a secondary oocyte. The FIRST polar body is formed.\n4. The secondary oocyte enters meiosis II → ovulation (when chromosomes align at metaphase, and it remains there before fertilization)\n5. At fertilization, the secondary oocyte completes meiosis II and forms a mature oocyte & the SECOND polar body.\nFrom the above process, we can see that a total of 2 polar bodies will be formed eventually, but for an UNFERTILIZED ovulated oocyte (step 3), 1 polar body is formed. (Ovulation 一個, Fertilization 一個)"
+    },
+    "17-18 MEDU2300 Test Q14": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "What is correct about zona pellucida?",
+      "options": {
+        "A": "It is a glycoprotein coat surrounding the primary oocyte which expresses sperm receptors on its surface.",
+        "B": "It is an organelle found in the cytoplasm of the primary oocytes.",
+        "C": "It is another name for polar bodies.",
+        "D": "It is produced by oviducts after the finish of meiosis I.",
+        "E": "It is produced by the uterus when the oocytes enter the uterine cavity."
+      },
+      "answer": "A",
+      "explanation": "A. This is correct.\nB. It is not an organelle but just a layer of specialized glycoproteins.\nC. Polar bodies are polar bodies. Zona pellucida is zona pellucida.\nD. They are part of the primary oocytes.\nE. Same with option D."
+    },
+    "18-19 MEDU2300 Test Q14": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which embryonic structure forms placenta?",
+      "options": {
+        "A": "amnioblast",
+        "B": "epiblast",
+        "C": "hypoblast",
+        "D": "inner cell mass cells",
+        "E": "syncytiotrophoblast"
+      },
+      "answer": "E",
+      "explanation": "The syncytiotrophoblast invades the endometrium after fertilization, and it forms the lacunae that anastomoses with maternal blood vessels.\nThis question is rather hard if you want to explore other choices. After 5 days since fertilization, cleavage ends and the blastocyst hatches from the zona pellucida. Inner cell mass is formed which will form all cell types in the fetus (Pluripotent), while the surrounding trophoblasts will form the placenta. This is the first cell differentiation in embryo and totipotency is lost in inner cell mass, as they cannot form the placenta. Syncytiotrophoblasts among them will form the placenta and secrete human chorionic gonadotropin (hCG) to maintain the corpus luteum for progesterone secretion. A-C are formed after the inner cell mass differentiates into epiblasts and hypoblasts. Yolk sac is formed below the hypoblasts, while amniotic cavity is formed above the epiblasts. Amnioblasts are the cell lining of the amniotic cavity, which are derived from epiblasts."
+    },
+    "19-20 MEDU2300 Final Q50": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements regarding zona pellucida is INCORRECT?",
+      "options": {
+        "A": "Blastocyst hatches from the zona pellucida prior to implantation",
+        "B": "It expresses sperm receptors",
+        "C": "It regulates blastocyst development",
+        "D": "It surrounds the oocyte in the ovary",
+        "E": "It prevents premature implantation in the oviduct"
+      },
+      "answer": "C",
+      "explanation": "Blastocyst hatches from the zona pellucida prior to implantation → function: prevents premature implantation in the oviduct, ref. slides p.15\n→ A causes E\n? A and E are correct!\nB & D → facts\nC. development of blastocyst is after implantation"
+    },
+    "20-21 MEDU2300 Sem1 Q20": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "What is correct about zona pellucida?",
+      "options": {
+        "A": "It is a glycoprotein coat surrounding the primary oocyte which expresses sperm receptors on its surface.",
+        "B": "It is an organelle found in the cytoplasm of the primary oocytes.",
+        "C": "It is another name for polar bodies.",
+        "D": "It is produced by oviducts to coat the oocyte after the finish of meiosis I.",
+        "E": "It is produced by the uterus to coat the oocyte when the oocytes enter the uterine cavity."
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Final Q46": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "A newly ovulated unfertilised oocyte possesses how many polar bodies?",
+      "options": {
+        "A": "One",
+        "B": "One and occasionally two",
+        "C": "Three",
+        "D": "Two",
+        "E": "Two and occasionally three"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "21-22 MEDU2300 Test Q14": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements regarding the epiblast during early embryonic development is most likely to be correct?",
+      "options": {
+        "A": "It forms the hypoblast",
+        "B": "It forms the trophoblast",
+        "C": "It is derived from the endoderm",
+        "D": "It is derived from the inner cell mass",
+        "E": "It is part of the yolk sac membrane"
+      },
+      "answer": "D",
+      "explanation": "D is correct for everything except trophoblasts and placenta. A is wrong as it is different from epiblast, while B is formed earlier than epiblast. C should be the other way round. E is wrong, as it should be hypoblast doing so."
+    },
+    "21-22 MEDU2300 Test Q20": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "During fertilization, cortical granules are released from the oocyte. What is the function of the cortical granule?",
+      "options": {
+        "A": "It facilitates the penetration of the sperm into corona radiata",
+        "B": "It facilitates the hyaluronidase from the sperm",
+        "C": "It hydrolyses the sperm receptor on zona pellucida",
+        "D": "It interacts with integrin receptor on oocyte",
+        "E": "It leads to a calcium wave on oocyte"
+      },
+      "answer": "C",
+      "explanation": "This is known as the cortical reaction. After fertilization, a spread of calcium wave commences at the site of sperm entry. Spread of the depolarisation acts as a fast block to prevent polyspermy, and also activates cortical granules to release their hydrolytic enzymes to hydrolyse the ZP3 receptors in zona pellucida. This is the slow block to prevent polyspermy. So, obviously A and B contradict the meaning of cortical reaction, i.e. prevent polyspermy. C is correct. Plasma membrane of sperm head binds to integrin molecules on oocytes for fusion, but it has nothing to do with the cortical granules. E should be the trigger of cortical reaction, instead of its consequence."
+    },
+    "21-22 MEDU2300 Final Q60": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "During fertilization, acrosomal enzymes are released from spermatozoa. What is the main function of the acrosomal enzymes?",
+      "options": {
+        "A": "To enhance swimming action of the spermatozoa.",
+        "B": "To facilitate penetration of spermatozoa through zona pellucida.",
+        "C": "To initiate calcium wave.",
+        "D": "To prevent polyspermy.",
+        "E": "To trigger release of cortical granules from the oocyte."
+      },
+      "answer": "B",
+      "explanation": "This is completely different from the question above. Acrosomal enzymes are hydrolytic enzymes aiming to digest zona pellucida for penetration of spermatozoa into the oocyte, and of course the answer is B. Swimming action is supported by the mitochondria in mid-piece of spermatozoa. C triggers E, and acts as fast and slow blocks to achieve D respectively."
+    },
+    "22-23 MEDU2300 Test Q19": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following will invade the endometrial tissue during implantation?",
+      "options": {
+        "A": "Cytotrophoblast",
+        "B": "Embryoblast",
+        "C": "Epiblast",
+        "D": "Hypoblast",
+        "E": "Syncytiotrophoblast"
+      },
+      "answer": "E",
+      "explanation": "Trophoblasts are derived from the morula as the external cell layer of blastocyst, while cytotrophoblast is the undifferentiated form of trophoblasts. Cytotrophoblast recognises the oligosaccharide ligand expressed on endometrium with its L-selectin, and allows the adhesion of blastocyst to the endometrium. Cytotrophoblasts then differentiate into syncytiotrophoblasts, which are formed by union of several cytotrophoblasts to develop into functional units of trophoblasts and invade the endometrium. Syncytiotrophoblasts will develop into chorionic villi and invade maternal vessels to form the placenta, which is responsible for secreting hormones during gestation and material exchange between fetus and mother."
+    },
+    "Extra MEDU2300 Embryology Q1": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is incorrect?",
+      "options": {
+        "A": "Epiblast forms 3 primary germ layer: ectoderm, mesoderm and endoderm",
+        "B": "Trophoblast forms the placenta.",
+        "C": "Syncytiotrophoblast produces HCG to promote the production of estrogen and progesterone of epiblast.",
+        "D": "Extraembryonic endoderm and yolk sac are formed by hypoblast.",
+        "E": "Tubal pregnancy would result in rupture of oviducts in 2nd month, causing severe internal hemorrhage and abdominal pain."
+      },
+      "answer": "C",
+      "explanation": "Epiblast → corpus luteum (yellow body)"
+    },
+    "16-17 MEDU2300 Test Q14": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following regarding the human post-implantation process is correct?",
+      "options": {
+        "A": "Amniotic space is in the yolk sac",
+        "B": "Inner cell mass is pluripotent",
+        "C": "Gastrulation derives 4 layers",
+        "D": "Neurulation is the folding of mesoderm and formation of neural groove on the dorsal side",
+        "E": "Blastocyst formed immediately after implantation."
+      },
+      "answer": "B",
+      "explanation": "A. Amniotic sac is formed WITHIN the inner cell mass on the side of epiblast, while yolk sac is formed OUTSIDE on the side of hypoblast in the blastocyst\nB. Pluripotent describes a cell that can be differentiated into 3 layers of cells, and hence every type of cell in humans. Inner cell mass (bilaminar disc) derives into the trilaminar disc through gastrulation process. It is no longer totipotent (like a zygote) as it has lost the ability to form a placenta.\nC. Gastrulation derives 3 layers: ectoderm, mesoderm and endoderm\nD. Neurulation is the folding of ectoderm and mesoderm. The folding begins at the central region, and moves caudally and cranially afterwards.\nE. Blastocysts are formed before implantation."
+    },
+    "16-17 MEDU2300 Final Q54": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements regarding ectoderm in early embryonic development is correct?",
+      "options": {
+        "A": "It forms brain tissues",
+        "B": "It forms cardiovascular tissues",
+        "C": "It forms muscles",
+        "D": "It forms skeletal tissues",
+        "E": "It is derived from hypoblast"
+      },
+      "answer": "A",
+      "explanation": "Ectoderm gives rise to nervous system and skin (The level you need to know). Viscera (Except GI) and musculoskeletal system are derived from mesoderm, while epithelial lining of GI, respiratory and urinary tracts, ear and GI viscera are derived from endoderm. GI viscera is special as they are formed from buds arising from the lining of the primordial gut tube.\nE is wrong as hypoblast will give the yolk sac membrane in the extraembryonic region, which does not form any structures in the embryo proper. Yolk sac is eventually incorporated back to the gut. You will learn the failure of doing so will cause Meckel’s diverticulum later."
+    },
+    "17-18 MEDU2300 Test Q15": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is correct regarding ectoderm during early embryonic development?",
+      "options": {
+        "A": "It forms blood tissue in brain",
+        "B": "It forms cardiovascular tissue",
+        "C": "It forms muscle",
+        "D": "It forms skeletal tissue",
+        "E": "It is derived from epiblast"
+      },
+      "answer": "E",
+      "explanation": "A. Blood tissues → Mesoderm\nB. Cardiovascular tissue → Mesoderm\nC. Muscles → Mesoderm\nD. Skeletal tissues → Mesoderm\nE. The 3 germ cell layers come from the invagination of epiblast and displacement of hypoblast."
+    },
+    "17-18 MEDU2300 Final Q57": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is correct regarding post-implantation development?",
+      "options": {
+        "A": "Zona pellucida will be degenerated in blastocyst after implantation",
+        "B": "Neural tube will form the brain but not spinal cord",
+        "C": "Neurulation is the formation of the third germline",
+        "D": "Program cell death is not involved in toe formation",
+        "E": "Yolk sac is formed outside the inner cell mass"
+      },
+      "answer": "E",
+      "explanation": "A. degeneration of zona pellucida: 5 days VS implantation: 7-14 days\nB. form both (CNS)\nC. germline: In biology and genetics, the germline is the population of a multicellular organism's cells that pass on their genetic material to the progeny (offspring). In other words, they are the cells that form the egg, sperm and the fertilized egg, as well as the fertilized egg's future sperm or egg cells.\n1. should be germ layer\n2. if germline is germ layer → wrong cuz neurulation → gastrulation\nD. involved"
+    },
+    "18-19 MEDU2300 Final Q59": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Epiblast is derived from which of the following?",
+      "options": {
+        "A": "cytotrophoblast",
+        "B": "inner cell mass cells",
+        "C": "syncytiotrophoblast",
+        "D": "trophoblast",
+        "E": "zona pellucida"
+      },
+      "answer": "B",
+      "explanation": "Cytotrophoblasts (or simply trophoblasts) line the external wall of blastocyst, which will derive into syncytiotrophoblasts by fusion (Hence syncytio-) and differentiation on the external aspect of blastocyst after implantation. Syncytiotrophoblasts further penetrate the endometrial tissues to contact with maternal vessels, forming the chorionic villi as the precursor of placenta. Syncytiotrophoblasts are responsible for secretion of hCG, hPL, hPGH and other placental hormones during pregnancy, and you will know them very well in year 3 Reproductive Physiology.\nOnly the cells in morula (or earlier stage) can differentiate into trophoblasts to form placental tissues, but not the inner cell mass in blastocyst, which then becomes pluripotent only."
+    },
+    "19-20 MEDU2300 Sem1 Q14": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Implantation of embryo",
+      "options": {
+        "A": "Anterior uterus",
+        "B": "Posterior uterus",
+        "C": "cervix",
+        "D": "vagina",
+        "E": "posterior fornix"
+      },
+      "answer": "B",
+      "explanation": "Refer to Lecture slide 8\nBy searching \"site of embryo implantation\" on google, we find:\nImplantation begins with apposition of the blastocyst at the uterine epithelium, generally about 2-4 days after the morula enters the uterine cavity. The implantation site in the human uterus is usually in the upper and posterior wall in the midsagittal plane."
+    },
+    "19-20 MEDU2300 Final Q55": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Gastrulation is a developmental process where by:",
+      "options": {
+        "A": "endoderm is formed from cells invaginated from primitive streak",
+        "B": "Hypoblast remains and differentiates to endoderm",
+        "C": "mesoderm is formed from the reorganization of endodermal cells",
+        "D": "cells on the 2 sides of the primitive streaks form the neural tube",
+        "E": "Epiblast becomes displaced to the extraembryonic region"
+      },
+      "answer": "A",
+      "explanation": "D. is neurulation not gastrulation"
+    },
+    "21-22 MEDU2300 Final Q53": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Gastrulation refers to the process where",
+      "options": {
+        "A": "Cells on the two sides of the primitive streak elevate to form the neural tube",
+        "B": "Epiblast is displaced to the extraembryonic region",
+        "C": "Hypoblast differentiate into endoderm",
+        "D": "Mesoderm formed from cells descended from the primitive streak",
+        "E": "Primitive streak expands and forms the ectoderm"
+      },
+      "answer": "D",
+      "explanation": "Gastrulation means the transition from bilaminar to trilaminar embryo, for forming ectoderm, mesoderm and endoderm.\nA should be referring to neurulation, i.e. formation of neural tube.\nB should be hypoblast being displaced to yolk sac epithelium.\nC is simply wrong, as all 3 layers are derived by epiblast.\nD is correct, so as endoderm.\nE is wrong, as primitive streak itself does not move and is the epiblasts invaginating downwards to form mesoderm and endoderm."
+    },
+    "22-23 MEDU2300 Test Q14": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Gastrulation is a developmental process whereby:",
+      "options": {
+        "A": "Cells on the two sides of the primitive streak elevate to form the neural tube",
+        "B": "Formation of endoderm, ectoderm and mesoderm",
+        "C": "Epiblast is displaced to the extraembryonic region",
+        "D": "Hypoblast remains and differentiates to endoderm",
+        "E": "Primitive streak expands laterally and forms the ectoderm"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU2300 Embryology Q2": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is correct?",
+      "options": {
+        "A": "Endoderm forms muscles.",
+        "B": "Hypoblast forms CNS.",
+        "C": "Mesoderm forms kidneys.",
+        "D": "Endoderm forms bones.",
+        "E": "Hypoblast is displaced by mesoderm and ectoderm and becomes yolk sac epithelium."
+      },
+      "answer": "C",
+      "explanation": "A. Mesoderm forms muscles\nB. Hypoblast is not involved after gastrulation\nC. Correct. Mesoderm forms most abdominal organs (i.e. things taught by Paul Lai)\nD. Mesoderm forms bones\nE. Hypoblast is displaced by mesoderm and ectoderm with the formation of primitive streak at the caudal/ posterior part of the embryo.\n\n![](img/Extra_MEDU2300_Embryology_Q2_1777809199074.png)\n![](img/Extra_MEDU2300_Embryology_Q2_1777809205015.png)"
+    },
+    "Extra MEDU2300 Embryology Q3": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following concerning embryonic development is incorrect?",
+      "options": {
+        "A": "Anterior part develops prior to the posterior part.",
+        "B": "Oligohydramnios leads to musculoskeletal abnormalities.",
+        "C": "Organogenesis takes place in week 3 - 8.",
+        "D": "Neurulation refers to formation of the primitive streak.",
+        "E": "Body folding occurs after gastrulation."
+      },
+      "answer": "D",
+      "explanation": "Neurulation = formation of neural tube"
+    },
+    "16-17 MEDU2300 Test Q15": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following occur during normal development of the respiratory system?",
+      "options": {
+        "A": "Development of respiratory alveoli during pseudoglandular stage",
+        "B": "Formation of esophageal fistula",
+        "C": "Mature of alveoli after birth",
+        "D": "Respiratory Diverticulum at dorsal of foregut",
+        "E": "Alveoli surfactant is secreted by type I cells"
+      },
+      "answer": "C",
+      "explanation": "A. No alveoli or bronchioles in pseudoglandular stage\nB. Abnormal\nC. Correct\nD. Ventral side of foregut\nE. By Type II alveolar cells"
+    },
+    "16-17 MEDU2300 Final Q60": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements is correct about formation of lungs?",
+      "options": {
+        "A": "Bronchi stop branching after birth",
+        "B": "Not formed by endoderm",
+        "C": "Formed by both endoderm and mesoderm"
+      },
+      "answer": "C",
+      "explanation": "The internal lining (e.g. mucous lining) of larynx, trachea and bronchi are formed by the endoderm. The surrounding mesenchyme forms the cartilaginous part, or the connective tissues and the muscles of the trachea and lungs."
+    },
+    "17-18 MEDU2300 Test Q16": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following regarding the development of the respiratory system is correct?",
+      "options": {
+        "A": "There is no bronchial division after birth.",
+        "B": "The tertiary bronchus supplies more than 1 bronchopulmonary segment",
+        "C": "The lung is not only made up of mesoderm",
+        "D": "Lungs are not derived from endoderm",
+        "E": "Lungs buds would not further branch into bronchi and bronchioles"
+      },
+      "answer": "C",
+      "explanation": "A. It can still develop till the age of 8.\nB. Tertiary bronchus supplies only 1 bronchopulmonary segment. They appear in week 7.\nC. Lungs are made up of endoderm (internal lining) and mesoderm (connective tissues)\nD. Refer to C.\nE. No."
+    },
+    "17-18 MEDU2300 Final Q58": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "The development of respiratory system",
+      "options": {
+        "A": "Alveolar cell is only developed in alveolar duct",
+        "B": "Alveolar cells are mainly immature before birth",
+        "C": "Surfactant is secreted before bronchi formation",
+        "D": "Type I alveolar cell secrete surfactant",
+        "E": "Type II alveolar cell form the protective respiratory membrane"
+      },
+      "answer": "B",
+      "explanation": "A is wrong as pneumocytes are also developed in the alveolar sacs (Which are even more important than alveolar ducts). B is correct as type I and II pneumocytes mature after alveolar stage (Birth – 8 yo), and gaseous exchange is feasible from that time. C is wrong as bronchi formation is finished early in the pseudoglandular stage. D and E are wrong and their functions are swapped"
+    },
+    "18-19 MEDU2300 Test Q20": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "With reference to the barium swallow image, which of the following best describes the patient’s condition?\n\n![](img/18-19_MEDU2300_Test_Q20_1777809623877.png)",
+      "options": {
+        "A": "Esophageal atresia",
+        "B": "Esophageal atresia with tracheoesophageal fistula",
+        "C": "Tracheoesophageal fistula"
+      },
+      "answer": "B",
+      "explanation": "Esophageal atresia = loss of part of esophagus that connects to stomach\n- From the development of the digestive system, we know that esophageal atresia is caused by a failure in recanalization. In the parts where a solid state (meaning the esophagus is blocked by its cells) is maintained, the parts will degenerate to form a ligament.\nTracheoesophageal fistula = abnormal connection between trachea & esophagus"
+    },
+    "19-20 MEDU2300 Sem1 Q16": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following regarding the development of the respiratory system is correct?",
+      "options": {
+        "A": "respiration is possible at the pseudoglandular stage",
+        "B": "surfactant is secreted at the lung bud stage to maintain patency of lung buds",
+        "C": "The branching of bronchial tree continues after birth",
+        "D": "The fistula is a normal passage between the trachea and the oesophagus"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q56": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements regarding development of lungs is correct?",
+      "options": {
+        "A": "Type 2 pneumocyte’s function in epithelial cell is to act as support",
+        "B": "Lung is not as dense in babies than that in adult because they have less alveoli",
+        "C": "From 24 weeks to birth, gas exchange is not possible because there are no pulmonary surfactants",
+        "D": "During 5-15 weeks in gestational period, gas exchange is possible because there is presence of bronchiole and alveoli",
+        "E": "From birth to 8 years of age, alveoli does not stop increasing in size and number"
+      },
+      "answer": "E",
+      "explanation": "A is wrong as it should be type I pneumocytes forming the bulk of alveoli. B is wrong as lungs in babies should be denser due to their fewer number of alveoli which contain air. C is wrong as pulmonary surfactant secretion starts at around week 23-24. Gaseous exchange is not possible in this period because the terminal sacs (Alveoli) are still under development. D is wrong as these airway structures are only the conduction zone, which cannot perform gaseous exchange. E is correct."
+    },
+    "20-21 MEDU2300 Sem1 Q15": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is true about the development of the respiratory system?",
+      "options": {
+        "A": "Bronchioles stop branching after birth",
+        "B": "A tertiary bronchus supply more than a bronchopulmonary segment",
+        "C": "Surfactants are secreted from type 1 pneumocytes",
+        "D": "lung buds are developed from respiratory diverticulum from foregut",
+        "E": "Lungs are developed from ectoderm and endoderm"
+      },
+      "answer": "D",
+      "explanation": "E. Formed by both endoderm and mesoderm"
+    },
+    "20-21 MEDU2300 Final Q60": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following about lung development is correct? (Reconstructed)",
+      "options": {
+        "A": "The lung is derived from endoderm only.",
+        "B": "Number and size of alveoli continue to rise after birth.",
+        "C": "Lung starts to secrete surfactant by week 6 and breathing is possible.",
+        "D": "Type II pneumocytes are responsible for gaseous exchange at alveoli.",
+        "E": "The lung is much denser after birth."
+      },
+      "answer": "B",
+      "explanation": "Epithelium of lung (Respiratory tract) is derived from endoderm, while connective tissues and blood vessels are derived from mesoderm. B is correct as the alveolar period lasts from birth to year of 8, so that number and size of alveoli continue to increase, forming respiratory membrane. Surfactant secretion is only possible by weak 23-24, which is requires to lower surface tension in alveoli to prevent their collapse after expiration. This event is marked by the increase in L/S ratio in amniotic fluid (Revise MMG for this). D is false as type II pneumocytes are for secreting surfactant, while it is type I to form the respiratory epithelium for gaseous exchange. The lung is full of fluid before birth, however, active breathing after birth makes the lung full of gas to make it less dense."
+    },
+    "21-22 MEDU2300 Test Q15": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is true about the development of the respiratory system?",
+      "options": {
+        "A": "Bronchioles stop branching after birth",
+        "B": "A tertiary bronchus supplies more than one bronchopulmonary segment",
+        "C": "Only from foregut",
+        "D": "Lungs are not only derived from endoderm",
+        "E": "Bronchi and bronchioles not from lung bud"
+      },
+      "answer": "D",
+      "explanation": "Bronchioles stop branching by the end of canalicular period (Week 26). You should know B is false even if you do not study embryology. Definition of tertiary bronchus to supply individual bronchopulmonary segment, so that each segment could be surgically removed easily in case of lung tumour. C is false as only epithelium is derived from foregut (Endoderm), the other connective tissues, muscles and vessels are derived from mesoderm. E is clearly wrong, as all bronchi, bronchioles and alveoli are continuous and derived from lung buds."
+    },
+    "21-22 MEDU2300 Final Q54": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements about the development of the lungs is most likely to be true?",
+      "options": {
+        "A": "Alveoli do not stop increasing their number and size after birth until age of 8 and 10",
+        "B": "At week 5 to 15 of gestation, gases exchange in lungs is possible because respiratory bronchioles and alveoli have already formed.",
+        "C": "By around week 24 to time of birth, gases exchange in the lungs is still not possible because pulmonary surfactant is not present yet",
+        "D": "On chest radiograph, adults lungs appear denser than those of new born babies because adult lungs have fewer alveoli"
+      },
+      "answer": "A",
+      "explanation": "A is a correct description about alveolar period of lung development. B is wrong, as this period corresponds to pseudoglandular period, which can only have development of bronchi and terminal bronchioles. Respiratory bronchioles and alveoli are formed in canalicular period instead (16 – 26w). Also, ability of gaseous exchange depends on surfactant secretion as well, which is achieved at the end of canalicular period. C should be completely other way around. D is false as newborns have a denser lung due to amniotic fluid accumulation in the lung. Adult lungs have more alveoli of course, as they have passed the alveolar period, but this won’t change the density of lungs under CXR."
+    },
+    "22-23 MEDU2300 Test Q15": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following most likely describes the embryonic development of the respiratory system?",
+      "options": {
+        "A": "Lung can conduct respiration at pseudoglandular stage",
+        "B": "Lung buds branched from oesophagus",
+        "C": "Lung surfactant produced after birth",
+        "D": "Development of lung bronchioles completes at the end of canalicular stage",
+        "E": "Alveolar cell type II provides support function"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU2300 Embryology Q4": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is false about the development of the respiratory system?",
+      "options": {
+        "A": "Respiratory bronchioles begin to appear in week 16.",
+        "B": "Lung resembles a gland in week 5.",
+        "C": "At week 14, bronchopulmonary segments just begin to form.",
+        "D": "Type I and II alveolar cells differentiate before birth.",
+        "E": "Bronchial trees continue to develop after birth."
+      },
+      "answer": "C",
+      "explanation": "week 14 → 7"
+    },
+    "16-17 MEDU2300 Test Q16": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which is correct about the development of the cardiovascular system?",
+      "options": {
+        "A": "ductus arteriosus degenerates into a ligament after birth",
+        "B": "ductus venosus degenerates into a ligament before birth",
+        "C": "expansion of the lung leading to increase in resistance of blood flow",
+        "D": "septum primum fuses with septum secundum before birth"
+      },
+      "answer": "A",
+      "explanation": "A. ductus arteriosus degenerates into ligamentum arteriosum\nB. ductus venosus degenerates into ligamentum venosum after birth\nC. Expansion of lungs lead to decrease in blood flow resistance → increase blood flow\nD. AFTER birth, right atrial pressure < left atrial pressure → septum primum pushed back to original position, and septum primum and septum secundum gradually fuse.\n\nFurther explanation to D:\nFetal lung is filled with amniotic fluid before birth, which has great resistance to blood flow. After birth, active breathing causes the lung to expand and decreases the resistance to blood flow. As pulmonary circulation improves, more blood returns to left atrium and increases its pressure. This causes the septum secundum to press against septum primum on the right, closing the interatrial septum."
+    },
+    "16-17 MEDU2300 Test Q17": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following occurs during formation of septation of atrium?",
+      "options": {
+        "A": "Closure of the Foramen ovale",
+        "B": "Closure of the foramen primum",
+        "C": "Closure of the foramen secundum",
+        "D": "Closure of orifice of coronary sinus",
+        "E": "Formation of septum secundum on the left side of septum primum"
+      },
+      "answer": "B",
+      "explanation": "A. It occurs AFTER the septation, or after birth to be exact\nC. Foramen secundum is not closed during atrial development. However, the formation of septum secundum overlaps with it, while the fusion of septum primum and septum secundum will close it AFTER birth.\nE. Left → Right"
+    },
+    "16-17 MEDU2300 Final Q59": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements is correct about the formation of interventricular septum?",
+      "options": {
+        "A": "It is formed by both the dorsal and ventral atrioventricular endocardial cushion",
+        "B": "It is formed by the septum secundum",
+        "C": "It is not related to the septum between aorta and pulmonary trunk",
+        "D": "It is formed by the down growth of the left and right bulbar ridge"
+      },
+      "answer": "D",
+      "explanation": "A: For interatrial septum\nB: For interatrial septum (but have to include septum primum as well)\nC: The truncus arteriosus will be divided into the aortic and pulmonary canal\nD: Correct"
+    },
+    "17-18 MEDU2300 Test Q17": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Formation of interventricular septum",
+      "options": {
+        "A": "Both dorsal and ventral av endocardial cushion…",
+        "B": "Formed by septum of ascending aorta and pulmonary trunk",
+        "C": "downward growth of right and left bulbar ridge",
+        "D": "Fusion of septum primum and septum secundum",
+        "E": "Formed after closing of foramen primum"
+      },
+      "answer": "C",
+      "explanation": "Explanation from Woody\n\n![](img/17-18_MEDU2300_Test_Q17_1777809757953.png)"
+    },
+    "17-18 MEDU2300 Test Q18": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is true about blood islands?",
+      "options": {
+        "A": "They form only in the yolk sac membrane",
+        "B": "They start forming in the embryonic region",
+        "C": "They do not form in the umbilical region",
+        "D": "They fuse to form blood cells",
+        "E": "They merge to form blood vessels"
+      },
+      "answer": "E",
+      "explanation": "A. They form in yolk sac, placenta and in embryo\nB. They start forming in the yolk sac membrane first (extraembryonic region)\nC. Incorrect\nD. Cells in the centre of blood islands differentiate into blood cells\nE. Small vessels merge to form blood vessels"
+    },
+    "17-18 MEDU2300 Final Q59": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "which of the following about septation of the ventricle is correct",
+      "options": {
+        "A": "Truncus arteriosus is not involved",
+        "B": "It is from by left and right bulbar ridge and atrioventricular cushion",
+        "C": "Interventricular foramen is used to balance the pressure between left and right ventricle in adult",
+        "D": "VSD is the failure for primary and secondary septum to fuse together"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "18-19 MEDU2300 Test Q17": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following concerning interatrial septum is correct?",
+      "options": {
+        "A": "foramen ovale is on septum secundum",
+        "B": "foramen primum forms infundibulum of right atrium",
+        "C": "foramen secundum is not on septum primum",
+        "D": "septum primum and secundum fuses before birth",
+        "E": "septum primum forms roof of fossa ovale"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Sem1 Q17": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which is true concerning intra-atrial septum",
+      "options": {
+        "A": "Endocardial cushion and septum primum forms IA septum",
+        "B": "Foramen secundum is still open at the time of birth",
+        "C": "Foramen ovale remains opens after birth",
+        "D": "Foramen primum close after birth",
+        "E": "Formation of IA septum by primum and secundum is finished before birth"
+      },
+      "answer": "B",
+      "explanation": "A. Only septum primum and secundum form the IA septum. Endocardial cushion is involved in formation of AV and IV septa instead.\nB. Foramen secundum is only closed after birth, and the fusion of septum primum and secundum driven by the higher LA pressure than RA.\nC. Foramen ovale will be closed eventually and failure to do so will cause atrial septal defect.\nD. Foramen primum closes as the septum primum grows.\nE. Formation of mature IA septum is after birth."
+    },
+    "19-20 MEDU2300 Sem1 Q18": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "During the early embryonic development, the blood vessels are",
+      "options": {
+        "A": "first formed in the embryonic region",
+        "B": "formed in the endoderm layer",
+        "C": "formed by the blood islands",
+        "D": "not found in the umbilical cord",
+        "E": "no blood cells"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2300 Final Q57": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "After birth,",
+      "options": {
+        "A": "the foramen ovale is closed by the septum secundum",
+        "B": "the ductus arteriosus is obliterated and forms the falciform ligament",
+        "C": "the ductus venosus is obliterated and forms the medial umbilical ligament",
+        "D": "the left umbilical vein is obliterated and forms the ligamentum teres of the liver",
+        "E": "the expansion of the lungs divert more blood to the right atrium"
+      },
+      "answer": "D",
+      "explanation": "A. septum secundum → primum\nB. falciform ligament → ligamentum arteriosum\nC. medial umbilical ligament → ligamentum venosum\nE. right → left"
+    },
+    "19-20 MEDU2300 Final Q58": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements about the interventricular septum in the human heart is correct?",
+      "options": {
+        "A": "Anterior (inferior) atrioventricular endocardial cushion extends towards interventricular foramen to form part of the interventricular septum",
+        "B": "Interventricular foramen is still open at birth",
+        "C": "Left ventricle and right ventricle not yet completely separated by interventricular septum at birth",
+        "D": "Interventricular septum starts to form after complete closure of foramen ovale",
+        "E": "Aorticopulmonary septum extends towards the interventricular foramen to form the muscular part of interventricular septum"
+      },
+      "answer": "A",
+      "explanation": "E. Aorticopulmonary septum forms the membranous part of IV septum."
+    },
+    "20-21 MEDU2300 Sem1 Q16": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following about the atrioventricular septum is correct",
+      "options": {
+        "A": "They are formed from the fusion of atrioventricular endocardial cushion",
+        "B": "Formed from fusion of septum primum and septum secundum",
+        "C": "Formed from right and left bulbar ridge from aorticopulmonary septum",
+        "D": "Formed from AV endocardial cushion and IV septum",
+        "E": "Formed from closure of foramen of foramen secundum"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Sem1 Q17": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "the cardiogenic region is:",
+      "options": {
+        "A": "derived from yolk sac membrane",
+        "B": "derived from the heart tubes",
+        "C": "surrounded by endodermal tissues",
+        "D": "goes to head region down dorsal neural tube",
+        "E": "in the thoracic cavity"
+      },
+      "answer": "A",
+      "explanation": "Primitive heart tube is formed at the yolk sac membrane even more rostral to brain region, then moved to thorax as body folding of embryo commences."
+    },
+    "20-21 MEDU2300 Final Q58": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following regarding the normal development of the cardiovascular system is correct? (Choices reconstructed)",
+      "options": {
+        "A": "Ductus arteriosus became the falciform ligament",
+        "B": "Ductus venosus became the umbilical ligament",
+        "C": "Left umbilical vein became the ligamentum teres",
+        "D": "Ligamentum arteriosus became the median umbilical ligament",
+        "E": "Ligamentum venosum became the hepatoduodenal ligament"
+      },
+      "answer": "C",
+      "explanation": "Ductus arteriosus → ligamentum arteriosus\n- left recurrent laryngeal nerve hooks around aortic arch just posterior to ligamentum arteriosum\nDuctus venousus → ligamentum venosus\nLeft umbilical vein → ligamentum teres in liver\n- superficial and inferior epigastric veins anastomose with paraumbilical vein running along ligamentum teres around umbilicus\nUmbilical arteries → median umbilical ligament"
+    },
+    "21-22 MEDU2300 Test Q17": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Embryonic development of interventricular septum is complete when",
+      "options": {
+        "A": "Foramen secundum closes",
+        "B": "Interventricular foramen closes",
+        "C": "Dorsal and ventral atrioventricular cushion fuse together",
+        "D": "Foramen ovale and foramen secundum fuse together",
+        "E": "Septum primum and septum secundum fuse together"
+      },
+      "answer": "B",
+      "explanation": "Obviously B is the definition of complete development of IV septum. C is insufficient as it still needs the development of the muscular part."
+    },
+    "21-22 MEDU2300 Final Q55": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements regarding the development of interatrial septum is correct?",
+      "options": {
+        "A": "The foremen ovale is an opening of septum primum",
+        "B": "The foramen secundum is an opening of the septum secundum",
+        "C": "The fusion of the septum primum and the septal secundum occurs before birth",
+        "D": "Septum primum forms floor of fossa ovalis"
+      },
+      "answer": "D",
+      "explanation": "Foramen primum and secundum are both opening on septum primum, while foramen ovale is posteroinferior aspect of septum secundum. C is false as such change occurs after birth. D is true as septum secundum holds the foramen ovale, which is pressed against septum primum to form fossa ovalis on the same position."
+    },
+    "21-22 MEDU2300 Final Q56": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following statements regarding the formation of the IV septum during embryonic development is most likely to be true?",
+      "options": {
+        "A": "A complete interventricular septum is formed after birth",
+        "B": "The endocardial cushion of the atrioventricular septum is not involved in the formation of the interventricular septum",
+        "C": "The formation of aorticopulmonary septum is not related to closure of interventricular foramen.",
+        "D": "Interventricular septum starts to form only after complete formation of interatrial septum.",
+        "E": "VSD can be found in both membranous and muscular part of interventricular septum"
+      },
+      "answer": "E",
+      "explanation": "A-C are clearly wrong. IV septum is formed before birth, while complete development of IA septum occurs after birth, so D of course is wrong."
+    },
+    "22-23 MEDU2300 Test Q16": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Formation of interatrial septum:",
+      "options": {
+        "A": "Foramen ovale formed from the opening of septum primum",
+        "B": "Foramen primum remains in adult heart",
+        "C": "Foramen secundum is formed on septum secundum",
+        "D": "Septum primum and septum secundum fuse before birth",
+        "E": "Septum primum forms the floor of foramen ovale"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2300 Embryology Q5": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following is correct about the development of the cardiovascular system?",
+      "options": {
+        "A": "Vasgulogenesis refers to the formation of blood islands from ectoderm.",
+        "B": "The heart begins to beat at the end of week 5.",
+        "C": "U-shape heart tube rotates along the longitudinal axis in a clockwise direction when viewed above in the 2nd loop.",
+        "D": "Atrioventricular septa are formed by endocardial cushions.",
+        "E": "Atrioventricular septum is formed before interatrial septum."
+      },
+      "answer": "D",
+      "explanation": "A. ectoderm → mesoderm\nB. Week 5 → Week 3 (21st/22nd day)\nC. clockwise → anticlockwise\nE. all septa formed simultaneously"
+    },
+    "Extra MEDU2300 Embryology Q6": {
+      "year": "unclassified",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "Embryology",
+      "question": "Which of the following about development of the cardiovascular system is correct?",
+      "options": {
+        "A": "The most common type of atrial septal defect is primum atrial septal defect.",
+        "B": "Tetralogy of Fallot refers to pulmonary stenosis, overriding aorta, left ventricular hypertrophy and ventricular septal defect.",
+        "C": "Septum secundum forms on the right side of septum primum",
+        "D": "Ductus venosus allows blood to bypass the non-functional lung.",
+        "E": "Fusion of septa occurs before birth."
+      },
+      "answer": "C",
+      "explanation": "A. most common: secundum atrial septal defect\nB. left → right ventricular hypertrophy\nC. correct\nD. Ductus venosus → arteriosus\nE. occur after birth when right intra-atrial pressure < left intra-atrial pressure"
     }
   }
 }
