@@ -3141,7 +3141,23 @@
             "22-23 MEDU2300 Test Q15",
             "22-23 MEDU2300 Test Q16",
             "22-23 MEDU2300 Test Q17",
-            "22-23 MEDU2300 Test Q18"
+            "22-23 MEDU2300 Test Q18",
+            "22-23 MEDU2300 Test Q20",
+            "22-23 MEDU2300 Final Q19",
+            "22-23 MEDU2300 Final Q20",
+            "22-23 MEDU2300 Final Q17",
+            "22-23 MEDU2300 Final Q18",
+            "22-23 MEDU2300 Final Q59",
+            "22-23 MEDU2300 Final Q60",
+            "22-23 MEDU2300 Final Q61",
+            "22-23 MEDU2300 Final Q9",
+            "22-23 MEDU2300 Final Q10",
+            "22-23 MEDU2300 Final Q11",
+            "22-23 MEDU2300 Final Q12",
+            "22-23 MEDU2300 Final Q13",
+            "22-23 MEDU2300 Final Q14",
+            "22-23 MEDU2300 Final Q15",
+            "22-23 MEDU2300 Final Q16"
           ],
           "unclassified": [
             "FA MEDU2300 Thorax Q1",
@@ -3518,6 +3534,24 @@
             "Extra MEDU2300 Embryology Q13",
             "15-16 MEDU2300 Final Q12",
             "17-18 MEDU2300 Test Q19"
+          ],
+          "Histology": [
+            "22-23 MEDU2300 Test Q20",
+            "22-23 MEDU2300 Final Q19",
+            "22-23 MEDU2300 Final Q20",
+            "22-23 MEDU2300 Final Q17",
+            "22-23 MEDU2300 Final Q18",
+            "22-23 MEDU2300 Final Q59",
+            "22-23 MEDU2300 Final Q60",
+            "22-23 MEDU2300 Final Q61",
+            "22-23 MEDU2300 Final Q9",
+            "22-23 MEDU2300 Final Q10",
+            "22-23 MEDU2300 Final Q11",
+            "22-23 MEDU2300 Final Q12",
+            "22-23 MEDU2300 Final Q13",
+            "22-23 MEDU2300 Final Q14",
+            "22-23 MEDU2300 Final Q15",
+            "22-23 MEDU2300 Final Q16"
           ],
           "Lower Limb": [
             "15-16 MEDU2300 Final Q54",
@@ -17668,7 +17702,7 @@
       "course": "MEDU2300 Human Structure I",
       "question_number": 20,
       "level": "Year 2",
-      "topic": "Thorax",
+      "topic": "Histology",
       "question": "Where is the seromucous gland of the trachea located?",
       "options": {
         "A": "Adventitia",
@@ -17678,7 +17712,7 @@
         "E": "Loose connective tissue in mucosa"
       },
       "answer": "D",
-      "explanation": "This is like the position of glands in the esophagus and duodenum.\nNote that this is supposed to be a histology question."
+      "explanation": "This is like the position of glands in oesophagus and duodenum."
     },
     "22-23 MEDU2300 Test Q5": {
       "year": "2022-23",
@@ -33656,6 +33690,261 @@
       },
       "answer": "E",
       "explanation": "This question is easier by giving the hint that active support is provided by tendon, as the passive support is provided by the ligaments instead.\nMEDIAL longitudinal arch → MEDIAL muscles\nB, C and D are clearly wrong. Extensor hallucis longus runs on dorsum to insert to 1st proximal phalanx, and does not insert to any of tarsal bones, which makes it impossible to provide support to the arch.\nE is correct because it attaches to the medial cuneiform to pull it upwards to maintain the arch. The same works for tibialis posterior and flexor hallucis longus which inserts into medial bones. B is in fact for support of lateral arch.\nC is something you should get into distinction viva if you know. (Now all of you reading this can get into viva!) It is an accessory muscle in the anterior compartment with not much use, and most anatomists classify it as part of extensor digitorum longus."
+    },
+    "22-23 MEDU2300 Final Q19": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Which of the following cells contain chemoreceptors for detecting irritant?",
+      "options": {
+        "A": "Brush cells",
+        "B": "Dust cells",
+        "C": "Small granule cells",
+        "D": "Ciliated columnar cells",
+        "E": "Clara cells"
+      },
+      "answer": "A",
+      "explanation": "Brush cells are chemosensory receptors with afferent nerve endings on their basal surfaces. Dust cells are another words for macrophages in alveoli for taking up dust and carbon particles in inhaled air. Small granule cells are involved in neuroendocrine system. Clara cells (Club cells) are special cells with multiple functions, which will be explained in the question below."
+    },
+    "22-23 MEDU2300 Final Q20": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Where is club cell abundantly found in the lower respiratory tract?",
+      "options": {
+        "A": "Alveolar duct",
+        "B": "Alveolus",
+        "C": "Bronchiole",
+        "D": "Bronchus",
+        "E": "Trachea"
+      },
+      "answer": "C",
+      "explanation": "Club/Clara cells are capable of secreting surfactants, antimicrobial enzymes, anti-inflammatory cytokines and enzymes detoxifying harmful compounds in air. They are mostly found in the lower respiratory tract, i.e. bronchioles."
+    },
+    "22-23 MEDU2300 Final Q17": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Where are Purkinje fibers found in heart?",
+      "options": {
+        "A": "Endocardium",
+        "B": "Myocardium",
+        "C": "Subendocardium",
+        "D": "Tunica intima",
+        "E": "Tunica media"
+      },
+      "answer": "C",
+      "explanation": "Subendocardium is the layer just beneath endothelium lining the lumen of heart, which contains the conduction system (Bundle of His and Purkinje fibres)."
+    },
+    "22-23 MEDU2300 Final Q18": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Which of the following blood vessels has the highest permeability?",
+      "options": {
+        "A": "Arteriole",
+        "B": "Continuous capillary",
+        "C": "Fenestrated capillary",
+        "D": "Sinusoid",
+        "E": "Venule"
+      },
+      "answer": "C",
+      "explanation": "Sinusoids (Discontinuous capillaries) have the highest permeability and allow large molecules and blood cells to pass between blood and tissues, and are only found in liver, spleen, bone marrow and adrenal medulla. Fenestrated capillaries are slightly less permeable and are found in small intestines and kidneys. Continuous capillaries are the least permeable type found in most body tissues. Arteriole and venule are not permeable at all."
+    },
+    "22-23 MEDU2300 Final Q59": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Where is submucosal gland located?",
+      "options": {
+        "A": "Duodenum",
+        "B": "Ileum",
+        "C": "Colon",
+        "D": "Rectum",
+        "E": "Stomach"
+      },
+      "answer": "A",
+      "explanation": "Always remember submucosal glands are only found in duodenum and oesophagus among the entire GI tract."
+    },
+    "22-23 MEDU2300 Final Q60": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Which of the following cells produce antimicrobial peptide?",
+      "options": {
+        "A": "Chief cell",
+        "B": "Enterocyte",
+        "C": "Enteroendocrine cell",
+        "D": "Paneth cell",
+        "E": "Parietal cell"
+      },
+      "answer": "D",
+      "explanation": "Paneth cells are found in the small intestines for your reference."
+    },
+    "22-23 MEDU2300 Final Q61": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 61,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Lacteal is present in",
+      "options": {
+        "A": "Anal canal",
+        "B": "Colon",
+        "C": "Jejunum",
+        "D": "Oesophagus",
+        "E": "Stomach"
+      },
+      "answer": "C",
+      "explanation": "Lacteal is only found in small intestines for absorption of digested fat products."
+    },
+    "22-23 MEDU2300 Final Q9": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Sinusoid, which perfuse to the hepatocytes, will receive the most blood supply from which vascular source?",
+      "options": {
+        "A": "Common vein",
+        "B": "Hepatic artery proper",
+        "C": "Hepatic portal vein",
+        "D": "Hepatic vein",
+        "E": "Sublobular vein"
+      },
+      "answer": "C",
+      "explanation": "Most of the vascular input to liver comes from the hepatic portal vein (70-75%), while hepatic artery proper only contributes 25-30% of vascular supply."
+    },
+    "22-23 MEDU2300 Final Q10": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 10,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Bile canaliculi are formed from which of the following structures?",
+      "options": {
+        "A": "Cell surfaces of hepatocytes",
+        "B": "Endothelium of sinusoids",
+        "C": "Local dilations of intercellular spaces between hepatocytes",
+        "D": "Perisinusoidal space (of Disse)",
+        "E": "Simple cuboidal epithelium of bile duct"
+      },
+      "answer": "C",
+      "explanation": "A is wrong as cell surfaces of hepatocytes are facing the perisinusoidal space (D), which contains extracellular matrix and reticular fibres for exchange of materials between hepatocytes and blood in sinusoids. B is irrelevant. C is correct and bile is drained into such space and converge into bile ducts. E is wrong as simple cuboidal epithelium of bile duct is already distal to the initial transit of bile in bile canaliculus."
+    },
+    "22-23 MEDU2300 Final Q11": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 11,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "The mesangial cells are related to which of the following functions or physiological processes?",
+      "options": {
+        "A": "Turnover of glomerular basement membrane",
+        "B": "Release of renin",
+        "C": "Regulate systemic blood pressure",
+        "D": "Sodium or potassium homeostasis",
+        "E": "Synthesis of glomerular basement membrane"
+      },
+      "answer": "A",
+      "explanation": "Mesangial cells have three main functions, including structural support to glomerulus, turnover of glomerular basement membrane, and regulation of glomerular capillary flow and GFR by contracting the glomerulus. For example, angiotensin II acts to contract the mesangial cells to shrink the glomerulus, thus reducing surface area for ultrafiltration and glomerular capillary flow to reduce GFR, and hence reducing urine production to conserve volume."
+    },
+    "22-23 MEDU2300 Final Q12": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 12,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "The \"blood-urine barrier\" functions as a molecular filter for blood cells and proteins in blood during ultrafiltration. This barrier is mainly performed by",
+      "options": {
+        "A": "Endothelium of glomerulus",
+        "B": "Foot processes of mesangial cells",
+        "C": "Foot processes of podocytes",
+        "D": "Glomerular basement membrane",
+        "E": "Visceral layer of Bowman's capsule"
+      },
+      "answer": "D",
+      "explanation": "Blood-urine barrier consists of three components, namely the fenestrated endothelium of glomerulus, glomerular basement membrane (GBM) and visceral layer of Bowman’s capsule formed by podocytes. Among them, GBM has the greatest contribution and is the chief determinants of the selective permeability of molecules in the glomerulus. GBM contains heparan sulphate proteoglycans to block negatively charged molecules, while the other protein components also help block large molecules, e.g. plasma proteins, from entering glomerular filtrate."
+    },
+    "22-23 MEDU2300 Final Q13": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 13,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "The “blood-testis barrier” in seminiferous tubules plays an important role to protect dividing spermatogenic cells. This functional barrier is formed by:",
+      "options": {
+        "A": "primary spermatocytes",
+        "B": "secondary spermatocytes",
+        "C": "Sertoli cell",
+        "D": "Spermatid",
+        "E": "Spermatogonia"
+      },
+      "answer": "C",
+      "explanation": "Sertoli cells are non-replicating cells forming the blood-testis barrier by intercellular tight junctions. It is necessary to isolate haploid germ cells from the somatic immune cells to create stable environment in seminiferous tubule for spermatogenesis."
+    },
+    "22-23 MEDU2300 Final Q14": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 14,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Upon conventional H&E staining, the Leydig cell or interstitial cell shows which of the following distinct features under light microscope?",
+      "options": {
+        "A": "Basophilic cytoplasm",
+        "B": "Dense secretory granules at apical surface",
+        "C": "Glycogen granules at basolateral surface",
+        "D": "Palely stained glycogen granules",
+        "E": "Palely stained lipid droplets"
+      },
+      "answer": "E",
+      "explanation": "You can answer this question without learning histology if you know the function of Leydig cell is secreting testosterone. As testosterone is a steroid (Lipid) hormone, its synthesis requires cholesterol obtained from circulating LDL, and also smooth ER for accomodating CYP450 enzymes for steroidogenesis. Abundant smooth ER confers a very eosinophilic apperance to Leydig cells, while presence of cholesterol deposit gives apperance of lipid droplets which are washed away during slide preparation."
+    },
+    "22-23 MEDU2300 Final Q15": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 15,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Regarding the follicular cells in a pubertal ovary, they are",
+      "options": {
+        "A": "Active meiosis",
+        "B": "Pause in meiosis I",
+        "C": "Pause in meiosis II",
+        "D": "Completion of meiosis I",
+        "E": "Completion of meiosis II"
+      },
+      "answer": "B",
+      "explanation": "Oocytes are stopped at prophase I of meiosis before birth, and only progresses up to metaphase II after the oocyte is ovulated in puberty. Fertilisation triggers the completion of meiosis II to form ovum that fuses with sperm to form the zygote."
+    },
+    "22-23 MEDU2300 Final Q16": {
+      "year": "2022-23",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 16,
+      "level": "Year 2",
+      "topic": "Histology",
+      "question": "Histological features of early secretory phase of endometrium:",
+      "options": {
+        "A": "Uterine glands become straightened",
+        "B": "Uterine glands become tortuous and filled with secretions",
+        "C": "Glycogen-rich vacuoles",
+        "D": "Intracellular lipid droplets at apical cytoplasm",
+        "E": "Intracellular lipid droplets at basal cytoplasm"
+      },
+      "answer": "B",
+      "explanation": ""
     }
   }
 }
