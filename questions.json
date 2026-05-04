@@ -2725,7 +2725,14 @@
             "15-16 MEDU2300 Final Q43",
             "15-16 MEDU2300 Final Q44",
             "15-16 MEDU2300 Final Q47",
-            "15-16 MEDU2300 Final Q52"
+            "15-16 MEDU2300 Final Q52",
+            "15-16 MEDU2300 Final Q54",
+            "15-16 MEDU2300 Final Q59",
+            "15-16 MEDU2300 Final Q60",
+            "15-16 MEDU2300 Final Q57",
+            "15-16 MEDU2300 Final Q55",
+            "15-16 MEDU2300 Final Q58",
+            "15-16 MEDU2300 Final Q56"
           ],
           "2016-17": [
             "16-17 MEDU2300 Test Q2",
@@ -2797,7 +2804,17 @@
             "16-17 MEDU2300 Final Q41",
             "16-17 MEDU2300 Final Q35",
             "16-17 MEDU2300 Final Q37",
-            "16-17 MEDU2300 Final Q40"
+            "16-17 MEDU2300 Final Q40",
+            "16-17 MEDU2300 Final Q49",
+            "16-17 MEDU2300 Final Q51",
+            "16-17 MEDU2300 Final Q48",
+            "16-17 MEDU2300 Final Q53",
+            "16-17 MEDU2300 Final Q50",
+            "16-17 MEDU2300 Final Q46",
+            "16-17 MEDU2300 Final Q47",
+            "16-17 MEDU2300 Final Q61",
+            "16-17 MEDU2300 Final Q62",
+            "16-17 MEDU2300 Final Q52"
           ],
           "2017-18": [
             "17-18 MEDU2300 Test Q1",
@@ -2851,7 +2868,12 @@
             "17-18 MEDU2300 Final Q28",
             "17-18 MEDU2300 Final Q38",
             "17-18 MEDU2300 Final Q41",
-            "17-18 MEDU2300 Final Q44"
+            "17-18 MEDU2300 Final Q44",
+            "17-18 MEDU2300 Final Q45",
+            "17-18 MEDU2300 Final Q46",
+            "17-18 MEDU2300 Final Q47",
+            "17-18 MEDU2300 Final Q48",
+            "17-18 MEDU2300 Final Q52"
           ],
           "2018-19": [
             "18-19 MEDU2300 Test Q1",
@@ -2898,7 +2920,12 @@
             "18-19 MEDU2300 Final Q27",
             "18-19 MEDU2300 Final Q19",
             "18-19 MEDU2300 Final Q28",
-            "18-19 MEDU2300 Final Q31"
+            "18-19 MEDU2300 Final Q31",
+            "18-19 MEDU2300 Final Q50",
+            "18-19 MEDU2300 Final Q52",
+            "18-19 MEDU2300 Final Q56",
+            "18-19 MEDU2300 Final Q49",
+            "18-19 MEDU2300 Final Q51"
           ],
           "2019-20": [
             "19-20 MEDU2300 Test Q1",
@@ -2946,7 +2973,17 @@
             "19-20 MEDU2300 Final Q35",
             "19-20 MEDU2300 Final Q36",
             "19-20 MEDU2300 Final Q37",
-            "19-20 MEDU2300 Final Q38"
+            "19-20 MEDU2300 Final Q38",
+            "19-20 MEDU2300 Final Q49",
+            "19-20 MEDU2300 Final Q46",
+            "19-20 MEDU2300 Final Q48",
+            "19-20 MEDU2300 Final Q43",
+            "19-20 MEDU2300 Final Q47",
+            "19-20 MEDU2300 Final Q54",
+            "19-20 MEDU2300 Final Q40",
+            "19-20 MEDU2300 Final Q41",
+            "19-20 MEDU2300 Final Q42",
+            "19-20 MEDU2300 Final Q45"
           ],
           "2020-21": [
             "20-21 MEDU2300 Test Q1",
@@ -2997,7 +3034,16 @@
             "20-21 MEDU2300 Final Q32",
             "20-21 MEDU2300 Final Q35",
             "20-21 MEDU2300 Final Q40",
-            "20-21 MEDU2300 Final Q47"
+            "20-21 MEDU2300 Final Q47",
+            "20-21 MEDU2300 Final Q50",
+            "20-21 MEDU2300 Final Q48",
+            "20-21 MEDU2300 Final Q49",
+            "20-21 MEDU2300 Final Q52",
+            "20-21 MEDU2300 Final Q53",
+            "20-21 MEDU2300 Final Q54",
+            "20-21 MEDU2300 Final Q51",
+            "20-21 MEDU2300 Final Q55",
+            "20-21 MEDU2300 Final Q56"
           ],
           "2021-22": [
             "21-22 MEDU2300 Test Q1",
@@ -3063,7 +3109,17 @@
             "21-22 MEDU2300 Final Q37",
             "21-22 MEDU2300 Final Q38",
             "21-22 MEDU2300 Final Q39",
-            "21-22 MEDU2300 Final Q40"
+            "21-22 MEDU2300 Final Q40",
+            "21-22 MEDU2300 Final Q43",
+            "21-22 MEDU2300 Final Q44",
+            "21-22 MEDU2300 Final Q45",
+            "21-22 MEDU2300 Final Q46",
+            "21-22 MEDU2300 Final Q47",
+            "21-22 MEDU2300 Final Q48",
+            "21-22 MEDU2300 Final Q49",
+            "21-22 MEDU2300 Final Q50",
+            "21-22 MEDU2300 Final Q51",
+            "21-22 MEDU2300 Final Q52"
           ],
           "2022-23": [
             "22-23 MEDU2300 Test Q1",
@@ -3462,6 +3518,64 @@
             "Extra MEDU2300 Embryology Q13",
             "15-16 MEDU2300 Final Q12",
             "17-18 MEDU2300 Test Q19"
+          ],
+          "Lower Limb": [
+            "15-16 MEDU2300 Final Q54",
+            "15-16 MEDU2300 Final Q59",
+            "15-16 MEDU2300 Final Q60",
+            "17-18 MEDU2300 Final Q45",
+            "19-20 MEDU2300 Final Q49",
+            "21-22 MEDU2300 Final Q43",
+            "21-22 MEDU2300 Final Q44",
+            "21-22 MEDU2300 Final Q45",
+            "15-16 MEDU2300 Final Q57",
+            "16-17 MEDU2300 Final Q49",
+            "16-17 MEDU2300 Final Q51",
+            "17-18 MEDU2300 Final Q46",
+            "17-18 MEDU2300 Final Q47",
+            "17-18 MEDU2300 Final Q48",
+            "18-19 MEDU2300 Final Q50",
+            "19-20 MEDU2300 Final Q46",
+            "19-20 MEDU2300 Final Q48",
+            "20-21 MEDU2300 Final Q50",
+            "20-21 MEDU2300 Final Q48",
+            "20-21 MEDU2300 Final Q49",
+            "21-22 MEDU2300 Final Q46",
+            "21-22 MEDU2300 Final Q47",
+            "21-22 MEDU2300 Final Q48",
+            "15-16 MEDU2300 Final Q55",
+            "15-16 MEDU2300 Final Q58",
+            "16-17 MEDU2300 Final Q48",
+            "16-17 MEDU2300 Final Q53",
+            "16-17 MEDU2300 Final Q50",
+            "18-19 MEDU2300 Final Q52",
+            "18-19 MEDU2300 Final Q56",
+            "19-20 MEDU2300 Final Q43",
+            "19-20 MEDU2300 Final Q47",
+            "19-20 MEDU2300 Final Q54",
+            "20-21 MEDU2300 Final Q52",
+            "20-21 MEDU2300 Final Q53",
+            "21-22 MEDU2300 Final Q49",
+            "21-22 MEDU2300 Final Q50",
+            "15-16 MEDU2300 Final Q56",
+            "16-17 MEDU2300 Final Q46",
+            "16-17 MEDU2300 Final Q47",
+            "16-17 MEDU2300 Final Q61",
+            "16-17 MEDU2300 Final Q62",
+            "16-17 MEDU2300 Final Q52",
+            "17-18 MEDU2300 Final Q52",
+            "18-19 MEDU2300 Final Q49",
+            "18-19 MEDU2300 Final Q51",
+            "19-20 MEDU2300 Final Q40",
+            "19-20 MEDU2300 Final Q41",
+            "19-20 MEDU2300 Final Q42",
+            "19-20 MEDU2300 Final Q45",
+            "20-21 MEDU2300 Final Q54",
+            "20-21 MEDU2300 Final Q51",
+            "20-21 MEDU2300 Final Q55",
+            "20-21 MEDU2300 Final Q56",
+            "21-22 MEDU2300 Final Q51",
+            "21-22 MEDU2300 Final Q52"
           ],
           "Pelvis": [
             "15-16 MEDU2300 Final Q33",
@@ -32591,6 +32705,957 @@
       },
       "answer": "B",
       "explanation": "Upper plexus injury = C5 & C6 damage = Erb’s palsy = Waiter tips sign\nExplained in lecture notes clearly (P. 20)\nA. Deltoid (C5) + Supraspinatus → Abduction of shoulder joint\nB. By palmar interossei supplied by ulnar nerve (C8, T1) → unaffected\nC. Biceps brachii + Brachialis (BBC) → Musculocutaneous nerve (C5, C6);\nD. Infraspinatus + Teres Minor (IT) → C5, C6\nE. Supinator + Biceps brachii → C5, C6"
+    },
+    "15-16 MEDU2300 Final Q54": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "A Pott's fracture is a fracture of the fibula 4-7 cm proximal to the lateral malleolus and rupture of the deltoid ligament or avulsion of the medial malleolus, it is caused by:",
+      "options": {
+        "A": "plantarflexion",
+        "B": "dorsiflexion",
+        "C": "inversion",
+        "D": "eversion",
+        "E": "lateral rotation"
+      },
+      "answer": "D",
+      "explanation": "Pott’s fracture is very common in medial ankle sprain, which is caused by forced eversion of the foot (DO NOT use ankle eversion, as eversion and inversion are performed by subtalar and transverse tarsal joints in the foot.) Medial ankle sprain causes tearing of deltoid ligament, while the hyper-everted ankle brings the medial malleolus and fibula together (Talofibular and calcaneofibular ligaments still intact) against the tibia. Such action causes fracture of distal fibula, which is Pott’s fracture."
+    },
+    "15-16 MEDU2300 Final Q59": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 59,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Describing the ankle joint, which one is incorrect?",
+      "options": {
+        "A": "It's supplied by anterior and posterior tibial arteries",
+        "B": "It's a synovial hinge joint",
+        "C": "It's strengthened by deltoid ligament in medial side",
+        "D": "It allows inversion and eversion",
+        "E": "It is formed by tibia, fibula and talus"
+      },
+      "answer": "D",
+      "explanation": "D. inversion, eversion occurs between transverse tarsal and subtalar joints"
+    },
+    "15-16 MEDU2300 Final Q60": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 60,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "The following about knee joint is correct EXCEPT:",
+      "options": {
+        "A": "The femur rotate laterally when extended to lock knee joint",
+        "B": "The anterior cruciate ligament prevent the tibia from sliding in front of femur",
+        "C": "The knee joint is formed by the femur, tibia, and patellar",
+        "D": "There are bursas to reduce the friction produced during movement",
+        "E": "The medial meniscus is attached to the tibial collateral ligament."
+      },
+      "answer": "A",
+      "explanation": "A. rotate medially\nFemur rotates medially in knee locking when extended. As ACL runs from posterior femur to anterior tibia, it limits anterior movement of tibia and posterior movement of femur, i.e. knee extension."
+    },
+    "17-18 MEDU2300 Final Q45": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "With regard to the knee joint, which of the following statements is correct?",
+      "options": {
+        "A": "Anterior cruciate ligament limits hyperextension of the knee joint",
+        "B": "Anterior cruciate ligament limits the tibia from slipping posteriorly",
+        "C": "Medial meniscus is greater than lateral meniscus",
+        "D": "Popliteus is refer as to the KEY in locking the knee",
+        "E": "Lateral collateral ligament partly fuse with lateral meniscus"
+      },
+      "answer": "A",
+      "explanation": "B. slipping anteriorly\nC. We usually describe that the medial femoral condyle is larger than the lateral femoral condyle. This is not the best option to choose as A is definitely correct, although it may be true that the medial meniscus is larger to accommodate the larger medial femoral condyle.\nD. in unlocking the knee\nE. medial collateral ligament fuse with medial meniscus"
+    },
+    "19-20 MEDU2300 Final Q49": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following statements regarding the meniscus is correct?",
+      "options": {
+        "A": "MCL is attached to medial meniscus",
+        "B": "Medial meniscus is smaller than lateral meniscus",
+        "C": "ACL is attached to lateral meniscus",
+        "D": "LCL is attached to lateral meniscus",
+        "E": "Medial meniscus is oval shaped"
+      },
+      "answer": "A",
+      "explanation": "A. Correct. This is the reason why during the “unhappy triad”, when there is blow towards the lateral side of a fully extended knee, the medial collateral ligament, medial meniscus and the anterior cruciate ligament are all torn together.\nB. Medial meniscus is greater than the lateral meniscus, or at least not smaller than it.\nC. Anterior cruciate ligament (ACL) originates deep within the femoral notch from the medial surface of the lateral condyle of the femur and attaches to the intercondylar surface of the tibia.\nD. Lateral collateral ligament (LCL) is not attached to any parts of the knee joint.\nE. Medial meniscus is C-shaped."
+    },
+    "21-22 MEDU2300 Final Q43": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following structure is most significant in resisting hyperextension of the hip joint?",
+      "options": {
+        "A": "Iliofemoral ligament",
+        "B": "Iliotibial tract",
+        "C": "Ischiofemoral ligament",
+        "D": "Ligamentum teres of femoral head",
+        "E": "Pubofemoral ligament"
+      },
+      "answer": "A",
+      "explanation": "All 3 pubic bones have ligaments attached to the femur to stabilize the hip joint, all with specific actions according to their courses.\nIliofemoral ligament descends anteriorly from ASIS and rim of acetabulum to intertrochanteric line. This vertical course on the anterior side of the femur resists hyperextension. It is the strongest ligament in the body. Even though all 3 ligaments resist hyperextension, this should contribute the most.\nPubofemoral ligament extends laterally from pubis to intertrochanteric line, and such horizontal course limits hyperabduction.\nIschiofemoral ligament takes a spiral course from ischium to intertrochanteric line, and such course limits excessive medial rotation of the thigh. Additionally, ischiofemoral ligament is the weakest, and as no ligament attaches to the back of the femur, the hip joint is weakest at its back, rendering it prone to posterior dislocation."
+    },
+    "21-22 MEDU2300 Final Q44": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 44,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "A teenager sustained an injury while playing football, the tibia could be pulled anterior in relation to the femur, which structure is damaged?",
+      "options": {
+        "A": "Anterior cruciate ligament",
+        "B": "Lateral collateral ligament",
+        "C": "Medial collateral ligament",
+        "D": "Posterior cruciate ligament",
+        "E": "Tendon of popliteal muscle"
+      },
+      "answer": "A",
+      "explanation": "Such presentation is known as anterior drawer sign, as tibia can be moved anteriorly about the secured femur. This shows hyperextension of knee joint is not limited, and is a sign of anterior cruciate ligament tear.\nI think it is quite hard to understand why ACL limits hyperextension, while PCL limits hyperflexion, but I will try to explain it here. ACL runs from posterior side of femur to the anterior side of tibial condyle, while PCL is other way round, so that they run perpendicularly to each other. During hyperextension (Knee moves forwards), the anterior side of the tibia moves further away from the femur, so that the ACL is stretched and limits such action. On the contrary, knee flexion moves the posterior side of tibia further away from the femur, so that PCL is stretched and limits such action."
+    },
+    "21-22 MEDU2300 Final Q45": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following regarding the ankle joint is correct?",
+      "options": {
+        "A": "allow inversion and eversion of foot",
+        "B": "formed by tibia, fibula, and calcaneus",
+        "C": "strengthen by the deltoid ligament on medial side",
+        "D": "receive blood supply from dorsalis pedis only",
+        "E": "movement controlled by superficial fibular nerve"
+      },
+      "answer": "C",
+      "explanation": "Again, inversion and eversion are performed by subtalar and transverse tarsal joints. Plantarflexion and dorsiflexion are the only possible movements of the ankle joint. B is wrong as it should be talus, tibia and fibula. C is clearly correct. D is wrong as well. Dorsalis pedis artery is the distal continuation of anterior tibial artery in the dorsum of foot, which has passed the ankle joint already. It should be anterior, posterior tibial and fibular arteries supplying the ankle joint. E is not totally wrong, but quite convincing. Superficial fibular nerve innervates fibularis longus and brevis in lateral compartment, which both performs foot eversion and weak ankle plantarflexion. Such weak action renders it a bit kam to say E is correct."
+    },
+    "15-16 MEDU2300 Final Q57": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 57,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the statements with regard to the obturator nerve is correct?",
+      "options": {
+        "A": "Innervates obturator internus muscle",
+        "B": "Innervates 6 lateral rotator of hip Joint",
+        "C": "Supply skin on anterior aspect of thigh",
+        "D": "Supply skin of medial aspect of thigh",
+        "E": "Supply skin of posterior aspect of thigh"
+      },
+      "answer": "D",
+      "explanation": "The obturator nerve is responsible for the sensory innervation of the skin of the medial aspect of the thigh.\nhttps://en.wikipedia.org/wiki/Obturator_nerve\nA. innervated by nerve to the obturator internus"
+    },
+    "16-17 MEDU2300 Final Q49": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following tissues or structures is not in the femoral sheath?",
+      "options": {
+        "A": "Femoral artery",
+        "B": "Femoral canal",
+        "C": "Femoral nerve",
+        "D": "Femoral vein",
+        "E": "Lymphatic vessel"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "16-17 MEDU2300 Final Q51": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Adductor blood supply",
+      "options": {
+        "A": "External iliac artery",
+        "B": "Internal iliac artery",
+        "C": "Femoral artery",
+        "D": "Medial circumflex artery",
+        "E": "Popliteal artery"
+      },
+      "answer": "B",
+      "explanation": "The obturator artery, a branch of the internal iliac artery, passes from within the pelvis, through the obturator foramen to enter the medial compartment of the thigh and supplies the muscles in this compartment, though the blood supply to the adductor magnus is derived from many additional vessels as well.\nhttps://www.ncbi.nlm.nih.gov/books/NBK534842/\nSome people suggest that D is a more direct source of blood supply.In Josephine’s lecture, she clearly stated that the medial circumflex femoral artery supplies the head and neck of femur mainly. The following link suggests that it also supplies the medial aspect of the thigh.\nhttps://www.kenhub.com/en/library/anatomy/medial-circumflex-femoral-artery\nIf the question states the MAIN source of supply, then it has to be Internal Iliac.\nIf it doesn’t, the question is faulty."
+    },
+    "17-18 MEDU2300 Final Q46": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "The following muscle does not involve in femoral triangle:",
+      "options": {
+        "A": "Adductor longus",
+        "B": "Adductor brevis",
+        "C": "Iliopsoas",
+        "D": "Pectineus",
+        "E": "Sartorius"
+      },
+      "answer": "B",
+      "explanation": "The borders of the femoral triangle is formed\n- Laterally by Sartorius muscle\n- Medially by (lateral border of) Adductor Longus muscle\n- Superiorly by the inguinal ligament\nThe base of the femoral triangle is formed by the iliopsoas and the pectineus muscles.\nThe roof of the femoral canal is formed by the fascia lata."
+    },
+    "17-18 MEDU2300 Final Q47": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following structures is not in the subsartorial canal?",
+      "options": {
+        "A": "Femoral vein",
+        "B": "Femoral artery",
+        "C": "Nerve to vastus medialis",
+        "D": "Saphenous nerve",
+        "E": "Saphenous vein"
+      },
+      "answer": "E",
+      "explanation": "Subsartorial canal = adductor canal\nThe Saphenous vein has terminated in the popliteal vein."
+    },
+    "17-18 MEDU2300 Final Q48": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following is a mismatch between the muscle and types of movement it generates?",
+      "options": {
+        "A": "Gracilis adducts, flexes and assists medial rotation of thigh",
+        "B": "Iliopsoas flexes the thigh",
+        "C": "Pectineus abducts and flexes the thigh",
+        "D": "Biceps femoris flexes the knee joint and extends the hip joint",
+        "E": "Vastus intermedius extends the knee joint"
+      },
+      "answer": "C",
+      "explanation": "Gracilis allows medial rotation of leg → assist medial rotation\nC. pectineus adducts, flexes and assists medial rotation of thigh"
+    },
+    "18-19 MEDU2300 Final Q50": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "All of the following structures pass through femoral sheath EXCEPT",
+      "options": {
+        "A": "Femoral artery",
+        "B": "Femoral branch of the genitofemoral nerve",
+        "C": "Femoral nerve",
+        "D": "Femoral vein",
+        "E": "Lymphatic vessels"
+      },
+      "answer": "C",
+      "explanation": "The three compartments of the femoral sheath include: The lateral compartment, which contains the femoral artery and femoral branch of genitofemoral nerve.\nhttps://www.ncbi.nlm.nih.gov/books/NBK482388/"
+    },
+    "19-20 MEDU2300 Final Q46": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following provides arterial blood supply to adductor brevis?",
+      "options": {
+        "A": "External iliac artery",
+        "B": "Internal iliac artery",
+        "C": "Femoral artery",
+        "D": "Medial circumflex artery",
+        "E": "Lateral circumflex artery"
+      },
+      "answer": "D",
+      "explanation": "Supplied by deep femoral artery INCORRECT\n#1 https://en.wikipedia.org/wiki/Adductor_brevis_muscle\nThe deep artery of the thigh, (profunda femoris artery or deep femoral artery) is a large branch of the femoral artery.\n#2 https://en.wikipedia.org/wiki/Deep_artery_of_the_thigh\n\nProximal end: Obturator artery\nDistal end: Ascending branch of medial circumflex femoral artery\n\nThis question is likely not going to appear in future exams anymore due to its controversy."
+    },
+    "19-20 MEDU2300 Final Q48": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following represents the nerve root of the femoral nerve?",
+      "options": {
+        "A": "L5-S3",
+        "B": "L1-5",
+        "C": "L2-S3",
+        "D": "L1-3",
+        "E": "L2-4"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Final Q50": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following does not pass/passes through the femoral sheath?",
+      "options": {
+        "A": "Femoral nerve",
+        "B": "Femoral artery",
+        "C": "Femoral vein",
+        "D": "Lymphatics",
+        "E": "Inguinal ligament"
+      },
+      "answer": "A",
+      "explanation": "Make sure you know the difference between femoral sheath, canal, and ring. Femoral sheath is formed by transversalis and iliopsoas fascia (Posterior wall) and fascia lata (Anterior wall).\nThe sheath has 3 compartments.\nThe medial compartment is also known as the canal, while the femoral ring is the opening of the canal.\nThe lateral compartment has the femoral artery, the middle/ intermediate one has the femoral vein, while the medial compartment or the femoral canal has lymphatics and the femoral branch of the genitofemoral nerve. Femoral nerve runs on the anterior surface of iliopsoas to enter the thigh, on the lateral side of the femoral sheath. Inguinal ligament is not related to femoral sheath much, and does not pass through it either. However, it is continuous with lacunar and pectineal ligaments along the superior edge of the pubis.\nLacunar ligament marks the medial border of the femoral sheath, canal and ring. This ligament could be cut during the repair of femoral hernia."
+    },
+    "20-21 MEDU2300 Final Q48": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following pass/passes through the femoral canal?",
+      "options": {
+        "A": "Femoral nerve",
+        "B": "Femoral artery",
+        "C": "Femoral vein",
+        "D": "Femoral canal (?)",
+        "E": "Lymphatic vessels"
+      },
+      "answer": "E",
+      "explanation": "Remember that the femoral canal is the medial compartment of femoral sheath.\nA little more information: They are deep inguinal (Cloquet) nodes and their vessels."
+    },
+    "20-21 MEDU2300 Final Q49": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following statements are true about the medial compartment of the thigh?",
+      "options": {
+        "A": "It is supplied by obturator nerve",
+        "B": "It is supplied by obturator artery only",
+        "C": "It is distally attached to patella",
+        "D": "It contains all muscles comprising the pes anserinus",
+        "E": "Sartorius is in the medial compartment of thigh"
+      },
+      "answer": "A",
+      "explanation": "Medial compartment contains all 3 adductors, gracilis and obturator externus. All of them are supplied by obturator nerve, just a matter of anterior or posterior branch.\nIf B is correct, then how come A is wrong? So you should know B is wrong... Actually, adductor magnus has hamstring (Medial) and adductor (Lateral) parts, attaching to adductor tubercle and linea aspera respectively. Its hamstring part is supplied by the sciatic nerve, just like the 3 hamstring muscles, so B is wrong.\nC is wrong as only quadriceps femoris attaches to patella.\nD is a choice Rodman made, and only gracilis among the three is in pes anserinus, as sartorius is in anterior and semitendinosus is in posterior compartment.\nE is simply wrong as sartorius is in the anterior compartment."
+    },
+    "21-22 MEDU2300 Final Q46": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following muscles forms the floor of femoral triangle and is positioned posterior to femoral nerve?",
+      "options": {
+        "A": "Adductor brevis",
+        "B": "Adductor longus",
+        "C": "Iliopsoas",
+        "D": "Pectineus",
+        "E": "Sartorius"
+      },
+      "answer": "C",
+      "explanation": "This is a very good question, that you can only learn through scrutinizing figures in the slides.\nA and B are clearly wrong as they belong to the medial compartment. Sartorius forms the lateral border of the femoral triangle, and will not form the floor of course.\nIt is iliopsoas and pectineus forming the floor. Iliopsoas is the correct answer as the femoral nerve runs on the anterior surface of iliacus to enter the thigh, as iliopsoas forms the lateral half of the floor.\nPectineus forms the medial half of the floor on the other hand. You could relate the high origin of iliopsoas (L1-L3 for psoas and ala of ilium for iliacus) in the abdomen, with its lateral position in the thigh, as muscles rarely cross about each other. Also, only its abdominal origin will make it possible to carry femoral nerve from lumbar plexus, which is impossible for the pectineus."
+    },
+    "21-22 MEDU2300 Final Q47": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following would be a cause of weakness in the extending of the knee?",
+      "options": {
+        "A": "Damage to the meniscus",
+        "B": "Injury to the iliotibial tract",
+        "C": "Lesion to the obturator nerve",
+        "D": "Muscle wasting in quadriceps femoris",
+        "E": "paralysis of hamstring muscle"
+      },
+      "answer": "D",
+      "explanation": "A. This is an interesting answer. It may make knee extension painful if femoral head rubs directly against tibial condyle, but never weakness. It is painful to do so does not mean the action is weakened.\nB. Iliotibial tract is formed by aponeurosis of gluteus maximus and tensor fasciae latae, which is mainly for stabilizing hip joints and transmits their forces to facilitate hip flexion and extension. B will make hip dislocation easier, instead of weakness of knee extension.\nC. This is something more likely to be an answer, as only nerve or muscle problems will cause weakness in action. However, C is wrong as the obturator nerve is for hip adduction.\nD. Quadriceps femoris is the chief knee extensor (NOT hip flexor, as only rectus femoris crosses the hip joint).\nE. Hamstring muscles are responsible for knee flexion and hip extension instead."
+    },
+    "21-22 MEDU2300 Final Q48": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "A football player has medial thigh pain and difficulty adducting his thighs after a match. Which muscle is injured?",
+      "options": {
+        "A": "Gracilis",
+        "B": "Pectineus",
+        "C": "Sartorius",
+        "D": "Semitendinous",
+        "E": "Vastus medialis"
+      },
+      "answer": "A",
+      "explanation": "This is too simple, just pick the only muscle in the medial compartment here."
+    },
+    "15-16 MEDU2300 Final Q55": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following about hip abductors are incorrect?",
+      "options": {
+        "A": "Gluteus medius and minimus are hip abductors",
+        "B": "Contraction of weight bearing side during locomotion",
+        "C": "Contraction of hip abductors tilt up the pelvis of that side",
+        "D": "Gluteal nerve innervate gluteal muscles",
+        "E": "Malfunction of abductor muscles causes positive trendelenburg's gait."
+      },
+      "answer": "C",
+      "explanation": "All gluteal muscles are hip abductors, while maximus is LATERAL rotator, but the medius and minimus are MEDIAL rotators. During walking, the gluteus minimus and medius on the weight bearing side with standing foot will contract, so as to pull down that side, so that the pelvis on the opposite side will not fall due to gravity.\nIn other words, contraction of hip abductors tilt up the pelvis of the contralateral side."
+    },
+    "15-16 MEDU2300 Final Q58": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 58,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "A patient complained about severe low back pain after playing squash. On examination, knee extension is weak and reduced knee jerk reflex. There is altered sensation at the anteromedial side of knee and medial side leg. Which of the following spinal segments are likely damaged?",
+      "options": {
+        "A": "L1/2",
+        "B": "L2/3",
+        "C": "L3/4",
+        "D": "L4/5",
+        "E": "S1/2"
+      },
+      "answer": "C",
+      "explanation": "Weak knee extension suggests injury to femoral nerve, which supplies the hip flexors and knee extensors in the anterior thigh. This is further confirmed by the reduced knee jerk reflex. Anteromedial knee and medial leg are supplied by the saphenous nerve, which is the continuation of the femoral nerve beyond the adductor hiatus. However, given that the sensation at leg is also affected, it suggests the nerve injury should be relatively lower among L2-L4, following the pattern of dermatome. Keep in mind that lower and posterior sides of lower limb are supplied by lower nerve roots."
+    },
+    "16-17 MEDU2300 Final Q48": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 48,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following is a mismatch between the muscle and types of movement it generates?",
+      "options": {
+        "A": "Gracilis adducts, flexes and assists medial rotation of thigh",
+        "B": "Iliopsoas flexes the thigh",
+        "C": "Pectineus abducts and flexes the thigh",
+        "D": "Biceps femoris flexes the knee joint and extends the hip joint",
+        "E": "Vastus intermedius extends the knee joint"
+      },
+      "answer": "C",
+      "explanation": "Gracilis allows medial rotation of leg → assist medial rotation\nC. pectineus adducts, flexes and assists medial rotation of thigh"
+    },
+    "16-17 MEDU2300 Final Q53": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following structures does not transit through the popliteal fossa?",
+      "options": {
+        "A": "Common fibular nerve",
+        "B": "Popliteal artery",
+        "C": "Popliteal vein",
+        "D": "Sural nerve",
+        "E": "Tibial nerve"
+      },
+      "answer": "D",
+      "explanation": "![](img/16-17_MEDU2300_Final_Q53_1777897111793.png)\n\nThe real sural nerve indicated by the yellow line.\nSural nerve as a cutaneous nerve runs in the subcutaneous fat, along the small saphenous vein at the back of leg."
+    },
+    "16-17 MEDU2300 Final Q50": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "which of the following is incorrect?",
+      "options": {
+        "A": "Gluteus minimus adduct hip",
+        "B": "Gluteus minimus supplied by superior gluteal nerve",
+        "C": "Piriformis is a short lateral rotator muscle",
+        "D": "Inferior gluteal vein comes from internal iliac vein",
+        "E": "Superior gluteal artery comes from internal iliac artery"
+      },
+      "answer": "A",
+      "explanation": "A. gluteus minimus and medius abduct and medially rotate the thigh"
+    },
+    "18-19 MEDU2300 Final Q52": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following about profunda femoris artery (deep femoral artery) is correct?",
+      "options": {
+        "A": "It accompanies femoral artery to enter adductor canal",
+        "B": "It arises from femoral artery anterolaterally",
+        "C": "It branches into lateral circumflex femoral artery but not medial circumflex femoral artery",
+        "D": "It supplies triceps surae muscle",
+        "E": "It supplies semitendinosus muscle"
+      },
+      "answer": "E",
+      "explanation": "A. does not enter adductor canal\nB. anterolateral → posterolateral\nC. both of them\nD. triceps surae in leg but deep femoral artery in thigh → incorrect"
+    },
+    "18-19 MEDU2300 Final Q56": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following is distinguishable in popliteal fossa",
+      "options": {
+        "A": "Plantaris",
+        "B": "Small saphenous vein",
+        "C": "Sural nerve",
+        "D": "Saphenous nerve",
+        "E": "Deep femoral artery"
+      },
+      "answer": "B",
+      "explanation": "A. Plantaris cannot move the knee joint, so it is only found in the leg.\nB. Small saphenous vein ascends from the posterior aspect of lateral malleolus, via the posterior side of leg, to drain to the popliteal vein at popliteal fossa.\nC. Sural nerve is a cutaneous nerve branched from common fibular nerve and tibial nerve below the fossa.\nD. Femoral nerve leaves the adductor canal as a saphenous nerve but does not enter the fossa, but instead runs within the superficial fascia of the medial leg as cutaneous nerve.\nE. Profunda femoris artery runs between the adductor magnus and longus, but never leaves the thigh."
+    },
+    "19-20 MEDU2300 Final Q43": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 43,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following arteries does not supply the hamstrings?",
+      "options": {
+        "A": "Superior gluteal artery",
+        "B": "Perforating branches of profunda femoris artery",
+        "C": "Profunda femoris artery",
+        "D": "Popliteal artery",
+        "E": "Inferior gluteal artery"
+      },
+      "answer": "A",
+      "explanation": "Superior gluteal artery runs very high at the gluteus to supply the gluteus minimus and medius. Although it anastomoses with inferior gluteal artery, which in turn forms the cruciate anastomosis to supply gluteal and posterior thigh muscles, it has a very low contribution. Popliteal artery will have a greater contribution as it gives out the genicular anastomosis supplying the most inferior portion of hamstrings near the knee joint via the sural arteries."
+    },
+    "19-20 MEDU2300 Final Q47": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following initiates abduction at the hip joint?",
+      "options": {
+        "A": "lateral plantar nerve",
+        "B": "femoral nerve",
+        "C": "inferior gluteal nerve",
+        "D": "superior gluteal nerve",
+        "E": "medial plantar nerve"
+      },
+      "answer": "D",
+      "explanation": "D. gluteus medius and minimus abduct and medially rotate the thigh\nInferior gluteal nerve supplying the gluteus maximus is not the best answer here. It is because gluteus maximus mostly inserts to the iliotibial tract, with some deep fibers inserting to the gluteal tuberosity on lateral aspect of linea aspera. Gluteus maximus has a very vertical course and does not have good mechanical advantage to perform abduction compared to the minimus and medius inserting to the greater trochanter. On the contrary, gluteus maximus works as a very strong hip extensor."
+    },
+    "19-20 MEDU2300 Final Q54": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following structures would assist gluteus maximus in extension of thigh?",
+      "options": {
+        "A": "Tensor fascia lata",
+        "B": "Obturator internus",
+        "C": "Superior gemellus",
+        "D": "Piriformis",
+        "E": "Gluteus medius"
+      },
+      "answer": "A",
+      "explanation": "![](img/19-20_MEDU2300_Final_Q54_1777897151790.png)\n\nJust to make it clear, tensor fascia lata itself performs hip flexion with iliopsoas and rectus femoris as it runs from ASIS to Gerdy’s tubercle on tibia.\nIts assistance in extension is just because of the iliotibial tract."
+    },
+    "20-21 MEDU2300 Final Q52": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following nerves initiates abduction of hip joint ?",
+      "options": {
+        "A": "Femoral nerve",
+        "B": "Inferior gluteal nerve",
+        "C": "Lateral plantar nerve",
+        "D": "Medial plantar nerve",
+        "E": "Superior gluteal nerve"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Final Q53": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 53,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following veins drain the gluteus minimus?",
+      "options": {
+        "A": "Femoral vein",
+        "B": "Inferior gluteal vein",
+        "C": "Medial circumflex femoral vein",
+        "D": "Obturator vein",
+        "E": "Superior gluteal vein"
+      },
+      "answer": "E",
+      "explanation": "I don’t like this explanation from seniors. FYR only. Memorizing by heart and looking at it during dissection is good enough.\nThis is a bit hard to memorize, but we can logically deduce the answer. First of all, keep in mind venous drainage of upper and lower limbs basically parallels the arterial supply, which makes this question simply asking what is the arterial supply. A is clearly wrong as it should drain the anterior compartment. B and C are draining the inferior gluteal and posterior thigh muscles as their arterial counterparts form the cruciate anastomosis there. However, such a position near the neck of the femur is too low for gluteus minimus, which spans from ilium to greater trochanter. D is for anterior and medial compartments, hence not possible to be the answer. The only possible answer is E, which is correct! In fact, gluteus minimus, medius and tensor fasciae latae (Medial rotators in the gluteal region) are exclusively supplied by superior gluteal vessels."
+    },
+    "21-22 MEDU2300 Final Q49": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "After a hip operation, a patient found she could not rise from her hospital bed and could not climb the steps as instructed by the physiotherapist. Which of the following could be the cause?",
+      "options": {
+        "A": "The cluneal nerves were damaged",
+        "B": "The inferior gluteal nerve was damaged",
+        "C": "The obturator nerve was damaged",
+        "D": "The pudendal nerve was damaged",
+        "E": "The sciatic nerve was damaged"
+      },
+      "answer": "B",
+      "explanation": "Rising from the bed means rising from a sitting position, and requires hip extension to straighten the legs from the trunk. Recalling that gluteus maximus is the chief hip extensor, which is supplied by inferior gluteal nerves, B is clearly the correct answer.\nA will simply cause sensory deficit over lower back, gluteal region and upper part of posterior thigh. (Cluneal nerve seems not taught by Josephine, but should be good to know)\nC will cause absence of adduction.\nD will cause quite a lot of problems (Not enough space to talk here!), but none of the consequences is related to the hip.\nE may cause weakened hip extension as the hamstrings will be paralyzed. However, gluteus maximus can still compensate for it."
+    },
+    "21-22 MEDU2300 Final Q50": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 50,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "A woman with pain in her left buttock and posterior thigh, radiating as far as the popliteal region. Imaging of her lower spine shows no pathology. Which of the following condition does the women most likely have?",
+      "options": {
+        "A": "Compression of L4 spinal nerve by herniated disc",
+        "B": "Compression of sciatic nerve by hypertrophied piriformis",
+        "C": "Compression of superior gluteal nerve by hypertrophied piriformis",
+        "D": "Thrombotic occlusion of inferior gluteal artery",
+        "E": "Thrombotic occlusion of superior gluteal artery"
+      },
+      "answer": "B",
+      "explanation": "A is impossible given that the lower spine is normal. Herniated discs commonly cause lower back pain.\nC could explain the pain in the gluteal region, but not in the posterior thigh and popliteal region.\nD and E will cause avascular necrosis of the gluteal muscles, but still will not compromise the posterior thigh and beyond, as the profunda femoris artery can still supply the hamstrings.\nB is the correct answer and also this is a classical presentation of piriformis syndrome. Although superior gluteal nerve leaves the pelvis above piriformis, there is only superior gluteal artery to accompany and the nerve also has a very small size, compared to sciatic nerve aka the largest nerve in body. Hence, piriformis hypertrophy preferentially compresses the sciatic nerve and causes sciatica, i.e. pain over the region innervated by it. Although cutaneous sensation over these regions are not supplied by the sciatic nerve, the pain is caused by muscle pain instead."
+    },
+    "15-16 MEDU2300 Final Q56": {
+      "year": "2015-16",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following structures lies in the dorsum of the foot:",
+      "options": {
+        "A": "Iliac artery",
+        "B": "Femoral artery",
+        "C": "Popliteal artery",
+        "D": "Fibular artery",
+        "E": "Dorsalis pedis artery"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "16-17 MEDU2300 Final Q46": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 46,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Soleus muscle is supplied by which nerve?",
+      "options": {
+        "A": "Deep fibular",
+        "B": "Obturator",
+        "C": "Sciatic",
+        "D": "Sural",
+        "E": "Tibial"
+      },
+      "answer": "E",
+      "explanation": "Sural nerve is the cutaneous nerve formed by the union of cutaneous branches of common fibular and tibial nerves, which will not supply any muscle."
+    },
+    "16-17 MEDU2300 Final Q47": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 47,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "What movements are generated by the tibialis posterior at the foot?",
+      "options": {
+        "A": "Dorsiflexion and inversion of the ankle joint",
+        "B": "Plantarflexion and eversion of the ankle joint",
+        "C": "Plantarflexion and inversion of the ankle joint",
+        "D": "Plantarflexion of the ankle joint and eversion of the foot",
+        "E": "Plantarflexion of the ankle joint and inversion of the foot"
+      },
+      "answer": "E",
+      "explanation": "A - C is definitely incorrect as inversion or eversion is done at the subtalar and transverse tarsal joint but not the ankle joint.\nTibialis posterior belongs to the deep group of the posterior compartment of the leg. It is responsible for inversion of the foot together with the tibialis anterior, maintaining the medial longitudinal arch, and weakly plantarflex the ankle joint."
+    },
+    "16-17 MEDU2300 Final Q61": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 61,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following is correct?",
+      "options": {
+        "A": "lateral ankle sprain, medial malleolus is injured",
+        "B": "posterior tibial artery above medial malleolus",
+        "C": "flexor hallucis longus above medial malleolus",
+        "D": "deltoid ligament attach to medial malleolus"
+      },
+      "answer": "D",
+      "explanation": "Medial malleolus is injured in medial ankle sprain, which is caused by the pull of overstretching deltoid ligament.\nPosterior tibial artery and flexor hallucis longus (Harry) runs within the tarsal tunnel posterior to medial malleolus."
+    },
+    "16-17 MEDU2300 Final Q62": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 62,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following nerves initiates eversion of foot?",
+      "options": {
+        "A": "Femoral nerve",
+        "B": "Lateral plantar nerve",
+        "C": "Medial plantar nerve",
+        "D": "Superficial fibular nerve",
+        "E": "Tibial nerve"
+      },
+      "answer": "D",
+      "explanation": "Eversion is ONLY achieved by contraction of muscles in the lateral compartment of the leg, which includes the fibularis brevis and fibularis longus. They are supplied by the superficial fibular nerve."
+    },
+    "16-17 MEDU2300 Final Q52": {
+      "year": "2016-17",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which nerve supplies the soleus muscle?",
+      "options": {
+        "A": "Superficial fibular nerve",
+        "B": "Sciatic nerve",
+        "C": "Sural nerve",
+        "D": "Obturator nerve",
+        "E": "Tibial nerve"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "17-18 MEDU2300 Final Q52": {
+      "year": "2017-18",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Regarding fibularis longus muscle, which of the / is incorrect?",
+      "options": {
+        "A": "It assists in plantar flexion of foot",
+        "B": "It everts the foot",
+        "C": "It is in lateral compartment of leg",
+        "D": "It is innervated by superficial fibular nerve",
+        "E": "It is supplied by anterior tibial artery"
+      },
+      "answer": "E",
+      "explanation": "The lateral compartment of the leg does not have individual blood supply. They rely on the perforating branches from the anterior tibial and fibular artery."
+    },
+    "18-19 MEDU2300 Final Q49": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 49,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following nerves is responsible for eversion of foot?",
+      "options": {
+        "A": "Deep fibular nerve",
+        "B": "Inferior gluteal nerve",
+        "C": "Sciatic nerve",
+        "D": "Superficial fibular nerve",
+        "E": "Tibial nerve"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "18-19 MEDU2300 Final Q51": {
+      "year": "2018-19",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "What is the name of the artery that gives the blood supply to the extensor digitorum longus?",
+      "options": {
+        "A": "Fibular artery",
+        "B": "Dorsalis pedis",
+        "C": "Anterior tibial artery",
+        "D": "Posterior tibial artery",
+        "E": "Superior genicular artery"
+      },
+      "answer": "C",
+      "explanation": "Option A and B are made-up options.\nExtensor digitorum longus belongs to the anterior compartment of the leg, which is supplied by the anterior tibial artery."
+    },
+    "19-20 MEDU2300 Final Q40": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following nerves innervates gastrocnemius muscle?",
+      "options": {
+        "A": "sural nerve",
+        "B": "sciatic nerve",
+        "C": "tibial nerve",
+        "D": "obturator nerve",
+        "E": "common fibular nerve"
+      },
+      "answer": "C",
+      "explanation": "Gastrocnemius belongs to the posterior compartment of the leg, which is innervated by the tibial nerve."
+    },
+    "19-20 MEDU2300 Final Q41": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following nerve(s) control(s) the inversion of the foot?",
+      "options": {
+        "A": "Deep fibular nerve",
+        "B": "Superficial fibular nerve and tibial nerve",
+        "C": "Deep fibular nerve and tibial nerve",
+        "D": "Superficial fibular nerve",
+        "E": "Sciatic nerve"
+      },
+      "answer": "C",
+      "explanation": "C. tibialis anterior (deep fibular) and tibialis posterior (tibial)"
+    },
+    "19-20 MEDU2300 Final Q42": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 42,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "What movements are generated by fibularis longus?",
+      "options": {
+        "A": "Plantarflexion of ankle joint & eversion of foot",
+        "B": "Dorsiflexion & eversion of ankle joint",
+        "C": "Plantarflexion & eversion of ankle joint",
+        "D": "Dorsiflexion & inversion of ankle joint",
+        "E": "Plantarflexion of ankle joint & inversion of foot"
+      },
+      "answer": "A",
+      "explanation": "Options B-D are all wrong as inversion and eversion does not occur at the ankle joint.\nOnly the lateral compartments contract to evert the foot."
+    },
+    "19-20 MEDU2300 Final Q45": {
+      "year": "2019-20",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 45,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following nerves initiates eversion of the foot?",
+      "options": {
+        "A": "Medial plantar nerve",
+        "B": "Tibial nerve",
+        "C": "Lateral plantar nerve",
+        "D": "Femoral nerve",
+        "E": "Superficial fibular nerve"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Final Q54": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 54,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Tibialis posterior actions",
+      "options": {
+        "A": "Dorsiflexion + inversion of ankle",
+        "B": "Plantarflexion + eversion of ankle",
+        "C": "Plantarflexion + inversion of ankle",
+        "D": "Plantarflexion of ankle + eversion of foot",
+        "E": "Plantarflexion of ankle + inversion of foot"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Final Q51": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "What nerve contributes to eversion?",
+      "options": {
+        "A": "Femoral nerve",
+        "B": "Tibial nerve",
+        "C": "Lateral plantar nerve",
+        "D": "Medial plantar nerve",
+        "E": "Superficial fibular nerve"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Final Q55": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 55,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which nerve innervates tibialis anterior?",
+      "options": {
+        "A": "Common fibular nerve",
+        "B": "Superficial fibular nerve",
+        "C": "Deep fibular nerve",
+        "D": "Tibial nerve",
+        "E": "Femoral nerve"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2300 Final Q56": {
+      "year": "2020-21",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 56,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following is the immediate arterial supply of the extensor digitorum longus?",
+      "options": {
+        "A": "Anterior tibial artery",
+        "B": "Dorsal pedis artery",
+        "C": "Fibular artery",
+        "D": "Popliteal artery",
+        "E": "Posterior tibial artery"
+      },
+      "answer": "A",
+      "explanation": "Tibialis anterior, extensor hallucis longus, extensor digitorum longus are in the anterior compartment, and of course supplied by anterior tibial artery. Dorsalis pedis artery is its distal continuation, and supplies the dorsum of foot. Fibular artery arises from posterior tibial artery soon after its departure from popliteal artery, and supplies the posterior and lateral compartments. Posterior tibial artery supplies the posterior compartment exclusively. Popliteal artery is the distal continuation of femoral artery, which descends as most medial components in popliteal fossa. After passing popliteus, it divides into anterior and posterior tibial arteries, while posterior tibial arteries branch laterally to give fibular arteries almost immediately."
+    },
+    "21-22 MEDU2300 Final Q51": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Damage to tibial nerve in popliteal fossa causes the loss of cutaneous sensation in which of the following skin areas?",
+      "options": {
+        "A": "Most of heel and sole of foot",
+        "B": "Anterior surface of leg",
+        "C": "Dorsum of foot between big and second toe",
+        "D": "Dorsal surface of ankle joint",
+        "E": "Lateral side of leg"
+      },
+      "answer": "A",
+      "explanation": "The following 3 diagrams are extracted from the lecture notes. These summarize the sensation to your leg and foot. Using a little photographic memory will be fastest to learn.\nNote that\n- Lateral proximal leg: lateral SURAL\n- Lateral distal leg: SUPERFICIAL FIBULAR\n- Medial leg: SAPHENOUS\n- 1st and 2nd toe: DEEP FIBULAR\n- Plantar foot & Heel: TIBIAL (medial & lateral plantar nerve)\n\n![](img/21-22_MEDU2300_Final_Q51_1777897273858.png)\n![](img/21-22_MEDU2300_Final_Q51_1777897282079.png)\n![](img/21-22_MEDU2300_Final_Q51_1777897286395.png)\n\nThis is taken from the internet as an excellent summary. For reference only.\n- Check the saphenous nerve in the medial leg.\n\n![](img/21-22_MEDU2300_Final_Q51_1777897307014.jpeg)\n\nFor each option:\nA. Tibial nerve (correct)\nB. Superficial fibular nerve & lateral sural nerve\nC. Deep fibular nerve\nD. Superficial fibular nerve\nE. Lateral sural nerve & superficial fibular nerve\n\nFor an MCQ, the easier way to arrive at your answer (even if you didn’t study about cutaneous innervation) is: Tibial nerve → posterior leg → tarsal tunnel = around heel. All the other options revolve around anterior or lateral compartment of leg or dorsum of foot, which is irrelevant to tibial nerve. The pattern is almost equal to motor innervation except that there are 2-3 more nerves involved (e.g. sural, cluneal, saphenous etc.)\n\nWritten by a senior, the explanation below is too lengthy. This is not a good way of studying anatomy and this is why people hate it. Reading the words in red is enough, others are for your reference only. You likely don’t need so many details unless you wish to get 100 marks (e.g. how many .5 digits are supplied by which branch of a small nerve).\nWow, we can have some fun with this question! This explanation is long enough so that I don’t need to cover it. We can have a thorough understanding of the cutaneous innervation of the leg and foot. To begin with, the sciatic nerve supplies everything below the thigh. It divides into common fibular and tibial nerves at the apex of popliteal fossa, and the story now begins.\n\nCommon fibular nerve branches into deep and superficial fibular nerves after winding about the neck of fibula, where it is most prone to compression. Deep fibular nerve supplies the anterior compartment of leg but no sensation in the leg. Superficial fibular nerve supplies the lateral compartment of leg and also sensation of anterior side of distal 1/3 of leg. Tibial nerve supplies the posterior compartment and sensation over the posterior side of leg. However, there are still more than half of skin remaining to be innervated.\n\nSural nerve is formed by union of sensory branches from common fibular and tibial nerves at popliteal fossa, and descends along the leg in subcutaneous tissue. It innervates the posterior and lateral aspects of the leg. Saphenous nerve, the sensory continuation of femoral nerve supplies the anterior side of proximal 2/3 of leg. And this is all about the sensory innervation of the leg. We can clearly see B should be the duty of saphenous and superficial fibular nerves, and not related to the tibial nerve. Also, E should be handled by the sural nerve, which is already given out in popliteal fossa and unlikely to be affected.\n\nNow we move on to the foot. Deep fibular nerve supplies the only 2 intrinsic foot muscles in dorsum: extensor digitorum brevis and extensor hallucis brevis, and the sensation over 1st interdigital cleft, which is the exact description of C. Superficial fibular nerve supplies most of the dorsum of foot except lateral 0.5 digits, containing D, while only the skin up to medial malleolus is supplied by saphenous nerve. Sural nerve descends to supply the skin of lateral 0.5 digits. The heel and sole is completely innervated by the tibial nerve and A is the correct answer, but we still need to learn more. Tibial nerve first gives off medial calcaneal branch to supply the heel, then divides into medial and lateral plantar nerves to supply most intrinsic muscles of the foot. For sensation of the sole up to tip of toes, medial 3.5 digits is supplied by medial plantar nerve, while the lateral 1.5 is supplied by lateral plantar nerve. Such division is similar to hand, such that 3.5 digits from toe/thumb is supplied by one nerve, while the 1.5 digits from digiti minimi is by another."
+    },
+    "21-22 MEDU2300 Final Q52": {
+      "year": "2021-22",
+      "course": "MEDU2300 Human Structure I",
+      "question_number": 52,
+      "level": "Year 2",
+      "topic": "Lower Limb",
+      "question": "Which of the following tendons of leg muscle provide active support to the medial longitudinal arch of foot?",
+      "options": {
+        "A": "Tendon of extensor hallucis longus",
+        "B": "Fibularis brevis",
+        "C": "Fibularis tertius",
+        "D": "Popliteus",
+        "E": "Tibialis anterior"
+      },
+      "answer": "E",
+      "explanation": "This question is easier by giving the hint that active support is provided by tendon, as the passive support is provided by the ligaments instead.\nMEDIAL longitudinal arch → MEDIAL muscles\nB, C and D are clearly wrong. Extensor hallucis longus runs on dorsum to insert to 1st proximal phalanx, and does not insert to any of tarsal bones, which makes it impossible to provide support to the arch.\nE is correct because it attaches to the medial cuneiform to pull it upwards to maintain the arch. The same works for tibialis posterior and flexor hallucis longus which inserts into medial bones. B is in fact for support of lateral arch.\nC is something you should get into distinction viva if you know. (Now all of you reading this can get into viva!) It is an accessory muscle in the anterior compartment with not much use, and most anatomists classify it as part of extensor digitorum longus."
     }
   }
 }
