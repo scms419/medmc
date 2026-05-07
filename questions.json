@@ -881,7 +881,14 @@
             "13-14 MEDU2400 Final Q36",
             "13-14 MEDU2400 Final Q37",
             "13-14 MEDU2400 Final Q38",
-            "13-14 MEDU2400 Final Q90"
+            "13-14 MEDU2400 Final Q90",
+            "13-14 MEDU2400 Test Q26",
+            "13-14 MEDU2400 Test Q30",
+            "13-14 MEDU2400 Test Q27",
+            "13-14 MEDU2400 Test Q29",
+            "13-14 MEDU2400 Test Q34",
+            "13-14 MEDU2400 Test Q21",
+            "13-14 MEDU2400 Test Q32"
           ],
           "2014-15": [
             "14-15 MEDU2400 Test Q4",
@@ -931,7 +938,12 @@
             "15-16 MEDU2400 Final Q51",
             "15-16 MEDU2400 Final Q43",
             "15-16 MEDU2400 Final Q58",
-            "15-16 MEDU2400 Final Q59"
+            "15-16 MEDU2400 Final Q59",
+            "15-16 MEDU2400 Test Q36",
+            "15-16 MEDU2400 Test Q37",
+            "15-16 MEDU2400 Test Q38",
+            "15-16 MEDU2400 Test Q39",
+            "15-16 MEDU2400 Test Q40"
           ],
           "2016-17": [
             "16-17 MEDU2400 Final Q1",
@@ -973,7 +985,16 @@
             "16-17 MEDU2400 Final Q43",
             "16-17 MEDU2400 Final Q46",
             "16-17 MEDU2400 Final Q49",
-            "16-17 MEDU2400 Final Q52"
+            "16-17 MEDU2400 Final Q52",
+            "16-17 MEDU2400 Test Q35",
+            "16-17 MEDU2400 Final Q18",
+            "16-17 MEDU2400 Final Q20",
+            "16-17 MEDU2400 Final Q22",
+            "16-17 MEDU2400 Test Q36",
+            "16-17 MEDU2400 Final Q21",
+            "16-17 MEDU2400 Test Q39",
+            "16-17 MEDU2400 Final Q19",
+            "16-17 MEDU2400 Test Q40"
           ],
           "2017-18": [
             "17-18 MEDU2400 Final Q1",
@@ -1007,7 +1028,18 @@
             "17-18 MEDU2400 Final Q48",
             "17-18 MEDU2400 Final Q49",
             "17-18 MEDU2400 Final Q50",
-            "17-18 MEDU2400 Final Q51"
+            "17-18 MEDU2400 Final Q51",
+            "17-18 MEDU2400 Test Q35",
+            "17-18 MEDU2400 Test Q36",
+            "17-18 MEDU2400 Test Q37",
+            "17-18 MEDU2400 Final Q18",
+            "17-18 MEDU2400 Test Q38",
+            "17-18 MEDU2400 Final Q19",
+            "17-18 MEDU2400 Test Q39",
+            "17-18 MEDU2400 Test Q40",
+            "17-18 MEDU2400 Test Q41",
+            "17-18 MEDU2400 Final Q20",
+            "17-18 MEDU2400 Final Q22"
           ],
           "2018-19": [
             "18-19 MEDU2400 Test Q21",
@@ -1042,7 +1074,16 @@
             "18-19 MEDU2400 Final Q48",
             "18-19 MEDU2400 Final Q39",
             "18-19 MEDU2400 Final Q56",
-            "18-19 MEDU2400 Final Q57"
+            "18-19 MEDU2400 Final Q57",
+            "18-19 MEDU2400 Test Q35",
+            "18-19 MEDU2400 Test Q36",
+            "18-19 MEDU2400 Test Q37",
+            "18-19 MEDU2400 Final Q18",
+            "18-19 MEDU2400 Test Q38",
+            "18-19 MEDU2400 Test Q39",
+            "18-19 MEDU2400 Test Q40",
+            "18-19 MEDU2400 Test Q41",
+            "18-19 MEDU2400 Final Q19"
           ],
           "2019-20": [
             "19-20 MEDU2400 Test Q21",
@@ -1084,7 +1125,14 @@
             "19-20 MEDU2400 Final Q48",
             "19-20 MEDU2400 Final Q49",
             "19-20 MEDU2400 Final Q50",
-            "19-20 MEDU2400 Final Q58"
+            "19-20 MEDU2400 Final Q58",
+            "19-20 MEDU2400 Final Q20",
+            "19-20 MEDU2400 Sem1 Q41",
+            "19-20 MEDU2400 Final Q19",
+            "19-20 MEDU2400 Final Q21",
+            "19-20 MEDU2400 Final Q17",
+            "19-20 MEDU2400 Sem1 Q40",
+            "19-20 MEDU2400 Final Q18"
           ],
           "2020-21": [
             "20-21 MEDU2400 Test Q21",
@@ -1116,7 +1164,15 @@
             "20-21 MEDU2400 Final Q41",
             "20-21 MEDU2400 Final Q42",
             "20-21 MEDU2400 Final Q49",
-            "20-21 MEDU2400 Final Q50"
+            "20-21 MEDU2400 Final Q50",
+            "20-21 MEDU2400 Sem1 Q36",
+            "20-21 MEDU2400 Final Q19",
+            "20-21 MEDU2400 Sem1 Q35",
+            "20-21 MEDU2400 Sem1 Q37",
+            "20-21 MEDU2400 Sem1 Q38",
+            "20-21 MEDU2400 Sem1 Q40",
+            "20-21 MEDU2400 Sem1 Q39",
+            "20-21 MEDU2400 Final Q22"
           ],
           "2021-22": [
             "21-22 MEDU2400 Final Q2",
@@ -1154,7 +1210,16 @@
             "21-22 MEDU2400 Final Q49",
             "21-22 MEDU2400 Final Q50",
             "21-22 MEDU2400 Final Q60",
-            "21-22 MEDU2400 Final Q58"
+            "21-22 MEDU2400 Final Q58",
+            "21-22 MEDU2400 Test Q35",
+            "21-22 MEDU2400 Final Q17",
+            "21-22 MEDU2400 Test Q37",
+            "21-22 MEDU2400 Final Q51",
+            "21-22 MEDU2400 Test Q39",
+            "21-22 MEDU2400 Final Q19",
+            "21-22 MEDU2400 Test Q20",
+            "21-22 MEDU2400 Test Q21",
+            "21-22 MEDU2400 Test Q38"
           ],
           "2022-23": [
             "22-23 MEDU2400 Test Q21",
@@ -1167,7 +1232,11 @@
             "22-23 MEDU2400 Test Q31",
             "22-23 MEDU2400 Test Q32",
             "22-23 MEDU2400 Test Q33",
-            "22-23 MEDU2400 Test Q34"
+            "22-23 MEDU2400 Test Q34",
+            "22-23 MEDU2400 Test Q35",
+            "22-23 MEDU2400 Test Q36",
+            "22-23 MEDU2400 Test Q37",
+            "22-23 MEDU2400 Test Q38"
           ],
           "unclassified": [
             "Extra MEDU2400 CV Q1",
@@ -1189,7 +1258,16 @@
             "PMDT2 FA2 Q1",
             "Extra MEDU2400 Pharmacology Q4",
             "Extra MEDU2400 Pharmacology Q5",
-            "Extra MEDU2400 Pharmacology Q6"
+            "Extra MEDU2400 Pharmacology Q6",
+            "Extra MEDU2400 GI Q1",
+            "Extra MEDU2400 GI Q2",
+            "Extra MEDU2400 GI Q3",
+            "Extra MEDU2400 GI Q4",
+            "Extra MEDU2400 GI Q5",
+            "Extra MEDU2400 GI Q6",
+            "Extra MEDU2400 GI Q7",
+            "Extra MEDU2400 GI Q8",
+            "Extra MEDU2400 GI Q9"
           ]
         },
         "byTopic": {
@@ -1363,6 +1441,86 @@
             "21-22 MEDU2400 Final Q3",
             "22-23 MEDU2400 Q24",
             "Extra MEDU2400 Ex Q1"
+          ],
+          "GI Physiology": [
+            "15-16 MEDU2400 Test Q36",
+            "16-17 MEDU2400 Test Q35",
+            "16-17 MEDU2400 Final Q18",
+            "17-18 MEDU2400 Test Q35",
+            "17-18 MEDU2400 Test Q36",
+            "18-19 MEDU2400 Test Q35",
+            "20-21 MEDU2400 Sem1 Q36",
+            "20-21 MEDU2400 Final Q19",
+            "21-22 MEDU2400 Test Q35",
+            "21-22 MEDU2400 Final Q17",
+            "22-23 MEDU2400 Test Q35",
+            "22-23 MEDU2400 Test Q36",
+            "Extra MEDU2400 GI Q1",
+            "Extra MEDU2400 GI Q2",
+            "Extra MEDU2400 GI Q3",
+            "13-14 MEDU2400 Test Q26",
+            "13-14 MEDU2400 Test Q30",
+            "15-16 MEDU2400 Test Q37",
+            "15-16 MEDU2400 Test Q38",
+            "16-17 MEDU2400 Final Q20",
+            "17-18 MEDU2400 Test Q37",
+            "17-18 MEDU2400 Final Q18",
+            "19-20 MEDU2400 Final Q20",
+            "20-21 MEDU2400 Sem1 Q35",
+            "Extra MEDU2400 GI Q4",
+            "Extra MEDU2400 GI Q5",
+            "13-14 MEDU2400 Test Q27",
+            "16-17 MEDU2400 Final Q22",
+            "17-18 MEDU2400 Test Q38",
+            "17-18 MEDU2400 Final Q19",
+            "18-19 MEDU2400 Test Q36",
+            "18-19 MEDU2400 Test Q37",
+            "18-19 MEDU2400 Final Q18",
+            "19-20 MEDU2400 Sem1 Q41",
+            "19-20 MEDU2400 Final Q19",
+            "19-20 MEDU2400 Final Q21",
+            "21-22 MEDU2400 Test Q37",
+            "22-23 MEDU2400 Test Q37",
+            "Extra MEDU2400 GI Q6",
+            "Extra MEDU2400 GI Q7",
+            "15-16 MEDU2400 Test Q39",
+            "16-17 MEDU2400 Test Q36",
+            "16-17 MEDU2400 Final Q21",
+            "19-20 MEDU2400 Final Q17",
+            "20-21 MEDU2400 Sem1 Q37",
+            "21-22 MEDU2400 Final Q51",
+            "22-23 MEDU2400 Test Q38",
+            "Extra MEDU2400 GI Q8",
+            "Extra MEDU2400 GI Q9",
+            "13-14 MEDU2400 Test Q29",
+            "13-14 MEDU2400 Test Q34",
+            "15-16 MEDU2400 Test Q40",
+            "16-17 MEDU2400 Test Q39",
+            "16-17 MEDU2400 Final Q19",
+            "17-18 MEDU2400 Test Q39",
+            "18-19 MEDU2400 Test Q38",
+            "20-21 MEDU2400 Sem1 Q38",
+            "20-21 MEDU2400 Sem1 Q40",
+            "21-22 MEDU2400 Test Q39",
+            "21-22 MEDU2400 Final Q19",
+            "13-14 MEDU2400 Test Q21",
+            "13-14 MEDU2400 Test Q32",
+            "16-17 MEDU2400 Test Q40",
+            "17-18 MEDU2400 Test Q40",
+            "17-18 MEDU2400 Test Q41",
+            "17-18 MEDU2400 Final Q20",
+            "17-18 MEDU2400 Final Q22",
+            "18-19 MEDU2400 Test Q39",
+            "18-19 MEDU2400 Test Q40",
+            "18-19 MEDU2400 Test Q41",
+            "18-19 MEDU2400 Final Q19",
+            "19-20 MEDU2400 Sem1 Q40",
+            "19-20 MEDU2400 Final Q18",
+            "20-21 MEDU2400 Sem1 Q39",
+            "20-21 MEDU2400 Final Q22",
+            "21-22 MEDU2400 Test Q20",
+            "21-22 MEDU2400 Test Q21",
+            "21-22 MEDU2400 Test Q38"
           ],
           "Muscle Physiology": [
             "16-17 MEDU2400 Final Q3",
@@ -33944,6 +34102,1320 @@
         "E": "Intracellular lipid droplets at basal cytoplasm"
       },
       "answer": "B",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Test Q36": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Cholecystokinin",
+      "options": {
+        "A": "Inhibits gastric emptying",
+        "B": "Has no structural similarity with gastrin",
+        "C": "released by vagal stimulation",
+        "D": "Stimulates gallbladder relaxation",
+        "E": "is released in response to the presence of acid in duodenum"
+      },
+      "answer": "A",
+      "explanation": "B. CCK has 4 amino acid identities with gastrin in their C-terminal. CCK binds specifically with CCK-A receptors, while both CCK and gastrin can bind onto CCK-B receptors\nC. Gastrin and motilin are stimulated to release by nervous stimulation. CCK is released in the duodenum when there is presence of fat / fatty acids etc.\nD. It stimulates gallbladder contraction\nE. Released in response to peptide, amino acid and fatty acid"
+    },
+    "16-17 MEDU2400 Test Q35": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which one about the GI tract is correct?",
+      "options": {
+        "A": "Endocrine glands are scattered around the submucosa",
+        "B": "GIT is shorter when you are dead",
+        "C": "GIT is 100% smooth muscle cell",
+        "D": "Muscularis mucosae is surrounded by outer circular muscle and inner longitudinal muscle",
+        "E": "None of the above"
+      },
+      "answer": "E",
+      "explanation": "A. Endocrine glands are scattered around the mucosa.\nB. In fact, GIT is shorter when we are alive. This is because our GI tract has basal muscular tone, so that our intestines contract and relax phasically (for segmentation or peristalsis) to mix food, or to move food forward along our GI tract.\nC. There are parts that consist of skeletal muscle, including the upper ? of esophagus, pharynx and our external anal sphincter\nD. It is the muscularis externa that has an inner circular and outer longitudinal smooth muscle layer. In between the two layers, you may find the myenteric plexus."
+    },
+    "16-17 MEDU2400 Final Q18": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following causes pancreatic cholera?",
+      "options": {
+        "A": "Gastrin",
+        "B": "Motilin",
+        "C": "Pancreatic polypeptide",
+        "D": "VIP"
+      },
+      "answer": "D",
+      "explanation": "Functions of VIP:\n- relax sphincters/gut circular muscle\n- stimulate pancreatic/intestinal secretion (pancreatic cholera)\n- Usually the aqueous component of pancreatic secretion\n- regulate blood flow\nAnother name of pancreatic cholera is VIPoma, referring to the abnormally high level of VIP in our body. It causes secretory diarrhea (associated with adenylate cyclase, cAMP, PKA, CFTR, and increased active chloride ions secretion, together with water and sodium ions), as well as flushing (due to vasodilation of vessels near skin surface).\n[Refer to MEDF1012B GI Function lecture for more]"
+    },
+    "17-18 MEDU2400 Test Q35": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following are endocrine secretory cells of GI system?",
+      "options": {
+        "A": "Acinar cell",
+        "B": "Antral G cells",
+        "C": "Chief cells",
+        "D": "Mucous cells",
+        "E": "Parietal cells"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Test Q36": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Secretin:",
+      "options": {
+        "A": "is secreted by stimulation of fatty acid in duodenum",
+        "B": "stimulate bile secretion by liver cells",
+        "C": "inhibit gastric acid secretion by parietal cells",
+        "D": "primarily stimulate release of pancreatic enzymes",
+        "E": "is released from the gastric mucosa"
+      },
+      "answer": "C",
+      "explanation": "A. Fatty acid → acid (DO NOT MIX UP WITH CCK! However, some textbook suggested that fatty acid can also be stimuli, just that long notes didn’t)\nB. No; it only stimulates the pancreatic and biliary HCO3- secretion\nC. Correct. Always remember the secretagogue (Stimulus for release of secretion) always corresponds to the effect of the hormone. Secretin acts to stimulate secretion of aqueous components from pancreatic ductal cells, which matches its secretagogue – Incoming of acidic chyme into duodenum. Secretin also inhibits secretion of HCl in gastric mucosa.\nD. Enzyme → aqueous component\nE. Endocrine S cells in intestinal mucosa"
+    },
+    "18-19 MEDU2400 Test Q35": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Concerning the ENS, which of the following is correct?",
+      "options": {
+        "A": "It has more neurons than the spinal cord",
+        "B": "It does not have its own motor and sensory function",
+        "C": "It contains NANC fibers",
+        "D": "GI peristaltic function is controlled by submucosal nerve plexus",
+        "E": "Myenteric nerve plexus controls local movement and secretion"
+      },
+      "answer": "C",
+      "explanation": "A. According to Google & ChatGPT, this is actually a valid statement. However, C is definitely correct according to lecture notes. Choosing C is safer.\nB. It has. The short reflex proves how the ENS can detect stimuli and produce reflex actions itself.\nC. Correct. ENS has adrenergic, cholinergic and NANC fibers.\nD. Submucosal nerve plexus controls the secretion into the GI lumen. Peristaltic function is mediated by the myenteric plexus.\nE. Submucosal plexus is responsible for that."
+    },
+    "20-21 MEDU2400 Sem1 Q36": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "The GI peptides are",
+      "options": {
+        "A": "all hormones",
+        "B": "Find in nerve of GI tract",
+        "C": "Known to have 1 physiological function per peptide",
+        "D": "present in discrete endocrine organs",
+        "E": "released into the GI lumen"
+      },
+      "answer": "B",
+      "explanation": "A. All GI hormones are peptides, but not all peptides are hormones (E.g. GI peptides can be enzymes)\nB. Can be e.g. VIP\nC. can have more than 1 function\nD. they are secreted by different cells of the same organ → wrong\nE. can be in nerve endings/bloodstream"
+    },
+    "20-21 MEDU2400 Final Q19": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following GI secretions is most stimulated by the sight, smell and taste of food?",
+      "options": {
+        "A": "Biliary secretion",
+        "B": "Gastric secretion",
+        "C": "Intestinal secretion",
+        "D": "Pancreatic secretion",
+        "E": "Salivary secretion"
+      },
+      "answer": "E",
+      "explanation": "This is caused by a conditioned reflex to link up food stimuli with salivary output. These sensory inputs are relayed to superior and inferior salivary nuclei in medulla, which then increases salivary output from salivary glands."
+    },
+    "21-22 MEDU2400 Test Q35": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "GALT (Gut-Associated Lymphoid Tissue)",
+      "options": {
+        "A": "It only consists of lymphoid tissue",
+        "B": "Its overactivation is related to irritable bowel syndrome",
+        "C": "Its function is indistinct with immune system",
+        "D": "Located in the muscularis externa",
+        "E": "Inflammation in mucosa"
+      },
+      "answer": "E",
+      "explanation": "A: It consists of both lymphoid aggregates (Peyer’s patches; lamina propria) and diffuse lymphocytes / intraepithelial lymphocytes (mucosa / submucosa).\nB: Its overreaction is related to INFLAMMATORY bowel diseases (IBD) such as Crohn’s disease or ulcerative colitis. Irritable bowel disease is caused by increased motility in the GI tract, usually associated with emotional stress. Inflammation could occur in IBS due to autoimmune reactions, but it is not the main mechanism causing IBS.\nC. GALT specifically prevents invasion of pathogens via GI tract. It’s functionally and operationally distinct from the SYSTEMIC immune system, but its function is still for immune defense. There are some interactions between the 2 immune systems though.\nD. It is located in the mucosal / submucosal layer.\nE. Its overreaction in response to food or bacterial infection may lead to mucosal inflammation. This is the case for inflammatory bowel diseases.\n(I think this statement is incomplete, but I am likely going to choose E in this case. One version of the question uses “distinct” instead of “indistinct” for option C, which makes it tend to be more correct. However, stick with option E as this is 100% correct.)"
+    },
+    "21-22 MEDU2400 Final Q17": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Gut-associated lymphoid tissue (GALT)",
+      "options": {
+        "A": "consist solely of lymphoid nodules",
+        "B": "is associated with development of irritable bowel syndrome caused by its inappropriate activation",
+        "C": "is functionally indistinct from the systemic immune system",
+        "D": "is located on the muscularis externa of the intestinal mucosa",
+        "E": "Causes inflammation in mucosa"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "22-23 MEDU2400 Test Q35": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Most GI tracts producing secretions remain their basal output during the interdigestive period. However, the sight, smell and taste of food can lead to GI secretion stimulation. Which part of GI secretion is most likely to be stimulated?",
+      "options": {
+        "A": "Biliary secretion",
+        "B": "Gastric secretion",
+        "C": "Intestinal secretion",
+        "D": "Pancreatic secretion",
+        "E": "Salivary secretion"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "22-23 MEDU2400 Test Q36": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "GALT",
+      "options": {
+        "A": "It only consists of lymphoid tissues.",
+        "B": "Its overreaction is related to irritable bowel syndrome.",
+        "C": "Its function is indistinct from the immune system.",
+        "D": "It is located in the muscularis externa.",
+        "E": "Inflammation in mucosa"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU2400 GI Q1": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 1,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following is not a GI hormone?",
+      "options": {
+        "A": "gastrin",
+        "B": "secretin",
+        "C": "GIP",
+        "D": "motilin",
+        "E": "Peptide YY"
+      },
+      "answer": "E",
+      "explanation": "5 GI hormones; gastrin, secretin, CCK, GIP, motilin\nPeptide YY is a candidate hormone only.\nFunction of peptide YY: reduce appetite and limit food intake."
+    },
+    "Extra MEDU2400 GI Q2": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 2,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following about somatostatin is incorrect?",
+      "options": {
+        "A": "It is the only paracrine GI peptide.",
+        "B": "It is secreted by D-cells in the stomach and pancreas.",
+        "C": "It inhibits release of gut hormones and intestinal secretion.",
+        "D": "It inhibits direct acid release from parietal cells.",
+        "E": "Histamine can potentiate its action."
+      },
+      "answer": "E",
+      "explanation": "A. This is an important option because you are likely going to mix up histamine and somatostatin. Note that histamine is also a paracrine agent, but it is not a peptide. Rather, it is converted from an amino acid called histidine. Refer to Nitrogen Metabolism in MMG for details.\nHistamine → stimulate gastric acid release ? potentiate acid secretion by parietal cells with gastrin and ACh"
+    },
+    "Extra MEDU2400 GI Q3": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 3,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following about VIP is incorrect?",
+      "options": {
+        "A": "It is a 28 amino acid peptide.",
+        "B": "It can stimulate pancreatic and intestinal secretion.",
+        "C": "Overproduction of VIP causes achalasia.",
+        "D": "VIPoma results in hypokalemia.",
+        "E": "Somatostatin can counteract the secretion action of VIP and be applied in the treatment of VIPoma."
+      },
+      "answer": "C",
+      "explanation": "C. function of VIP → relaxes sphincter and gut circular muscle\n? insufficient of VIP causes achalasia\nD. VIPoma: VIP secreted by an endocrine tumor arising from pancreas\n→ activate cAMP → secretion of Cl- → loss of Na+ and water\n→ stool loss and hypovolemia-induced aldosterone effect\n? hypokalemia"
+    },
+    "13-14 MEDU2400 Test Q26": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 26,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following about LES is correct?",
+      "options": {
+        "A": "Ethanol increases tone of LES",
+        "B": "Nitric oxide increases tone of LES",
+        "C": "The resting tone of LES is 0 mmHg in a normal person",
+        "D": "There is a positive pressure gradient between stomach and esophagus so that food tends to reflux",
+        "E": "During swallowing, LES closes in response to approach of primary peristaltic wave"
+      },
+      "answer": "D",
+      "explanation": "A. Ethanol decreases the muscle tone of LES.\nB. Nitric oxide is a relaxant.\nC. Resting tone of LES is about 30mmHg.\nD. Refer to the photo below. A negative pressure is set up by the thorax during inspiration.\nE. LES opens. Achalasia takes place otherwise.\n\n![](img/13-14_MEDU2400_Test_Q26_1778129352665.png)"
+    },
+    "13-14 MEDU2400 Test Q30": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 30,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "A lesion results in loss of primary peristalsis in pharynx and upper esophagus. Secondary peristalsis still alright when the lower esophagus distended. Where is the lesion?",
+      "options": {
+        "A": "Enteric neurons",
+        "B": "Pharynx muscles",
+        "C": "Upper esophageal muscle",
+        "D": "Cortical region of brain",
+        "E": "Medulla oblongata of brain"
+      },
+      "answer": "E",
+      "explanation": "Secondary peristalsis is triggered by distention of food bolus. It is activated only when primary peristalsis is insufficient to move the food bolus down the GI tract. Now, primary peristalsis is affected, meaning that the somatic motor supply from CNS should be affected, rather than the enteric motor system.\nThe medulla oblongata controls breathing, blood pressure, heart rhythms and swallowing."
+    },
+    "15-16 MEDU2400 Test Q37": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "GI Smooth muscle contraction can be caused by the following, except",
+      "options": {
+        "A": "Paracrine",
+        "B": "Hormones",
+        "C": "Parasympathetic",
+        "D": "Enteric nerves",
+        "E": "Somatic nerves"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Test Q38": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "The lower esophageal sphincter LES is:",
+      "options": {
+        "A": "prevent air from entering",
+        "B": "Prevents reflux of gastric content",
+        "C": "Ring of thick circular muscle",
+        "D": "is striated muscle",
+        "E": "is primarily under hormonal control"
+      },
+      "answer": "B",
+      "explanation": "A. function is by UES\nC. no thick muscle present, not anatomical sphincter (i.e. physiological sphincter)\nD. not skeletal muscle, so no striation\nE. under influence of vagus and ENS\nNote: Option B is a make-up option."
+    },
+    "16-17 MEDU2400 Final Q20": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Lower esophageal sphincter",
+      "options": {
+        "A": "Contract by ethanol",
+        "B": "Is a distinct thickening of circular muscle",
+        "C": "Prevent entering of gas into esophagus",
+        "D": "Relax before bolus moves down",
+        "E": "Contract by ACh"
+      },
+      "answer": "E",
+      "explanation": "![](img/16-17_MEDU2400_Final_Q20_1778129420935.png)\n\nA. Ethanol relaxes the LES.\nB. The LES is anatomically indistinguishable.\nC. This is UES’s job.\nD. It should relax as the bolus moves down the esophagus.\nE. ACh is a contracting factor of the LES; while VIP and NO are relaxing factors."
+    },
+    "17-18 MEDU2400 Test Q37": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Slow wave in small intestine",
+      "options": {
+        "A": "Determine maximal frequency of contractions",
+        "B": "Spike must occur",
+        "C": "Increase from proximal to distal"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Final Q18": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Regarding achalasia, which of the following is correct?",
+      "options": {
+        "A": "Motility disorder of the colon due to ENS neuropathy",
+        "B": "Motility disorder of the esophagus due to ENS neuropathy caused by parasite infections",
+        "C": "Motility disorder of the esophagus due to functional obstruction of GI smooth muscles",
+        "D": "Motility disorder of the esophagus due to structural obstruction of GI smooth muscles",
+        "E": "Motility disorder of the small intestine due to ENS neuropathy caused by diabetes"
+      },
+      "answer": "C",
+      "explanation": "Achalasia (i.e. Greek word for “failure to relax”) is a primary motility disorder of the esophagus characterized by insufficient lower esophageal sphincter relaxation and loss of esophageal peristalsis, causing functional obstruction at the gastroesophageal junction.\nthe problem lies not with the colon but the LES and not with parasite infection. The problem associated with Type 1 DM and neuropathy is diabetic gastroparesis (excessive gastric emptying)."
+    },
+    "19-20 MEDU2400 Final Q20": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "The function of lower oesophageal sphincter is to control the entry of food bolus into stomach to prevent reflux of gastric content back to the lower oesophagus. Which of the following statements concerning LES is correct?",
+      "options": {
+        "A": "There is a positive pressure gradient between abdomen and thorax that tends to promote reflux of gastric contents into oesophagus.",
+        "B": "LES tone is increased by ethanol",
+        "C": "Abnormally high LES tone leads to GERD",
+        "D": "LES tone is decreased by Ach",
+        "E": "LES can be identified anatomically as a distinct structure"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Sem1 Q35": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 35,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Under normal physiological condition, which of the following structure has the highest concentration of bacteria?",
+      "options": {
+        "A": "Colon",
+        "B": "duodenum",
+        "C": "ileum",
+        "D": "stomach",
+        "E": "jejunum"
+      },
+      "answer": "A",
+      "explanation": "The colon, in contrast, contains the highest microbial density recorded in any habitat on Earth.\nSource: https://en.wikipedia.org/wiki/Gut_microbiota\nWell just a fun fact by seniors. This is caused by the relatively slow transit velocity in the colon and hence allows growth of microbiota there."
+    },
+    "Extra MEDU2400 GI Q4": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 4,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following is correct about layers of GI tract?",
+      "options": {
+        "A": "Submucosa contains myenteric nerve plexus.",
+        "B": "Serosa is inner to muscularis externa.",
+        "C": "Muscularis mucosae is responsible for segmentation and peristalsis of food",
+        "D": "Lamina propria contains GALT.",
+        "E": "Mucosa consists of 5 layers in total: epithelium, lamina propria, muscularis mucosae, submucosa and serosa."
+      },
+      "answer": "D",
+      "explanation": "A. myenteric plexus → found between circular and longitudinal layers of muscularis externa\nB. Serosa is the outermost layer (Recall from histology class)\nC. Muscularis mucosae → muscularis externa\nmuscularis mucosae is for controlling mucosal blood flow and GI secretion\nE. Mucosa consists of 3 layers: epithelium, lamina propria, muscularis mucosae"
+    },
+    "Extra MEDU2400 GI Q5": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 5,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following concerning peristalsis is correct?",
+      "options": {
+        "A": "Substance P leads to contraction above the point of stimulus.",
+        "B": "VIP leads to the relaxation above the point of stimulus",
+        "C": "It is an example of tonic contraction of smooth muscle.",
+        "D": "It is elicited by reduction in distension of GI tract.",
+        "E": "It can serve some mixing functions."
+      },
+      "answer": "A",
+      "explanation": "A. Substance P and ACh can perform this function\nB. VIP → below the point of stimulus 向下推食物\nC. tonic → sphincter; phasic → peristalsis\nD. It is activated by bolus\nE. Only segmentation serves mixing function"
+    },
+    "13-14 MEDU2400 Test Q27": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 27,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Regarding the secretion of gastric acid, which of the following is correct?",
+      "options": {
+        "A": "It is increased with secretin",
+        "B": "Cutting of vagus nerves has a great effect on acid secretion",
+        "C": "Associated with higher blood pH leaving stomach"
+      },
+      "answer": "C",
+      "explanation": "The alkaline tide formed during secretion of HCl pulls NaHCO3 into blood, hence having a rise in pH after leaving the stomach. Indeed the vagus nerve has a role in stimulating HCl secretion, via innervation to parietal cells, ECL cells and G cells. However, the neural pathway is mainly responsible for cephalic phase of HCl secretion (30%), while the majority (60%) is at gastric phase, which is mediated by local short reflex arcs (Hormonal) mainly, with minor involvement of neural control."
+    },
+    "16-17 MEDU2400 Final Q22": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "What will patients with Zollinger-Ellison syndrome (gastrinoma) expect to have?",
+      "options": {
+        "A": "Reduced gastric acid secretion",
+        "B": "Gastric ulcer",
+        "C": "Duodenal ulcer",
+        "D": "G cell hyperplasia"
+      },
+      "answer": "C",
+      "explanation": "Refer to tutorial 2. Mainly because of the gastric mucosal barrier and incomplete neutralization.\nGastric ulcer will not be caused by hypersecretion of HCl, given that the mucosal barrier is not compromised, e.g. use of NSAID. Duodenum does not have such a barrier and will be injured instead of the stomach. Although antral G cells are responsible for gastrin secretion, but for the case of gastrinoma, most manifest as a neuroendocrine tumour of G cells at the pancreas."
+    },
+    "17-18 MEDU2400 Test Q38": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "In a patient with complete absence of gastric parietal cells, which of the following is correct?",
+      "options": {
+        "A": "Decreased gut bacteria",
+        "B": "Drastic decrease in digestion of dietary protein",
+        "C": "Increased absorption of vitamin B12",
+        "D": "Decreased secretion of pancreatic bicarbonate",
+        "E": "Normal functioning of pepsin"
+      },
+      "answer": "D",
+      "explanation": "A. Acids are also a layer of body defense. Without acids, gut bacteria will probably rise.\nB. There are still trypsin and other protease to help\nC. Intrinsic factor is absent for the absorption of vitamin B12 at distal ileum\nD. reduced acid → reduced release secretin → reduced release of pancreatic bicarbonate\nE. Pepsinogen is cleaved by HCl to form pepsin"
+    },
+    "17-18 MEDU2400 Final Q19": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following is seen in gastrinoma?",
+      "options": {
+        "A": "Duodenal ulcer",
+        "B": "Gastric ulcer",
+        "C": "H. Pylori",
+        "D": "Hyposecretion of acid"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Test Q36": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Somatostatin is",
+      "options": {
+        "A": "Released by the duodenum in response to acid",
+        "B": "Released by the duodenum in response to fats",
+        "C": "Released by the duodenum in response to glucose",
+        "D": "Released by the esophagus in response to a meal",
+        "E": "Released by the antrum in response to pH < 3"
+      },
+      "answer": "E",
+      "explanation": "Option A describes secretin instead of somatostatin\nSomatostatin is released by our stomach, while secretin and CCK are duodenal hormones."
+    },
+    "18-19 MEDU2400 Test Q37": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following statements about the Intrinsic Factor is correct?",
+      "options": {
+        "A": "It promotes fat digestion",
+        "B": "It prevents Pernicious anemia",
+        "C": "It is a hormone",
+        "D": "It is secreted from duodenum",
+        "E": "It promotes absorption of Vitamin K"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Final Q18": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "What is inhibited when duodenal lumen is acidified to pH 3?",
+      "options": {
+        "A": "Gastric emptying",
+        "B": "CCK release",
+        "C": "Secretin release",
+        "D": "Bile production",
+        "E": "Pepsinogen release"
+      },
+      "answer": "A",
+      "explanation": "This is the effect of inhibiting gastric emptying by secretin, which is secreted in response to acid in duodenum. This is important to prevent excessive dumping of chyme into duodenum that overwhelms its capacity of digestion and neutralization by pancreatic bicarbonate secretion, causing duodenal ulcer."
+    },
+    "19-20 MEDU2400 Sem1 Q41": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "The proton pump of parietal cells responsible for pumping H+ is an example of",
+      "options": {
+        "A": "ABC transporter",
+        "B": "F-type ATPase",
+        "C": "H-type ATPase",
+        "D": "P-type ATPase",
+        "E": "V-type ATPase"
+      },
+      "answer": "D",
+      "explanation": "Proton pump = H/K-ATPase → P-type ATPase (in MMG)"
+    },
+    "19-20 MEDU2400 Final Q19": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "There are several inhibitory mechanisms that mediate gastric acid secretion. Which of the following is most effective in inhibiting gastric acid secretion in the intestinal phase?",
+      "options": {
+        "A": "Proteins",
+        "B": "Sugars",
+        "C": "Starch",
+        "D": "Fat",
+        "E": "Nucleic acids"
+      },
+      "answer": "B",
+      "explanation": "Best inhibitory factor is acid (Low pH) in duodenum, but fatty acid and glucose can also stimulate GIP secretion to inhibit gastric acid secretion.\nFat is not the best option here as it is different from fatty acid (Fat = solid triacylglycerides). If you look at GI motility P.19, it is “Fat digestion products” that stimulate GIP release.\nIf this question appears again in the exam with the option fatty acids, go for it. Otherwise, choose sugars, which include glucose that is second to fatty acids in stimulating GIP."
+    },
+    "19-20 MEDU2400 Final Q21": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Gastric motility and gastric function are 2 major functions of the stomach. Which of the following is correct?",
+      "options": {
+        "A": "acid secretion is stimulated by secretin.",
+        "B": "acid secretion is inhibited by H+ ions in gastric lumen",
+        "C": "acid secretion is inhibited by gastrin",
+        "D": "gastric emptying is stimulated by CCK",
+        "E": "gastric emptying is stimulated by secretin"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Test Q37": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Acid secretion and motility are two important aspects of gastric function. Which of the following is correct about gastric function?",
+      "options": {
+        "A": "Acid secretion inhibited by gastrin",
+        "B": "Acid secretion inhibited by hydrogen ions in gastric lumen",
+        "C": "Acid secretion stimulated by secretin",
+        "D": "Gastric emptying stimulated by CCK",
+        "E": "Gastric emptying stimulated by acid entering the duodenum"
+      },
+      "answer": "B",
+      "explanation": "This question is just similar to the previous one. The point is that duodenal hormones (Secretin, CCK and GIP) are secreted in response to various contents in the chyme arriving the duodenum, which act as a signal to instruct the stomach to stop discharging more content into duodenum, which is necessary to allow sufficient time for digestion and neutralization of the acidic chyme to protect the duodenum."
+    },
+    "22-23 MEDU2400 Test Q37": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "What is expected of a patient with gastrinoma?",
+      "options": {
+        "A": "Suppressed gastroileal reflex",
+        "B": "An increase in amplitude of slow waves",
+        "C": "Decrease in LES tone",
+        "D": "Suppression of histamine secretion from ECL cells",
+        "E": "Suppression of pepsinogen secretion"
+      },
+      "answer": "B",
+      "explanation": "A. Gastroileal reflex refers to the reflex opening of an ileocolic valve in response to gastric distension after a meal. This accelerates clearance of ileum into the colon for dehydration and production of feces. A is wrong as increased peristalsis should facilitate gastroileal reflex.\nB. ~ Excess acid inhibits gastric lipase activity, also the high acid concentration arriving duodenum will stimulate release of secretin which promotes water and bicarbonate secretions from pancreatic ductal cells. Impaired lipid digestion and increased secretion cause luminal distention in the small intestine, hence stimulating peristalsis by ENS-mediated reflex. B is correct as it helps to increase the number of spikes in smooth muscle potential to increase contractile force.\nC. C is wrong as the effect of peristalsis is only exerted to the region distal to the stomach, not the LES.\nD. In gastrinoma, the high gastrin level will stimulate secretion of histamine, pepsinogen, and HCl from the stomach, so D and E are wrong.\nE. Same as D.\n\nFrom Chat GPT:\nGastrinoma patients show an increased amplitude in slow waves due to the excessive production and secretion of gastrin by the tumor. Gastrin is a hormone that stimulates the secretion of gastric acid by parietal cells in the stomach, and it also has effects on the motility of the gastrointestinal tract.\n\nGastrin stimulates the activity of the migrating motor complex (MMC), which is responsible for the propagation of slow waves in the small intestine. The MMC is a pattern of electrical and muscular activity that helps to propel food through the small intestine and prevent bacterial overgrowth.\n\nIn patients with gastrinoma, the excessive secretion of gastrin leads to an increase in the amplitude of slow waves, which can result in abnormal gastric contractions and impaired gastric emptying. This can contribute to the development of symptoms such as abdominal pain, bloating, and diarrhea.\n\nAdditionally, the increased gastric acid secretion caused by gastrinoma can lead to inflammation and damage to the mucosa of the small intestine, which can further disrupt the normal motility of the gastrointestinal tract and contribute to the symptoms of Zollinger-Ellison syndrome."
+    },
+    "Extra MEDU2400 GI Q6": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 6,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following statement is false?",
+      "options": {
+        "A": "Parietal cell is responsible for the production of intrinsic factors.",
+        "B": "Parietal cells release HCl into gastric lumen via Na/H antiporter.",
+        "C": "Gastric venous blood has a higher pH than atrial blood when it’s in active secretion",
+        "D": "Gastric secretion is mediated by histamine released by ECL-cell in the stomach.",
+        "E": "Gastrin bind to CCK-B receptor to promote acid secretion"
+      },
+      "answer": "B",
+      "explanation": "Releases HCl into gastric lumen via H+/K+ ATPase\nOption C: Note the formation of the alkaline tide. The presence of Cl-/ HCO3- exchanger allows the efflux of HCO3- in exchange for influx of Cl- into the cell."
+    },
+    "Extra MEDU2400 GI Q7": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 7,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following about gastric secretion is correct?",
+      "options": {
+        "A": "Gastrin inhibits gastric secretion.",
+        "B": "GRP inhibits gastric secretion.",
+        "C": "Secretin promotes gastric secretion",
+        "D": "GIP inhibits gastric secretions.",
+        "E": "CCK promotes gastric secretion."
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "15-16 MEDU2400 Test Q39": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "During the cephalic phase of food intake,",
+      "options": {
+        "A": "ACh stimulates pancreatic enzyme secretion",
+        "B": "Secretin stimulates bicarbonate secretion",
+        "C": "CCK stimulates pancreatic enzyme secretion",
+        "D": "Gastrin releasing peptide stimulates parietal cell secretion",
+        "E": "ACh stimulates antral G cells to secrete gastrin"
+      },
+      "answer": "A",
+      "explanation": "Cephalic phase only involve neural control\nD also occur but it’s an indirect stimulation\nE. only stimulate parietal cell but not antral G cells in stomach; in cephalic phase, antral G cells are stimulated by GRP-mediated pathway"
+    },
+    "16-17 MEDU2400 Test Q36": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 36,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "During the stimuli of smell of food and taste (cephalic phase), which of the following secretions is most produced?",
+      "options": {
+        "A": "Salivary secretion",
+        "B": "Gastric secretion",
+        "C": "Pancreatic secretion",
+        "D": "Biliary secretion",
+        "E": "Intestinal secretion"
+      },
+      "answer": "A",
+      "explanation": "Salivary secretion is only stimulated in the cephalic phase. 30% of gastric and 20% of pancreatic secretions are stimulated at the same time. Bile and intestinal secretions are not under any stimulation.\nhttps://courses.lumenlearning.com/boundless-biology/chapter/digestive-system-regulation/"
+    },
+    "16-17 MEDU2400 Final Q21": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Pancreatic exocrine secretion.",
+      "options": {
+        "A": "Contains enzyme for digestion of fat and protein but not carbohydrate",
+        "B": "Contains enzyme that can digest alpha 1-6 glycosidic bond in polysaccharide",
+        "C": "Stimulated primarily by secretin",
+        "D": "Secrete primarily in intestinal phase of the secretory response",
+        "E": "Originate in ductal cell"
+      },
+      "answer": "D",
+      "explanation": "A. Contains\nB. Only contains enzyme that digest alpha-1,4 glycosidic bond\nC. ‘Primary mediator of aqueous component is secretin whose effects are potentiated by CCK/ACh’ (Source: Long Notes P.44 Last Paragraph)\nD. Correct\nE. Originate in acinar cells"
+    },
+    "19-20 MEDU2400 Final Q17": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 17,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "VIPoma is a pancreatic endocrine tumour that cause an overproduction of gut peptide hormones called VIP, thus leading to a clinical condition of pancreatic cholera/watery watery diarrhea. Which of the following signs and symptoms is likely found in a patient with VIPoma?",
+      "options": {
+        "A": "Vasoconstriction",
+        "B": "Bloody stool",
+        "C": "Hypochloremia",
+        "D": "Hyperkalemia",
+        "E": "Hyponatremia"
+      },
+      "answer": "C",
+      "explanation": "For further elaboration, refer to long notes P. 20.\nA. VIP causes vasodilation and hence facial flush.\nB. This will not happen.\nC. VIPoma will cause an increased Cl- secretion through CFTR channels.\nD. Some ions such as sodium and potassium follows Cl- to leave the cells and be secreted into the lumen → Hypokalemia\nE. In fact, hyponatremia is also one of the possible symptoms. Yet, C is more “likely” to be found in a patient."
+    },
+    "20-21 MEDU2400 Sem1 Q37": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 37,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following combinations of stimulation promotes the highest rate of pancreatic bicarbonate secretion?",
+      "options": {
+        "A": "Cholecystokinin and acetylcholine",
+        "B": "Gastrin and somatostatin",
+        "C": "Gastrin and vagal stimulation",
+        "D": "Secretin and cholecystokinin",
+        "E": "Secretin and histamine"
+      },
+      "answer": "D",
+      "explanation": "Secretin is released from S cells when acid is detected into the duodenum. It stimulates the release of bicarbonate ions into the lumen. CCK potentiates the effect on ductal cells. Alternatively, ACh and secretin can also act together, with ACh potentiating the effect of secretin.\nHistamine is not related to pancreatic secretion."
+    },
+    "21-22 MEDU2400 Final Q51": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 51,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which combination can give the highest rate of pancreatic bicarbonate secretion?",
+      "options": {
+        "A": "CCK plus acetylcholine",
+        "B": "Gastrin plus secretin",
+        "C": "Gastrin plus CCK",
+        "D": "Secretin and CCK",
+        "E": "Secretin and histamine"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "22-23 MEDU2400 Test Q38": {
+      "year": "2022-23",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following combinations of stimulation promotes the highest rate of pancreatic bicarbonate secretion?",
+      "options": {
+        "A": "Cholecystokinin and acetylcholine",
+        "B": "Gastrin and somatostatin",
+        "C": "Gastrin and vagal stimulation",
+        "D": "Secretin and cholecystokinin",
+        "E": "Secretin and histamine"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU2400 GI Q8": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 8,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following about salivary secretion is correct?",
+      "options": {
+        "A": "It is regulated by facial and glossopharyngeal nerves.",
+        "B": "Aldosterone increases Na+ content of the saliva.",
+        "C": "Parotid gland is entirely mucous.",
+        "D": "Submandibular gland is the only mixed salivary gland.",
+        "E": "Parasympathetic nerve has stimulatory effect while sympathetic nerve has inhibitory effect."
+      },
+      "answer": "A",
+      "explanation": "A. Cranial nerve IX = Facial nerve; Cranial nerve VII = Glossopharyngeal nerve\nB. Aldosterone and ADH decreases Na but increase K, but they do not regulate secretion (Note: Aldosterone induces thirst)\nC. Entirely mucous → serous (watery)\nD. Sublingual is also mixed, but largely mucous\nE. Both stimulatory\npara: CN7 & 9 → ACh → cAMP → IP3 → Ca2+ → salivary secretion\nsym: T1, T2, T3 to superior cervical ganglion → NE → salivary gland cAMP → IP3 → Ca2+ → stimulate secretion"
+    },
+    "Extra MEDU2400 GI Q9": {
+      "year": "unclassified",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 9,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following concerning pancreatic secretion is correct?",
+      "options": {
+        "A": "Its predominant secretion is in the gastric phase.",
+        "B": "Gastrin increases pancreatic secretion by increasing vagal activity to acinar cells.",
+        "C": "CCK from endocrine S cells stimulate acinar cells to secrete enzymatic components.",
+        "D": "Secretin secreted from endocrine I cells stimulates ductal cells to secrete aqueous components.",
+        "E": "Pancreatic lipase is a major enzymatic component in pancreatic juice."
+      },
+      "answer": "B",
+      "explanation": "A. gastric → intestinal phase\nB. true (5% secretion)\nC. S cells → I cells\nD. I cells → S cells\nE. major component: peptidase e.g. tripsinogen (23.1%); lipase → 0.7% only"
+    },
+    "13-14 MEDU2400 Test Q29": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 29,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Bile acid A has a greater solubility in intestinal fluid than bile acid B. Compared with bile acid B, bile acid A is more likely to be",
+      "options": {
+        "A": "A secondary bile acid",
+        "B": "Absorbed passively in the jejunum",
+        "C": "Unconjugated",
+        "D": "Undissociated",
+        "E": "A trihydroxy rather than a dihydroxy bile acid"
+      },
+      "answer": "E",
+      "explanation": "Solubility of BA increases with the number of hydroxyl groups. Hence, lithocholic acid with only 1 –OH group is least soluble, while cholic acid with 3 –OH groups is the most soluble. E is correct. A is wrong as secondary bile acids are less soluble as they have undergone dehydroxylation by gut bacterial 7 α-dehydroxylase. B is wrong as the less soluble bile acids can be absorbed easily. C is correct but I think both A and B are unconjugated as they are still bile acids. I cannot say if D is correct or not.\n\nConjugated BA is also known as bile salts, which are more soluble than bile acids as they have a lower pKa (At the same pH, more become dissociated and hence more soluble). Conjugation allows less of them to be absorbed in the proximal intestine (As explained above, high solubility does not favor absorption) to better perform their emulsification action. Bacterial deconjugation in later segment of intestine can make them absorbed back into enterohepatic circulation for further use again."
+    },
+    "13-14 MEDU2400 Test Q34": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 34,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Cholestyramine is a resin which binds with bile acid to form a complex. It treats for GI disorders as it:",
+      "options": {
+        "A": "inhibit LDL production",
+        "B": "inhibit gastric acid secretion",
+        "C": "inhibit colonic chloride ion secretion",
+        "D": "inhibit cholesterol synthesis",
+        "E": "inhibit intestinal absorption of cholesterol"
+      },
+      "answer": "E",
+      "explanation": "Refer to MMG [Lecture: Cholesterol Metabolism] Slides.\nCholestyramine acts as a cholesterol-lowering drug by adsorbing bile acids in the intestine, so that it cannot return to the liver via enterohepatic circulation. This removes the inhibition on 7α-hydroxylase, i.e. the rate-limiting enzyme of bile acid production. Hence, more cholesterol will be consumed to replenish the lost bile acids, and hence lowering its level in blood."
+    },
+    "15-16 MEDU2400 Test Q40": {
+      "year": "2015-16",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Regarding conjugation of bile acid like cholic acid binding to glycine, which of the following is correct?",
+      "options": {
+        "A": "makes it more hydrophobic",
+        "B": "converts it to secondary bile acid",
+        "C": "minimize the absorption and the upper intestine",
+        "D": "aids its absorption in the intestinal lumen"
+      },
+      "answer": "C",
+      "explanation": "A. hydrophilic\nB. bile salts; 2?bile acid should be by de-conjugation\nE. this is due to de-conjugation\nThe effect of conjugation is to reduce the pK of bile acids to increase the solubility in the intestine (increase degree of ionization). It is used to increase the micelle-forming properties and reduce uptake in the upper intestine."
+    },
+    "16-17 MEDU2400 Test Q39": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Bile acid A is more soluble in intestinal fluid than bile acid B. Compared to bile acid B, bile acid A is more likely to:",
+      "options": {
+        "A": "Be modified by intestinal bacteria",
+        "B": "Mre so Trihydroxy acid than dihydroxy acid",
+        "C": "More passively absorbed in ileum",
+        "D": "Unconjugated",
+        "E": "Secondary bile acid"
+      },
+      "answer": "B",
+      "explanation": "**question is asking bile acid, not bile salt\n\n![](img/16-17_MEDU2400_Test_Q39_1778130553291.png)"
+    },
+    "16-17 MEDU2400 Final Q19": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "What do you expect to see in a patient with pre-hepatic failure?",
+      "options": {
+        "A": "Elevated conjugated bilirubin",
+        "B": "Hemolysis",
+        "C": "Elevated unconjugated bilirubin"
+      },
+      "answer": "C",
+      "explanation": "In pre-hepatic failure, the breakdown of RBC increases. Thus, unconjugated bilirubin levels are elevated.\nHemolysis is one of the possible causes of pre-hepatic failure, but there are also other reasons that may lead to this issue. Do not mix up the causes and effects."
+    },
+    "17-18 MEDU2400 Test Q39": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Regarding the conjugation of bile acid (e.g. adding of glycine to cholic acid), which of the following is true?",
+      "options": {
+        "A": "It makes bile acid more hydrophobic",
+        "B": "Turns into secondary bile acid",
+        "C": "Limit uptake in upper intestine",
+        "D": "Stimulates secretion of liver",
+        "E": "Promote uptakes in intestinal lumen"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Test Q38": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "A patient is diagnosed with post-hepatic jaundice. Which of the following will the patient present with?",
+      "options": {
+        "A": "Increased rate of hemolysis",
+        "B": "Dark stool",
+        "C": "Increased levels of unconjugated plasma bilirubin",
+        "D": "Gallstone formation",
+        "E": "Liver Failure"
+      },
+      "answer": "D",
+      "explanation": "Jaundice associated with high levels of conjugated bilirubin in adults may occur when bile excretion is blocked by gallstones (post-hepatic or obstructive jaundice)."
+    },
+    "20-21 MEDU2400 Sem1 Q38": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following about stercobilin is true?",
+      "options": {
+        "A": "It is use to conjugate glucuronic acid",
+        "B": "It is used to conjugate plasma albumin",
+        "C": "It is derived from poly heme ring",
+        "D": "It is excreted in faeces",
+        "E": "It is excreted in urine"
+      },
+      "answer": "D",
+      "explanation": "Note that stercobilin is NOT covered in long notes, but in LECTURE NOTES!\nA. The enzyme glucuronyl transferase is used to conjugate glucuronic acid with bilirubin\nB. Not related (the enzyme of this reaction is not included in lectures and long notes)\nC. It is derived from urobilinogen under bacterial action.\nD. Correct\nE. Under normal conditions, the pigment excreted in urine, which derives from urobilinogen, is urobilin."
+    },
+    "20-21 MEDU2400 Sem1 Q40": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Micelle contains:",
+      "options": {
+        "A": "Water-soluble vitamin",
+        "B": "Bilirubin",
+        "C": "Chylomicron",
+        "D": "Cholesterol",
+        "E": "TAG"
+      },
+      "answer": "D",
+      "explanation": "Micelle contains:\n- FAT-soluble vitamins (vitamin A, D, E, K)\n- Bile salts (on the exterior)\n- Fat digestion products (e.g. MAG, fatty acids, cholesterol)"
+    },
+    "21-22 MEDU2400 Test Q39": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Regarding conjugation of bile acid such as cholic acid with glycine, which of the following is correct?",
+      "options": {
+        "A": "Converts into secondary bile acid",
+        "B": "Ensure reuptake by intestinal lumen",
+        "C": "Increase secretion of liver",
+        "D": "Make it more hydrophobic",
+        "E": "Minimize its uptake in upper intestine"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "21-22 MEDU2400 Final Q19": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following about bile pigment is correct?",
+      "options": {
+        "A": "It helps emulsification",
+        "B": "It is made from cholesterol",
+        "C": "It is involved in the formation of micelles",
+        "D": "It is reabsorbed and reused",
+        "E": "It can be dissolved in blood after binding with plasma albumin"
+      },
+      "answer": "E",
+      "explanation": "A part of bile pigment is bilirubin. For simplicity, you can get the answer easily if the question asks about bilirubin.\nIt has no structural similarity with bile salts and only acts as waste product to be excreted, as bile pigment is formed by breakdown of porphyrin ring, while bile salts are formed from cholesterol. Their only common point is that both are present in bile.\nA-D are descriptions of bile salts.\nE is true as bilirubin itself is not very soluble and mostly carried by binding to albumin."
+    },
+    "13-14 MEDU2400 Test Q21": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which transporter used for fructose absorption at the basolateral membrane",
+      "options": {
+        "A": "SGLT 1",
+        "B": "SGLT 2",
+        "C": "GLUT 1",
+        "D": "GLUT 2",
+        "E": "GLUT 5"
+      },
+      "answer": "D",
+      "explanation": "Revise this together with the first lecture on MMG.\nNote that BRUSH BORDER membrane (BBM) is different from BASOLATERAL membrane (BLM).\nAt BBM, SGLT1 is used for absorption of glucose and galactose (together with sodium). GLUT5 is used for facilitated diffusion of fructose.\nAt BLM, ALL sugars enter blood via GLUT5 transporters.\nE is the trickiest option!"
+    },
+    "13-14 MEDU2400 Test Q32": {
+      "year": "2013-14",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 32,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following correctly describes Lysinuric protein intolerance (LPI)?",
+      "options": {
+        "A": "lysine is freely absorbed through the basolateral membrane",
+        "B": "lysine is freely absorbed through the apical membrane.",
+        "C": "it is related to the malabsorption of acidic amino acid at basolateral membrane.",
+        "D": "it is related to the malabsorption of basic amino acid at apical membrane.",
+        "E": "it is related to the malabsorption of neutral amino acid."
+      },
+      "answer": "B",
+      "explanation": "Refer to long notes P. 66\nLysine is a basic amino acid.\nLPI is a rare autosomal recessive disease which affects amino acid transport across the basolateral membrane (BLM).\nWhen we refer to the options, only B is correct."
+    },
+    "16-17 MEDU2400 Test Q40": {
+      "year": "2016-17",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Dietary triglyceride is a very important nutrient. Pancreatic lipase breaks down triglyceride in GI tract into:",
+      "options": {
+        "A": "Cholesterol + fatty acid",
+        "B": "2-monoglyceride + fatty acid",
+        "C": "Glycerol+ fatty acid",
+        "D": "forgot",
+        "E": "forgot"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "17-18 MEDU2400 Test Q40": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Abetalipoproteinemia is due to the mutation of the apo-B gene resulting in defect in synthesis of apoprotein, leading to the inability of formation and secretion of chylomicron. What treatment would you suggest for this genetic disorder?",
+      "options": {
+        "A": "Diet without gluten",
+        "B": "Diet without lactose",
+        "C": "Diet containing fructose",
+        "D": "Diet containing pancreatic enzymes",
+        "E": "Diet containing small and medium size fatty acid"
+      },
+      "answer": "E",
+      "explanation": "Refer to Lecture [Digestion & Absorption I&II] P. 32\nGlycerol, small or medium-chain fatty acids can be DIRECTLY absorbed into the bloodstream via the capillary beds in intestines."
+    },
+    "17-18 MEDU2400 Test Q41": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Absorption of glucose through brush border membrane involves which of the following?",
+      "options": {
+        "A": "Antiport of Na and a.a.",
+        "B": "Facilitated diffusion",
+        "C": "Primary active transport",
+        "D": "Secondary active transport",
+        "E": "Simple diffusion"
+      },
+      "answer": "D",
+      "explanation": "Absorption of glucose in BBM is achieved by SGLT1, which refers to sodium glucose cotransporter (not antiport). Thus, secondary active transport is involved."
+    },
+    "17-18 MEDU2400 Final Q20": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Oral rehydration therapy is usually prescribed to patients who have secretory diarrhea. Which of the following combinations is the most effective?",
+      "options": {
+        "A": "Fructose and saline",
+        "B": "Lactose and saline",
+        "C": "Glucose and saline",
+        "D": "Sucrose and saline",
+        "E": "Starch and saline"
+      },
+      "answer": "C",
+      "explanation": "Note that glucose, amino acids, saline etc. are all osmotically active molecules. In patients with secretory diarrhea, SGLT1 is not affected. Increased glucose consumption can promote sodium and water intake as well."
+    },
+    "17-18 MEDU2400 Final Q22": {
+      "year": "2017-18",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following condition is likely to be found in a patient who has just undergone gastrectomy (removal of stomach)",
+      "options": {
+        "A": "deficiency of vitamin B12",
+        "B": "deficiency of K",
+        "C": "duodenal ulcer",
+        "D": "hyperlipidemia",
+        "E": "hypercholesterolemia"
+      },
+      "answer": "A",
+      "explanation": "Upon removal of the stomach, there will not be parietal cells that secrete intrinsic factors. Absorption of vitamin B12 in terminal ileum is affected.\nNote that option C-E are made up options."
+    },
+    "18-19 MEDU2400 Test Q39": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Which of the following correctly describes lysinuric protein intolerance?",
+      "options": {
+        "A": "Lysine is freely absorbed through the basolateral membrane",
+        "B": "Lysine is freely absorbed through the apical membrane.",
+        "C": "It is related to the malabsorption of acidic amino acid.",
+        "D": "It is related to the malabsorption of basic amino acid.",
+        "E": "It is related to the malabsorption of neutral amino acid."
+      },
+      "answer": "B",
+      "explanation": "Histidine (basic) absorption is not affected"
+    },
+    "18-19 MEDU2400 Test Q40": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Abetalipoproteinemia is due to the mutation of the apo-B gene resulting in defect in synthesis of apoprotein, leading to the inability of formation and secretion of chylomicron. What treatment would you suggest for this genetic disorder?",
+      "options": {
+        "A": "Diet without gluten",
+        "B": "Diet without lactose",
+        "C": "Diet containing fructose",
+        "D": "Diet containing pancreatic enzymes",
+        "E": "Diet containing small and medium-chain fatty acids"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Test Q41": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 41,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "How does glucose pass through the basolateral membrane?",
+      "options": {
+        "A": "By co-transport via symporter",
+        "B": "By co-transport via antiporter",
+        "C": "Facilitated diffusion",
+        "D": "Simple diffusion",
+        "E": "Primary active transport"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "18-19 MEDU2400 Final Q19": {
+      "year": "2018-19",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 19,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Oral rehydration solution is effective in treating (secretory?) diarrhea. Which of the following combined with NaCl is most effective ORS?",
+      "options": {
+        "A": "Amino acid",
+        "B": "Galactose",
+        "C": "Glucose",
+        "D": "Fatty acid",
+        "E": "Sucrose"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "19-20 MEDU2400 Sem1 Q40": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 40,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Pernicious anaemia",
+      "options": {
+        "A": "increase acid secretion",
+        "B": "bile acid",
+        "C": "increase vitamin B12 storage in the liver",
+        "D": "megaloblastic anemia",
+        "E": "low gastrin"
+      },
+      "answer": "D",
+      "explanation": "Refer to long notes P. 38.\nThe symptoms of B12 deficiency do not appear over a period of years because B12 can be stored in the liver for several years. Patients with PA develop a megaloblastic anemia, in which the circulating red blood cells are enlarged."
+    },
+    "19-20 MEDU2400 Final Q18": {
+      "year": "2019-20",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 18,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Enterokinase is a membrane-bound enzyme which is anchored to the brush border of duodenal epithelium. Which of the following statements concerning the function of enterokinase is correct?",
+      "options": {
+        "A": "it is directly responsible for the action of amylase",
+        "B": "it is directly responsible for the action of pepsinogen",
+        "C": "it is directly responsible for the action of cholecystokinin",
+        "D": "it is directly responsible for the action of trypsinogen",
+        "E": "it is directly responsible for the action of co-lipase"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Sem1 Q39": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 39,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Different glucose transporters are responsible for transporting different types of glucose. Which glucose transporter is responsible for transporting fructose?",
+      "options": {
+        "A": "GLUT2",
+        "B": "GLUT4",
+        "C": "GLUT5",
+        "D": "SLUT1",
+        "E": "SLUT2"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "20-21 MEDU2400 Final Q22": {
+      "year": "2020-21",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 22,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "K+ absorption from gastrointestinal lumen is by:",
+      "options": {
+        "A": "Active process",
+        "B": "Active and passive process",
+        "C": "Coupling with H+",
+        "D": "Coupling with Na+",
+        "E": "Passive process"
+      },
+      "answer": "E",
+      "explanation": "I think this question is quite hard to explain given that the water and electrolyte absorption in GI tract is not so clearly delineated. I will try to explain it with reference to renal mechanisms (Which is much well taught by Prof. Ko) here. I think this is too long to be covered and you can just read before doing the question.\n\nFor jejunum, it is just like PCT doing Na-solute reabsorption and bicarbonate trapping, i.e. Na-solute cotransporters and NHE3 predominate to reabsorb Na and bicarbonate. The bicarbonate is not directly absorbed, but instead binds to H+ secreted by NHE3 and converted to CO2 by CA in mucosa for diffusion back to enterocyte, then new bicarbonate is reabsorbed via basolateral transporter. I will skip the details as you can simply refer to renal physiology notes. This creates great osmotic pressure and water will follow the solutes to be reabsorbed via the leaky tight channels (Transcellular, like duodenum). K+ and Cl- follows water due to solvent drag. But in terms of active process, NaHCO3 is actively reabsorbed.\n\nFor ileum, extra Cl/bicarbonate exchanger is expressed on apical membrane and basolateral bicarbonate transporter is changed into Cl transporter. This allows net Cl- reabsorption instead of bicarbonate, while bicarbonate and H+ are utilised to maintain the reabsorption. Little K+ follows water to be absorbed via transcellular route, due to the much tighter junctions. NaCl is actively reabsorbed here.\n\nFor colon, it is just like the principal cells. Na/K-ATPase maintains the driving force, while Na+ is reabsorbed, K+ is secreted via epitheilal channels (ENaC, EKC). Cl-/bicarbonate exchanger continues to work to absorb Na and excrete bicarbonate. NaCl is reabsorbed, while KHCO3 is massively secreted. Actually, aldosterone can also act here to increase K+ secretion and Na+ reabsortpion besides kidney, and of course it is just a fun fact for you!\n\nHowever, do not forget intestinal crypt cells are secreting instead of reabsorbing fluid. They possess apical CFTR channels to secrete Cl- into lumen, then Na and water follows via paracellular route. The driving force is maintained by NKCC2 and Na/K-ATPase on basolateral membrane. It is noteworthy that CFTR is activated by cAMP, while Gs receptors are present for VIP to promote secretion. This explains why VIPoma causes secretory diarrhea by massively raising fluid secretion. Hypochloremia and metabolic acidosis commence, and the volume contraction will cause hypokalemia by increasing Na retention and K secretion by RAAS. The increased distal fluid flow to colon will also facilitate K secretion and Na absorption similarly like the case in late DCT principal cells.\n\nThroughout the entire transit, you can assume most NaCl are reabsorbed, while water follows passively to maintain an isosmotic reabsorption (Like PCT) throughout the GI tract. KHCO3 is left, and also actively secreted in colon. K+ reabsorption has never been active in intestine (But not in kidneys, as α-intercalated cells do this), while secretion does. Meanwhile, Na reabsorption is always active.\n\nI would say renal reabsorption and GI absorption of electrolyte and balance are quite similar, and it also shows the great order of human function, such that similar arrangements are responsible for performing similar functions. Integrating concepts from different chapters is always the key to mastering physiology."
+    },
+    "21-22 MEDU2400 Test Q20": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 20,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Hartnup's disease patients fed with dipeptide and tripeptide with tryptophan improves clinical condition because",
+      "options": {
+        "A": "Dipeptides and tripeptides can be taken up passively by enterocytes in small intestine",
+        "B": "Dipeptides and tripeptides can be taken up passively by colon",
+        "C": "Dipeptides and tripeptides are taken up by different transporters"
+      },
+      "answer": "C",
+      "explanation": "You will need to know details of Hartnup’s disease for both HUF1 and MMG."
+    },
+    "21-22 MEDU2400 Test Q21": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 21,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Oral rehydration solution which is most effective?",
+      "options": {
+        "A": "Na + fructose",
+        "B": "Na + glucose",
+        "C": "Na + lactose",
+        "D": "Na + starch",
+        "E": "Na + sucrose"
+      },
+      "answer": "B",
+      "explanation": "If the question makes a twist, Na + galactose is as effective as Na + glucose."
+    },
+    "21-22 MEDU2400 Test Q38": {
+      "year": "2021-22",
+      "course": "MEDU2400 Human Function I",
+      "question_number": 38,
+      "level": "Year 2",
+      "topic": "GI Physiology",
+      "question": "Pernicious anemia is an autoimmune disease, which is associated with the presence of circulating antibodies against gastric mucosa cells, notably parietal cells of the stomach. Which of the following conditions would most likely be found in a patient with pernicious anemia?",
+      "options": {
+        "A": "High output of gastric acid",
+        "B": "Increased return of bile acids from distal ileum to the liver",
+        "C": "Increased storage of vitamin B12 in the liver",
+        "D": "Large number of megaloblasts in blood",
+        "E": "Low plasma levels of gastrin"
+      },
+      "answer": "D",
       "explanation": ""
     }
   }
