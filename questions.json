@@ -4066,14 +4066,20 @@
           "2014-15": [
             "14-15 MEDU3400 Final Q2",
             "14-15 MEDU3400 Final Q28",
-            "14-15 MEDU3400 Final Q31"
+            "14-15 MEDU3400 Final Q31",
+            "14-15 MEDU3400 Final Q8",
+            "14-15 MEDU3400 Final Q52"
           ],
           "2016-17": [
             "16-17 MEDU3400 Test Q44",
             "16-17 MEDU3400 Test Q45",
             "16-17 MEDU3400 Final Q39",
             "16-17 MEDU3400 Test Q47",
-            "16-17 MEDU3400 Test Q48"
+            "16-17 MEDU3400 Test Q48",
+            "16-17 MEDU3400 Test Q13",
+            "16-17 MEDU3400 Test Q49",
+            "16-17 MEDU3400 Test Q50",
+            "16-17 MEDU3400 Final Q38"
           ],
           "2017-18": [
             "17-18 MEDU3400 Test Q44",
@@ -4081,35 +4087,51 @@
             "17-18 MEDU3400 Final Q35",
             "17-18 MEDU3400 Test Q46",
             "17-18 MEDU3400 Test Q47",
-            "17-18 MEDU3400 Final Q36"
+            "17-18 MEDU3400 Final Q36",
+            "17-18 MEDU3400 Test Q48",
+            "17-18 MEDU3400 Final Q37",
+            "17-18 MEDU3400 Test Q49",
+            "17-18 MEDU3400 Final Q38"
           ],
           "2018-19": [
             "18-19 MEDU3400 Final Q34",
             "18-19 MEDU3400 Test Q44",
             "18-19 MEDU3400 Final Q35",
             "18-19 MEDU3400 Test Q45",
-            "18-19 MEDU3400 Final Q36"
+            "18-19 MEDU3400 Final Q36",
+            "18-19 MEDU3400 Test Q46",
+            "18-19 MEDU3400 Test Q47",
+            "18-19 MEDU3400 Test Q48",
+            "18-19 MEDU3400 Final Q37"
           ],
           "2019-20": [
             "19-20 MEDU3400 Test Q46",
             "19-20 MEDU3400 Test Q48",
             "19-20 MEDU3400 Final Q35",
             "19-20 MEDU3400 Test Q47",
-            "19-20 MEDU3400 Final Q36"
+            "19-20 MEDU3400 Final Q36",
+            "19-20 MEDU3400 Final Q37",
+            "19-20 MEDU3400 Test Q50"
           ],
           "2020-21": [
             "20-21 MEDU3400 Final Q35",
             "20-21 MEDU3400 Test Q44",
             "20-21 MEDU3400 Test Q45",
             "20-21 MEDU3400 Final Q31",
-            "20-21 MEDU3400 Final Q49"
+            "20-21 MEDU3400 Final Q49",
+            "20-21 MEDU3400 Test Q47",
+            "20-21 MEDU3400 Final Q38",
+            "20-21 MEDU3400 Test Q46"
           ],
           "2021-22": [
             "21-22 MEDU3400 Test Q44",
             "21-22 MEDU3400 Test Q45",
             "21-22 MEDU3400 Final Q36",
             "21-22 MEDU3400 Test Q46",
-            "21-22 MEDU3400 Test Q47"
+            "21-22 MEDU3400 Test Q47",
+            "21-22 MEDU3400 Test Q48",
+            "21-22 MEDU3400 Final Q37",
+            "21-22 MEDU3400 Final Q39"
           ],
           "2022-23": [
             "22-23 MEDU3400 Test Q41",
@@ -4117,14 +4139,20 @@
             "22-23 MEDU3400 Final Q50",
             "22-23 MEDU3400 Final Q51",
             "22-23 MEDU3400 Test Q43",
-            "22-23 MEDU3400 Final Q52"
+            "22-23 MEDU3400 Final Q52",
+            "22-23 MEDU3400 Test Q44",
+            "22-23 MEDU3400 Final Q53",
+            "22-23 MEDU3400 Final Q54",
+            "22-23 MEDU3400 Final Q55"
           ],
           "2023-24": [
             "23-24 MEDU3400 Test Q42",
             "23-24 MEDU3400 Test Q43",
             "23-24 MEDU3400 Final Q49",
             "23-24 MEDU3400 Final Q50",
-            "23-24 MEDU3400 Test Q44"
+            "23-24 MEDU3400 Test Q44",
+            "23-24 MEDU3400 Test Q45",
+            "23-24 MEDU3400 Final Q56"
           ],
           "2024-25": [
             "24-25 MEDU3400 Test Q37",
@@ -4134,7 +4162,11 @@
             "24-25 MEDU3400 Final Q53",
             "24-25 MEDU3400 Final Q52",
             "24-25 MEDU3400 Final Q57",
-            "24-25 MEDU3400 Final Q54"
+            "24-25 MEDU3400 Final Q54",
+            "24-25 MEDU3400 Test Q39",
+            "24-25 MEDU3400 Final Q55",
+            "24-25 MEDU3400 Test Q40",
+            "24-25 MEDU3400 Final Q56"
           ],
           "2025-26": [
             "25-26 MEDU3400 Test Q39",
@@ -4225,7 +4257,22 @@
             "Extra MEDU3400 Repro Q40",
             "Extra MEDU3400 Repro Q41",
             "Extra MEDU3400 Repro Q42",
-            "Extra MEDU3400 Repro Q43"
+            "Extra MEDU3400 Repro Q43",
+            "Extra MEDU3400 Repro Q45",
+            "Extra MEDU3400 Repro Q46",
+            "Extra MEDU3400 Repro Q47",
+            "Extra MEDU3400 Repro Q48",
+            "Extra MEDU3400 Repro Q49",
+            "Extra MEDU3400 Repro Q50",
+            "Extra MEDU3400 Repro Q51",
+            "Extra MEDU3400 Repro Q52",
+            "Extra MEDU3400 Repro Q53",
+            "Extra MEDU3400 Repro Q54",
+            "Extra MEDU3400 Repro Q55",
+            "Extra MEDU3400 Repro Q56",
+            "Extra MEDU3400 Repro Q57",
+            "Extra MEDU3400 Repro Q58",
+            "Extra MEDU3400 Repro Q59"
           ]
         },
         "byTopic": {
@@ -4371,7 +4418,54 @@
             "22-23 MEDU3400 Final Q52",
             "23-24 MEDU3400 Test Q44",
             "24-25 MEDU3400 Final Q54",
-            "Extra MEDU3400 Repro Q44"
+            "Extra MEDU3400 Repro Q44",
+            "Extra MEDU3400 Repro Q45",
+            "Extra MEDU3400 Repro Q46",
+            "Extra MEDU3400 Repro Q47",
+            "Extra MEDU3400 Repro Q48",
+            "Extra MEDU3400 Repro Q49",
+            "Extra MEDU3400 Repro Q50",
+            "Extra MEDU3400 Repro Q51",
+            "14-15 MEDU3400 Final Q8",
+            "14-15 MEDU3400 Final Q52",
+            "16-17 MEDU3400 Test Q13",
+            "16-17 MEDU3400 Test Q49",
+            "16-17 MEDU3400 Test Q50",
+            "16-17 MEDU3400 Final Q38",
+            "17-18 MEDU3400 Test Q48",
+            "17-18 MEDU3400 Final Q37",
+            "18-19 MEDU3400 Test Q46",
+            "18-19 MEDU3400 Test Q47",
+            "18-19 MEDU3400 Test Q48",
+            "18-19 MEDU3400 Final Q37",
+            "19-20 MEDU3400 Final Q37",
+            "20-21 MEDU3400 Test Q47",
+            "20-21 MEDU3400 Final Q38",
+            "21-22 MEDU3400 Test Q48",
+            "21-22 MEDU3400 Final Q37",
+            "22-23 MEDU3400 Test Q44",
+            "22-23 MEDU3400 Final Q53",
+            "22-23 MEDU3400 Final Q54",
+            "22-23 MEDU3400 Final Q55",
+            "23-24 MEDU3400 Test Q45",
+            "24-25 MEDU3400 Test Q39",
+            "24-25 MEDU3400 Final Q55",
+            "Extra MEDU3400 Repro Q52",
+            "Extra MEDU3400 Repro Q53",
+            "Extra MEDU3400 Repro Q54",
+            "Extra MEDU3400 Repro Q55",
+            "Extra MEDU3400 Repro Q56",
+            "Extra MEDU3400 Repro Q57",
+            "Extra MEDU3400 Repro Q58",
+            "17-18 MEDU3400 Test Q49",
+            "17-18 MEDU3400 Final Q38",
+            "19-20 MEDU3400 Test Q50",
+            "20-21 MEDU3400 Test Q46",
+            "21-22 MEDU3400 Final Q39",
+            "23-24 MEDU3400 Final Q56",
+            "24-25 MEDU3400 Test Q40",
+            "24-25 MEDU3400 Final Q56",
+            "Extra MEDU3400 Repro Q59"
           ]
         }
       }
@@ -39087,7 +39181,7 @@
       "question_number": 49,
       "level": "Year 3",
       "topic": "Reproductive Physiology",
-      "question": "Which of the following graph closely matches progesterone during pregnancy? \n\n\n\n(by radi 23)",
+      "question": "Which of the following graph closely matches progesterone during pregnancy? \n\n![](img/20-21_MEDU3400_Final_Q49_1795613796645.png)\n\n(by radi 23)",
       "options": {
         "A": "A",
         "B": "B",
@@ -39096,7 +39190,7 @@
         "E": "E"
       },
       "answer": "E",
-      "explanation": "Progesterone level exhibits a biphasic pattern just like E2 during a menstrual cycle. The first rise is due to secretion from corpus luteum under maintenance of hCG secreted by placenta. However, during the shift of progesterone source from corpus luteum to placenta, there will be a slight dip of progesterone level. Then progesterone will continue to rise throughout the pregnancy.\n\nA is matching the level of hCG, which shows an initial rise and peaks at week 10, then drops to very low level after degeneration of corpus luteum. B is estrogen or prolactin that keeps increasing throughout pregnancy. C and D are quite similar and could be level of hPL, which increases and plateaus near the end of pregnancy."
+      "explanation": "Progesterone level exhibits a biphasic pattern just like E2 during a menstrual cycle. The first rise is due to secretion from corpus luteum under maintenance of hCG secreted by placenta. However, during the shift of progesterone source from corpus luteum to placenta, there will be a slight dip of progesterone level. Then progesterone will continue to rise throughout the pregnancy.\n\nA is matching the level of hCG, which shows an initial rise and peaks at week 10, then drops to very low level after degeneration of corpus luteum. B is estrogen or prolactin that keeps increasing throughout pregnancy. C and D are quite similar and could be level of hPL, which increases and plateaus near the end of pregnancy.\n\n![](img/20-21_MEDU3400_Final_Q49_1795613807140.png)\n![](img/20-21_MEDU3400_Final_Q49_1795613811869.png)\n![](img/20-21_MEDU3400_Final_Q49_1795613817637.png)"
     },
     "21-22 MEDU3400 Test Q47": {
       "year": "2021-22",
@@ -39196,7 +39290,801 @@
         "C": "Foetal oxygenated blood facilitates unloading of CO2 to maternal blood"
       },
       "answer": "C",
-      "explanation": "Sertoli does:"
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q45": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 45,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Maternal blood volume in a normal pregnancy:",
+      "options": {
+        "A": "Remains unchanged",
+        "B": "Decreases 10%",
+        "C": "Increases 10%",
+        "D": "Decreases up to 30%",
+        "E": "Increases up to 30%"
+      },
+      "answer": "E",
+      "explanation": "This is due to the effect of estrogen during pregnancy. Estrogen decreases the osmotic threshold for ADH secretion from hypothalamus. Estrogen also stimulates water and sodium retention in renal tubules to raise blood volume."
+    },
+    "Extra MEDU3400 Repro Q46": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 46,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which one of the following does NOT represent physiologic changes that occur during pregnancy?",
+      "options": {
+        "A": "A decrease in haematocrit.",
+        "B": "A decrease in plasma level of bicarbonate.",
+        "C": "An increase in plasma level of free fatty acids.",
+        "D": "The presence of proteinuria.",
+        "E": "The presence of glucosuria."
+      },
+      "answer": "D",
+      "explanation": "Mild proteinuria does occur in pregnancy. Glucosuria is still abnormal despite that pregnant women has reduced Tm for glucose."
+    },
+    "Extra MEDU3400 Repro Q47": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 47,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following regarding thyroid function during pregnancy is true?",
+      "options": {
+        "A": "Maternal thyroxine-binding globulin levels decreases.",
+        "B": "Maternal total thyroxine levels decreases.",
+        "C": "Maternal free thyroxine levels increases.",
+        "D": "Propylthiouracil can cross the placenta.",
+        "E": "Maternal anti-thyroid antibodies cannot cross the placenta."
+      },
+      "answer": "D",
+      "explanation": "In the first trimester, there is significant amount of maternal T4 transfer to fetus via placenta to support embryogenesis and maturation of fetal CNS. During second to third trimester, minor maternal T4 transfer also helps meet the T4 demand for fetal growth and CNS development. This explains why iodine insufficiency of pregnant mother will cause neontal hypothyroidism and neurodeveleopmental defects. Antithyroid drugs can cross placenta to cause fetal hypothyroidism and may cause teratogenic effects, e.g. aplasia cutis congenita. Propylthiouracil is preferred in the first trimester as it has higher binding to albumin to prevent leakage to fetus. Maternal IgG antibodies can cross the placenta, which is responsible for most immune reactions including auto-immune disorders (e.g. Graves, Hashimoto).\n\nThe high estradiol level during pregnancy induces synthesis of thyroxine binding globulin (TBG), which causes increase in total thyroxine level. Despite there will be a transient drop in T4 level, the normal maternal hypothalamus-pituitary-thyroid axis will soon rectify it to resume euthyroidism.\n\nOfficial answer from Prof. Simon Au:\nPropylthiouracil (PTU) is preferred over methimazole (MTZ) and carbimazole (CMZ) in the treatment of hyperthyroidism in pregnant women. Yet like other thioamides (MTZ, CMZ), PTU can cross the placenta (less so than others) and may block the synthesis of thyroid hormones in the fetus. The lower thyroid hormone stimulates increased TSH production, which can cause goiter and tracheal obstruction in the fetus. If the low thyroid hormone level persists even after birth, brain development of the newborn during the critical period could be adversely affected, resulting in cretinism. MTZ is associated with the increased risk of aplasia cutis congenita, especially at scalp."
+    },
+    "Extra MEDU3400 Repro Q48": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 48,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In pregnancy there is a decrease in:",
+      "options": {
+        "A": "Renal plasma flow.",
+        "B": "Glomerular filtration rate.",
+        "C": "Plasma creatinine concentration.",
+        "D": "Plasma renin activity.",
+        "E": "Plasma aldosterone level."
+      },
+      "answer": "C",
+      "explanation": "Estrogen stimulates renin and angiotensinogen production, which increases the activity of RAAS to bring about its effect in causing sodium and water retenion, so A, D and E are increased. Vasodilatory action of relaxin and progesterone also helps increase RPF. GFR increase due to increase in RPF and lower plasma oncotic pressure due to diluting effect of volume expansion. So, plasma urea and creatinine decrease due to the increase in GFR.\n\nOfficial answer from Prof. Simon Au:\nPlasma creatinine concentration decreases due to increased glomerular filtration rate. Renin release from the kidney (and other sites: uterus and placenta) increases and this is stimulated by estrogen, decreased blood pressure and antagonizing effect of progesterone on aldosterone feedback. Aldosterone increases due to higher activity of the renin-angiotensin system."
+    },
+    "Extra MEDU3400 Repro Q49": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 49,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The increase in cardiac output in pregnancy:",
+      "options": {
+        "A": "Results from an increase in stroke volume.",
+        "B": "Results from an increase in heart rate.",
+        "C": "Results from increases in stroke volume and heart rate.",
+        "D": "Occurs mainly in the 3rd trimester.",
+        "E": "Is caused by maternal peripheral vasodilation."
+      },
+      "answer": "C",
+      "explanation": "SV increases due to increased venous return, as plasma volume increases due to estrogen and relaxin effects. The vasodilatory action of progesterone, estrogen and relaxin decreases TPR, which is enhanced by the decreased blood viscosity as there is a greater volume expansion in plasma than RBC, despite increased erythropoisis stimulated by erythropoietin. Drop in TPR decreases MAP and causes HR to raise. There will be both increase in HR and SV to raise CO, hence restoring MAP. Those changes are most prominent in 2nd and 3rd trimesters. E is correct but cannot directly explain the rise in CO. Recall that CO = HR x SV."
+    },
+    "Extra MEDU3400 Repro Q50": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 50,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "During normal pregnancy, there is an increase in:",
+      "options": {
+        "A": "Arterial PCO2",
+        "B": "Venous PO2",
+        "C": "Plasma bicarbonate concentration",
+        "D": "Plasma base excess",
+        "E": "Blood pH"
+      },
+      "answer": "E",
+      "explanation": "High progesterone stimulates hyperventilation by increasing the sensitivity of respiratory centre to PaCO2. Minute ventilation increases by 30-50% mainly by the rise in tidal volume, and less importantly the increase in respiratory rate. PaCO2 is decreased to 30 mmHg, while PO2 is not much changed or even decreased due to increased consumption by the fetus. This causes respiratory alkalosis if left unchecked, hence renal excretion of bicarbonate increases as compensation. Plasma base excess means the amount of strong acid required to neutralise blood back to pH 7.40. Respiratory acid/base disturbance usually does not affect plasma base excess/deficit as the changes are self-limiting and corrected, compared with metabolic disturbances that involve exogenous acid or base excess. The only possible answer is E. However, Prof. Simon Au also stated in his slides that blood pH is still within normal range. But it is also possible to elevated but still within 7.35-7.45... So, I think E is still a correct and reasonable answer.\n\nOfficial answer from Prof. Simon Au:\nBlood pH increases due to respiratory alkalosis caused by hyperventilation. Arterial PCO2 falls due to hyperventilation. Venous PO2 falls slightly due to increased extraction of oxygen by the fetus. Plasma bicarbonate concentration decreases due to renal compensation in response to respiratory alkalosis. There should be no change in base excess since there is no metabolic component in the alkalosis."
+    },
+    "Extra MEDU3400 Repro Q51": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 51,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Pregnant woman with poorly controlled GDM. Which of the following values of her baby will be lower than normal newborns after birth?",
+      "options": {
+        "A": "Crown-rump length",
+        "B": "Plasma glucose level",
+        "C": "Ventilation rate",
+        "D": "Bilirubin level",
+        "E": "Hematocrit"
+      },
+      "answer": "B",
+      "explanation": "A is wrong as gestational DM causes macrosomia in neonates. B is correct as fetal hyperglycemia causes hyperinsulinemia, impairing glycogen storage in the fetus. Once the newborn has depleted plasma glucose shortly after birth, there is no glycogen storage can be mobilised, thus leading to hypoglycemia. C is irrelevant. D is correct (wrong) as fetal hyperglycemia triggers RBC production, and their turnover causes bilirubinemia (i.e. bilirubin levels should be higher). E is correct (wrong) as explained above."
+    },
+    "14-15 MEDU3400 Final Q8": {
+      "year": "2014-15",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 8,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Pregnant woman with poorly controlled gestational DM. Which of the following values of her baby will be lower than normal newborns after birth?",
+      "options": {
+        "A": "Crown-rump length",
+        "B": "Plasma glucose level",
+        "C": "Ventilation rate",
+        "D": "Bilirubin level",
+        "E": "Haematocrit"
+      },
+      "answer": "B",
+      "explanation": "This is quite paradoxical but can be explained easily. Gestational DM increases glucose supply to the fetus and increases his insulin level. However, after birth, the remained high insulin level (Hyperinsulinemia) will rapidly cause hypoglycemia. Crown-rump length refers to the body length from head to the hip. As gestational DM causes macrosomia due to excess energy input to fetus, there will be an increase in crown-rump length. Fetal hyperinsulinemia and hyperglycemia raises the basal metabolic rate and oxygen consumption, hence erythryopoietin is induced to increase RBC production (Polycythemia), increasing hematocrit. During labour, the fetus may encounter some trauma and will have increased vascular sludging (Intravascular hemolysis) and extravascular hemolysis (Bruising). These hemolysis causes hyperbilirubinemia due to breakdown of heme. Hyperglycemia also interfere with lung maturation and reduces surfactant secretion by type II pneumocytes, causing infant respiratory distress syndrome (IRDS). As a compensation to reduced compliance, there will be an increase in ventilation rate. A shallow depth of breath is also present to reduce the effort during each breath."
+    },
+    "14-15 MEDU3400 Final Q52": {
+      "year": "2014-15",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 52,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A pregnant woman suffers from hypotension when she lied supinely to read, what can she do to alleviate her hypotension?",
+      "options": {
+        "C": "High calorie intake",
+        "D": "Rolling to left or right hip",
+        "E": "Mild exercise before going to bed"
+      },
+      "answer": "D",
+      "explanation": "D is correct as the fetus no longer compresses the aorta and IVC in this position. Venous return will increase and thus restore the normal SV, CO and MAP."
+    },
+    "16-17 MEDU3400 Test Q13": {
+      "year": "2016-17",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 13,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Amniotic fluid is",
+      "options": {
+        "A": "Secreted by the placenta",
+        "B": "return to maternal circulation after being swallowed by fetus",
+        "C": "involved in maintaining fetal temperature",
+        "D": "unlikely to be affected by renal agenesis",
+        "E": "unlikely to be affected by esophageal atresia"
+      },
+      "answer": "C",
+      "explanation": "Amniotic fluid is secreted by the amnion, which is the inner lining of amniotic cavity derived from the space superior to embryonic disc. Circulation of amniotic fluid is kind of... “disgusting” if you ask me. The fetus swallows the amniotic fluid and absorbs it via the GI tract. Some component of the fluid is returned to maternal circulation indirectly via placenta, while some is excreted as urine back to the amniotic cavity. Renal agenesis impairs urine production and there will be imbalance in amniotic fluid balance, causing oligohydramnios (Lack of amniotic fluid). Oesophageal atresia impairs uptake of amniotic fluid into fetal GI tract, thus E is wrong either."
+    },
+    "16-17 MEDU3400 Test Q49": {
+      "year": "2016-17",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 49,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "What's the best description of the increase of cardiac output in the pregnant mother?",
+      "options": {
+        "A": "Decrease due to fluid shift from intravascular compartment to interstitial fluid compartment",
+        "B": "It increases to reduce cardiac work of mother",
+        "C": "Decrease in second trimester, rise back to prepregnancy level in 3rd trimester",
+        "D": "Increase due to addition of blood of feto-placental unit",
+        "E": "Increase due to expansion of maternal blood volume and heart rate"
+      },
+      "answer": "E",
+      "explanation": "Always keep in mind estrogen and relaxin act to increase plasma volume, and decrease TPR by peripheral vasodilation along with the effect of progesterone. The drop in TPR and MAP triggers baroreceptor reflex to increase HR. A is wrong as the volume expansion dilutes the plasma protein and decreases plasma oncotic pressure. There will be fluid shift from plasma to IF to cause peripheral edema, but it does not cause mcuh drop in VR. B is obviously wrong. C is wrong as the increase persists throughout 2nd and 3rd trimester. D is wrong as there is no direct contact of blood between maternal and fetal circulation during pregnancy. The vertical transmission of blood-borne diseases only occur during labour when the placenta and umbilical cord detach from each other. E is clearly correct.\nB. increase cardiac output; reduce increase in cardiac work is due to haemodilution\nMe: C is actually referring to the change in blood pressure (both systolic and diastolic)"
+    },
+    "16-17 MEDU3400 Test Q50": {
+      "year": "2016-17",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 50,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is the cause of maternal ureteral dilation during pregnancy?",
+      "options": {
+        "A": "Estrogen effect",
+        "B": "Increase in glomerular filtration rate",
+        "C": "Increase in pressure on left ovarian artery",
+        "D": "Progesterone effect",
+        "E": "Uterine pressure at the pubic symphysis"
+      },
+      "answer": "D",
+      "explanation": "Progesterone directly dilate the ureters by action on smooth muscle tone. Ureteral dilation is also caused by its compression at the pelvic brim by the enlarged uterus. E would be correct if pelvic brim replaces pubic symphysis. Urine is stuck within the ureter to cause hydroureter, and later hydronephrosis as the dilation spreads up to renal pelvis and calyces. A and B are partially correct but not the exact cause. Estrogen increases plasma volume which then raises GFR and urine output, which contributes to the accumulation of urine in the ureter. However, if there is no ureteric compression, then the increased urine can just pass out easily. So, it is the compression of ureter at pelvic brim by uterus being the chief course of dilation.\n\nprogesterone reduce smooth muscle contraction"
+    },
+    "16-17 MEDU3400 Final Q38": {
+      "year": "2016-17",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 38,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The blood parameter most likely to be increased in a normal pregnancy:",
+      "options": {
+        "A": "Albumin",
+        "B": "Bicarbonate",
+        "C": "Creatinine",
+        "D": "Coagulation factor",
+        "E": "Hemoglobin"
+      },
+      "answer": "D",
+      "explanation": "Albumin level drops due to diluting effect of plasma volume expansion by estrogen and relaxin. Bicarbonate drops as it is being excreted to balance the respiratory alkalosis caused by progesterone-induced hyperventilation. Creatinine drop due to increased GFR under estrogen and relaxin effects. Coagulation factor synthesis is increased under stimulation of estrogen, hence blood coagulability is increased, which helps to control postpartum hemorhage. This also explains why deep vein thrombosis is one of adverse effects of COC. E is wrong due to diluting effect."
+    },
+    "17-18 MEDU3400 Test Q48": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 48,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Towards the end of pregnancy, which of the following indicates disease condition?",
+      "options": {
+        "A": "Aminoaciduria",
+        "B": "Glucosuria",
+        "C": "Hydroureter",
+        "D": "Increase creatinine",
+        "E": "Increase urine frequency"
+      },
+      "answer": "D",
+      "explanation": "Aminoaciduria and glucosuria are normal in pregnancy due to the high GFR and filtered load of these solutes into renal tubules. Recall that filtered load = GFR x plasma concentration of solute. C is correct (rodman means C is normal) under the direct effect of progesterone and indirect effect of compression of ureter at pelvic brim. D is obviously problematic as high GFR should lead to low creatinine. Hence, an increased creatinine will indicate kidney injury, suggesting pre-eclampsia near the end of pregnancy. E is normal due to increased urine production and relaxation of bladder (Decreasing tone and increasing residual volume) due to progesterone effect.\n\nDoubt: can A be an answer? (From 25)\nI bet you are thinking about the proteinuria characteristic in pre-eclampsia. But no, there is a stark difference between aminoaciduria and proteinuria. Aminoaciduria can happen in healthy individuals if large amounts of amino acids are being ingested. This is because the filtered load exceeds the transport maximum (Tm) and some of the amino acids stay in urine. This is the same as glucosuria in healthy individuals after ingesting a large amount of glucose, e.g. OGTT. Gestational aminoaciduria is caused by the alteration in tubular transport mechanism that decreases AA reabsorption (Tm is decreased), hence some AA is left in the urine. Proteinuria can also occur to a very minor extent during pregnancy due to alteration in endocytosis in PCT for protein reabsorption. However, significant proteinuria (>300 mg/day is a dangerous sign in pre-eclampsia as it implies kidney injury under hypertension. (HTN is also a sign of pre-eclampsia as BP is usually below normal values during pregnancy due to massive drop in TPR.)"
+    },
+    "17-18 MEDU3400 Final Q37": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 37,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A pregnant woman in her 24 weeks of gestation, compared to normal people, her blood level of: pH PO2 PCO2 HCO3\nGiven the normal range: pH: (7.35-45) O2: (80-100) CO2: (25-35) HCO3: (22-29)",
+      "options": {
+        "A": "7.35 85 36 33",
+        "B": "7.38 95 24 25",
+        "C": "7.45 100 24 33",
+        "D": "7.45 100 24 20",
+        "E": "7.55 95 36 20"
+      },
+      "answer": "D",
+      "explanation": "(can’t remember the data) (It’s ok I can make it up)\npH will be slightly elevated or at high end of normal due to respiratory alkalosis triggered by progesterone, despite the renal compensation. PaCO2 will be lower due to hyperventilation, while PaO2 is nearly unchanged. Bicarbonate is reduced as its excretion increases to compensate for respiratory alkalosis.\n\npH should be normal / high normal due to low PaCO2\nPCO2 falls due to hyperventilation\nHCO3- falls due to increased excretion to compensate for lowered PaCO2\n\nMe: PaO2 might even be slightly low due to increased extraction by the fetus? Not sure"
+    },
+    "18-19 MEDU3400 Test Q46": {
+      "year": "2018-19",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 46,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following hormone contribute most to the insulin resistance in the mother during pregnancy",
+      "options": {
+        "A": "Estriol from feto-placental unit",
+        "B": "GH from maternal pituitary",
+        "C": "hPL from placenta",
+        "D": "progesterone from placenta",
+        "E": "prolactin from maternal pituitary"
+      },
+      "answer": "C",
+      "explanation": "Estriol has nearly no role in maternal homeostasis as it only has 1% potency of estradiol, and it is insignificant in mediating those estrogenic effects. Maternal GH has no effects on maternal metabolism. It should be human placental lactogen (hPL) and human placental growth hormone (hPGH) to exert such effects. C is correct as it induces insulin resistance and lipolysis, which resembles GH action to spare glucose for fetal use. hPL has extra effect of stimulating tubulo-alveolar growth to prepare lactation after labour. D is wrong as progesterone does not have metabolic effects. Prolactin only stimulates tubulo-alveolar growth of mammary gland."
+    },
+    "18-19 MEDU3400 Test Q47": {
+      "year": "2018-19",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 47,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A 32-year-old woman at 36 weeks of gestation complains of dizziness and nausea when reclining to read in bed before going to sleep at night. Suspecting that her symptoms are the result of normal physiologic changes of pregnancy, you recommend",
+      "options": {
+        "A": "A higher calorie intake to increase blood fatty acid levels",
+        "B": "A higher carbohydrate diet to increase blood glucose levels",
+        "C": "A mild exercise before retiring to bed",
+        "D": "Elevation of both feet while lying in bed",
+        "E": "Rolling toward the right or left hip while in bed"
+      },
+      "answer": "E",
+      "explanation": "supine hypotension due to aortocaval compression"
+    },
+    "18-19 MEDU3400 Test Q48": {
+      "year": "2018-19",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 48,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following changes related to the urinary system would be most likely to be observed during normal pregnancy?",
+      "options": {
+        "A": "Decrease RPF",
+        "B": "Increase GFR",
+        "C": "Increase muscular tone of ureter",
+        "D": "Increase plasma urea concentration",
+        "E": "Increase both GFR and RPF in late pregnancy when the women is supine."
+      },
+      "answer": "B",
+      "explanation": "We start with the increase in plasma volume and RPF due to effects of estrogen and relaxin. This then increases GFR and facilitates clearance of urea and creatinine (Higher filtered load), hence plasma urea and creatinine concentrations decrease. Muscle tone of ureter and bladder decreases due to progesterone effect, and this accounts for ureteric dilation and increased residual vesicular volume after urination. When the women is supine, the uterus will compress on aorta and IVC, greatly decreasing VR, SV (Frank-Starling) and thus CO (CO = HR x SV). Drop in CO then leads to drop in RPF and hence GFR. Such effect is only prominent in late pregnancy when the uterus is large enough to cause aortocaval compression.\n\nA. increase in RPF due to vasodilatory effect of progesterone and relaxin\nC. reduce muscular tone due to progesterone\nD. reduce urea conc due to increased excretion by increased GFR\nE. when supine, lead to hypotension due to aortocaval compression, reduce GFR/RPF."
+    },
+    "18-19 MEDU3400 Final Q37": {
+      "year": "2018-19",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 37,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In a normal pregnancy, which of the following respiratory changes is most likely to be observed?",
+      "options": {
+        "A": "Decreased respiratory minute ventilation",
+        "B": "Decreased vital capacity",
+        "C": "Increased PaCO2",
+        "D": "Increased tidal volume",
+        "E": "Increased ventilation rate"
+      },
+      "answer": "D",
+      "explanation": "We start with the effect of progesterone that stimulates respiratory centre to become more sensitive to change in PaCO2, triggering hyperventilation by increasing tidal volume (Major effect) and ventilation rate (Minor effect). PaCO2 drops as the result of hyperventilation. Recall the alveolar ventilation equation: PaCO2 = VCO2/Va x K, the rise in Va is larger than increase in VCO2 then leads to drop in PaCO2. D is a better answer than E as it is the major effect in increasing minute ventilation. Also, keep in mind increasing tidal volume is more efficient in raising ventilation as the increased ventilation do not need to compensate for dead space.\n\nA. increased\nB. no change in vital capacity\nC. reduced PaCO2 due to hyperventilation\nD, E both happen but mainly D.\n\n![](img/18-19_MEDU3400_Final_Q37_1795614271846.png)"
+    },
+    "19-20 MEDU3400 Final Q37": {
+      "year": "2019-20",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 37,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is abnormal in late pregnancy?",
+      "options": {
+        "A": "Glucosuria",
+        "B": "Aminoaciduria",
+        "C": "Hydroureter",
+        "D": "Increase in plasma creatinine",
+        "E": "Increase in urinary frequency"
+      },
+      "answer": "D",
+      "explanation": "A, B. high filtered load increase renal excretion of glucose and amino acids\nC. hydroureter due to holding large vol of urine\nD. should fall due to increased GFR, hence increased excretion\nE. due to hypervolaemia, increased RPF, GFR; decreased bladder capacity; incomplete voiding"
+    },
+    "20-21 MEDU3400 Test Q47": {
+      "year": "2020-21",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 47,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "As pregnancy progresses, which hematological change will occur?",
+      "options": {
+        "A": "Red blood cell volume decreases, plasma volume increases",
+        "B": "Hematocrit decreases, plasma volume same",
+        "C": "Hematocrit decreases, plasma volume decreases",
+        "D": "Hematocrit decreases, plasma volume increases",
+        "E": "Red blood cell volume increases, plasma volume increases"
+      },
+      "answer": "D",
+      "explanation": "There are two changes associated with this question. Estrogen and relaxin stimulate increase of plasma volume, while hPL induces erythropoietin to increase RBC volume and number. However, the rise in plasma volume is larger than RBC volume and hence hematocrit decreases.\n\nthere is increase in RBC production but cannot catch up to the increase in body fluid vol, so overall hematocrit decreases\n\nD is better answer"
+    },
+    "20-21 MEDU3400 Final Q38": {
+      "year": "2020-21",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 38,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Pregnant women in 28 weeks of gestation. Which of the following are the normal values?\n\n![](img/20-21_MEDU3400_Final_Q38_1795614296776.png)",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "21-22 MEDU3400 Test Q48": {
+      "year": "2021-22",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 48,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In a normal pregnancy, which parameter is most likely to increase?",
+      "options": {
+        "A": "Plasma clotting factor VIII",
+        "B": "Plasma Creatinine",
+        "C": "Plasma HCO3-",
+        "D": "Plasma hemoglobin",
+        "E": "Serum albumin"
+      },
+      "answer": "A",
+      "explanation": "Clotting factor increases due to the effect of estrogen. Creatinine drops due to increased GFR and RPF. Bicarbonate drops to renal compensation for respiratory alkalosis caused by progesterone. Hemoglobin and hematocrit drop due to the greater increase of plasma volume than the increase of total RBC volume. Albumin drops due to the dilution effect of plasma volume expansion.\n\nincrease in clotting factors to control postpartum hemorrhage"
+    },
+    "21-22 MEDU3400 Final Q37": {
+      "year": "2021-22",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 37,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following would correctly describe the changes in the respiratory function in women during normal pregnancy?",
+      "options": {
+        "A": "The oxygen carrying capacity of blood (ml O2/100 ml blood) increases due to stimulated erythropoiesis.",
+        "B": "The residual lung volume increases due to the elevation of the diaphragm.",
+        "C": "The respiratory center becomes more sensitive to CO2 under the progesterone effect.",
+        "D": "The total lung capacity increases due to the flaring of lower ribs with increased subcostal angle and transverse diameter of the chest.",
+        "E": "There is a 40% increase in minute ventilation contributed mostly by an increase in respiratory rate."
+      },
+      "answer": "C",
+      "explanation": "A is wrong because the massive increase in plasma volume shadows the effect of stimulated erythropoiesis, causing hemodilution and drop in hematocrit. B is wrong as residual volume decreases due to elevated diaphragm by enlarged uterus. C is correct, which increases tidal volume and respiratory rate. D is wrong as those changes are balanced by elevation of diaphragm. E is wrong as rise in ventilation is contributed mostly by an increase of tidal volume, which is caused by increased diaphragm excursion and muscle strength under progesterone effect. Keep in mind raising tidal volume is always more efficient in raising minute ventilation as more percentage of inhaled air can be utilized instead of trapping in dead space."
+    },
+    "22-23 MEDU3400 Test Q44": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 44,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Pregnant women in 20th week plasma creatinine and urea shows high-normal compared to normal non pregnant women (forgot data), what is the cause?",
+      "options": {
+        "A": "Urea and creatinine normal range",
+        "B": "Urea and creatinine normal due to metabolism from fetus",
+        "C": "Urea and creatinine normal due to ..",
+        "D": "Urea and creatine high due to electrolytes disturbance. Further check up on fluid status",
+        "E": "Urea and creatine high due to renal dysfunction. Further check up on renal function"
+      },
+      "answer": "E",
+      "explanation": "In normal pregnancy, the large expansion of plasma volume will dilute the creatinine and urea, and their plasma levels should be lower than normal range. A high-normal level in non-pregnant reference range is obviously too high for a pregnant woman.\n\nThis comes to the concept of urea: creatinine ratio in discerning the cause of renal failure. A high plasma creatinine suggests low GFR, but there are still multiple causes behind. A high urea: creatinine ratio suggests that urea reabsorption is raised massively, and this suggests hypoperfusion to the kidneys to be the cause of low GFR, but the kidneys can work normally to raise urea reabsorption to conserve water under the effect of ADH (Prerenal failure). A low urea: creatinine ratio suggests that renal damage has occurred to prevent both ultrafiltration (Low GFR) and urea reabsorption in renal tubules. Keep in mind all those diagnoses are made based on low GFR and high creatinine, as it is the true marker for renal problems. The ratios are meaningless if creatinine is low or low-normal.\n\nFrom the given data (According to my memory), there is no significant disproportionate rise of either urea or creatinine, hence the ratio is probably not significantly altered. However, given that urea level is not raised disproportionately, then dehydration (Causes renal hypoperfusion) can be ruled out. It could be some sort of mild renal disease that only partially impairs urea reabsorption to limit the drop in plasma urea level in this renal disorder. Ordering a more thorough renal function test cannot be wrong in this case (Just a very broad approach)."
+    },
+    "22-23 MEDU3400 Final Q53": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 53,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following hormones contribute most to the insulin resistance in the mother during pregnancy?",
+      "options": {
+        "A": "Estriol from feto-placental unit",
+        "B": "GH from maternal pituitary",
+        "C": "hPL from placenta",
+        "D": "Progesterone from placenta",
+        "E": "Prolactin from maternal pituitary"
+      },
+      "answer": "C",
+      "explanation": "hPL (Human placental lactogen / human chorionic somatomammotropin) and hPGH (Human placental growth hormone) induce insulin resistance to spare glucose for fetal use and contribute to the development of gestational diabetes. hPL and hPGH also stimulate lipolysis to increase circulating fatty acids and ketones for fetal use."
+    },
+    "22-23 MEDU3400 Final Q54": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 54,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "What causes the increase in blood volume during pregnancy?",
+      "options": {
+        "A": "Progesterone in stimulating hepatic production of angiotensinogen",
+        "B": "Oestrogen in increasing osmotic threshold for ADH secretion",
+        "C": "Relaxin in stimulating thirst",
+        "D": "Aldosterone in stimulating natriuresis",
+        "E": "Angiotensin II in stimulating vasoconstriction"
+      },
+      "answer": "C",
+      "explanation": "A is wrong as it is the effect of estrogen instead. B is wrong as estrogen and relaxin decrease osmotic threshold for ADH secretion instead, such that water retention promoted even in lower plasma osmolarity. C is correct as relaxin, angiotensin II and prolactin are dipsogenic (Promoting thirst). D is wrong as aldosterone stimulates water and sodium retention instead of the reverse (Natriuresis), and such effect is augmented by estrogen as it promotes angiotensinogen synthesis, while hypotension due to vasodilation induced by progesterone, estrogen and relaxin also promotes renin release by juxtaglomerular cells. E is wrong as it is irrelevant to fluid status and not significant in plasma volume expansion in pregnancy.\nMe: maybe I missed it but I’ve never seen the effect of relaxin on stimulating thirst being mentioned in lecture slides"
+    },
+    "22-23 MEDU3400 Final Q55": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 55,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A pregnant woman in her 24 weeks of gestation, compared to normal people, her blood level of: pH PaO2 PaCO2 HCO3-\nGiven the normal range: pH: (7.35-45) O2: (80-100) CO2: (25-35) HCO3: (22-29)",
+      "options": {
+        "A": "7.35 85 36 33",
+        "B": "7.38 95 24 25",
+        "C": "7.45 100 24 33",
+        "D": "7.45 100 24 20",
+        "E": "7.55 95 36 20"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "23-24 MEDU3400 Test Q45": {
+      "year": "2023-24",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 45,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "During routine urinalysis in pregnancy, which of the following represent a normal finding?",
+      "options": {
+        "A": "Bacteriuria",
+        "B": "Glucosuria",
+        "C": "Hematuria",
+        "D": "Natriuria",
+        "E": "Proteinuria"
+      },
+      "answer": "B",
+      "explanation": "Excretion of Na is certainly normal...\nMe: glucosuria, proteinuria, and aminoaciduria is also technically ‘normal’ in a pregnant women according lecture slides. Stupid question.\nAnswer is B, confirmed by Simon Au himself during debriefing session. I have absolutely no idea why."
+    },
+    "24-25 MEDU3400 Test Q39": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 39,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Effect of relaxin in physiological adaptations of pregnancy",
+      "options": {
+        "A": "Decrease GI tone and increase bowel movement",
+        "B": "Decrease vascular smooth muscle tone but increase blood pressure",
+        "C": "increase pelvis ligamentous laxity and increase sheering movements of pelvis",
+        "D": "Increase respiratory drive and ventilation rate",
+        "E": "Increase vasodilation and decrease renal plasma flow"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "24-25 MEDU3400 Final Q55": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 55,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following increases during pregnancy?",
+      "options": {
+        "A": "albumin",
+        "B": "bicarbonate",
+        "C": "Clotting factor",
+        "D": "Creatinine",
+        "E": "Hemoglobin"
+      },
+      "answer": "C",
+      "explanation": "Plasma albumin decreases during pregnancy due to expansion of ECF volume. This leads to a fall in plasma oncotic pressure, which contributes to the development of tissue edema.\nBicarbonate is decreased. There is respiratory alkalosis in pregnancy, and renal compensation will cause a decrease in bicarbonate.\nClotting factor synthesis is markedly increased due to estrogen stimulation.\nCreatinine should fall due to an increase in GFR.\nHb falls due to hemodilution (although red cell volume increases, it was overshadowed by the greater increase in plasma volume)"
+    },
+    "Extra MEDU3400 Repro Q52": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 52,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Maternal stress in the 3rd trimester causes a rise in maternal cortisol. According to placental metabolism and the theory of developmental origin of health and disease, which is true?",
+      "options": {
+        "A": "maternal cortisol inhibits progesterone in placenta, hinder fetal neurodevelopment",
+        "B": "maternal cortisol inhibits estradiol in placenta, inhibit ()",
+        "C": "maternal cortisol inhibits placental GH, inhibit fetal growth",
+        "D": "maternal cortisol converted to cortisone, increase risk for metabolic disorder",
+        "E": "maternal cortisol cross placenta, increase risk for metabolic disorder"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q53": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 53,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Breastfeeding mothers can use progestin-only pills as a means of hormonal contraception because:",
+      "options": {
+        "A": "Progestin stimulates prolactin secretion.",
+        "B": "Progestin directly stimulates milk production.",
+        "C": "Progestin does not adversely affect milk production.",
+        "D": "Progestin does not appear in the mother’s milk.",
+        "E": "Progestin stimulates growth of the mammary gland."
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q54": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 54,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "During pregnancy:",
+      "options": {
+        "A": "An increase in progesterone binding is associated with the onset of labour in humans.",
+        "B": "Gap junctions between myometrial cells increase towards term to produce a syncytium.",
+        "C": "Myometrial quiescence is maintained by high oestrogen concentrations.",
+        "D": "Pre-term labour usually occurs as a result of inflammation in the vagina.",
+        "E": "Premature placental separation is prevented by tocolytic agents released by the deciduas."
+      },
+      "answer": "B",
+      "explanation": "A is wrong as there is functional progesterone withdrawal and estrogen activation near the onset of labour, such that progesterone inactivation increases and the ratio of myometrial transcriptional repressor PR-α increases. B is correct and this is the result of progesterone withdrawal and estrogen activation. C is clearly wrong as it is the transition from progesterone to estrogen effect to cause onset of labour. It is progesterone maintaining myometrial quiescence during pregnancy. D is irrelevant as it does not affect the hormonal interaction within the uterus. E is wrong as tocolytics act to prevent premature labour by inhibiting myometrial contraction. Decidua only secretes uterotonins to stimulate cervical ripening and contraction."
+    },
+    "Extra MEDU3400 Repro Q55": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 55,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Oxytocin",
+      "options": {
+        "A": "Is produced in the anterior pituitary gland.",
+        "B": "When given intravenously it causes up-regulation of oxytocin receptors in the myometrium.",
+        "C": "Concentrations in plasma surge shortly before the onset of labour.",
+        "D": "Stimulates myometrial contraction at all gestational ages.",
+        "E": "Requires up-regulation of its receptor status for labour to commence."
+      },
+      "answer": "E",
+      "explanation": "A is wrong as it is produced in paraventricular (Main) and supraoptic nuclei of hypothalamus. E is correct, and remember it. B is wrong as it is mediated by the increased E2/P ratio. C is not accurate as it undergoes positive feedback loop (Ferguson reflex) to sustain myometrial contraction until the fetus is expelled. Its level also sustains for a short period postpartum for placental separation and control of postpartum bleeding. D is wrong as said in B, oxytocin requires upregulation of its receptor by estrogen to exert its effect."
+    },
+    "Extra MEDU3400 Repro Q56": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 56,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "During lactation, which of the following has the LEAST influence on milk production?",
+      "options": {
+        "A": "Oxytocin.",
+        "B": "Prolactin.",
+        "C": "Exogenous estrogen from combined oral contraceptives.",
+        "D": "Bromocriptine (a dopamine agonist)",
+        "E": "Engorgement of milk in the breast."
+      },
+      "answer": "A",
+      "explanation": "Estrogen stimulates release of prolactin to mediate tubulo-alveolar growth for preparing lactation. (exogenous estrogen should have inhibitory effect on galactopoiesis – that is why breastfeeding women are advised to use progestin-only pills) Prolactin is involved in milk production (Lactogenesis) and maintenance as well (Galactopoiesis). Bromocriptine as D2 agonist will inhibit PRL release to stop milk production. Engorgement of milk in breast reduces blood supply and the delivery of PRL to mammary gland. Also, milk contains a feedback inhibitor of lactation (FIL) to downregulate PRL receptors, reducing milk production. Oxytocin is the only hormone has no influence on milk production. Oxytocin is only involved in the let-down reflex for milk ejection."
+    },
+    "Extra MEDU3400 Repro Q57": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 57,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following statements regarding lactation is INCORRECT?",
+      "options": {
+        "A": "Estrogen stimulates mammary ductal growth.",
+        "B": "Progesterone stimulates mammary alveolar development.",
+        "C": "High circulating sex steroid levels during pregnancy inhibit lactogenesis.",
+        "D": "Colostrum is rich in casein and alpha-lactalbumin.",
+        "E": "The postpartum decline in circulating sex steroid levels initiates milk production"
+      },
+      "answer": "C",
+      "explanation": "A is correct as it happens at the onset of puberty (Along with GH/IGF-1 effects) and during menstrual cycle. B is correct as progesterone, estrogen, prolactin and hPL promote tubulo-alveolar growth. C is wrong as estrogen stimulates lactogenesis (specifically lactogenesis I, secretory differentiation) during pregnancy, both directly and indirectly via PRL (actually, high circulating progesterone during pregnancy inhibits further progression to lactogenesis II (secretory activation)). D is correct. E is correct as the decrease of progesterone removes its inhibition on prolactin effect."
+    },
+    "Extra MEDU3400 Repro Q58": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 58,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "During pregnancy, corticotrophin releasing hormone (CRH),",
+      "options": {
+        "A": "Is produced by the placental cytotrophoblast.",
+        "B": "Is involved with fetal adrenal cortisol and dehydro-epiandrosterone in a negative feedback mechanism.",
+        "C": "Rises continuously throughout pregnancy and labour.",
+        "D": "Regulates myometrial contractility by increasing the release of intrauterine prostaglandins PGE2 and PGF2a.",
+        "E": "Directly stimulates phospholipase C which leads to a rise in intracellular Ca2+ and myometrial contraction."
+      },
+      "answer": "D",
+      "explanation": "Cytotrophoblast is the stem cell precursor of syncytiotrophoblasts, which is the epithelial lining of embryonic placental villi responsible for secretion of all placental hormones, including hCG, hPL, hPGH, progesterone, estrogen and CRH etc (I think CRH should be produced by syncytiotrophoblasts? Rodman’s explanation didn’t explain anything). B is wrong as for some special reason that even Prof. Au can’t explain, fetal cortisol and DHEA/DHEAS exerts a positive feedback on placental to raise CRH secretion. C is wrong as CRH stays constant throughout pregnancy and only rises near the end of pregnancy. D is correct despite it is a very indirect effect. CRH stimulates fetal DHEA and DHEAS secretions as the precursor of estrogen synthesis at placenta. The rise in placental estrogen causes the rise in E2/P ratio, which is important for onset of labour along with functional withdrawal of progesterone and activation of estrogen. E is the effect of oxytocin in inducing myometrial contraction via Gq protein.\n\nMe: I think the explanation for D should be – increase CRH 🡪 increase ACTH secretion from fetal pituitary 🡪 increase cortisol from fetal adrenal gland 🡪 cortisol stimulate placental PGE2 and PGF2a production. But not 100% sure, I hate repro physi and didn’t study well."
+    },
+    "17-18 MEDU3400 Test Q49": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 49,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "During induction of labour, PGE2 is first administered in form of vaginal gel",
+      "options": {
+        "A": "For maturation of fetal lung",
+        "B": "Placental production of oxytocin",
+        "C": "Prostaglandin production from fetal membrane",
+        "D": "For cervical ripening",
+        "E": "To induce uterine contraction"
+      },
+      "answer": "D",
+      "explanation": "PGE2/1: more important in cervical ripening\nPGF2alpha: more important in myometrial contractility"
+    },
+    "17-18 MEDU3400 Final Q38": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 38,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Most contribution of CRH in parturition",
+      "options": {
+        "A": "Direct stimulation of uterine smooth muscle for contraction",
+        "B": "Stimulate fetal cortisol production for organ maturation",
+        "C": "Stimulate fetal adrenal androgen hence estrogen/progesterone level increase",
+        "D": "Stimulate maternal oxytocin for initiation of uterine contraction",
+        "E": "Stimulate infiltration of neutrophils for cervical ripening"
+      },
+      "answer": "C",
+      "explanation": "C is the most important contribution for the onset of labour. A and D are indirect effects of estrogen due to the PGF2α and oxytocin effects activated by high E2/P ratio and functional activation of estrogen. B is wrong as organ maturation occurs well before parturition. E is the effect of PGE2, cytokines, relaxin, CRH and estrogen, but most important is PGE2 and cytokines.\n\nB seems not so related to parturition..? (this is the main point. B is a correct statement but not an important contribution of CRH specifically to parturition.)\n\n![](img/17-18_MEDU3400_Final_Q38_1795614711951.png)"
+    },
+    "19-20 MEDU3400 Test Q50": {
+      "year": "2019-20",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 50,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "What is the hormone responsible for secretory differentiation of lobuloalveolar structures in the mammary gland during pregnancy?",
+      "options": {
+        "A": "Estrogen",
+        "B": "Oxytocin",
+        "C": "Human placenta growth hormone",
+        "D": "Progesterone",
+        "E": "Prolactin"
+      },
+      "answer": "E",
+      "explanation": "It is the effect of progesterone, prolactin and human placental lactogen (hPL) to induce secretory differentiation during lactogenesis I in mid-pregnancy. However, estrogen does increase secretion of prolactin to help with this indirectly. Progesterone also prevents progression of lactogenesis I into the next stage (Secretion activation, lactogenesis II) by limiting expression of PRL receptors, and competing with cortisol for glucocorticoid receptors (Reduce its permissive action).\n\nMe: I think E is the major hormone responsible for secretory differentiation. Estrogen and progesterone are mainly for mammogenesis. Progesterone is not the best answer since it is mainly responsible for alveologenesis that occurs before the ‘differentiation’ stage.\n\n![](img/19-20_MEDU3400_Test_Q50_1795614723782.png)\n![](img/19-20_MEDU3400_Test_Q50_1795614731252.png)"
+    },
+    "20-21 MEDU3400 Test Q46": {
+      "year": "2020-21",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 46,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "As pregnancy progresses, which of the following is most closely linked to the increase in maternal estrogen?",
+      "options": {
+        "A": "ACTH secretion from maternal pituitary",
+        "B": "Androgen secretion from the fetal adrenal",
+        "C": "Cortisol secretion from the fetal adrenal",
+        "D": "Human chorionic gonadotropin secretion from the placenta",
+        "E": "Progesterone secretion from the placenta"
+      },
+      "answer": "B",
+      "explanation": "In case you forgot it, let’s us go through it one more time. There are two phases of estrogen (Mainly estradiol, E2) and progesterone (P) secretions during pregnancy.\n\nThe first phase is luteal phase. The E2 and P are secreted by luteinized granulosa cells in corpus luteum. After implantation, the syncytiotrophoblasts in placental villi secrete hCG to rescue to corpus luteum from apoptosis. Hence, E2 and P continue to rise despite the 14-day lifespan of corpus luteum has passed. This phase lasts for 9-10 weeks until the maturation of fetal liver and adrenal glands around week 7-9.\n\nThe second phase is placental phase. Maternal circulation provides LDL-cholesterol to the fetal adrenal gland for synthesis of dehydroepiandrosterone sulphate (DHEAS). Some DHEAS is further hydroxylated in fetal liver to give 16-hydroxy DHEAS (16-OH DHEAS). Those androgens are then aromatised in the placenta, under action of aromatase in syncytiotrophoblasts to give estrogens. DHEAS is converted into estradiol (E2) or estrone (E1), while 16-OH DHEAS is converted into estriol (E3). These estrogens that drive the changes in maternal metabolism and CV, renal and respiratory changes during pregnancy.\n\n“androgen” = Dehydroepiandrosterone (DHEA)"
+    },
+    "21-22 MEDU3400 Final Q39": {
+      "year": "2021-22",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 39,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "(Modified) Which of the following best explains why the onset of copious mature milk production does not occur during pregnancy?",
+      "options": {
+        "A": "High progesterone levels inhibit the secretory differentiation and lobulo-alveolar growth of mammary glands.",
+        "B": "High progesterone levels antagonize the stimulatory effects of prolactin and cortisol on progression into secretory activation stage of lactogenesis.",
+        "C": "Human placental lactogen inhibits the stimulation of prolactin on milk production by competing for binding to the prolactin receptor.",
+        "D": "Sucking reflex which results in periodic surges of oxytocin is needed to stimulate milk production.",
+        "E": "Sucking reflex which results in high levels of prolactin is needed to stimulate milk production."
+      },
+      "answer": "B",
+      "explanation": "Lactogenesis stage 1 (Secretory initiation) occurs in mid-pregnancy by secretory differentiation of lobulo-alveolar system under effects of hPL, PRL and progesterone, and also permissive effects of estrogen, GH/IGF, cortisol and T4. However, high level of progesterone secreted by placenta inhibits the progression into phase 2 (Copious milk production) that follows parturition. This is achieved by inhibiting the expression of PRL receptors and competing with cortisol for GC receptor.\n\nA is wrong as progesterone stimulates secretory differentiation. B is correct. C just does not happen. D is wrong as oxytocin only stimulates milk ejection from breast, but not its production. E is the mechanism for sucking reflex to maintain milk production in lactogenesis phase 3 (Galactopoiesis).\n\nMe: Lactogenesis I is secretory differentiation. Secretory activation is lactogenesis II, which is the onset of copious milk production. Galactopoiesis (secretory maintenance) is lactogenesis III."
+    },
+    "23-24 MEDU3400 Final Q56": {
+      "year": "2023-24",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 56,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Most contribution of CRH in parturition:",
+      "options": {
+        "A": "Direct stimulation of uterine smooth muscle for contraction",
+        "B": "Stimulate fetal cortisol production for organ maturation",
+        "C": "Stimulate fetal adrenal androgen hence estrogen/progesterone level increase",
+        "D": "Stimulate maternal oxytocin for initiation of uterine contraction",
+        "E": "Stimulate infiltration of neutrophils for cervical ripening"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "24-25 MEDU3400 Test Q40": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 40,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "During active labour, which of the following hormones induce contraction and prostaglandin secretion?",
+      "options": {
+        "A": "corticotropin releasing hormone",
+        "B": "cortisol",
+        "C": "estrogen",
+        "D": "oxytocin",
+        "E": "progesterone"
+      },
+      "answer": "D",
+      "explanation": "Note that estrogen is the answer here. Although estrogen could stipulate the production of prostaglandin for cervical ripening, it only elicits permissive effects on uterus contraction (through increased expression of gap junctions between myometrial cells), whereas oxytocin elicits both uterine contractions and the production of prostaglandin (PGF2alpha → for further myometrial contractility)."
+    },
+    "24-25 MEDU3400 Final Q56": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 56,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "inhibit milk production during pregnancy",
+      "options": {
+        "A": "oxytocin",
+        "B": "dopamine",
+        "C": "estrogen",
+        "D": "progesterone",
+        "E": "relaxin"
+      },
+      "answer": "D",
+      "explanation": "Progesterone inhibits milk secretion at pregnancy by preventing the closure of epithelial tight junctions and by downregulating milk component synthesis."
+    },
+    "Extra MEDU3400 Repro Q59": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 59,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "What is involved in activation phase of parturition",
+      "options": {
+        "A": "Increase FSH/LH something",
+        "B": "Uterus-related proteins (contraction associated proteins?)"
+      },
+      "answer": "B",
+      "explanation": ""
     }
   }
 }
