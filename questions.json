@@ -4071,47 +4071,70 @@
           "2016-17": [
             "16-17 MEDU3400 Test Q44",
             "16-17 MEDU3400 Test Q45",
-            "16-17 MEDU3400 Final Q39"
+            "16-17 MEDU3400 Final Q39",
+            "16-17 MEDU3400 Test Q47",
+            "16-17 MEDU3400 Test Q48"
           ],
           "2017-18": [
             "17-18 MEDU3400 Test Q44",
             "17-18 MEDU3400 Test Q45",
-            "17-18 MEDU3400 Final Q35"
+            "17-18 MEDU3400 Final Q35",
+            "17-18 MEDU3400 Test Q46",
+            "17-18 MEDU3400 Test Q47",
+            "17-18 MEDU3400 Final Q36"
           ],
           "2018-19": [
             "18-19 MEDU3400 Final Q34",
             "18-19 MEDU3400 Test Q44",
-            "18-19 MEDU3400 Final Q35"
+            "18-19 MEDU3400 Final Q35",
+            "18-19 MEDU3400 Test Q45",
+            "18-19 MEDU3400 Final Q36"
           ],
           "2019-20": [
             "19-20 MEDU3400 Test Q46",
-            "19-20 MEDU3400 Test Q48"
+            "19-20 MEDU3400 Test Q48",
+            "19-20 MEDU3400 Final Q35",
+            "19-20 MEDU3400 Test Q47",
+            "19-20 MEDU3400 Final Q36"
           ],
           "2020-21": [
             "20-21 MEDU3400 Final Q35",
-            "20-21 MEDU3400 Test Q44"
+            "20-21 MEDU3400 Test Q44",
+            "20-21 MEDU3400 Test Q45",
+            "20-21 MEDU3400 Final Q31",
+            "20-21 MEDU3400 Final Q49"
           ],
           "2021-22": [
             "21-22 MEDU3400 Test Q44",
             "21-22 MEDU3400 Test Q45",
-            "21-22 MEDU3400 Final Q36"
+            "21-22 MEDU3400 Final Q36",
+            "21-22 MEDU3400 Test Q46",
+            "21-22 MEDU3400 Test Q47"
           ],
           "2022-23": [
             "22-23 MEDU3400 Test Q41",
             "22-23 MEDU3400 Test Q42",
-            "22-23 MEDU3400 Final Q50"
+            "22-23 MEDU3400 Final Q50",
+            "22-23 MEDU3400 Final Q51",
+            "22-23 MEDU3400 Test Q43",
+            "22-23 MEDU3400 Final Q52"
           ],
           "2023-24": [
             "23-24 MEDU3400 Test Q42",
             "23-24 MEDU3400 Test Q43",
-            "23-24 MEDU3400 Final Q49"
+            "23-24 MEDU3400 Final Q49",
+            "23-24 MEDU3400 Final Q50",
+            "23-24 MEDU3400 Test Q44"
           ],
           "2024-25": [
             "24-25 MEDU3400 Test Q37",
             "24-25 MEDU3400 Final Q50",
             "24-25 MEDU3400 Final Q51",
             "24-25 MEDU3400 Test Q38",
-            "24-25 MEDU3400 Final Q53"
+            "24-25 MEDU3400 Final Q53",
+            "24-25 MEDU3400 Final Q52",
+            "24-25 MEDU3400 Final Q57",
+            "24-25 MEDU3400 Final Q54"
           ],
           "2025-26": [
             "25-26 MEDU3400 Test Q39",
@@ -4119,7 +4142,11 @@
             "Extra MEDU3400 Repro Q29",
             "25-26 MEDU3400 Test Q41",
             "25-26 MEDU3400 Final Q55",
-            "25-26 MEDU3400 Final Q56"
+            "25-26 MEDU3400 Final Q56",
+            "25-26 MEDU3400 Test Q42",
+            "25-26 MEDU3400 Final Q52",
+            "25-26 MEDU3400 Final Q54",
+            "Extra MEDU3400 Repro Q44"
           ],
           "unclassified": [
             "Extra MEDU3400 CVS Q1",
@@ -4185,7 +4212,20 @@
             "Extra MEDU3400 Repro Q26",
             "Extra MEDU3400 Repro Q27",
             "Extra MEDU3400 Repro Q28",
-            "Extra MEDU3400 Repro Q30"
+            "Extra MEDU3400 Repro Q30",
+            "Extra MEDU3400 Repro Q31",
+            "Extra MEDU3400 Repro Q32",
+            "Extra MEDU3400 Repro Q33",
+            "Extra MEDU3400 Repro Q34",
+            "Extra MEDU3400 Repro Q35",
+            "Extra MEDU3400 Repro Q36",
+            "Extra MEDU3400 Repro Q37",
+            "Extra MEDU3400 Repro Q38",
+            "Extra MEDU3400 Repro Q39",
+            "Extra MEDU3400 Repro Q40",
+            "Extra MEDU3400 Repro Q41",
+            "Extra MEDU3400 Repro Q42",
+            "Extra MEDU3400 Repro Q43"
           ]
         },
         "byTopic": {
@@ -4291,7 +4331,47 @@
             "25-26 MEDU3400 Test Q41",
             "25-26 MEDU3400 Final Q55",
             "25-26 MEDU3400 Final Q56",
-            "Extra MEDU3400 Repro Q30"
+            "Extra MEDU3400 Repro Q30",
+            "Extra MEDU3400 Repro Q31",
+            "Extra MEDU3400 Repro Q32",
+            "Extra MEDU3400 Repro Q33",
+            "Extra MEDU3400 Repro Q34",
+            "Extra MEDU3400 Repro Q35",
+            "Extra MEDU3400 Repro Q36",
+            "Extra MEDU3400 Repro Q37",
+            "Extra MEDU3400 Repro Q38",
+            "16-17 MEDU3400 Test Q47",
+            "17-18 MEDU3400 Test Q46",
+            "18-19 MEDU3400 Test Q45",
+            "19-20 MEDU3400 Final Q35",
+            "20-21 MEDU3400 Test Q45",
+            "21-22 MEDU3400 Test Q46",
+            "22-23 MEDU3400 Final Q51",
+            "23-24 MEDU3400 Final Q50",
+            "24-25 MEDU3400 Final Q52",
+            "24-25 MEDU3400 Final Q57",
+            "25-26 MEDU3400 Test Q42",
+            "25-26 MEDU3400 Final Q52",
+            "25-26 MEDU3400 Final Q54",
+            "Extra MEDU3400 Repro Q39",
+            "Extra MEDU3400 Repro Q40",
+            "Extra MEDU3400 Repro Q41",
+            "Extra MEDU3400 Repro Q42",
+            "Extra MEDU3400 Repro Q43",
+            "16-17 MEDU3400 Test Q48",
+            "17-18 MEDU3400 Test Q47",
+            "17-18 MEDU3400 Final Q36",
+            "18-19 MEDU3400 Final Q36",
+            "19-20 MEDU3400 Test Q47",
+            "19-20 MEDU3400 Final Q36",
+            "20-21 MEDU3400 Final Q31",
+            "20-21 MEDU3400 Final Q49",
+            "21-22 MEDU3400 Test Q47",
+            "22-23 MEDU3400 Test Q43",
+            "22-23 MEDU3400 Final Q52",
+            "23-24 MEDU3400 Test Q44",
+            "24-25 MEDU3400 Final Q54",
+            "Extra MEDU3400 Repro Q44"
           ]
         }
       }
@@ -38227,7 +38307,7 @@
       "question_number": 36,
       "level": "Year 3",
       "topic": "Reproductive Physiology",
-      "question": "These graphs show Estrogen, FSH, LH, progesterone cyclical change. Which of the following is the DIRECT action of the hormone at point C (1st peak)?",
+      "question": "These graphs show Estrogen, FSH, LH, progesterone cyclical change. Which of the following is the DIRECT action of the hormone at point C (1st peak)?\n\n![](img/21-22_MEDU3400_Final_Q36_1795602219997.png)",
       "options": {
         "A": "Acquisition of LH receptors on granulosa cells",
         "B": "Atresia of follicles not achieving dominance",
@@ -38286,7 +38366,7 @@
         "D": "Prevent degeneration of corpus luteum"
       },
       "answer": "C",
-      "explanation": "A is indeed the effect of progesterone, but on such day, estrogen has a more dominant effect on cervical mucus to increase fluidity and volume of mucus for promoting sperm motility. Such effect is more prominent after fertilization, and the high level of progesterone secreted by corpus luteum (Rescued by hCG), to prevent penetration of new sperms. This is also the MOA of progestins in oral contraceptives, and estrogen (Ethinylestradiol) is used to induce expression of progesterone receptor to augment such effect.B is also an effect of progesterone AFTER ovulation, but it serves no purpose in reproduction. Instead, it can be used as a marker to monitor occurrence of ovulation for facilitating conception. C is correct as progesterone promotes secretory differentiation and growth of spiral arteries in endometrium to prepare for implantation. D is wrong as it is the role of hCG."
+      "explanation": "A is indeed the effect of progesterone, but on such day, estrogen has a more dominant effect on cervical mucus to increase fluidity and volume of mucus for promoting sperm motility. Such effect is more prominent after fertilization, and the high level of progesterone secreted by corpus luteum (Rescued by hCG), to prevent penetration of new sperms. This is also the MOA of progestins in oral contraceptives, and estrogen (Ethinylestradiol) is used to induce expression of progesterone receptor to augment such effect.B is also an effect of progesterone AFTER ovulation, but it serves no purpose in reproduction. Instead, it can be used as a marker to monitor occurrence of ovulation for facilitating conception. C is correct as progesterone promotes secretory differentiation and growth of spiral arteries in endometrium to prepare for implantation. D is wrong as it is the role of hCG.\n\n![](img/22-23_MEDU3400_Final_Q50_1795602242377.png)"
     },
     "23-24 MEDU3400 Test Q42": {
       "year": "2023-24",
@@ -38328,7 +38408,7 @@
       "question_number": 49,
       "level": "Year 3",
       "topic": "Reproductive Physiology",
-      "question": "Which of the following is a result of the peak at point E?",
+      "question": "Which of the following is a result of the peak at point E?\n\n![](img/23-24_MEDU3400_Final_Q49_1795602257008.png)",
       "options": {
         "A": "Acquisition of FSH receptors by granulosa cells",
         "B": "Ability for granulosa cells to produce progesterone",
@@ -38396,7 +38476,7 @@
       "question_number": 41,
       "level": "Year 3",
       "topic": "Reproductive Physiology",
-      "question": "A 53-year-old woman reports experiencing irregular menstrual cycles for 2 years, followed by a complete absence of menstruation for 13 months. She complains about frequent hot flashes and sleep disturbances. She reports no other symptoms apart from the above events. Based on the feedback mechanisms of the hypothalamic-pituitary-ovaria axis, which hormone profile is MOST strongly aligned with her condition?",
+      "question": "A 53-year-old woman reports experiencing irregular menstrual cycles for 2 years, followed by a complete absence of menstruation for 13 months. She complains about frequent hot flashes and sleep disturbances. She reports no other symptoms apart from the above events. Based on the feedback mechanisms of the hypothalamic-pituitary-ovaria axis, which hormone profile is MOST strongly aligned with her condition?\n\n![](img/25-26_MEDU3400_Test_Q41_1795602283901.jpeg)",
       "options": {
         "A": "A",
         "B": "B",
@@ -38454,6 +38534,669 @@
       },
       "answer": "C",
       "explanation": "Corpus luteum is not required after 9-10 weeks of pregnancy, as placenta takes over steroidogenesis (esp. progesterone) and corresponds to a transient drop in serum progesterone. Corpus luteum is never stimulated by LH, it is only stimulated by hCG secreted by placenta to maintain its viability for progesterone synthesis before fetoplacental unit is mature enough to take over. C is correct. D is wrong as it should be other way round. Corpus luteum is only unnecessary for maintaining pregnancy after the luteal-placental shift."
+    },
+    "Extra MEDU3400 Repro Q31": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 31,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The following hormonal changes occurs early in normal pubertal development in girls EXCEPT",
+      "options": {
+        "A": "Increased circulating estradiol.",
+        "B": "Sleep-entrained increases in luteinizing hormone (LH).",
+        "C": "Increased circulating dehydroepiandrosterone (DHEA).",
+        "D": "Decreased circulating estrone.",
+        "E": "Increased circulating dehydroepiandrosterone sulphate (DHEAS)."
+      },
+      "answer": "D",
+      "explanation": "B is the first thing to happen as the transition from childhood into puberty. It represents that the intrinsic CNS inhibition on GnRH neurons is gradually removed and there is an increase in freuqency and amplitude of GnRH pulse. Adrenarche occurs first in the pubertal development (Around 6-8 y), marked by the increase in expression of 17,20-lyase, cytochrome b5 and sulphotransferase. It is necessary for synthesis of adrenal androgens, including DHEA and DHEA-S, hence their levels will rise after onset of adrenarche. These adrenal androgens drive development of body hair and sebaceous gland, which leads to acne. Gonadarche occurs next as growth and maturation of gonads occur. Hence, there will be elevated level of estradiol. D is irrelevant. Estrone is only produced in fetal adrenal, liver and placenta during pregnancy. It is not important in pubertal development or menstrual cycle.\nMe: The nocturnal rise in gonadotrophins (LH in particular) is the first endocrine event indicating the re-activation of the hypothalamic-pituitary-gonadal axis in both sexes (and not just girls). The change in sensitivity of the hypothalamic-pituitary unit to negative feedback by sex steroids (i.e. gonadostat) will occur later. The other changes (development of positive feedback and increased plasma estradiol from ovarian activation) will come later. The FSH/LH ratio will fall rather than increase. Estrone levels should increase."
+    },
+    "Extra MEDU3400 Repro Q32": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 32,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The following hormonal changes occurs early in normal pubertal development in girls EXCEPT",
+      "options": {
+        "A": "Increased circulating estradiol.",
+        "B": "Sleep-entrained increases in luteinizing hormone (LH).",
+        "C": "Increased circulating dehydroepiandrosterone (DHEA).",
+        "D": "Decreased circulating estrone.",
+        "E": "Increased circulating dehydroepiandrosterone sulphate (DHEAS)."
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q33": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 33,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The only class of hormones relevant to the embryogenesis of the external genitalia is:",
+      "options": {
+        "A": "Androgen",
+        "B": "Estrogen",
+        "C": "Glucocorticoid",
+        "D": "Human chorionic gonadotropin",
+        "E": "Progesterone"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q34": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 34,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "An adult genetic female with 17α-hydroxylase deficiency would have which of the following findings?",
+      "options": {
+        "A": "No breast development, uterus present, hypertension.",
+        "B": "No breast development, uterus present, hypotension.",
+        "C": "Breast development, uterus absent, hypotension.",
+        "D": "No breast development, uterus absent, hypertension.",
+        "E": "Breast development, uterus present, hypertension."
+      },
+      "answer": "A",
+      "explanation": "This is a case of congenital adrenal hyperplasia. 17α-hydroxylase is required for conversion of progesterone into 17α-hydroxyprogesterone, or pregnenolone into 17α-hydroxypregnenolone and is required in synthesis of cortisol, androgens and estrogen. Without cortisol, there will be a lack of inhibition of ACTH secretion from anterior pituitary, causing hyperplasia of adrenal cortex .\n\nAlthough adrenarche is not required in pubertal development, the lack of androgen and estrogen synthesis will impair the thelarche, pubarche and menarche. Gonadarche is not affected as it is controlled by GnRH, FSH and LH. There will be no breast and other secondary sexual characteristics development. Hypertension occurs as all steroids are directed into synthesis of aldosterone in hyperplastic zona glomerulosa.\n\nHowever, the uterus is present despite the absence of both androgen and estrogen. This can be explained as the development of internal genitalia and sex determination process is default programmed into female development, i.e. the indifferent gonad will develop into testis in an “opt-in” manner under the action of SRY gene product, which then gives rise to testosterone and anti-Mullerian hormone to drive the development of male external genitalia and accessory ductal system respectively. In the absence of both sex steroids, the genitalia will continue to develop into female phenotype despite the sex chromosomal genotype of the individual. Hence, ovaries, uterus and vagina can be found in the patient.\n\nAs an additional information, 3β-hydroxysteroid dehydrogenase and 21-hydroxylase (Most common) deficiency will also cause congenital adrenal hyperplasia. As long as cortisol synthesis is impaired, CAH commences due to disinhibition of ACTH.\n\nTo make it short, there is no adrenarche and hence no DHEA, DHEA-S to drive the subsequent pubertal developmental milestones.There will be no gonadarche, thelarche, pubarche and menarche in the patient. Prof. Simon Au is already very nice in this question as he knows we won’t be able to answer if it is hypotension or hypertension to occur in 17α-hydroxylase deficiency.\n\nMe: Ovaries and uterus are indeed present, but underdeveloped.\nSee https://doi.org/10.1002/ccr3.6109 for a case report\nBreast development is dependent on estrogen.\n![](img/Extra_MEDU3400_Repro_Q34_1795606877109.png)\n\nWhat? Covered in MED4??? Anyway, you have already learnt it for good."
+    },
+    "Extra MEDU3400 Repro Q35": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 35,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The initial change in the hypothalamic-pituitary-gonadal axis with puberty in girls is:",
+      "options": {
+        "A": "Decreased sensitivity to inhibitory effects of the low levels of sex steroids.",
+        "B": "Maturation of the positive feedback response to oestrogen.",
+        "C": "Increased circulating level of estradiol.",
+        "D": "Sleep-entrained increases in luteinizing hormone (LH).",
+        "E": "An increase in plasma FSH to LH ratio."
+      },
+      "answer": "D",
+      "explanation": "Nocturnal rise of LH and increase in GnRH pulse frequency are the initial changes involved in transition of childhood to puberty. This process takes several years to cause a decreased sensitivity of hypothalamus-pituitary axis to negative feedback effect by gonadal sex steroids.\nMe: FSH to LH ratio should decrease"
+    },
+    "Extra MEDU3400 Repro Q36": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 36,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In normal pubertal development, which of the following is true?",
+      "options": {
+        "A": "Pubarche usually precedes thelarche.",
+        "B": "Menarche usually precedes pubarche.",
+        "C": "Menarche usually precedes pubertal growth spurt.",
+        "D": "Menarche marks the start of regular 28-day cycles.",
+        "E": "Thelarche usually represents the first event."
+      },
+      "answer": "E",
+      "explanation": "Refer to the AGTPSM order featured in the following two questions. D is not correct as initial cycles are irregular. Also, even in regular cycles, the length may not be 28 days.\nMe: Thelarche is the first ‘observable’ event?"
+    },
+    "Extra MEDU3400 Repro Q37": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 37,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A concerned mother brings in her 16-year-old daughter because she has never had a menstrual period. On examination, the girl is 153 cm tall with mature adult breast development but no pubic and axillary hair. Vaginal examination is difficult, and you are unable to identify the cervix nor palpate the uterus. The most likely diagnosis of this patient is:",
+      "options": {
+        "A": "Congenital adrenal hyperplasia with 21-hydroxylase deficiency.",
+        "B": "Imperforate hymen.",
+        "C": "Turner’s syndrome.",
+        "D": "Kallmann’s syndrome",
+        "E": "Complete androgen insensitivity syndrome."
+      },
+      "answer": "E",
+      "explanation": "A could be a tempting choice, but not in this case, as thelarche occurs normally which reflects normal gonadarche. B is incorrect as this will not affect pubic and axillary hair. C is false as there will be no gonadarche to cause thelarche in the case of Turner’s syndrome. D is also false as absence of GnRH neurons will also interfere with gonadarche and subsequent developmental milestones.\n\nThis is a case of complete androgen insensitivity syndrome, such that androgen receptor is mutated and non-functional. The “daughter” is in fact a “son” with 46, XY karyotype, just that the absence of normal AR leads to manifestation of female phenotypes. The patient has testes instead of ovaries as the differentiation of gonads is controlled by SRY gene in an androgen-independent manner. However, development of male internal genitalia from mesonephric ducts is hindered due to lack of AR signaling. There are also no Fallopian tube, uterus and superior part of vagina formed as the paramesonephric duct regresses under influence of anti-Mullerian hormone secreted by testis. Only female external genitalia (Vestibule and distal portion of vagina) can be developed under ER signaling. During puberty, adrenarche and gonadarche continue to occur, and also thelarche which is mediated by ER. However, pubarche is stopped due to lack of AR signaling, leading to the lack of pubic and axillary hair.\n\nWhat sex organs are present in complete androgen insensitivity syndrome? (review embryology)\n\n| Organ | Present? | Reason |\n| --- | --- | --- |\n| Testes | Yes | Gonads are testes (usually undescended, located in abdomen, inguinal canal, or labia) (testosterone is needed for the degeneration of cranial suspensory ligament of testes, and to some extent also the masculinization of the gubernaculum) |\n| Epididymis, vas deferens, seminal vesicles | Yes | Wolffian (mesonephric) ducts develop because testes produce anti-Müllerian hormone (AMH) and some local testosterone |\n| Uterus | No | Anti-Müllerian hormone (AMH) secreted by Sertoli cells in fetal testes actively regresses the Müllerian ducts → no uterus, no fallopian tubes, no upper vagina |\n| Fallopian tubes | No | Same reason as above (Müllerian regression) |\n| Cervix | No | Same reason |\n| Upper 2/3 of vagina | No | Upper vagina is Müllerian in origin → regressed by AMH |\n| Lower 1/3 of vagina | Yes | Lower vagina develops from urogenital sinus (androgen-independent) |\n| External genitalia | Female | Complete end-organ insensitivity to androgens (defective androgen receptor) → no virilization despite normal/high testosterone levels |\n| Ovaries | No | 46,XY karyotype → gonadal sex is male (testes) |\n\nNote [1]: this q should be from med4 cpy but somehow found in some old med3 sources review if interested"
+    },
+    "Extra MEDU3400 Repro Q38": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 38,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The following are clinical features of hypogonadism EXCEPT",
+      "options": {
+        "A": "Galactorrhea",
+        "B": "Amenorrhea",
+        "C": "Hot flushes",
+        "D": "Eunuchoid body proportions",
+        "E": "Osteoporosis"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "16-17 MEDU3400 Test Q47": {
+      "year": "2016-17",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 47,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "What is the correct sequence of puberty? Type the correct sequence, without separators between answers. \n\nA. Adrenarche\nB. Thelarche\nC. Menarche\nD. Pubarche\nE. Gonadarche",
+      "options": {},
+      "answer": "AGTPM",
+      "explanation": ""
+    },
+    "17-18 MEDU3400 Test Q46": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 46,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Correct sequence of puberty development",
+      "options": {
+        "A": "Menarche, pubertal growth spurt, pubarche, thelarche",
+        "B": "Thelarche, pubarche, pubertal growth spurt, menarche",
+        "C": "Pubarche, thelarche, pubertal growth spurt, menarche",
+        "D": "Thelarche, menarche, pubertal growth spurt, pubarche",
+        "E": "Pubertal growth spurt, menarche, thelarche, pubarche"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "18-19 MEDU3400 Test Q45": {
+      "year": "2018-19",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 45,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "List the correct sequence of pubertal development",
+      "options": {
+        "A": "Adrenarche, Gonadarche, Menarche, Thelarche, Pubarche",
+        "B": "Adrenarche, Gonadarche, Thelarche, Pubarche, Menarche",
+        "C": "Adrenarche, Thelarche, Pubarche, Gonadarche, Menarche",
+        "D": "Gonadarche, Adrenarche, Pubarche, Thelarche, Menarche",
+        "E": "Gonadarche, Adrenarche, Menarche, Pubarche, Thelarche"
+      },
+      "answer": "B",
+      "explanation": "A Girl Takes Public Metro\nA Girl Takes Private Messages\nAGTPSMO\nA Girl Tries Playing SM Online (I like this)\nAdrenarche, Gonadarche, Thelarche, Pubarche, Spurt (growth spurt), Menarche"
+    },
+    "19-20 MEDU3400 Final Q35": {
+      "year": "2019-20",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 35,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Sequence of pubertal changes. Type the correct sequence, without separators between answers. \n\nA. Breast bud\nB. Menarche\nC. Linear accelerated growth\nD. Pubic hair growth",
+      "options": {},
+      "answer": "ADCB",
+      "explanation": ""
+    },
+    "20-21 MEDU3400 Test Q45": {
+      "year": "2020-21",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 45,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Puberty marks the transition period between childhood and sexual maturity. Which of the following physical signs first appears in boys? (88% right)",
+      "options": {
+        "A": "Deepened voice",
+        "B": "Axillary hair growth",
+        "C": "Pubic hair growth",
+        "D": "Increased testicular volume",
+        "E": "Pubertal growth spurt"
+      },
+      "answer": "D",
+      "explanation": "A-C are signs of pubarche, which are all triggered by the rise of androgens secreted by testis and zona reticularis of adrenal. D is sign of gonadarche, which precedes pubarche as testicular maturation is necessary to provide sufficient androgens for pubarche. Recall the AGTPSM sequence of pubertal development. Adrenarche only helps to provide some of the androgens for pubarche, but itself is incapable of causing pubarche and not even a prequisite of puberty. However, in some individuals with hyperactive zona reticularis, adrenarche itself is sufficient to cause pubarche before onset of true puberty, i.e. pubarche before gonadarche.\nIn boys, spermarche (Appearance of sperms in ejaculate) replaces menarche as the last step, and the whole sequence is AGTPSS."
+    },
+    "21-22 MEDU3400 Test Q46": {
+      "year": "2021-22",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 46,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is the correct sequence of pubertal development in females?",
+      "options": {
+        "A": "Menarche, gonadarche, adrenarche, pubarche, thelarche",
+        "B": "Adrenarche, gonadarche, thelarche, pubarche, menarche",
+        "C": "Adrenarche, gonadarche, menarche, pubarche, thelarche",
+        "D": "Thelarche, adrenarche, gonadarche, menarche, pubarche",
+        "E": "Pubarche, thelarche, gonadarche, adrenarche, menarche"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "22-23 MEDU3400 Final Q51": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 51,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In normal pubertal development, which of the following is true?",
+      "options": {
+        "A": "Pubarche usually precedes thelarche.",
+        "B": "Menarche usually precedes pubarche.",
+        "C": "Menarche usually precedes pubertal growth spurt.",
+        "D": "Menarche marks the start of ovulation.",
+        "E": "Growth spurt usually precedes menarche."
+      },
+      "answer": "E",
+      "explanation": "Remember AGTPSM. D is wrong as first few menstrual cycles can be anovulatory, i.e. ovulation does not occur."
+    },
+    "23-24 MEDU3400 Final Q50": {
+      "year": "2023-24",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 50,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "List the correct sequence of pubertal development:",
+      "options": {
+        "A": "Adrenarche, Gonadarche, Menarche, Thelarche, Pubarche",
+        "B": "Adrenarche, Gonadarche, Thelarche, Pubarche, Menarche",
+        "C": "Adrenarche, Thelarche, Pubarche, Gonadarche, Menarche",
+        "D": "Gonadarche, Adrenarche, Pubarche, Thelarche, Menarche",
+        "E": "Gonadarche, Adrenarche, Menarche, Pubarche, Thelarche"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "24-25 MEDU3400 Final Q52": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 52,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following sex hormones increases first during puberty?",
+      "options": {
+        "A": "adrenal androgen",
+        "B": "ovarian estrogen",
+        "C": "hepatic estrogen",
+        "D": "testicular androgen"
+      },
+      "answer": "A",
+      "explanation": "Adrenarche comes before gonadarche."
+    },
+    "24-25 MEDU3400 Final Q57": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 57,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Onset puberty, which develops first?",
+      "options": {
+        "A": "adipose estrogen",
+        "B": "adrenal androgen",
+        "C": "hepatic estrogen",
+        "D": "ovarian estrogen",
+        "E": "testicular androgen"
+      },
+      "answer": "B",
+      "explanation": "I suspect this question is accidentally duplicated???\nNote [2]: i genuinely have no idea why this question appeared twice?????????"
+    },
+    "25-26 MEDU3400 Test Q42": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 42,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following events is thought to initiate reactivation of the hypothalamic–pituitary–gonadal axis at the onset of puberty? (reconstructed options)",
+      "options": {
+        "A": "Decreased inhibitory GABAergic input and enhanced excitation of GnRH neurons by kisspeptin neurons",
+        "B": "Increased negative feedback of sex steroids on the hypothalamus and pituitary",
+        "C": "Decreased pulsatile secretion of GnRH from the hypothalamus",
+        "D": "Progressive decline in kisspeptin secretion from KNDy neurons",
+        "E": "Increased somatostatin inhibition of hypothalamic releasing hormones"
+      },
+      "answer": "A",
+      "explanation": "Several mechanisms reactivate the HPG axis upon puberty onset:\n1) The removal of central nervous system inhibition on GnRH-releasing neurons at the hypothalamus\n2) Decrease of sensitivity to estrogen/androgen negative feedback on GnRH release\n3) The excitation of GnRH releasing neurons from higher-order neurons i.e. kisspeptin from arcuate nucleus (pulsatile/episodic release), and pre-optic nucleus (excitatory release)"
+    },
+    "25-26 MEDU3400 Final Q52": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 52,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A 32-year-old man is undergoing a fertility assessment and treatment. Based on the hypothalamic-pituitary-testicular axis, which intervention is the MOST appropriate to increase his intratesticular testosterone to support spermatogenesis?",
+      "options": {
+        "A": "Oral administration of high dose exogenous testosterone to increase systemic testosterone level",
+        "B": "Pulsatile administration of GnRH agonist to stimulate gonadotrophin release",
+        "C": "Continuous administration of GnRH agonist to stimulate gonadotrophin receptors",
+        "D": "Treatment with PDE5 inhibitor to enhance blood flow to pampiniform plexus",
+        "E": "Treatment with aromatase inhibitor to prevent aromatization of testosterone to estradiol"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "25-26 MEDU3400 Final Q54": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 54,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "8yr old boy, acne, testes development, low LH and FSH, what is this indicative of",
+      "options": {
+        "A": "Central precocious puberty",
+        "B": "Normal gonadarche",
+        "C": "Normal adrenarche",
+        "D": "Peripheral precocious puberty"
+      },
+      "answer": "D",
+      "explanation": "![](img/25-26_MEDU3400_Final_Q54_1795607254580.png)"
+    },
+    "Extra MEDU3400 Repro Q39": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 39,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "When evaluating the results of a human chorionic gonadotrophin level in the maternal blood, the peak value occurs at which week of pregnancy?",
+      "options": {
+        "A": "3-4",
+        "B": "9-10",
+        "C": "14-16",
+        "D": "24-28",
+        "E": "36-42"
+      },
+      "answer": "B",
+      "explanation": "hCG is secreted by placenta to rescue the corpus luteum from apoptosis, which is necessary to maintain estrogen and progesterone secretions from corpus luteum until feto-placental unit takes over after week 7-9.\n\nOfficial answer from Prof. Simon Au:\nThe hCG level in the maternal circulation peaks at around 9-10 weeks of pregnancy (first trimester). This represents the time when the pregnancy test result is most reliable due to the high levels of the hormone. In contrast, human placental lactogen levels continue to rise throughout pregnancy, parallel to increase in placental mass."
+    },
+    "Extra MEDU3400 Repro Q40": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 40,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which one of the following hormones is produced only by the placenta?",
+      "options": {
+        "A": "Progesterone",
+        "B": "Estradiol",
+        "C": "Human somatomammotrophin (Human placental lactogen hPL)",
+        "D": "Prolactin",
+        "E": "Relaxin"
+      },
+      "answer": "C",
+      "explanation": "During pregnancy, circulating levels of a number of hormones increase in the maternal circulation. However only some of them are derived exclusively from the placenta like human somatomammotrophin (or human placental lactogen). During early pregnancy (before 6th-8th week), progesterone and estradiol are derived from the corpus luteum. After that, progesterone is secreted by placenta, and estradiol (including estriol and estrone) is produced by the fetal-placental unit. Prolactin is secreted from the maternal pituitary and decidua, while relaxin is produced by the corpus luteum and decidua."
+    },
+    "Extra MEDU3400 Repro Q41": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 41,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "During which of the following period is a human embryo / fetus most susceptible to teratogenic agents?",
+      "options": {
+        "A": "Within 1 week after last menstruation",
+        "B": "Within 1 week after fertilization",
+        "C": "10 weeks of gestation",
+        "D": "20 weeks of gestation",
+        "E": "30 weeks of gestation"
+      },
+      "answer": "C",
+      "explanation": "Embryogenesis occurs during 3rd - 8th weeks of gestation. In this period, all organs or their precursors have been formed within the embryo.\n\nOfficial answer from Prof. Simon Au:\nEmbryos are most susceptible to teratogenic agent during the organogenesis stage of embryonic development, which is from 4 week to 12 week after the last menstrual period."
+    },
+    "Extra MEDU3400 Repro Q42": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 42,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Identify the normal implantation site of the blastocyst.",
+      "options": {
+        "A": "Oviduct",
+        "B": "Posterior wall of uterus",
+        "C": "Anterior wall of uterus",
+        "D": "Cervix",
+        "E": "Vagina"
+      },
+      "answer": "B",
+      "explanation": "Isn’t this year 2 embry past paper question"
+    },
+    "Extra MEDU3400 Repro Q43": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 43,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is true for placental infections?",
+      "options": {
+        "A": "More commonly manifest as villitis (inflammation of chorionic villi) than chorio-amnionitis (inflammation of placental membranes).",
+        "B": "Are seldom caused by ascending spread from maternal infections of female genital tract.",
+        "C": "Are almost always caused by hematogenous/ transplacental spread of systemic maternal infections.",
+        "D": "Maternal syphilis is a recognized cause.",
+        "E": "None of the above."
+      },
+      "answer": "D",
+      "explanation": "Transplacental infection of syphilis is a well-known cause of causing congenital defects."
+    },
+    "16-17 MEDU3400 Test Q48": {
+      "year": "2016-17",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 48,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In pregnancy, progesterone level",
+      "options": {
+        "A": "Produced by the placenta peaks with the increase of human chorionic gonadotrophs at 10-12 week of pregnancy",
+        "B": "Mediates stage 3 lactogenesis",
+        "C": "Increases continuously",
+        "D": "Stop producing after the death of in utero fetus",
+        "E": "Production in first 1-2 month mainly from corpus luteum"
+      },
+      "answer": "E",
+      "explanation": "A is wrong as hCG starts to decrease beyond week 10 as feto-placental unit takes over the secretion of estrogen and progesterone. B is wrong as stage 3 lactogenesis (Galactopoiesis, maintenance of milk production) is mediated by prolactin. Progesterone only mediates lobulo-alveolar growth along with estrogen in each menstrual cycle, or along with hPL and prolactin during pregnancy. C is wrong as progesterone level slightly decreases during the transition from corpus luteum to placenta as the source of progesterone secretion (Luteal-placental shift). D is wrong as progesterone is secreted by the placenta, not fetal liver or adrenal. It should be estrogen (Estradiol, estrone, estriol) that depends on fetal tissues for secretion. E is correct as progesterone is secreted by corpus luteum in the first 10 weeks."
+    },
+    "17-18 MEDU3400 Test Q47": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 47,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is related to estriol increase?",
+      "options": {
+        "A": "Fetal adrenal cortex",
+        "B": "Corpus luteum",
+        "C": "Progesterone induced placenta release",
+        "D": "HCG induced placenta release"
+      },
+      "answer": "A",
+      "explanation": "The LDL-cholesterol is supplied from maternal circulation to fetal adrenal cortex for DHEAS synthesis. The DHEAS is then hydroxylated in the liver to give 16-OH DHEAS. DHEAS and its 16-OH form are taken up by placenta for synthesis of estradiol (E2) or estrone (E1), and estriol (E3) respectively. Note that number after E stands for number of hydroxyl group in the estrogen. Hence 16-OH DHEAS with extra –OH will be converted to E3 but not E2"
+    },
+    "17-18 MEDU3400 Final Q36": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 36,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A pregnant woman has Grave's disease, which of the following substantially crosses the placenta and leads to goitre in the fetus",
+      "options": {
+        "A": "PTU",
+        "B": "Iodine",
+        "C": "Thyroid-stimulating IgG",
+        "D": "TSH",
+        "E": "Thyroxine"
+      },
+      "answer": "C",
+      "explanation": "the TSI, IgG, can cross placenta to cause hyperthyroidism in foetus\n\nIgG (Involved in most immune reaction) can cross placenta due to its smallest size and presence of IgG-specific transporters. The TSH-like IgG in the mother can cross the placenta to act on fetal thyroid, causing fetal hyperthyroidism."
+    },
+    "18-19 MEDU3400 Final Q36": {
+      "year": "2018-19",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 36,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Plasma concentration of which of the following hormone will decrease after the first trimester of pregnancy?",
+      "options": {
+        "A": "Estradiol",
+        "B": "hCS",
+        "C": "Human chorionic gonadotropin",
+        "D": "Progesterone",
+        "E": "Prolactin"
+      },
+      "answer": "C",
+      "explanation": "![](img/18-19_MEDU3400_Final_Q36_1795612963083.png)\n![](img/18-19_MEDU3400_Final_Q36_1795612968534.png)\n![](img/18-19_MEDU3400_Final_Q36_1795612972920.png)"
+    },
+    "19-20 MEDU3400 Test Q47": {
+      "year": "2019-20",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 47,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In utero, the highest partial pressure of oxygen is found at which of the following fetal vessels?",
+      "options": {
+        "A": "Abdominal aorta",
+        "B": "Pulmonary artery",
+        "C": "Pulmonary vein",
+        "D": "Umbilical arteries",
+        "E": "Umbilical vein"
+      },
+      "answer": "E",
+      "explanation": "Forget about pulmonary vessels as they do not function in the fetus. However, placenta do acts like the lungs in terms of gaseous exchange. Umbilical artery carries deoxygenated blood from the body, while umbilical vein carries oxygenated blood after gaseous exchange with maternal circulation in placenta.\n\nConcept check: What do umbilical vein and arteries become after birth?\nAns: Ligamentum teres of liver and medial umbilical ligaments\n\n![](img/19-20_MEDU3400_Test_Q47_1795612990699.png)"
+    },
+    "19-20 MEDU3400 Final Q36": {
+      "year": "2019-20",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 36,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Maternal hyperthyroidism, enter placenta to cause fetal goitres:",
+      "options": {
+        "A": "T4",
+        "B": "TMG",
+        "C": "TSH",
+        "D": "TSI",
+        "E": "Iodine"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "20-21 MEDU3400 Final Q31": {
+      "year": "2020-21",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 31,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following stops another menstrual cycle during pregnancy?",
+      "options": {
+        "A": "Oestriol",
+        "B": "hCG",
+        "C": "hPL",
+        "D": "Progesterone",
+        "E": "Prolactin"
+      },
+      "answer": "D",
+      "explanation": "Estrogen and progesterone can both exert negative feedback inhibition of GnRH, LH and FSH to stop menstrual cycle. However, estriol only has very weak estrogenic effect compared with estradiol and estrone. In terms of potency, Estradiol (E2) is 10 times more potent than estrone (E1) and 100 times more potent than estriol (E3).\n\n![](img/20-21_MEDU3400_Final_Q31_1795613009198.png)"
+    },
+    "20-21 MEDU3400 Final Q49": {
+      "year": "2020-21",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 49,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following graph closely matches progesterone during pregnancy? \n\n\n\n(by radi 23)",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      },
+      "answer": "E",
+      "explanation": "Progesterone level exhibits a biphasic pattern just like E2 during a menstrual cycle. The first rise is due to secretion from corpus luteum under maintenance of hCG secreted by placenta. However, during the shift of progesterone source from corpus luteum to placenta, there will be a slight dip of progesterone level. Then progesterone will continue to rise throughout the pregnancy.\n\nA is matching the level of hCG, which shows an initial rise and peaks at week 10, then drops to very low level after degeneration of corpus luteum. B is estrogen or prolactin that keeps increasing throughout pregnancy. C and D are quite similar and could be level of hPL, which increases and plateaus near the end of pregnancy."
+    },
+    "21-22 MEDU3400 Test Q47": {
+      "year": "2021-22",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 47,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A fetus died in utero (stillbirth), which of the following can be observed in the maternal circulation?",
+      "options": {
+        "A": "Increased CRH",
+        "B": "increased ACTH",
+        "C": "Decreased cortisol",
+        "D": "Decreased estriol",
+        "E": "Decreased progesterone"
+      },
+      "answer": "D",
+      "explanation": "D is correct as estrogen synthesis requires action of fetal liver and adrenal gland. E is wrong as placenta can work normally to secrete progesterone without the fetus.\n\nFetal adrenal gland and liver are required for estrogen synthesis. Hence stillbirth will abolish the estrogen secretion from feto-placental unit. Estrogen stimulates maternal production of cortisol binding globulin (CBG), raising total cortisol level. However, it does not affect free cortisol as the transient decrease in cortisol is soon rectified by the negative feedback mechanism. Hence, absence of estrogen will not affect cortisol. Placental CRH secretion is also normal and hence the whole adrenal axis in the mother is unaffected. It would be “unchanged” for CRH, ACTH and cortisol."
+    },
+    "22-23 MEDU3400 Test Q43": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 43,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A pregnant woman has Grave's disease, which of the following substantially crosses the placenta and leads to goitre in the fetus?",
+      "options": {
+        "A": "Propylthiouracil",
+        "B": "Iodine",
+        "C": "Thyroid-stimulating antibody",
+        "D": "TSH",
+        "E": "Thyroxine"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "22-23 MEDU3400 Final Q52": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 52,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "What is the precursor of oestrogen production by the feto-placental unit?",
+      "options": {
+        "A": "DHEA",
+        "B": "DHEAS",
+        "C": "Androstenedione",
+        "D": "Testosterone",
+        "E": "Estrone"
+      },
+      "answer": "B",
+      "explanation": "LDL-cholesterol in maternal circulation is delivered to fetal adrenal gland, which is then converted to dehydroepiandrosterone sulphate (DHEAS) as the first steroid product from fetal adrenal gland. DHEAS is then hydroxylated by 16α-hydroxylase in fetal liver to form 16-OH DHEAS. They are then converted to androstenedione and 16-OH androstenedione by placental sulphatase and 3β-HSD, and eventually to estrone, estradiol and estriol (Mainly). X-linked placental sulphatase deficiency limits the placental synthesis of estrogens from DHEAS precursors, and the low estrogen level is linked to delay onset of labour."
+    },
+    "23-24 MEDU3400 Test Q44": {
+      "year": "2023-24",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 44,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following hormones will be least metabolised during transfer in placenta?",
+      "options": {
+        "A": "Cortisol",
+        "B": "Epinephrine",
+        "C": "Insulin",
+        "D": "Progesterone",
+        "E": "Tyrosine"
+      },
+      "answer": "D",
+      "explanation": "Placental enzymes, e.g. insulinase, 11β-HSD2 and COMT, will metabolise most hormones including insulin, cortisol and adrenaline."
+    },
+    "24-25 MEDU3400 Final Q54": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 54,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "What effect facilitates loading of O2 from maternal to fetal blood",
+      "options": {
+        "A": "double Haldane effect",
+        "B": "higher affinity of fetal Hb to CO2",
+        "C": "higher (fractional) feto-placental blood flow",
+        "D": "lower haemoglobin",
+        "E": "reverse Bohr effect"
+      },
+      "answer": "C",
+      "explanation": "For A, double haldane effect explains CO2 transfer."
+    },
+    "Extra MEDU3400 Repro Q44": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 44,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Double haldane effect placental",
+      "options": {
+        "A": "Fetal low O2 affinity",
+        "B": "Maternal deoxygenated blood in the intervillous space facilitates the uptake of Co2 from foetal blood",
+        "C": "Foetal oxygenated blood facilitates unloading of CO2 to maternal blood"
+      },
+      "answer": "C",
+      "explanation": "Sertoli does:"
     }
   }
 }
