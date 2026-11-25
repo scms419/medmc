@@ -4059,6 +4059,242 @@
           ]
         }
       }
+    },
+    "Year 3": {
+      "MEDU3400 Human Function II": {
+        "byYear": {
+          "2014-15": [
+            "14-15 MEDU3400 Final Q2",
+            "14-15 MEDU3400 Final Q28",
+            "14-15 MEDU3400 Final Q31"
+          ],
+          "2016-17": [
+            "16-17 MEDU3400 Test Q44",
+            "16-17 MEDU3400 Test Q45",
+            "16-17 MEDU3400 Final Q39"
+          ],
+          "2017-18": [
+            "17-18 MEDU3400 Test Q44",
+            "17-18 MEDU3400 Test Q45",
+            "17-18 MEDU3400 Final Q35"
+          ],
+          "2018-19": [
+            "18-19 MEDU3400 Final Q34",
+            "18-19 MEDU3400 Test Q44",
+            "18-19 MEDU3400 Final Q35"
+          ],
+          "2019-20": [
+            "19-20 MEDU3400 Test Q46",
+            "19-20 MEDU3400 Test Q48"
+          ],
+          "2020-21": [
+            "20-21 MEDU3400 Final Q35",
+            "20-21 MEDU3400 Test Q44"
+          ],
+          "2021-22": [
+            "21-22 MEDU3400 Test Q44",
+            "21-22 MEDU3400 Test Q45",
+            "21-22 MEDU3400 Final Q36"
+          ],
+          "2022-23": [
+            "22-23 MEDU3400 Test Q41",
+            "22-23 MEDU3400 Test Q42",
+            "22-23 MEDU3400 Final Q50"
+          ],
+          "2023-24": [
+            "23-24 MEDU3400 Test Q42",
+            "23-24 MEDU3400 Test Q43",
+            "23-24 MEDU3400 Final Q49"
+          ],
+          "2024-25": [
+            "24-25 MEDU3400 Test Q37",
+            "24-25 MEDU3400 Final Q50",
+            "24-25 MEDU3400 Final Q51",
+            "24-25 MEDU3400 Test Q38",
+            "24-25 MEDU3400 Final Q53"
+          ],
+          "2025-26": [
+            "25-26 MEDU3400 Test Q39",
+            "Extra MEDU3400 Repro Q13",
+            "Extra MEDU3400 Repro Q29",
+            "25-26 MEDU3400 Test Q41",
+            "25-26 MEDU3400 Final Q55",
+            "25-26 MEDU3400 Final Q56"
+          ],
+          "unclassified": [
+            "Extra MEDU3400 CVS Q1",
+            "Extra MEDU3400 CVS Q2",
+            "Extra MEDU3400 CVS Q3",
+            "Extra MEDU3400 CVS Q4",
+            "Extra MEDU3400 CVS Q5",
+            "Extra MEDU3400 CVS Q6",
+            "Extra MEDU3400 CVS Q7",
+            "Extra MEDU3400 CVS Q8",
+            "Extra MEDU3400 CVS Q9",
+            "Extra MEDU3400 CVS Q10",
+            "Extra MEDU3400 CVS Q11",
+            "Extra MEDU3400 CVS Q12",
+            "Extra MEDU3400 CVS Q13",
+            "Extra MEDU3400 CVS Q14",
+            "Extra MEDU3400 CVS Q15",
+            "Extra MEDU3400 CVS Q16",
+            "Extra MEDU3400 CVS Q17",
+            "Extra MEDU3400 CVS Q18",
+            "Extra MEDU3400 CVS Q19",
+            "Extra MEDU3400 CVS Q20",
+            "Extra MEDU3400 CVS Q21",
+            "Extra MEDU3400 CVS Q22",
+            "Extra MEDU3400 CVS Q23",
+            "Extra MEDU3400 CVS Q24",
+            "Extra MEDU3400 CVS Q25",
+            "Extra MEDU3400 CVS Q26",
+            "Extra MEDU3400 CVS Q27",
+            "Extra MEDU3400 CVS Q28",
+            "Extra MEDU3400 CVS Q29",
+            "Extra MEDU3400 CVS Q30",
+            "Extra MEDU3400 CVS Q31",
+            "Extra MEDU3400 CVS Q32",
+            "Extra MEDU3400 CVS Q33",
+            "Extra MEDU3400 CVS Q34",
+            "Extra MEDU3400 CVS Q35",
+            "Extra MEDU3400 CVS Q36",
+            "Extra MEDU3400 Repro Q1",
+            "Extra MEDU3400 Repro Q2",
+            "Extra MEDU3400 Repro Q3",
+            "Extra MEDU3400 Repro Q4",
+            "Extra MEDU3400 Repro Q5",
+            "Extra MEDU3400 Repro Q6",
+            "Extra MEDU3400 Repro Q7",
+            "Extra MEDU3400 Repro Q8",
+            "Extra MEDU3400 Repro Q9",
+            "Extra MEDU3400 Repro Q10",
+            "Extra MEDU3400 Repro Q11",
+            "Extra MEDU3400 Repro Q12",
+            "Extra MEDU3400 Repro Q14",
+            "Extra MEDU3400 Repro Q15",
+            "Extra MEDU3400 Repro Q16",
+            "Extra MEDU3400 Repro Q17",
+            "Extra MEDU3400 Repro Q18",
+            "Extra MEDU3400 Repro Q19",
+            "Extra MEDU3400 Repro Q20",
+            "Extra MEDU3400 Repro Q21",
+            "Extra MEDU3400 Repro Q22",
+            "Extra MEDU3400 Repro Q23",
+            "Extra MEDU3400 Repro Q24",
+            "Extra MEDU3400 Repro Q25",
+            "Extra MEDU3400 Repro Q26",
+            "Extra MEDU3400 Repro Q27",
+            "Extra MEDU3400 Repro Q28",
+            "Extra MEDU3400 Repro Q30"
+          ]
+        },
+        "byTopic": {
+          "CVS Drugs": [
+            "Extra MEDU3400 CVS Q1",
+            "Extra MEDU3400 CVS Q2",
+            "Extra MEDU3400 CVS Q3",
+            "Extra MEDU3400 CVS Q4",
+            "Extra MEDU3400 CVS Q5",
+            "Extra MEDU3400 CVS Q6",
+            "Extra MEDU3400 CVS Q7",
+            "Extra MEDU3400 CVS Q8",
+            "Extra MEDU3400 CVS Q9",
+            "Extra MEDU3400 CVS Q10",
+            "Extra MEDU3400 CVS Q11",
+            "Extra MEDU3400 CVS Q12",
+            "Extra MEDU3400 CVS Q13",
+            "Extra MEDU3400 CVS Q14",
+            "Extra MEDU3400 CVS Q15",
+            "Extra MEDU3400 CVS Q16",
+            "Extra MEDU3400 CVS Q17",
+            "Extra MEDU3400 CVS Q18",
+            "Extra MEDU3400 CVS Q19",
+            "Extra MEDU3400 CVS Q20",
+            "Extra MEDU3400 CVS Q21",
+            "Extra MEDU3400 CVS Q22",
+            "Extra MEDU3400 CVS Q23",
+            "Extra MEDU3400 CVS Q24",
+            "Extra MEDU3400 CVS Q25",
+            "Extra MEDU3400 CVS Q26",
+            "Extra MEDU3400 CVS Q27",
+            "Extra MEDU3400 CVS Q28",
+            "Extra MEDU3400 CVS Q29",
+            "Extra MEDU3400 CVS Q30",
+            "Extra MEDU3400 CVS Q31",
+            "Extra MEDU3400 CVS Q32",
+            "Extra MEDU3400 CVS Q33",
+            "Extra MEDU3400 CVS Q34",
+            "Extra MEDU3400 CVS Q35",
+            "Extra MEDU3400 CVS Q36"
+          ],
+          "Reproductive Physiology": [
+            "Extra MEDU3400 Repro Q1",
+            "Extra MEDU3400 Repro Q2",
+            "Extra MEDU3400 Repro Q3",
+            "Extra MEDU3400 Repro Q4",
+            "Extra MEDU3400 Repro Q5",
+            "Extra MEDU3400 Repro Q6",
+            "Extra MEDU3400 Repro Q7",
+            "14-15 MEDU3400 Final Q2",
+            "14-15 MEDU3400 Final Q28",
+            "14-15 MEDU3400 Final Q31",
+            "16-17 MEDU3400 Test Q44",
+            "17-18 MEDU3400 Test Q44",
+            "18-19 MEDU3400 Final Q34",
+            "19-20 MEDU3400 Test Q46",
+            "20-21 MEDU3400 Final Q35",
+            "21-22 MEDU3400 Test Q44",
+            "24-25 MEDU3400 Test Q37",
+            "24-25 MEDU3400 Final Q50",
+            "24-25 MEDU3400 Final Q51",
+            "Extra MEDU3400 Repro Q8",
+            "Extra MEDU3400 Repro Q9",
+            "Extra MEDU3400 Repro Q10",
+            "Extra MEDU3400 Repro Q11",
+            "Extra MEDU3400 Repro Q12",
+            "25-26 MEDU3400 Test Q39",
+            "Extra MEDU3400 Repro Q13",
+            "Extra MEDU3400 Repro Q14",
+            "Extra MEDU3400 Repro Q15",
+            "Extra MEDU3400 Repro Q16",
+            "Extra MEDU3400 Repro Q17",
+            "Extra MEDU3400 Repro Q18",
+            "Extra MEDU3400 Repro Q19",
+            "Extra MEDU3400 Repro Q20",
+            "Extra MEDU3400 Repro Q21",
+            "Extra MEDU3400 Repro Q22",
+            "Extra MEDU3400 Repro Q23",
+            "Extra MEDU3400 Repro Q24",
+            "Extra MEDU3400 Repro Q25",
+            "Extra MEDU3400 Repro Q26",
+            "Extra MEDU3400 Repro Q27",
+            "Extra MEDU3400 Repro Q28",
+            "16-17 MEDU3400 Test Q45",
+            "16-17 MEDU3400 Final Q39",
+            "17-18 MEDU3400 Test Q45",
+            "17-18 MEDU3400 Final Q35",
+            "18-19 MEDU3400 Test Q44",
+            "18-19 MEDU3400 Final Q35",
+            "19-20 MEDU3400 Test Q48",
+            "20-21 MEDU3400 Test Q44",
+            "21-22 MEDU3400 Test Q45",
+            "21-22 MEDU3400 Final Q36",
+            "22-23 MEDU3400 Test Q41",
+            "22-23 MEDU3400 Test Q42",
+            "22-23 MEDU3400 Final Q50",
+            "23-24 MEDU3400 Test Q42",
+            "23-24 MEDU3400 Test Q43",
+            "23-24 MEDU3400 Final Q49",
+            "24-25 MEDU3400 Test Q38",
+            "24-25 MEDU3400 Final Q53",
+            "Extra MEDU3400 Repro Q29",
+            "25-26 MEDU3400 Test Q41",
+            "25-26 MEDU3400 Final Q55",
+            "25-26 MEDU3400 Final Q56",
+            "Extra MEDU3400 Repro Q30"
+          ]
+        }
+      }
     }
   },
   "questions": {
@@ -36534,6 +36770,1690 @@
       },
       "answer": "B",
       "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q1": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 1,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Amiodarone is useful in treating ventricular arrhythmia because",
+      "options": {
+        "A": "Inhibits K+ efflux",
+        "B": "shortens action potential duration",
+        "C": "Promotes sodium influx",
+        "D": "Decreases refractory period",
+        "E": "allter phase 0 of action potential"
+      },
+      "answer": "A",
+      "explanation": "Amiodarone is a class III K+ channel blocker. It blocks K+ efflux, slows down repolarization (phase 3) and hence prolonging plateau phase. It increases the QT interval in ECG."
+    },
+    "Extra MEDU3400 CVS Q2": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 2,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "In treating ventricular arrhythmia, mexiletine",
+      "options": {
+        "A": "blocks cardiac beta receptors",
+        "B": "increases the rate of depolarization of Purkinje fibers (?)",
+        "C": "decreases the Phase 0 upstroke velocity",
+        "D": "inhibits the action of Propranolol",
+        "E": "alters the pacemaker potential of the SA node (?)"
+      },
+      "answer": "C",
+      "explanation": "Mexiletine is a class 1B Na+ channel blocker. It is the least potent among the Na+ channel blockers. It does not act on the SA node."
+    },
+    "Extra MEDU3400 CVS Q3": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 3,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Which is correct regarding verapamil in treating ventricular arrhythmia?",
+      "options": {
+        "A": "Reverses pulmonary artery constriction",
+        "B": "Blocks calcium entry in SA and AV node",
+        "C": "Reduces ventricular contraction",
+        "D": "Promotes k influx of ventricular cardiomyocytes",
+        "E": "Increases AP upstroke"
+      },
+      "answer": "B",
+      "explanation": "Verapamil is a class IV Ca2+ channel blocker. It can block the slow Ca2+ current into the cell. It will slow down / prolong repolarization and increase the PR interval."
+    },
+    "Extra MEDU3400 CVS Q4": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 4,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "In treating myocardial ischemia, propranolol",
+      "options": {
+        "A": "Inhibits cardiac alpha-adrenoceptors",
+        "B": "Decrease AV node refractoriness",
+        "C": "Promotes bronchial relaxation",
+        "D": "Enhances degradation of renin",
+        "E": "Increases the diastolic period of the heart"
+      },
+      "answer": "E",
+      "explanation": "Propranolol is a non-selective beta-blocker.\nA. Irrelevant. You should choose prazosin or terazosin instead.\nB. The reduced SNS stimulation reduces the frequency of AP and rate of depolarising upstroke is reduced (LTCC less activated under low cAMP/PKA), so that AP duration prolongs and so as the effective refractory period.\nC. Beta-2 stimulation relaxes bronchus, so propranolol causes bronchoconstriction\nD. Beta-1 stimulation promotes renin release but have nothing to do with renin degradation\nE. Propranolol elicits negative chronotropic and inotropic effects, which reduces heart rate and contractility. At a low heart rate, systole has a lower time interval (diastolic period increases)"
+    },
+    "Extra MEDU3400 CVS Q5": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 5,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "The anti-arrhythmic action of lignocaine is due to the blocking of",
+      "options": {
+        "A": "Ca2+ channels",
+        "B": "Cl- channels",
+        "C": "HCO3- channels",
+        "D": "K+ channels",
+        "E": "Na+ channels"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q6": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 6,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Sotalol is a drug used as an antiarrhythmic because it can",
+      "options": {
+        "A": "Reduce the upstroke of AP in SA node",
+        "B": "Prolong the ERP of AP",
+        "C": "Antagonize adrenoceptor action on heart",
+        "D": "Inhibit the generation of action potential in cardiomyocytes",
+        "E": "Promote the efflux of K+ in cardiomyocytes"
+      },
+      "answer": "C",
+      "explanation": "Sotalol acts as both beta blocker and K+ channel blocker.\nHowever, if I can only choose one option, I would go for C. (since Kwan Yiu Wa put this drug together with Amiodarone in class III antiarrhythmic drug)"
+    },
+    "Extra MEDU3400 CVS Q7": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 7,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Amiodarone on ventricular action potential in cardiac arrhythmia",
+      "options": {
+        "A": "alter phase 0 of AP",
+        "B": "decrease refractory period",
+        "C": "lengthen duration of AP",
+        "D": "promote influx of Na",
+        "E": "slow upstroke velocity of AP"
+      },
+      "answer": "C",
+      "explanation": "Amiodarone is a class III antiarrhythmic drug / K+ channel blocker. It works by blocking K+ channel, lengthening effective refractory period as well as action potential duration."
+    },
+    "Extra MEDU3400 CVS Q8": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 8,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Action of atenolol on blood pressure",
+      "options": {
+        "A": "B-adrenoceptor on bronchus",
+        "B": "Reduce renin release",
+        "C": "Lengthen propagation of action potential",
+        "D": "Inhibit Alpha adrenoceptor",
+        "E": "Inhibit phase 0 Na influx of cardiomyocytes"
+      },
+      "answer": "B",
+      "explanation": "Atenolol is a beta-1 adrenoceptor blocker. It can reduce renin release, as well as reducing heart rate and contractility. Note that it DOES NOT pass the blood brain barrier."
+    },
+    "Extra MEDU3400 CVS Q9": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 9,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Which of the following about atenolol treating hypertension is correct?",
+      "options": {
+        "A": "Activate B1 receptor",
+        "B": "Reduce cardiac contractility",
+        "C": "Increase vessel muscular tone"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q10": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 10,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Lisinopril prevents hypertension by",
+      "options": {
+        "A": "acting as an angiotensin II receptor antagonist",
+        "B": "acting as an angiotensin-converting enzyme inhibitor"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q11": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 11,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Which of the following statements regarding the therapeutic actions of losartan in treatment of hypertension is correct?",
+      "options": {
+        "A": "Increase angII breakdown",
+        "B": "Block Ang1 receptors",
+        "C": "Increase secretion of ACE",
+        "D": "Decrease renin release",
+        "E": "Increase activation of Ang1 receptors"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q12": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 12,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Amlodipine is used in treating hypertension because it",
+      "options": {
+        "A": "Prevents outward movement of K+ ions from cardiacmyocytes and VSMC",
+        "B": "Delays the upstroke velocity of action potential in ventricular myocytes",
+        "C": "Inhibits alpha-1 adrenoceptor activation on blood vessels",
+        "D": "Blocks influx of Ca2+ ions from cardiac myocytes and VSMC",
+        "E": "Inhibits reabsorption of Na+ ions into kidney tubules"
+      },
+      "answer": "D",
+      "explanation": "Actually amlodipine has higher selectivity towards LTCC in VSMC, but of course there are still some effects on CMC LTCC to reduce Ca influx during the plateau."
+    },
+    "Extra MEDU3400 CVS Q13": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 13,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Hypertension can be treated with lisinopril because it",
+      "options": {
+        "A": "Alleviates oedema by decreasing extracellular volume",
+        "B": "Inhibits Angiotensin receptors",
+        "C": "Reduce renin-mediated angiotensin II degradation",
+        "D": "Lowering absorption of HCO3-",
+        "E": "Reduce the arterial level of Angiotensin I"
+      },
+      "answer": "A",
+      "explanation": "A. True as ACEi can reduce Ang II and RAAS, which promotes Na and water retention to raise ECV and MAP.\nB. False as it should be Angiotensin Receptor Blockers (ARB) doing this, such as losartan.\nC. Renin leads to the synthesis of Ang II.\nD. This is not a very direct answer. Ang II activates NHE3 which is the major Na transporter in PCT to reabsorb 67% of total filtered Na, and NHE3 is responsible for bicarbonate trapping to reabsorb filtered bicarbonate. So you could say reduction in bicarbonate trapping (Reabsorption) is concomitant to reduction in Na reabsorption, which translates to reduced water reabsorption. However, this is a very indirect process, and you cannot say reduce bicarbonate reabsorption causes reduction in Na reabsorption, because bicarbonate reabsorption has many other factors to control.\nE. Ang I is formed from angiotensinogen by renin, instead of ACE."
+    },
+    "Extra MEDU3400 CVS Q14": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 14,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Which statement is true regarding atenolol in treatment of hypertension?",
+      "options": {
+        "A": "Decreases cardiac output",
+        "B": "Dilates blood vessels",
+        "C": "Increases cAMP levels in cardiac myocytes",
+        "D": "Increases cardiac contractility",
+        "E": "Increases cardiac workload"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q15": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 15,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Lisinopril reduces blood pressure by",
+      "options": {
+        "A": "block AT1 receptor",
+        "B": "Reduce renin-induced angiotensin II degradation",
+        "C": "Inhibit water reabsorption",
+        "D": "Inducing relaxation of VSMC",
+        "E": "Reducing the plasma level of adrenaline"
+      },
+      "answer": "D",
+      "explanation": "This is not a good question. It is easy to discard choices A, B and E at first glance. Now we need to consider between C and D, which are quite difficult to choose.\nActually lisinopril itself has no effect in reducing fluid retention or vasomotor tone, and its effect really relies on reduction in Ang II and aldosterone.\nAng II can stimulate NHE3 in PCT to raise Na (and water) reabsorption, while it can also cause vasoconstriction via AT1 receptors. Considering the effect of Ang II constricting glomerulus to reduce GFR, the fluid retention effect of Ang II is somehow limited. However, if we consider the effect of aldosterone also, then the net effect must be raising Na and water reabsorption greatly.\nHowever, you should note that it is ADH / vasopressin that mainly controls water retention by insertion of aquaporin channels.\nNote that angiotensin II is a potent vasoconstrictor. Lisinopril is an AChEi, so it will definitely reduce angiotensin II and vasoconstriction. Option D is a more direct option.\nC and D are both correct if you elaborate C a lot. I would opt for D to be safe.\nKwan Yiu Wa is really trash 😡."
+    },
+    "Extra MEDU3400 CVS Q16": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 16,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Cilostazol is used to treat intermittent claudication because:",
+      "options": {
+        "A": "Increase cGMP in endothelial cells",
+        "B": "Increase contractile force",
+        "C": "PDE3 inhibitor",
+        "D": "Increase heart rate",
+        "E": "Ca channel blocker"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q17": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 17,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Dopamine can be used to treat septic shock because:",
+      "options": {
+        "A": "It inhibits cardiac contractility",
+        "B": "It dilates renal efferent arteriole",
+        "C": "It dilates peripheral blood vessels",
+        "D": "It inhibits RAAS",
+        "E": "It promotes diuresis"
+      },
+      "answer": "B",
+      "explanation": "Not a good question as the closest answer is not a very good explanation.\nA & D & E → parasympathetic stimulation but dopamine will mimic sympathetic stimulation\nC → reduce VR → reduce CO & thus BP ⇒ cannot treat septic shock\nLow dose of dopamine acts on the D1 receptors to induce vasodilation in both AA and EA, which is required to restore renal perfusion at low pressure during sepsis, hence having renal-protective effect. Vasodilation is greater at the afferent arteriole.\nBUT ANYWAY this question should not be asked cuz :)\nPhysicians no longer should consider dopamine for septic shock\nhttps://journals.lww.com/ccmjournal/Citation/2012/03000/Physicians_no_longer_should_consider_dopamine_for.40.aspx"
+    },
+    "Extra MEDU3400 CVS Q18": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 18,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "For intermittent claudication, pentoxifylline",
+      "options": {
+        "A": "Redistribute blood to affected area",
+        "B": "Reduce platelet number",
+        "C": "Improve erythrocytes abnormality",
+        "D": "Improve glucose aerobic oxidation",
+        "E": "Increase erythrocytes oxygen carrying capacity"
+      },
+      "answer": "C",
+      "explanation": "B → should decrease platelet reactivity, not number. Inactivation is achieved with aspirin\nD → Naftidrofuryl\nE → should be to improve the ability to squeeze through the arteries but not O2 carrying capacity?\nC. In lecture notes, the exact statement is “improve abnormal erythrocyte abnormality → improve oxygenation”."
+    },
+    "Extra MEDU3400 CVS Q19": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 19,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Cilostazol is used to treat intermittent claudication because it",
+      "options": {
+        "A": "Reduce the number of platelets",
+        "B": "Remove cholesterol plaque",
+        "C": "Increase cAMP in blood vessel",
+        "D": "Activates guanylate cyclase",
+        "E": "Increase NO generation"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q20": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 20,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "How does naftidrofuryl treat intermittent claudication?",
+      "options": {
+        "A": "Activate plasminogen",
+        "B": "Inhibit 5HT2 receptor",
+        "C": "Dissolve platelet aggregates",
+        "D": "Reduce lower limb oedema",
+        "E": "Inhibit cholesterol synthesis"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q21": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 21,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Why can aspirin prevent intermittent claudication? (Choices reconstructed)",
+      "options": {
+        "A": "Prevent future clotting",
+        "B": "Dissolve existing clots",
+        "C": "Increase blood supply to ischemic regions",
+        "D": "Reduce synthesis of PGI2",
+        "E": "Enhance synthesis of TXA2"
+      },
+      "answer": "A",
+      "explanation": "A is true by preventing synthesis of TXA2 by platelets. Indeed PGI2 synthesis is somehow inhibited, but as explained in previous lectures, the endothelial cells are only exposed to much lower concentration and also their COX-2 is less inhibited. But, reduced synthesis of PGI2 causes vasoconstriction and will worsen intermittent claudication instead of improving it."
+    },
+    "Extra MEDU3400 CVS Q22": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 22,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "How does naftidrofuryl treat intermittent claudication?",
+      "options": {
+        "A": "Blocks metabolism of epinephrine",
+        "B": "Dissolve platelet aggregates",
+        "C": "Improve glucose aerobic metabolism",
+        "D": "Inhibit cholesterol synthesis",
+        "E": "Reduce lower limb oedema"
+      },
+      "answer": "C",
+      "explanation": "C is required to improve oxidative metabolism in oxygen-depleted tissues, so that ischemic injury is less likely to occur. Succinate dehydrogenase is involved."
+    },
+    "Extra MEDU3400 CVS Q23": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 23,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Gemfibrozil is used to treat ischemic heart disease by:",
+      "options": {
+        "A": "Reduce cholesterol absorption in small intestine",
+        "B": "Reduce hepatic lipolysis of VLDL",
+        "C": "Reduce blood clot in blood vessels",
+        "D": "Reduce sympathetic input",
+        "E": "Reduce plasma HDL levels"
+      },
+      "answer": "C",
+      "explanation": "A small intestine→ hepatic\nB ‘decrease in VLDL production’ in liver\nhttps://www.ncbi.nlm.nih.gov/books/NBK545266/\nC reduce cholesterol → reduce plaque formation → reduce blood clot?\nD not related\nE reduce → increase"
+    },
+    "Extra MEDU3400 CVS Q24": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 24,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Which of the following statements regarding glyceryl trinitrate (treating ischaemic heart disease) is correct?",
+      "options": {
+        "A": "Activate adenylate Cyclase in vascular smooth muscle cells",
+        "B": "dilate coronary arteries",
+        "C": "increase preload and afterload",
+        "D": "given intravenously",
+        "E": "increase excretion of renal electrolytes"
+      },
+      "answer": "B",
+      "explanation": "A. Release NO → sGC → cGMP → PKG\nB. Correct → increase collateral circulation to cardiac myocytes\nC. Decrease preload (reduce wall tension by venodilation and reduced VR), decrease afterload (vasodilation)\nD. Sublingual\nE. Not related"
+    },
+    "Extra MEDU3400 CVS Q25": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 25,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Which of the following describes the action of glyceryl trinitrate",
+      "options": {
+        "A": "stimulates cGMP levels in coronary arteries",
+        "B": "inhibits guanylate cyclase",
+        "C": "applied sublingually for fast action",
+        "D": "increase salt and water excretion by the kidneys",
+        "E": "removes cholesterol plaques"
+      },
+      "answer": "C",
+      "explanation": "Note that A may also be a possible answer\nA is induced by NO release."
+    },
+    "Extra MEDU3400 CVS Q26": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 26,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "In treating myocardial ischemia, propranolol",
+      "options": {
+        "A": "Inhibits cardiac alpha-adrenoceptors",
+        "B": "Decrease AV node refractoriness",
+        "C": "Promotes bronchiole relaxation",
+        "D": "Enhances degradation of renin",
+        "E": "Increases the diastolic period of the heart"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q27": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 27,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Nicotinic acid is used in treating ischemic heart disease because it:",
+      "options": {
+        "A": "Prevents intestinal absorption of fat",
+        "B": "Promotes excretion of fat in faeces",
+        "C": "increase level of cAMP in adipose tissue",
+        "D": "decrease secretion of bile from liver",
+        "E": "increase HDL in plasma"
+      },
+      "answer": "E",
+      "explanation": "Nicotinic acid reduces cAMP in adipose tissue to inhibit HSL, hence less lipolysis occurs. Nicotinic acid on the other hand increases expression of Apo-A in liver and hence the production of HDL. This lowers the plasma LDL and cholesterol through more CE-TAG exchange via the CETP reaction (Please revise MMG for this), facilitating the reverse cholesterol transport."
+    },
+    "Extra MEDU3400 CVS Q28": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 28,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "In treating myocardial ischaemia, simvastatin:",
+      "options": {
+        "A": "increase in the activity of mevalonate reductase in heart",
+        "B": "inhibit the action of 3-hydroxy-3-methyl-glutaryl-coenzyme A reductase",
+        "C": "is given sublingually so as to alleviate the symptoms quickly",
+        "D": "promotes the clearance of the cholesterol plaques inside the blood vessels",
+        "E": "Removes the formed cholesterol plaques in coronary arteries"
+      },
+      "answer": "B",
+      "explanation": "Statins can only reduce endogenous production of cholesterol from mevalonate pathway, by inhibiting HMG-CoA reductase. There is no thing as mevalonate reductase, but only mevalonate kinase. Only glyceryl trinitrate will be given sublingually for quick onset, as it has a simple enough molecular structure to be absorbed directly through the mucosa. Statins cannot help remove formed cholesterol plaques, but can reduce formation of new ones."
+    },
+    "Extra MEDU3400 CVS Q29": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 29,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Why is digoxin used in treating heart failure?",
+      "options": {
+        "A": "Increase ca2+ influx in cardiomyocyte",
+        "B": "Dilation of arteriole",
+        "C": "Increase the pacemaker activity of the heart",
+        "D": "Inhibit the monoamine oxidase activity of the heat",
+        "E": "Inhibit Na/K ATPase in plasma membrane of cardiac muscle"
+      },
+      "answer": "E",
+      "explanation": "E is certainly correct in terms of its MOA. Perhaps it would be more accurate to say digoxin increases the Ca2+ level in CMC prolongedly, instead increasing the influx during plateau phase."
+    },
+    "Extra MEDU3400 CVS Q30": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 30,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Which of the following statements about the mechanism of action of digoxin on heart failure is correct?",
+      "options": {
+        "A": "It stimulates the activity of guanylyl cyclase of endothelial cells lining the coronary arteries",
+        "B": "It enhances urinary excretion of metabolites",
+        "C": "It inhibits Na+/K+ ATPase in cardiomyocytes",
+        "D": "It stimulates increase in heart rate",
+        "E": "It stimulates increase in ventricular muscle mass"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q31": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 31,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "In treating heart failure, digoxin:",
+      "options": {
+        "A": "Increases cellular Ca2+ ion levels in heart muscle",
+        "B": "Increases heart rate of the failing heart",
+        "C": "Increases water excretion from the body",
+        "D": "Inhibits Na+/K+ exchanger of plasma membrane",
+        "E": "Inhibits reabsorption of salts in kidneys"
+      },
+      "answer": "A",
+      "explanation": "It has to be Na+/ K+ ATPase, not an exchanger that is inhibited."
+    },
+    "Extra MEDU3400 CVS Q32": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 32,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "mechanism of metoprolol on failing heart",
+      "options": {
+        "A": "inhibit alpha receptor",
+        "B": "increase oxygen uptake of heart",
+        "C": "increase diastolic filling period"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q33": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 33,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "In treating heart failure, milrinone:",
+      "options": {
+        "A": "Activates phosphodiesterase IV activities",
+        "B": "Decreases breakdown of cellular cAMP",
+        "C": "Enhances activities of adenylate cyclase",
+        "D": "Increases cellular cAMP levels",
+        "E": "promotes venous return"
+      },
+      "answer": "B",
+      "explanation": "Note that D may also be a possible answer"
+    },
+    "Extra MEDU3400 CVS Q34": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 34,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "Frusemide is used to treat heart failure because",
+      "options": {
+        "A": "It inhibits firing of action potential in heart",
+        "B": "It increases adrenergic stimulation",
+        "C": "It reduces water and sodium reabsorption",
+        "D": "It dilates the aorta",
+        "E": "it promotes K+ efflux from myocardial cell"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q35": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 35,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "In treating heart failure, digoxin",
+      "options": {
+        "A": "Inhibit Na+/H+ ion exchanger in plasma membrane",
+        "B": "Inhibit Na+/K+ ATPase in heart muscle",
+        "C": "Inhibits reabsorption of salts in kidneys"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU3400 CVS Q36": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 36,
+      "level": "Year 3",
+      "topic": "CVS Drugs",
+      "question": "In treating heart failure, milrinone:",
+      "options": {
+        "A": "Increase cellular cGMP level",
+        "B": "Increase the activity of adenylate cyclase",
+        "C": "Increase breakdown of cellular cAMP",
+        "D": "Inhibits cellular phosphodiesterase III activity",
+        "E": "Promotes venous return"
+      },
+      "answer": "D",
+      "explanation": "E is false as if its effect of VSMC will cause vasodilation, hence reducing VR and preload."
+    },
+    "Extra MEDU3400 Repro Q1": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 1,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is not involved in steroidogenesis?",
+      "options": {
+        "A": "Adrenal cortex",
+        "B": "Placenta",
+        "C": "Ovary",
+        "D": "Testis",
+        "E": "Adrenal medulla"
+      },
+      "answer": "E",
+      "explanation": "Adrenal medulla is only capable of catecholamine synthesis."
+    },
+    "Extra MEDU3400 Repro Q2": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 2,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following conditions will result in hypogonadotropic hypogonadism?",
+      "options": {
+        "A": "Klinefelter’s syndrome",
+        "B": "Turner’s syndrome",
+        "C": "Kallmann’s syndrome",
+        "D": "17α-hydroxylase deficiency",
+        "E": "Bilateral anorchia"
+      },
+      "answer": "C",
+      "explanation": "Klinefelter: XXY, failure of development of testis (Anorchia), present with low androgen and high GnRH due to reduced negative feedback\nTurner’s syndrome: X, failure of development of ovaries, again with high GHRH\n17-hydroxylase deficiency: Failure of steroidogenesis, again with high GHRH\nIn general, failure of gonad development and/or failure of sex steroid synthesis will remove inhibition on GHRH, hence causing hypergonadotrophic hypogonadism.\nIn Kallmann’s syndrome, mutation of KAL gene causes failure of GnRH neuronal precursors to migrate from olfactory placode to hypothalamus. Absence of GnRH neurons in hypothalamus causes hypogonadotropic hypogonadism.\nMe: I think Rodman means GnRH in lines 3-4. GnRH is high in A, B, D, E due to reduced negative feedback from androgens"
+    },
+    "Extra MEDU3400 Repro Q3": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 3,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is the most potent androgen?",
+      "options": {
+        "A": "Estrogen",
+        "B": "Progesterone",
+        "C": "Testosterone",
+        "D": "Androstenedione",
+        "E": "Dehydroepiandrosterone"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q4": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 4,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "An infertile man was found to have abnormally high levels of LH but relatively normal FSH level. Which of the following is the most likely cause of his infertility?",
+      "options": {
+        "A": "Overstimulation of GnRH",
+        "B": "Defect in inhibin production",
+        "C": "Damage to the hypothalamus",
+        "D": "Damage to Leydig cells",
+        "E": "Damage to Sertoli cells"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q5": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 5,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A herb was found to have advert effect on male fertility with abnormally high plasma gonadotrophins and abnormally low plasma androgens measured. Which of the following is the most likely site of its action?",
+      "options": {
+        "A": "Hypothalamus",
+        "B": "Anterior pituitary",
+        "C": "Posterior pituitary",
+        "D": "Adrenal gland",
+        "E": "Testis"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q6": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 6,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Identify the normal concentration of spermatozoa released during ejaculation.",
+      "options": {
+        "A": "300-500 million/ml",
+        "B": "22-10 million/ml",
+        "C": "2 million/ml",
+        "D": "1 million/ml",
+        "E": "0.5 million/ml"
+      },
+      "answer": "A",
+      "explanation": "Me: Normal is >20 (20 – 150) million/ml, (A) seems a bit high, but (B) is too low. Answer is confirmed by formative assessment."
+    },
+    "Extra MEDU3400 Repro Q7": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 7,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The prostaglandin level in the semen of a patient was found to be abnormally low. Which of the following organs is most likely to have a defect?",
+      "options": {
+        "A": "Testis",
+        "B": "Epididymis",
+        "C": "Prostate",
+        "D": "Seminal vesicle",
+        "E": "Vas deferens"
+      },
+      "answer": "D",
+      "explanation": "PGs were thought to be part of prostatic secretions, then discovered to be produced mainly by seminal vesicles."
+    },
+    "14-15 MEDU3400 Final Q2": {
+      "year": "2014-15",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 2,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The following cells show active mitosis or meiosis after puberty EXCEPT",
+      "options": {
+        "A": "Spermatogonia",
+        "B": "Primary spermatocyte",
+        "C": "Secondary spermatocyte",
+        "D": "Spermatid",
+        "E": "Sertoli cell"
+      },
+      "answer": "D",
+      "explanation": "Spermatogonia is the stem cell for spermatogenesis, which actively divides throughout life to maintain its number (Type A cell) or differentiate into type B cell as primary spermatocyte to enter spermatogenesis. Primary spermatocyte undergoes meiosis I to give secondary spermatocyte, then meiosis II to give spermatid. Spermatids can no longer divide and will further differentiate into spermatozoa in the process of spermiogenesis. Sertoli cell is the supporting cell in testis for facilitating sperm production and is capable of active division to maintain its number."
+    },
+    "14-15 MEDU3400 Final Q28": {
+      "year": "2014-15",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 28,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A 35-year-old man, XY, with congenital GnRH deficiency. What will be present?",
+      "options": {
+        "A": "Female external genitalia",
+        "B": "Short arm and limb stature",
+        "C": "Small testes",
+        "D": "Halt of spermatogenesis at the stage of spermatocytes",
+        "E": "Prostatic hyperplasia"
+      },
+      "answer": "C",
+      "explanation": "This could be a case of Kallmann’s syndrome with deficiency of GnRH neurons. Hypogonadotropic hypogonadism occurs. There will be very low FSH and LH secretion from anterior pituitary, as well as testosterone from testis. Note that testis is retained as it is determined by presence of SRY gene in Y chromosome. Fetal testis can still secrete testosterone (Although lower concentration) to drive development of male external genitalia. In fact, Kallmann’s syndrome is rarely discovered before the start of puberty. This is because GnRH insufficiency is induced in childhood before onset of puberty due to intrinsic CNS inhibitory outputs, e.g. high sensitivity to negative feedback inhibition by sex steroids and intrinsic GABAergic inhibitory neurons. It is the pubertal development being hindered, rather than differentiation of genitalia.\n\nB is wrong as low androgen/estrogen levels delay epiphyseal closure and the patient will have increased linear growth. D is wrong as spermatogenesis can still continue just that it is less abundant. E is wrong as prostatic growth is dependent on androgens."
+    },
+    "14-15 MEDU3400 Final Q31": {
+      "year": "2014-15",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 31,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "You will most likely find which of the following in an infertile man?",
+      "options": {
+        "A": "Sperm count 20 million/ml",
+        "B": "Increase in inhibin B upon exogenous administration of FSH",
+        "C": "Testicular temperature lower than the core temperature",
+        "D": "Genital tract infection leading to lower sperm motility"
+      },
+      "answer": "D",
+      "explanation": "A is in fact a normal sperm count in man. B is a normal negative feedback response to rise in FSH, as Sertoli cells secrete inhibin B in response to FSH. C is normal as a lower testicular temperature is required for sperm production. D is the correct answer as infection will hinder the movement of sperms inside the genital tract."
+    },
+    "16-17 MEDU3400 Test Q44": {
+      "year": "2016-17",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 44,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which one of the following is required for the full development and function of the seminiferous tubules?",
+      "options": {
+        "A": "Testosterone",
+        "B": "FSH",
+        "C": "LH",
+        "D": "Androgen and FSH",
+        "E": "Androgen and LH"
+      },
+      "answer": "D",
+      "explanation": "Development of seminiferous tubules requires the action of FSH and testosterone on Sertoli cells, which then drives spermatogenesis and spermiogenesis.\nMe: More specifically, FSH is needed to act on Sertoli cells to produce ABG, which helps maintain a high intratesticular testosterone ratio, without which spermatogenesis cannot occur normally."
+    },
+    "17-18 MEDU3400 Test Q44": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 44,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A male bodybuilder injects testosterone over periods of the last 6 months. Which of the following parameters would most likely decrease due to the effect of androgen treatment?",
+      "options": {
+        "A": "Erythropoietin production",
+        "B": "Facial hair",
+        "C": "Accessory sex gland secretion",
+        "D": "Sebaceous gland secretion",
+        "E": "Sperm production"
+      },
+      "answer": "E",
+      "explanation": "Refer to explanation in the question below for detail. Just be careful facial hair means beards and moustaches, but not the hair on the calvaria. Facial hair will not disappear as it is maintained by testosterone, not FSH or LH. Normal hair will recess to give temporal balding due to the effect of excess androgens."
+    },
+    "18-19 MEDU3400 Final Q34": {
+      "year": "2018-19",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 34,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Male bodybuilder with long term exogenous testosterone, what will decrease?",
+      "options": {
+        "A": "Adrenal androgen",
+        "B": "Erythropoietin",
+        "C": "Estrogen",
+        "D": "Size of mammary gland",
+        "E": "Sperm production"
+      },
+      "answer": "E",
+      "explanation": "In long run, testosterone will exert negative feedback on GnRH and FSH, LH secretions from hypothalamus and anterior pituitary. Zona reticularis of adrenal cortex is only controlled by ACTH, and its secretion remains constant here. Testosterone induces expression of erythropoietin. Estrogen synthesis increases due to increased precursor (Testosterone) for the aromatase reaction in Leydig cells and seminiferous tubules. Mammary gland growth is stimulated by estrogen but inhibited by androgen, or in other words, stimulated by high estrogen/androgen ratio. In this case, the ratio is unchanged as the increase of estrogen is accompanied with increase of testosterone. E is correct as there will be a lack of Sertoli cell stimulation to drive sperm production.\n\nBe careful of a common concept trap: Sperm production depends on FSH and intratesticular testosterone level, instead of circulating testosterone. FSH stimulates expression of androgen binding protein ABP (Same as sex hormone binding globulin SHBG, only differs in attached carbohydrate group) in Sertoli cells to concentrate circulatory testosterone produced by Leydig cells into seminiferous tubules. LH stimulates Leydig cells to produce intratesticular testosterone, which is greatly reduced in this case. As FSH secretion from AP is also inhibited under exogenous testosterone, Sertoli cells cannot scavenge the high circulating level of testosterone into seminiferous tubule to drive sperm production. Hence, there will be inhibition of sperm production despite high level of circulating testosterone. The key is always the effect of FSH to scavenge circulatory testosterone, which is even more important when Leydig cells cannot produce testosterone on their own in this case."
+    },
+    "19-20 MEDU3400 Test Q46": {
+      "year": "2019-20",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 46,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A man with infertility did a semen analysis. The analysis showed that his sperms had abnormal tails. Which of the following processes is abnormal?",
+      "options": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Spermiogenesis of spermatids",
+        "D": "Spermiation of spermatozoa",
+        "E": "Maturation of spermatozoa"
+      },
+      "answer": "C",
+      "explanation": "Keep the concepts clear: Spermatogenesis refers to the division of stem cell spermatogonia into spermatid (Still round in shape), spermiogenesis refers to the differentiation of spermatid into mature spermatozoa (Have tail), while spermiation refers to release of spermatozoa from Sertoli cells into testicular secretion. Abnormal tails reflects error in differentiation of spermatid into spermatozoa."
+    },
+    "20-21 MEDU3400 Final Q35": {
+      "year": "2020-21",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 35,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A body builder has continuous injections of testosterone. Which of the following is the reason for his infertility?",
+      "options": {
+        "A": "Decrease in adrenal testosterone",
+        "B": "Decrease in intratesticular testosterone",
+        "C": "Decrease in androgen binding protein"
+      },
+      "answer": "B",
+      "explanation": "B is correct answer as intratesticular testosterone is the chief determinant of sperm production, along with FSH. A will not happen. However, C is also true as FSH secretion is suppressed by exogenous testosterone, which causes A to happen.\nMe: B C both correct, but B is most direct answer."
+    },
+    "21-22 MEDU3400 Test Q44": {
+      "year": "2021-22",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 44,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A male bodybuilder injected exogenous testosterone over the last 6 months. Which of the following parameters would most likely decrease due to the effect of androgen treatment?",
+      "options": {
+        "A": "Adrenal androgen production",
+        "B": "Hematocrit",
+        "C": "Plasma estradiol",
+        "D": "Plasma LDL",
+        "E": "Testicular volume"
+      },
+      "answer": "E",
+      "explanation": "Again, A is irrelevant to gonadal steroids control. B will increase as testosterone induces erythropoietin to raise RBC production. C will increase as testosterone is precursor of estradiol synthesis via aromatase reaction. D will increase as an effect of testosterone. E will decrease due to lack of LH and FSH stimulation."
+    },
+    "24-25 MEDU3400 Test Q37": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 37,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following statements correctly describes spermiation, the process required to release spermatozoa into the lumen of seminiferous tubules?",
+      "options": {
+        "A": "Breakdown of ectoplasmic specialization between Sertoli cells and spermatozoa",
+        "B": "Breakdown of tight junctions between adjacent Sertoli cells",
+        "C": "Release of residual body into luminal compartment for degradation",
+        "D": "Proteolysis of extracellular matrix between Sertoli cells and spermatozoa",
+        "E": "Reconfiguration of microtubules between spermatozoa"
+      },
+      "answer": "A",
+      "explanation": "Note that option C is made up by me."
+    },
+    "24-25 MEDU3400 Final Q50": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 50,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A scientist is inventing a male contraceptive. Which of the following targets are most likely to have successful contraceptive effects?",
+      "options": {
+        "A": "disrupt the blood testis barrier by action on Sertoli cells",
+        "B": "inhibit inhibin production from leydig cells",
+        "C": "perturb the interstitial space by action on myeloid (myoid?) cell",
+        "D": "promote spermiation of spermatid into seminiferous tubule",
+        "E": "suppress cell cycle progression of meiosis of spermatogonia"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Disruption of BTB will cause failure of accumulation of testosterone in the intratubular compartment, as well as a plethora of adverse effects on spermatogenesis including loss of immune privileged environment.\nB is wrong. Inhibin is produced by sertoli cells.\nNot sure what C is talking about. Myeloid cells are a lineage of blood cells, it is probably unrelated to reproduction? I suppose the original question is talking about peritubular myoid cells. Myoid cells are probably not too important in modulating the contents of interstitial space, and lecture did not teach this either.\nD is obviously false; this will probably enhance sperm production.\nE is the trickiest option. It may look correct at first sight, but it is actually wrong. Spermatogonia are stem cells at the basal compartment of the seminiferous tubules. They only undergo MITOSIS that give rise to committed progenies (primary spermatocyte) and stem cells to constantly replenish the pool of spermatogonia. Only primary spermatocytes enter meiosis and divide and differentiate into spermatids."
+    },
+    "24-25 MEDU3400 Final Q51": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 51,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which is correct for concentrating testosterone level in the testis",
+      "options": {
+        "A": "increase by androgen-binding protein",
+        "B": "increase by testosterone synthesis in Sertoli cells",
+        "C": "recirculate testosterone circulating in arterio-venous circulation",
+        "D": "estrogen effect (sorry not sure)",
+        "E": "Reduce degradation by binding to androgen receptor"
+      },
+      "answer": "A",
+      "explanation": "Note that both A and C are possible answers. \nI do not recall seeing two correct options in exam, I think this question could be remembered incorrectly. In the original version contributed by jodois, the wording in option C was “anterior-venous circulation”, which I think is just a typo."
+    },
+    "Extra MEDU3400 Repro Q8": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 8,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following biochemical profiles most likely correspond to androgen resistance?",
+      "options": {
+        "A": "LH, FSH, Testosterone (T) all decrease",
+        "B": "LH & FSH increase, T decrease",
+        "C": "Normal LH and T, FSH increase",
+        "D": "LH and T increase, FSH normal",
+        "E": "FSH, LH, T all normal"
+      },
+      "answer": "D",
+      "explanation": "In androgen resistance, androgen receptors are defective or absent, so the hypothalamus and pituitary cannot “sense” circulating testosterone effectively → This causes loss of negative feedback on LH secretion → markedly elevated LH levels.\nElevated LH stimulates Leydig cells to produce more testosterone, but since tissues cannot respond, testosterone remains high without suppressing LH.\nHowever, since FSH regulation depends more on inhibin B produced by Sertoli cells, FSH remains normal or only mildly elevated. Remember - FSH negative feedback is selectively regulated by inhibin B, so as long as the germinal compartment is not defective (sertoli cells are working normally), FSH should not be elevated by much.\nOther options represent alternative causes of male infertility\n- A: hypothalamic or pituitary failure\n- B: gonadal failure\n- C: germinal compartment failure (reduced inhibin B → reduced -ve feedback on FSH → FSH increase!)\n- E: idiopathic"
+    },
+    "Extra MEDU3400 Repro Q9": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 9,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Couple had a child 1 year ago and is now looking to conceive but have been unable to and went to the fertility clinic. The woman has a regular 21-day cycle and everything normal, the husband started working out after the baby and went to a gym regularly. He later admitted that he was taking testosterone given to him by his trainer.\nResults:\ntestosterone 55 (high)\nLH (undetectable)\nFSH (undetectable)\nWhat is the reason for the infertility and the biochemical results?",
+      "options": {
+        "A": "Low PRL",
+        "B": "Low LH",
+        "C": "Low intratesticular testosterone due to LH suppression",
+        "D": "Low FSH",
+        "E": "Exercising too much hence increasing testicular temperature"
+      },
+      "answer": "C",
+      "explanation": "Effective spermatogenesis requires high intratesticular level of testosterone, which synergise with FSH to drive spermatogenesis by acting on Sertoli cells. Low LH and FSH is due to direct suppression (LH only) and indirect suppression (Mediated via GnRH) by exogenous testosterone. Low LH diminishes Leydig cell activity and intratesticular production of testosterone, while low FSH diminishes Sertoli cell activity and androgen binding protein production for concentration of intratesticular testosterone."
+    },
+    "Extra MEDU3400 Repro Q10": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 10,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A 30-year-old male is being investigated for infertility. He has well-developed secondary sexual characteristics and claims to have good sexual drive. Which of the following would most likely to have an abnormal level?",
+      "options": {
+        "A": "Testosterone",
+        "B": "Androgen binding protein",
+        "C": "GnRH",
+        "D": "FSH and LH",
+        "E": "LH only"
+      },
+      "answer": "B",
+      "explanation": "Good sexual drive should have normal testosterone; so the infertility is probably due to the problem in spermatogenesis. Abnormal level of androgen binding proteins → failure to concentrate testosterone into the seminiferous tubules → infertility.\nThis is likely to be inadequate secretion of FSH as it promotes secretion of androgen binding protein from Sertoli cells to concentrate testosterone into intratesticular storage."
+    },
+    "Extra MEDU3400 Repro Q11": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 11,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A guy with self-injection of testosterone (married and very young, like gym, well-built, already had a first child) and now present with gynecomastia and reduced testis volume.\nWhich of the following is the likely cause of the low sperm count?",
+      "options": {
+        "A": "Decrease intratesticular level of testosterone due to suppressed LH level",
+        "B": "Decrease level of LH due to exogenous testosterone injection",
+        "C": "Exercising too much hence increasing the temperature of the testis",
+        "D": "Klinefelter syndrome",
+        "E": "Undescended testis"
+      },
+      "answer": "A",
+      "explanation": "Note that testis volume is determined by intratesticular testosterone, which is produced by Leydig cells under LH stimulation. With self-injection of exogenous testosterone, LH is suppressed, thus leading to testicular atrophy. Testosterone also suppresses GnRH to suppress FSH, thus reducing expression of androgen binding protein by Sertoli cells, thus reducing concentration of testosterone into seminiferous tubules. Note that peripheral testosterone level is high, but it cannot contribute to testicular volume and sperm production. Gynaecomastia is due to peripheral metabolism of excess testosterone into estrogen by aromatase (Mainly expressed in adipose tissues in male)."
+    },
+    "Extra MEDU3400 Repro Q12": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 12,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A guy with self-injection of testosterone (married and very young, like gym, well-built, already had a first child) and now present with gynecomastia and reduced testis volume.\nFor the above patient, which of the following biochemical results would be decreased?",
+      "options": {
+        "A": "Oestradiol",
+        "B": "SHBG",
+        "C": "Prolactin",
+        "D": "LDL-C",
+        "E": "Testosterone"
+      },
+      "answer": "B",
+      "explanation": "Estradiol is increased due to testosterone metabolism. SHBG expression is increased by estradiol and thyroxine, but decreased by testosterone. (This is taught by Simon Au in the first lecture “Principles of endocrine control” You are expected to know this!!) Prolactin is increased by high estradiol. LDL-C is increased under effect of high testosterone."
+    },
+    "25-26 MEDU3400 Test Q39": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 39,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In the normal male, which mechanism is most critical for failure of spermatogenesis within the seminiferous tubules?",
+      "options": {
+        "A": "A failure to maintain a high level of testosterone in the testes",
+        "B": "Increased LH secretion to stimulate Leydig cells",
+        "C": "Secretion of inhibin to impose negative feedback on pituitary FSH release",
+        "D": "Increased systemic testosterone for negative feedback at the hypothalamus",
+        "E": "Increase inhibin production for negative feedback to FSH"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q13": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 13,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The patient has a condition that selectively destroys sertoli cells but not leydig cells. Which of the following occurs?",
+      "options": {
+        "A": "Decreased LH",
+        "B": "Increased FSH",
+        "C": "blunted estradiol",
+        "D": "high ABG",
+        "E": "blunted DHT"
+      },
+      "answer": "B",
+      "explanation": "Sertoli dysfunction lowers the response to FSH levels in blood, causing an global elevation of FSH\nSertoli does:\n\n![](img/Extra_MEDU3400_Repro_Q13_1795600543752.png)"
+    },
+    "Extra MEDU3400 Repro Q14": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 14,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In females, estradiol is secreted from",
+      "options": {
+        "A": "granulosa cells",
+        "B": "Leydig cells",
+        "C": "Sertoli cells",
+        "D": "theca cells",
+        "E": "zona fasciculata"
+      },
+      "answer": "A",
+      "explanation": "Thecal cells secrete androstenedione, which is converted into estradiol through aromatase reaction in granulosa cells."
+    },
+    "Extra MEDU3400 Repro Q15": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 15,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Estradiol in female",
+      "options": {
+        "A": "prepares the lining of the uterus for implantation of the ovum and contributes to the maintenance of pregnancy",
+        "B": "level in blood remains low during the follicular phase but increases sharply after LH surge and continues until a peak at 5 -10 days after surge",
+        "C": "binds to corticosteroid binding globulin in blood",
+        "D": "is produced from androgens secreted from the Sertoli cells",
+        "E": "has positive feedback on LH surge"
+      },
+      "answer": "E",
+      "explanation": "A is the effect of progesterone. B is wrong as estradiol level rises before ovulation under stimulus by FSH. C is wrong as estradiol binds to sex hormone binding globulin (SHBG), along with testosterone. It should be cortisol and progesterone binding to CBG. D is false even for describing male. In male, testosterone is produced by Leydig cell under LH stimulation, which is then converted into estradiol by Leydig cell again or seminiferous cells. In female, androgens for estradiol secretion comes from the theca cells of the follicle, which is then converted into estradiol by granulosa cells. E is correct as the high level of estradiol before ovulation exerts positive feedback on LH secretion to trigger LH surge, which is required for induction of ovulation and luteinisation of follicle into corpus luteum."
+    },
+    "Extra MEDU3400 Repro Q16": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 16,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following changes is least likely found in patients with hirsutism?",
+      "options": {
+        "A": "Endometrial tumour.",
+        "B": "Clitoromegaly.",
+        "C": "Deepening of the voice.",
+        "D": "Adrenal hyperplasia.",
+        "E": "Temporal balding."
+      },
+      "answer": "A",
+      "explanation": "Hirsutism features androgen excess, which stimulates temporal balding, acne (Increased activity and secretion of sebaceous gland), deepening of voice (Enlargement of larynx), clitoromegaly, and increased body hair. Hirsutism could be caused by tumours in zona reticularis of adrenal cortex, or in polycystic ovary syndrome featuring excess androgen secretions from hyperplasia of thecal cells. Endometrial tumour should be releasing progesterone instead of androgens."
+    },
+    "Extra MEDU3400 Repro Q17": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 17,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Progesterone",
+      "options": {
+        "A": "level in blood reflects the degree of follicular maturity",
+        "B": "is carried in plasma by the sex hormone binding globulin",
+        "C": "level in blood reaches a peak just prior to ovulation, followed by a decline during the ensuing luteal phase",
+        "D": "level in blood is high during the follicular phase",
+        "E": "is made from pregnenolone"
+      },
+      "answer": "E",
+      "explanation": "A is not correct as it should be estradiol for such purpose. B is not correct as progesterone is carried by cortisol binding globulin (CBG). C and D are wrong as progesterone level only increases after luteinization of ovarian follicle. C is probably describing the variation of LH over a cycle. E is true for all steroid hormones. Pregnenolone is the first steroid formed from cholesterol by action of desmolase (Side chain cleavage) after intake of cholesterol into mitochondria by StAR protein."
+    },
+    "Extra MEDU3400 Repro Q18": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 18,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following steroids contains exactly 18 carbons?",
+      "options": {
+        "A": "Aldosterone",
+        "B": "Cortisol",
+        "C": "Estradiol",
+        "D": "Testosterone",
+        "E": "Dehydroepiandrosterone"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q19": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 19,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Commonly used methods of detecting the status of the Fallopian tubes include all of the following except:",
+      "options": {
+        "A": "Hysterosalpingography",
+        "B": "Tubal biopsy",
+        "C": "Laparoscopy and dye study",
+        "D": "Hysterosonography",
+        "E": "Tubal insufflation"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q20": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 20,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following time of coitus will be associated with the highest chance of conception?",
+      "options": {
+        "A": "During the first day of menstruation (Day 1)",
+        "B": "The day after menstruation stops",
+        "C": "7 days after menstruation starts (Day 7)",
+        "D": "14 days after menstruation starts (Day 14)",
+        "E": "21 days after menstruation starts"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q21": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 21,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Commonly used methods of assessing whether ovulation has taken place include all except:",
+      "options": {
+        "A": "Use of ovarian ultrasound",
+        "B": "Measurement of basal body temperature",
+        "C": "Measurement of serum progesterone",
+        "D": "Measurement of serum prolactin",
+        "E": "Measurement of serum LH"
+      },
+      "answer": "D",
+      "explanation": "A is correct as ultrasound can examine the integrity of ovarian follicle. B is correct as there will be an increase of basal temperature at ovulation due to thermogenic effect of progesterone. C is also correct as progesterone starts to rise after ovulation as corpus luteum will start secrete progesterone. D is wrong. However, hyperprolactinemia can suppress ovulation by inhibiting GnRH, LH and FSH secretion to cause lactational amenorrhea, it is not the main point here. E must correct as LH surge is responsible for triggering ovulation."
+    },
+    "Extra MEDU3400 Repro Q22": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 22,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A 27-year-old sexually active woman presents to your office for evaluation. She has not had her period for the last 2 months, prior to that time, her cycles were regular, every 28 days with a light menstrual flow lasting for 5 days, in your initial evaluation of her condition, which of the following serum tests is most important?",
+      "options": {
+        "A": "Prolactin",
+        "B": "Luteinizing hormone",
+        "C": "Free thyroxine",
+        "D": "Human chorionic gonadotrophin",
+        "E": "Follicle stimulating hormone"
+      },
+      "answer": "D",
+      "explanation": "The first test for amenorrhea is always a pregnancy test."
+    },
+    "Extra MEDU3400 Repro Q23": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 23,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A 32-year-old previously healthy woman presents with a one-year history of infertility. She has a regular 28-day cycle. In order to determine whether she is ovulating normally, which of the following tests should be ordered on Day 21 of the cycle:",
+      "options": {
+        "A": "Serum follicle stimulating hormone",
+        "B": "Serum progesterone",
+        "C": "Serum oestradiol",
+        "D": "Serum prolactin",
+        "E": "Serum LH"
+      },
+      "answer": "B",
+      "explanation": "Regular cycle indicates normal levels of FSH, LH and estrogen. If the infertility is caused by hyperprolactinemia, then there will be drop in all these three hormones and no menstruation occurs. So, D is wrong as prolactin is unlikely to be involved. Progesterone will be the hormone to be measured, as its level should be high on day 21 due to secretion from corpus luteum. Progesterone is required for preparing the endometrium for implantation and its deficiency will cause infertility."
+    },
+    "Extra MEDU3400 Repro Q24": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 24,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following would be the best diagnosis to confirm the cause of infertility of the patient?",
+      "options": {
+        "A": "Low plasma progesterone on day 7 of the cycle",
+        "B": "Low plasma progesterone on day 14 of the cycle",
+        "C": "Low plasma progesterone on day 21 of the cycle",
+        "D": "Low plasma estradiol on day 28 of the cycle",
+        "E": "Low plasma estradiol on day 7 of the cycle"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q25": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 25,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A 29-year-old married woman consults her physician for infertility. She has regular menstrual cycles showing a midcycle LH surge. Her husband’s sperm count and analysis are normal. Which of the following is the most likely cause of her infertility?",
+      "options": {
+        "A": "Failure to undergo follicle development",
+        "B": "Failure to form a functioning corpus luteum",
+        "C": "Excess LH",
+        "D": "Excess FSH",
+        "E": "Excess inhibin"
+      },
+      "answer": "B",
+      "explanation": "Again, LH, FSH and estrogen must be normal. A will cause deficiency of estrogen, while E will cause deficiency of FSH. B is correct as it suggests the defective corpus luteum may not be able to secrete sufficient progesterone."
+    },
+    "Extra MEDU3400 Repro Q26": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 26,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Daily hormone measurements of an infertile woman show the absence of a midcycle LH surge. Which of the following processes is most likely to be affected leading to her infertility?",
+      "options": {
+        "A": "Formation of a dominant follicle",
+        "B": "Midcycle FSH surge",
+        "C": "Ovulation",
+        "D": "Formation of corpus luteum",
+        "E": "Estrogen and progesterone secretion"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q27": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 27,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following would be the most likely consequence to the dysfunction of theca cells in the follicles?",
+      "options": {
+        "A": "Low plasma progesterone",
+        "B": "High plasma LH",
+        "C": "Low plasma FSH",
+        "D": "High plasma estradiol",
+        "E": "Low plasma GnRH"
+      },
+      "answer": "B",
+      "explanation": "Dysfunction of theca cells causes deficiency of androgen, and subsequently deficiency of estrogen from granulosa cells. This removes the inhibition on hypothalamus for GnRH secretion, and anterior pituitary for LH and FSH secretion. Therefore these three hormones should rise."
+    },
+    "Extra MEDU3400 Repro Q28": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 28,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A patient was found to have an abnormal inhibin secretion. Which of the following is most likely to be affected?",
+      "options": {
+        "A": "Plasma FSH",
+        "B": "Plasma LH",
+        "C": "Plasma GnRH",
+        "D": "Plasma testosterone",
+        "E": "Plasma estradiol"
+      },
+      "answer": "A",
+      "explanation": "Inhibin exerts negative feedback on FSH secretion."
+    },
+    "16-17 MEDU3400 Test Q45": {
+      "year": "2016-17",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 45,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The blood level of a hormone exhibits a biphasic pattern in an ovarian cycle. Which of the following structures is responsible for the first rise?",
+      "options": {
+        "A": "Hypothalamus",
+        "B": "Anterior pituitary",
+        "C": "Corpus luteum",
+        "D": "Ovarian follicles",
+        "E": "Endometrium"
+      },
+      "answer": "D",
+      "explanation": "The hormone being described is estradiol, as it exhibits two rises in the ovarian cycle. The first rise is caused by the activity of granulosa cells that express aromatase to convert androstenedione from theca cells into estradiol. The gradually increasing estradiol will remove the negative feedback inhibition of estradiol to LH, and causes LH surge at day 14 to trigger ovulation. The second rise in early to mid-luteal phase is caused by the LH stimulation on corpus luteum to secrete estradiol and progesterone.\n\nhormone = oestrogen (estradiol)"
+    },
+    "16-17 MEDU3400 Final Q39": {
+      "year": "2016-17",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 39,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is true about oogenesis",
+      "options": {
+        "A": "Oogonia is from secondary oocyte",
+        "B": "Sorry forgot",
+        "C": "Number of oocytes fixed at menopause",
+        "D": "Secondary meiotic division completes at puberty",
+        "E": "Most oocytes destroyed in fetal life"
+      },
+      "answer": "E",
+      "explanation": "Oogenesis begins in fetal ovary starting with oogonia, which have a fixed number before birth and all will undergo meiosis I, yet stopping at prophase I, forming the primary oocytes. After puberty, primary oocyte in the recruited and dominant follicle will continue meiosis (Give the first polar body) and stops at metaphase II, forming the secondary oocyte. Meiosis II is only finished at the time of fertilisation, forming ootid and second polar body. Fusion of ovum and sperm gives the zygote.\n\nA is obviously wrong. C is false as the number of oocytes is fixed at the time of birth and will only decline with age due to atresia and ovulation. When the remaining follicles are of poor quality and insensitive to LH and FSH stimulation, menopause commences as ovarian cycle cannot begin anymore. D is false as it should be at the time of fertilisation. E is also wrong as they just stop to divide, not destroyed. (Rodman is wrong, he originally answered ‘none of the above’)\nMe: Most oocytes are indeed destroyed during fetal life. This is the result of continuous cycles of initial recruitment of follicles – the recruited follicles undergo atresia if FSH is not available to stimulate cyclic recruitment.\n“A fixed number of primordial follicles are endowed during early life, and most of them are maintained in a resting state. Growth of some of these dormant follicles is initiated before and throughout reproductive life (Initial recruitment). Follicles develop through primordial, primary, and secondary stages before acquiring an antral cavity. At the antral stage most follicles undergo atresia; however, under optimal gonadotropin stimulation that occurs after puberty, a few of them are rescued (Cyclic recruitment) to reach the preovulatory stage. Eventually, depletion of the pool of resting follicles leads to ovarian follicle exhaustion and senescence.”\n(https://academic.oup.com/edrv/article/21/2/200/2423956?login=true#no-access-message%23no-access-message)\nAlso see this figure from lecture slides:\n![](img/16-17_MEDU3400_Final_Q39_1795601660797.png)\n\n\nA. oogonia, 1˚ oocyte, 2˚ oocyte, ootid\nC. fixed at foetal stage\nD. completes after fertilisation"
+    },
+    "17-18 MEDU3400 Test Q45": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 45,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In the figure indicated below, which of the following represents the cellular source of the hormone at point D? (figure provided by OVS)\n\n![](img/17-18_MEDU3400_Test_Q45_1795601673514.png)",
+      "options": {
+        "A": "Gonadotrophs",
+        "B": "Granulosa cells",
+        "C": "Theca interna cells",
+        "D": "Luteinized granulosa cells",
+        "E": "Luteinized theca cells"
+      },
+      "answer": "D",
+      "explanation": "A fabulous drawing by OVS21! The curve at top should be progesterone as it only increases after luteinization of ruptured follicle into corpus luteum at day 14. The middle curve is estradiol which shows a biphasic pattern with two peaks. The bottom one is FH and LSH, and the one being pointed by label E will be LH as it has a sharp surge at day 14 to trigger ovulation. It will be quite hardcore if the question requires you to directly recognise the 4 hormones from the shape of curve directly. But it is not as difficult as you think once you are familiar with the events in the cycle.\n\nD refers to the second rise of estradiol, which is released by the luteinized granulosa cells in corpus luteum. Note that luteinized granulosa cells also account for the secretion of progesterone, i.e. the rise towards point B. Point C refers to the first rise of estradiol, which is secreted by follicular granulosa cells with the supply of androgens from follicular theca cells. Point E refers to the LH surge, which is caused by the high level of estradiol that no longer inhibits LH secretion from anterior pituitary as diminished negative feedback inhibition.\n\nhormone = estradiol"
+    },
+    "17-18 MEDU3400 Final Q35": {
+      "year": "2017-18",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 35,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A woman wants to get pregnant, her fertility is likely to be maximized in",
+      "options": {
+        "A": "Cervical mucus: watery and transparent",
+        "B": "Estrogen peak then decrease",
+        "C": "Progesterone peak",
+        "D": "FSH rises to above LH",
+        "E": "Basal body temperature rises by 0.3 degree"
+      },
+      "answer": "A",
+      "explanation": "The presence of peak day cervical mucus symptoms will maximise fertility. The high estradiol near ovulation will cause the secretion of watery, clear and slippery mucus that has a high salt content. This is the most optimal form of mucus that favours fertilisation. A damp or moist mucus is not “wet” enough to provide sufficient mobility of sperms. A sticky mucus will also impede the swimming action of sperms.\n\nB is wrong as the mid-cycle drop of estrogen is already a few days over ovulation. It should be at the peak of estrogen. C is wrong as progesterone only peaks near the end of luteal phase, around day 24-26. D is wrong either as first of all it has no special meaning, secondly it occurs also near the end of follicular phase. E seems to be correct but in fact no. The rise in BBT is caused by progesterone which is only secreted after formation of corpus luteum. It is likely to be too late after ovulation as ovum can only be fertilised within 24-36 hr of ovulation before hardening of the zona pellucida coat surrounding it.\n\nIn general, it is better to look for preovulatory signs rather than postovulatory ones. This is because sperms can still survive in female genital tracts for a few days, while ovum can only be fertilised within 24-36 hours after ovulation.\n\nB. egg ages very fast after ovulation\nC. way after ovulation\nD. too early (follicular phase)\nE. same as B"
+    },
+    "18-19 MEDU3400 Test Q44": {
+      "year": "2018-19",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 44,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "For a woman of 35-day menstrual cycle, which of the following is closest to predicted day of ovulation?",
+      "options": {
+        "A": "Day 14",
+        "B": "Day 16",
+        "C": "Day 18",
+        "D": "Day 21",
+        "E": "Day 24"
+      },
+      "answer": "D",
+      "explanation": "Keep in mind that corpus luteum can only lasts for 14 days before its apoptosis, which is relatively constant among individuals despite the length of menstrual cycle. So, the predicted day of ovulation will be 35 – 14 = Day 21.\n\nWe can also extend to the calculation of safe period using the same principle. Keep in mind that sperms can survive for 4-5 days, while ovum can only be fertilised within 24 – 36 hours. We can skip all those complicated calculations, as we can just follow the quick maths introduced by our very experienced Simon Papa! The first unsafe day will be subtracting 18 days from shortest cycle length, while the last unsafe day will be subtracting 11 days from longest cycle length. This formula assumes sperms can only live for 4 days, while ovum can only live for 1 day for simplicity.\n\nDerivation of quick maths:\nThe 18 days starts with the constant 14 days for luteal phase. Assume that the latest survival day of sperm survival meets the earliest day of ovulation, it will be 14+4 = 18 days before the next menstruation. To play it safe (Really important guys), we assume that the coming cycle will be the shortest one ever recorded, so that the ovulation will occur as its earliest time. Hence the first unsafe day will be length of shortest cycle subtracted by 18 days (14 for luteal phase + 4 for sperm survival).\n\nThe 11 days again starts with the 14 days of luteal phase. Assume that the ovulation may be delayed for 2 days, and the ovum lives for 24 hr, the latest fertile day will be 14-1-2 = 11 days before the next menstruation. To play it safe, we assume that it will be the longest cycle ever, so that ovulation will occur as delayed as possible. Hence the latest unsafe day will be length of longest cycle subtract 11 days."
+    },
+    "18-19 MEDU3400 Final Q35": {
+      "year": "2018-19",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 35,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is caused by the gradual increase of hormone X at point E? (Day 28 of menstrual cycle) (With chart of FSH hormone level over cycle but the name of hormone “FSH” not given)",
+      "options": {
+        "A": "Formation of corpus luteum",
+        "B": "Luteolysis",
+        "C": "Menstruation",
+        "D": "Pregnancy",
+        "E": "Recruitment of follicles for new cycle"
+      },
+      "answer": "E",
+      "explanation": "The gradual increase of FSH near the end of cycle is initiated by luteolysis, hence stopping the release of estrogen and progesterone. Without estradiol, there will be decreased negative feedback inhibition on hypothalamus and pituitary to stimulate GnRH, FSH and LH secretions. This allows the development of new follicles to begin the new menstrual cycle.\nMe: Read question carefully. ‘Caused by’, not ‘cause’. I get this wrong every single time\n\nA. corpus luteum formed after ovulation\nB. luteolysis happens due to programmed death\nC. menstruation is due to loss of oestrogen, progesterone support\n\nDoubt\n![](img/18-19_MEDU3400_Final_Q35_1795601703137.png)"
+    },
+    "19-20 MEDU3400 Test Q48": {
+      "year": "2019-20",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 48,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is a direct result of the rise in estrogen level near ovulation? (Figure provided by ovs 21)\n![](img/19-20_MEDU3400_Test_Q48_1795601718734.png)",
+      "options": {
+        "A": "Acquisition of FSH receptors by granulosa cells",
+        "B": "Ability for granulosa cells to produce progesterone",
+        "C": "Atresia of non-dominant follicles",
+        "D": "Increased fluidity and volume of cervical mucus",
+        "E": "Completion of first meiotic division"
+      },
+      "answer": "D",
+      "explanation": "The same figure comes back again! But this question is irrelevant to the figure anyway. The E2 (Estradiol) rise before ovulation has two main effects. The first is to switch its regulation on GnRH, LH and FSH into positive feedback, which is necessary to trigger the LH surge for ovulation. The second is to stimulate secretion of watery, transparent and slippery cervical mucus with high salt content. This is necessary for easy penetration of sperms to facilitate fertilisation.\n\nB. is due to FSH induction of expression of LH receptors\nC. atresia is before the oestrogen rise\nD. it is the function of estradiol, so true\nE. completion of meiosis I is due to LH surge"
+    },
+    "20-21 MEDU3400 Test Q44": {
+      "year": "2020-21",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 44,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which day corresponds to the day of ovulation in a 35-day cycle?",
+      "options": {
+        "A": "Day 14",
+        "B": "Day 16",
+        "C": "Day 18",
+        "D": "Day 21",
+        "E": "Day 24"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "21-22 MEDU3400 Test Q45": {
+      "year": "2021-22",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 45,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "The figure below shows the serum concentration of hormone X during a menstrual cycle. Which of the following events are triggered by the action of hormone X as it gradually increases at point E (end of menstrual cycle)? (answer provided by Simon)\n\n![](img/21-22_MEDU3400_Test_Q45_1795601733034.png)",
+      "options": {
+        "A": "Follicular development",
+        "B": "Implantation",
+        "C": "Lobulo-alveolar growth",
+        "D": "Luteolysis",
+        "E": "Menstruation"
+      },
+      "answer": "A",
+      "explanation": "I think you may approach this question by simply thinking what will happen near the end of a cycle, and A is an obvious answer. Although D will happen but it is due to apoptosis regardless of hormonal influence. (That’s why it can last for 14 days constantly.) E could be a possible answer but then hormone X will be progesterone, which will only increase after day 14 and will not drop in the luteal phase, and does not match the pattern of variation here. B must be wrong as implantation is not triggered by any hormone. Lobulo-alveolar growth is indeed triggered by progesterone, but its short term rise within a cycle is insufficient to have significant effect on this. Also, at point E there should be a massive drop of progesterone due to luteolysis, which cannot stimulate lobulo-alveolar growth. Only A is possible now.\n\nHormone X is in fact FSH. Luteolysis at point E removes the inhibition of estrogen and progesterone to inhibit GnRH, LH and FSH release. This helps to stimulate follicular development during A. However, FSH level decreases due to negative feedback by low concentration of estradiol. As estradiol level further increases, it changes into positive feedback and triggers a FSH surge (But much smaller than LH). After luteinization of ruptured follicles, the release of progesterone and estradiol then inhibit GnRH, LH and FSh releases, causing the drop in D.\n\nFrankly, it is not possible to discern LH or FSH from this graph. However, LH does not pose any effect on follicular growth and development, or maintenance of endometrium. It can only trigger rupture of follicle and ovulation during its surge, which occurs in mid-cycle. Another interesting thing you can see is that this individual has a cycle length of around 30 days, and as the luteal phase is roughly constant (14 days), the ovulation (Surge of FSH) is also at around day 16.\n\nMe: The figure is so inaccurate. FSH surge should occur just prior to day 14."
+    },
+    "21-22 MEDU3400 Final Q36": {
+      "year": "2021-22",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 36,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "These graphs show Estrogen, FSH, LH, progesterone cyclical change. Which of the following is the DIRECT action of the hormone at point C (1st peak)?",
+      "options": {
+        "A": "Acquisition of LH receptors on granulosa cells",
+        "B": "Atresia of follicles not achieving dominance",
+        "C": "Increasing the secretion and fluidity of cervical mucus",
+        "D": "Increase endometrial secretions",
+        "E": "Resumption of first meiotic division in primary oocytes"
+      },
+      "answer": "C",
+      "explanation": "The hormone is estradiol, observing from its biphasic increase throughout the follicular and luteal phase of menstrual cycle. At point C, it reaches its peak. A is wrong as LH receptors are increased by FSH at late follicular phase, such that it can respond to LH surge later for inducing ovulation. B occurs slightly earlier than point C as the initial rise in estradiol exerts negative feedback on FSH to cause atresia of non-dominant follicles. C is correct as it is the direct effect of estrogen to facilitate swimming action of sperms for fertilisation after ovulation. D is wrong as endometrial secretions are stimulated by progesterone. E is wrong as it happens just before ovulation in response to the LH surge."
+    },
+    "22-23 MEDU3400 Test Q41": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 41,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is common between Sertoli cell and granulosa cell?",
+      "options": {
+        "A": "Can convert testosterone to dihydrotestosterone",
+        "B": "Can proliferate under stimulation by FSH and estrogen",
+        "C": "Can secrete progesterone",
+        "D": "Having the enzyme aromatase",
+        "E": "Expressing LH receptor"
+      },
+      "answer": "D",
+      "explanation": "It seems that Prof. Au loves this sort of cross-chapter comparing question this year. A is wrong as it is the feature of Sertoli cells only (Keep in mind that both Sertoli cells and Leydig cells express 5α-reductase and aromatase to produce dihydrotestosterone and estrogen). Granulosa cells only express aromatase to convert androstenedione from theca cells into estrone then estradiol. It is easy to understand as they will not express 5α-reductase to divert the testosterone away from estrogen synthesis. B is wrong as although Sertoli cells can be stimulated to proliferate under stimulation by FSH, which is the same for granulosa cells, they do not proliferate under stimulation by estrogen. C is wrong as only granulosa cells can secrete small amounts of progesterone. D is correct as indeed both Sertoli and granulosa cells express aromatase to synthesise estrogen from androgens. Estrogen is involved in the functional maintenance of epididymis. E is wrong as only Leydig cells and theca cells (not accurate, FSH also induce LH receptor expression in granulosa cells in late follicular phase 🡪 contribute to the small amount of progesterone secreted before ovulation) express LH receptors, which stimulate both of them to synthesise androgens."
+    },
+    "22-23 MEDU3400 Test Q42": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 42,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following measurements best indicate ovulation has taken place?",
+      "options": {
+        "A": "LH surge",
+        "B": "Detection of hCG",
+        "C": "Basal temperature rise",
+        "D": "Peak day cervical mucus detected",
+        "E": "Thickening of endometrium"
+      },
+      "answer": "C",
+      "explanation": "A and D are observed just before ovulation. B will only occur in pregnancy. C is correct as progesterone secreted from corpus luteum has a thermogenic effect. E cannot be measured easily, and also endometrium growth also occurs during the first 14 days of cycle before ovulation as well.\nMe: remember what occurs before ovulation and what occurs after"
+    },
+    "22-23 MEDU3400 Final Q50": {
+      "year": "2022-23",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 50,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "What is the major function of the hormone at B (Day 14, progesterone)?",
+      "options": {
+        "A": "Reduce volume and fluidity of cervical mucus",
+        "B": "Increase body temperature",
+        "C": "Optimal receptivity of endometrium for implantation",
+        "D": "Prevent degeneration of corpus luteum"
+      },
+      "answer": "C",
+      "explanation": "A is indeed the effect of progesterone, but on such day, estrogen has a more dominant effect on cervical mucus to increase fluidity and volume of mucus for promoting sperm motility. Such effect is more prominent after fertilization, and the high level of progesterone secreted by corpus luteum (Rescued by hCG), to prevent penetration of new sperms. This is also the MOA of progestins in oral contraceptives, and estrogen (Ethinylestradiol) is used to induce expression of progesterone receptor to augment such effect.B is also an effect of progesterone AFTER ovulation, but it serves no purpose in reproduction. Instead, it can be used as a marker to monitor occurrence of ovulation for facilitating conception. C is correct as progesterone promotes secretory differentiation and growth of spiral arteries in endometrium to prepare for implantation. D is wrong as it is the role of hCG."
+    },
+    "23-24 MEDU3400 Test Q42": {
+      "year": "2023-24",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 42,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is common between Sertoli cell and granulosa cell?",
+      "options": {
+        "A": "Can convert testosterone to dihydrotestosterone",
+        "B": "Can proliferate under stimulation by FSH and estrogen",
+        "C": "Can secrete progesterone",
+        "D": "Having the enzyme aromatase",
+        "E": "Expressing LH receptor"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "23-24 MEDU3400 Test Q43": {
+      "year": "2023-24",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 43,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A woman has a 35-day menstrual cycle, what would be the expected time of the beginning of ovulation?",
+      "options": {
+        "A": "14 days",
+        "B": "16 days",
+        "C": "19 days",
+        "D": "22 days",
+        "E": "25 days"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "23-24 MEDU3400 Final Q49": {
+      "year": "2023-24",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 49,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is a result of the peak at point E?",
+      "options": {
+        "A": "Acquisition of FSH receptors by granulosa cells",
+        "B": "Ability for granulosa cells to produce progesterone",
+        "C": "Completion of first meiotic division",
+        "D": "Increased fluidity and volume of cervical mucus",
+        "E": "Atresia of non-dominant follicles"
+      },
+      "answer": "C",
+      "explanation": "This question is not the same as pastpaper, just the figure is same. Point E refers to LH surge before ovulation. LH surge triggers resumption and completion of first meiosis, induces ovulation and luteinization of ruptured follicle into corpus luteum.\n\nB: Ability for granulosa cells to produce progesterone is induced by FSH"
+    },
+    "24-25 MEDU3400 Test Q38": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 38,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following structures contributes to the production of progesterone in non-pregnant women",
+      "options": {
+        "A": "antral follicle",
+        "B": "atretic follicle",
+        "C": "Corpus luteum",
+        "D": "Graafian follicle",
+        "E": "Primary oocyte"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "24-25 MEDU3400 Final Q53": {
+      "year": "2024-25",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 53,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A reproductive age women with elevated basal temperature and plasma sex steroid:",
+      "options": {
+        "A": "something related to antrum",
+        "B": "decidualization",
+        "C": "luteal degeneration",
+        "D": "menstruation",
+        "E": "ovulation"
+      },
+      "answer": "E",
+      "explanation": "Not sure what exactly the question is asking about, but the rise in progesterone after ovulation will lead to elevated basal temperature."
+    },
+    "Extra MEDU3400 Repro Q29": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 29,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "During mid-luteal phase, progesterone is increased, leading to negative feedback on the HPG axis. Which of the following is the most immediate effect on follicular cells?",
+      "options": {
+        "A": "Theca cell produces testosterone, which is aromatised into estrogen",
+        "B": "Dominant follicle Meiosis I occur",
+        "C": "Increase LH sensitivity of astral follicles",
+        "D": "FSH inhibition prevent recruitment of astral follicles",
+        "E": "Atresia of corpus luteum"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    "25-26 MEDU3400 Test Q41": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 41,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "A 53-year-old woman reports experiencing irregular menstrual cycles for 2 years, followed by a complete absence of menstruation for 13 months. She complains about frequent hot flashes and sleep disturbances. She reports no other symptoms apart from the above events. Based on the feedback mechanisms of the hypothalamic-pituitary-ovaria axis, which hormone profile is MOST strongly aligned with her condition?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      },
+      "answer": "E",
+      "explanation": ""
+    },
+    "25-26 MEDU3400 Final Q55": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 55,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Mid luteal phase of 28 day cycle, which hormonal profile and endometrium can be observed?",
+      "options": {
+        "A": "low FSH, high progesterone, secretory endometrium",
+        "B": "low LH, high progesterone, proliferative endometrium",
+        "C": "high estrogen, low LH, secretory endometrium",
+        "D": "high FSH, high progesterone, proliferative endometrium"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    "25-26 MEDU3400 Final Q56": {
+      "year": "2025-26",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 56,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "In ovarian steroidogenesis, what is the action of FSH to the granulosa cell?",
+      "options": {
+        "A": "Inhibit inhibin for LH",
+        "B": "Increase testosterone for theca cell to produce estradiol",
+        "C": "Aromatase converts androstenedione into estradiol"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    "Extra MEDU3400 Repro Q30": {
+      "year": "unclassified",
+      "course": "MEDU3400 Human Function II",
+      "question_number": 30,
+      "level": "Year 3",
+      "topic": "Reproductive Physiology",
+      "question": "Which of the following is true about corpus luteum?",
+      "options": {
+        "A": "It is required for steroid production throughout pregnancy",
+        "B": "It is stimulated by LH throughout pregnancy",
+        "C": "It is maintained by HCG in the first trimester, after which it becomes redundant",
+        "D": "It takes over steroid production form the foetoplacental unit",
+        "E": "It removed early in pregnancy, it will not cause abortion"
+      },
+      "answer": "C",
+      "explanation": "Corpus luteum is not required after 9-10 weeks of pregnancy, as placenta takes over steroidogenesis (esp. progesterone) and corresponds to a transient drop in serum progesterone. Corpus luteum is never stimulated by LH, it is only stimulated by hCG secreted by placenta to maintain its viability for progesterone synthesis before fetoplacental unit is mature enough to take over. C is correct. D is wrong as it should be other way round. Corpus luteum is only unnecessary for maintaining pregnancy after the luteal-placental shift."
     }
   }
 }
